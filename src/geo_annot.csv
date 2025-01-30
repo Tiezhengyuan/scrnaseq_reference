@@ -1,0 +1,18 @@
+GEO,phenotype,tissue,cell_line,treated
+GSE286399,lung cancer,-,NCIH1299,DMSO
+GSE286399,lung cancer,-,NCIH1299,JTE607
+GSE286399,lung cancer,-,NCIH226,DMSO
+GSE286399,lung cancer,-,NCIH226,JTE607
+GSE183590,non-small cell lung cancer (NSCLC),-,A549,-
+GSE183590,non-small cell lung cancer (NSCLC),-,H460,-
+GSE183590,non-small cell lung cancer (NSCLC),-,H1299,-
+GSE183590,non-small cell lung cancer (NSCLC),-,Calu3,-
+GSE249057,-,lung,ESCC_KYSE30,-
+GSE249056,-,lung,ESCC_KYSE30,-
+GSE269390,chronic obstructive pulmonary disease (COPD),Distal lung,,
+GSE156750,poorly metastatic melanoma ,-,WM239A,-
+GSE156750,poorly metastatic melanoma ,-,113/6-4L,-
+GSE156750,poorly metastatic melanoma ,-,131/4-5B1,-
+GSE156750,poorly metastatic melanoma ,-,131/4-5B2,-
+GSE122031,Lung Epithelial Cells,-,A549,PR8-NS1-GFP
+GSE243665,-,-,"PC9 (CMOs 303), HTB178 (CMOs 305), CRL5868 (CMOs 304), DV90 (CMOs 306), HCC78 (CMOs 307), A549 (CMOs 301), CCL-185-IG (CMOs 302), PBMC (CMOs 308)",
