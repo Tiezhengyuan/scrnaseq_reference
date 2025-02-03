@@ -1,0 +1,38 @@
+{
+    "GEO": "GSE166037",
+    "PMID": [
+        "33705361"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166037",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5060554": {
+            "BioSample": "SAMN17764672",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764672",
+            "SRA": "SRX10008475",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008475",
+            "SRR": {
+                "SRR13615078": "/home/yuan/data/SRA/SRR136/078/SRR13615078.fastq.gz",
+                "SRR13615079": "/home/yuan/data/SRA/SRR136/079/SRR13615079.fastq.gz",
+                "SRR13615080": "/home/yuan/data/SRA/SRR136/080/SRR13615080.fastq.gz",
+                "SRR13615081": "/home/yuan/data/SRA/SRR136/081/SRR13615081.fastq.gz"
+            },
+            "characteristics": {
+                "cell type": "EPCAM+",
+                "disease": "IPF",
+                "sample_id": "SAM24345161",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060554",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Profiling of cultured primary stromal cells from human lung"
+}

@@ -1,0 +1,76 @@
+{
+    "GEO": "GSE121309",
+    "PMID": null,
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121309",
+    "platform": [
+        {
+            "platform_id": "GPL21697",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "NextSeq 550 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3431173": {
+            "BioSample": "SAMN10246464",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10246464",
+            "SRA": "SRX4892657",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4892657",
+            "SRR": {
+                "SRR8064284": "/home/yuan/data/SRA/SRR806/004/SRR8064284.fastq.gz",
+                "SRR8064285": "/home/yuan/data/SRA/SRR806/005/SRR8064285.fastq.gz",
+                "SRR8064286": "/home/yuan/data/SRA/SRR806/006/SRR8064286.fastq.gz",
+                "SRR8064287": "/home/yuan/data/SRA/SRR806/007/SRR8064287.fastq.gz"
+            },
+            "characteristics": {
+                "cell line": "H1299",
+                "cell type": "Non-small cell lung cancer",
+                "passage": "5 - 10",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM3431173",
+            "scrnaseq": true
+        },
+        "GSM3431174": {
+            "BioSample": "SAMN10246463",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10246463",
+            "SRA": "SRX4892658",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4892658",
+            "SRR": {
+                "SRR8064288": "/home/yuan/data/SRA/SRR806/008/SRR8064288.fastq.gz",
+                "SRR8064289": "/home/yuan/data/SRA/SRR806/009/SRR8064289.fastq.gz",
+                "SRR8064290": "/home/yuan/data/SRA/SRR806/000/SRR8064290.fastq.gz",
+                "SRR8064291": "/home/yuan/data/SRA/SRR806/001/SRR8064291.fastq.gz"
+            },
+            "characteristics": {
+                "cell line": "H1299",
+                "cell type": "Non-small cell lung cancer",
+                "passage": "5 - 10",
+                "treatment": "DAC+SB"
+            },
+            "sample_id": "GSM3431174",
+            "scrnaseq": true
+        },
+        "GSM3431175": {
+            "BioSample": "SAMN10246461",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10246461",
+            "SRA": "SRX4892659",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4892659",
+            "SRR": {
+                "SRR8064292": "/home/yuan/data/SRA/SRR806/002/SRR8064292.fastq.gz",
+                "SRR8064293": "/home/yuan/data/SRA/SRR806/003/SRR8064293.fastq.gz",
+                "SRR8064294": "/home/yuan/data/SRA/SRR806/004/SRR8064294.fastq.gz",
+                "SRR8064295": "/home/yuan/data/SRA/SRR806/005/SRR8064295.fastq.gz"
+            },
+            "characteristics": {
+                "cell line": "HCT116",
+                "cell type": "Colorectal cancer",
+                "passage": "5 - 10",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM3431175",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Single cell analysis reveals dynamics of transposable element expression following epigenetic de-repression"
+}

@@ -1,0 +1,1358 @@
+{
+    "GEO": "GSE136831",
+    "PMID": [
+        "32832599",
+        "35887096",
+        "35930670"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136831",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4058900": {
+            "BioSample": "SAMN12688770",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688770",
+            "SRA": "SRX17412777",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412777",
+            "SRR": {
+                "SRR21407770": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "32",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058900",
+            "scrnaseq": false
+        },
+        "GSM4058901": {
+            "BioSample": "SAMN12688821",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688821",
+            "SRA": "SRX17412778",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412778",
+            "SRR": {
+                "SRR21407771": "",
+                "SRR21407772": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "21",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058901",
+            "scrnaseq": false
+        },
+        "GSM4058902": {
+            "BioSample": "SAMN12688820",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688820",
+            "SRA": "SRX17412779",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412779",
+            "SRR": {
+                "SRR21407773": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "49",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058902",
+            "scrnaseq": false
+        },
+        "GSM4058903": {
+            "BioSample": "SAMN12688759",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688759",
+            "SRA": "SRX17412780",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412780",
+            "SRR": {
+                "SRR21407774": "",
+                "SRR21407775": "",
+                "SRR21407776": "",
+                "SRR21407777": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "29",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058903",
+            "scrnaseq": false
+        },
+        "GSM4058904": {
+            "BioSample": "SAMN12688758",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688758",
+            "SRA": "SRX17412781",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412781",
+            "SRR": {
+                "SRR21407778": "",
+                "SRR21407779": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "32",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058904",
+            "scrnaseq": false
+        },
+        "GSM4058905": {
+            "BioSample": "SAMN12688757",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688757",
+            "SRA": "SRX17412782",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412782",
+            "SRR": {
+                "SRR21407780": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "50",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058905",
+            "scrnaseq": false
+        },
+        "GSM4058906": {
+            "BioSample": "SAMN12688756",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688756",
+            "SRA": "SRX17412783",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412783",
+            "SRR": {
+                "SRR21407781": "",
+                "SRR21407782": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "41",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058906",
+            "scrnaseq": false
+        },
+        "GSM4058907": {
+            "BioSample": "SAMN12688755",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688755",
+            "SRA": "SRX17412784",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412784",
+            "SRR": {
+                "SRR21407783": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "56",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058907",
+            "scrnaseq": false
+        },
+        "GSM4058908": {
+            "BioSample": "SAMN12688754",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688754",
+            "SRA": "SRX17412785",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412785",
+            "SRR": {
+                "SRR21407784": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "37",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058908",
+            "scrnaseq": false
+        },
+        "GSM4058909": {
+            "BioSample": "SAMN12688769",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688769",
+            "SRA": "SRX17412786",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412786",
+            "SRR": {
+                "SRR21407785": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "80",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058909",
+            "scrnaseq": false
+        },
+        "GSM4058910": {
+            "BioSample": "SAMN12688768",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688768",
+            "SRA": "SRX17412787",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412787",
+            "SRR": {
+                "SRR21407786": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "23",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058910",
+            "scrnaseq": false
+        },
+        "GSM4058911": {
+            "BioSample": "SAMN12688767",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688767",
+            "SRA": "SRX17412788",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412788",
+            "SRR": {
+                "SRR21407787": "",
+                "SRR21407788": "",
+                "SRR21407789": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "65",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058911",
+            "scrnaseq": false
+        },
+        "GSM4058912": {
+            "BioSample": "SAMN12688766",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688766",
+            "SRA": "SRX17412789",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412789",
+            "SRR": {
+                "SRR21407790": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "64",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058912",
+            "scrnaseq": false
+        },
+        "GSM4058913": {
+            "BioSample": "SAMN12688765",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688765",
+            "SRA": "SRX17412790",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412790",
+            "SRR": {
+                "SRR21407791": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "29",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058913",
+            "scrnaseq": false
+        },
+        "GSM4058914": {
+            "BioSample": "SAMN12688764",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688764",
+            "SRA": "SRX17412791",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412791",
+            "SRR": {
+                "SRR21407792": "",
+                "SRR21407793": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "66",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058914",
+            "scrnaseq": false
+        },
+        "GSM4058915": {
+            "BioSample": "SAMN12688760",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688760",
+            "SRA": "SRX17412792",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412792",
+            "SRR": {
+                "SRR21407794": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "66",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058915",
+            "scrnaseq": false
+        },
+        "GSM4058916": {
+            "BioSample": "SAMN12688805",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688805",
+            "SRA": "SRX17412793",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412793",
+            "SRR": {
+                "SRR21407795": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "61",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058916",
+            "scrnaseq": false
+        },
+        "GSM4058917": {
+            "BioSample": "SAMN12688804",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688804",
+            "SRA": "SRX17412794",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412794",
+            "SRR": {
+                "SRR21407796": "",
+                "SRR21407797": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "62",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058917",
+            "scrnaseq": false
+        },
+        "GSM4058918": {
+            "BioSample": "SAMN12688763",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688763",
+            "SRA": "SRX17412795",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412795",
+            "SRR": {
+                "SRR21407798": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "35",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058918",
+            "scrnaseq": false
+        },
+        "GSM4058919": {
+            "BioSample": "SAMN12688762",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688762",
+            "SRA": "SRX17412796",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412796",
+            "SRR": {
+                "SRR21407799": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "22",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058919",
+            "scrnaseq": false
+        },
+        "GSM4058920": {
+            "BioSample": "SAMN12688761",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688761",
+            "SRA": "SRX17412797",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412797",
+            "SRR": {
+                "SRR21407800": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "25",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058920",
+            "scrnaseq": false
+        },
+        "GSM4058921": {
+            "BioSample": "SAMN12688803",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688803",
+            "SRA": "SRX17412798",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412798",
+            "SRR": {
+                "SRR21407801": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "67",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058921",
+            "scrnaseq": false
+        },
+        "GSM4058922": {
+            "BioSample": "SAMN12688802",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688802",
+            "SRA": "SRX17412799",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412799",
+            "SRR": {
+                "SRR21407802": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "48",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058922",
+            "scrnaseq": false
+        },
+        "GSM4058923": {
+            "BioSample": "SAMN12688801",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688801",
+            "SRA": "SRX17412800",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412800",
+            "SRR": {
+                "SRR21407803": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "66",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058923",
+            "scrnaseq": false
+        },
+        "GSM4058924": {
+            "BioSample": "SAMN12688800",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688800",
+            "SRA": "SRX17412801",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412801",
+            "SRR": {
+                "SRR21407804": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "31",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058924",
+            "scrnaseq": false
+        },
+        "GSM4058925": {
+            "BioSample": "SAMN12688799",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688799",
+            "SRA": "SRX17412802",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412802",
+            "SRR": {
+                "SRR21407805": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "20",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058925",
+            "scrnaseq": false
+        },
+        "GSM4058926": {
+            "BioSample": "SAMN12688798",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688798",
+            "SRA": "SRX17412803",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412803",
+            "SRR": {
+                "SRR21407806": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "54",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058926",
+            "scrnaseq": false
+        },
+        "GSM4058927": {
+            "BioSample": "SAMN12688797",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688797",
+            "SRA": "SRX17412804",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412804",
+            "SRR": {
+                "SRR21407807": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "46",
+                "disease": "Control",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058927",
+            "scrnaseq": false
+        },
+        "GSM4058928": {
+            "BioSample": "SAMN12688796",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688796",
+            "SRA": "SRX17412805",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412805",
+            "SRR": {
+                "SRR21407808": "",
+                "SRR21407809": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "57",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058928",
+            "scrnaseq": false
+        },
+        "GSM4058929": {
+            "BioSample": "SAMN12688795",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688795",
+            "SRA": "SRX17412806",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412806",
+            "SRR": {
+                "SRR21407810": "",
+                "SRR21407811": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "62",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058929",
+            "scrnaseq": false
+        },
+        "GSM4058930": {
+            "BioSample": "SAMN12688794",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688794",
+            "SRA": "SRX17412807",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412807",
+            "SRR": {
+                "SRR21407812": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "58",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058930",
+            "scrnaseq": false
+        },
+        "GSM4058931": {
+            "BioSample": "SAMN12688793",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688793",
+            "SRA": "SRX17412808",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412808",
+            "SRR": {
+                "SRR21407813": "",
+                "SRR21407814": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "55",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058931",
+            "scrnaseq": false
+        },
+        "GSM4058932": {
+            "BioSample": "SAMN12688819",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688819",
+            "SRA": "SRX17412809",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412809",
+            "SRR": {
+                "SRR21407815": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "66",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058932",
+            "scrnaseq": false
+        },
+        "GSM4058933": {
+            "BioSample": "SAMN12688818",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688818",
+            "SRA": "SRX17412810",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412810",
+            "SRR": {
+                "SRR21407816": "",
+                "SRR21407817": "",
+                "SRR21407818": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "66",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058933",
+            "scrnaseq": false
+        },
+        "GSM4058934": {
+            "BioSample": "SAMN12688817",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688817",
+            "SRA": "SRX17412811",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412811",
+            "SRR": {
+                "SRR21407819": "",
+                "SRR21407820": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "63",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058934",
+            "scrnaseq": false
+        },
+        "GSM4058935": {
+            "BioSample": "SAMN12688816",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688816",
+            "SRA": "SRX17412812",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412812",
+            "SRR": {
+                "SRR21407821": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "59",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058935",
+            "scrnaseq": false
+        },
+        "GSM4058936": {
+            "BioSample": "SAMN12688815",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688815",
+            "SRA": "SRX17412813",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412813",
+            "SRR": {
+                "SRR21407822": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "60",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058936",
+            "scrnaseq": false
+        },
+        "GSM4058937": {
+            "BioSample": "SAMN12688814",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688814",
+            "SRA": "SRX17412814",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412814",
+            "SRR": {
+                "SRR21407823": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "70",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058937",
+            "scrnaseq": false
+        },
+        "GSM4058938": {
+            "BioSample": "SAMN12688813",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688813",
+            "SRA": "SRX17412815",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412815",
+            "SRR": {
+                "SRR21407824": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "66",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058938",
+            "scrnaseq": false
+        },
+        "GSM4058939": {
+            "BioSample": "SAMN12688812",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688812",
+            "SRA": "SRX17412816",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412816",
+            "SRR": {
+                "SRR21407825": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "61",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058939",
+            "scrnaseq": false
+        },
+        "GSM4058940": {
+            "BioSample": "SAMN12688811",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688811",
+            "SRA": "SRX17412817",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412817",
+            "SRR": {
+                "SRR21407826": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "57",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058940",
+            "scrnaseq": false
+        },
+        "GSM4058941": {
+            "BioSample": "SAMN12688810",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688810",
+            "SRA": "SRX17412818",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412818",
+            "SRR": {
+                "SRR21407827": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "66",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058941",
+            "scrnaseq": false
+        },
+        "GSM4058942": {
+            "BioSample": "SAMN12688809",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688809",
+            "SRA": "SRX17412819",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412819",
+            "SRR": {
+                "SRR21407828": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "65",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058942",
+            "scrnaseq": false
+        },
+        "GSM4058943": {
+            "BioSample": "SAMN12688808",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688808",
+            "SRA": "SRX17412820",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412820",
+            "SRR": {
+                "SRR21407829": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "62",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058943",
+            "scrnaseq": false
+        },
+        "GSM4058944": {
+            "BioSample": "SAMN12688807",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688807",
+            "SRA": "SRX17412821",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412821",
+            "SRR": {
+                "SRR21407830": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "57",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058944",
+            "scrnaseq": false
+        },
+        "GSM4058945": {
+            "BioSample": "SAMN12688806",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688806",
+            "SRA": "SRX17412822",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412822",
+            "SRR": {
+                "SRR21407831": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "73",
+                "disease": "COPD",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058945",
+            "scrnaseq": false
+        },
+        "GSM4058946": {
+            "BioSample": "SAMN12688839",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688839",
+            "SRA": "SRX17412823",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412823",
+            "SRR": {
+                "SRR21407832": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "68",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058946",
+            "scrnaseq": false
+        },
+        "GSM4058947": {
+            "BioSample": "SAMN12688830",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688830",
+            "SRA": "SRX17412824",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412824",
+            "SRR": {
+                "SRR21407833": "",
+                "SRR21407834": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "59",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058947",
+            "scrnaseq": false
+        },
+        "GSM4058948": {
+            "BioSample": "SAMN12688829",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688829",
+            "SRA": "SRX17412825",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412825",
+            "SRR": {
+                "SRR21407835": "",
+                "SRR21407836": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "56",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058948",
+            "scrnaseq": false
+        },
+        "GSM4058949": {
+            "BioSample": "SAMN12688828",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688828",
+            "SRA": "SRX17412826",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412826",
+            "SRR": {
+                "SRR21407837": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "67",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058949",
+            "scrnaseq": false
+        },
+        "GSM4058950": {
+            "BioSample": "SAMN12688827",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688827",
+            "SRA": "SRX17412827",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412827",
+            "SRR": {
+                "SRR21407838": "",
+                "SRR21407839": "",
+                "SRR21407840": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "66",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058950",
+            "scrnaseq": false
+        },
+        "GSM4058951": {
+            "BioSample": "SAMN12688826",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688826",
+            "SRA": "SRX17412828",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412828",
+            "SRR": {
+                "SRR21407841": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "63",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058951",
+            "scrnaseq": false
+        },
+        "GSM4058952": {
+            "BioSample": "SAMN12688825",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688825",
+            "SRA": "SRX17412829",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412829",
+            "SRR": {
+                "SRR21407842": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "67",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058952",
+            "scrnaseq": false
+        },
+        "GSM4058953": {
+            "BioSample": "SAMN12688848",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688848",
+            "SRA": "SRX17412830",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412830",
+            "SRR": {
+                "SRR21407843": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "70",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058953",
+            "scrnaseq": false
+        },
+        "GSM4058954": {
+            "BioSample": "SAMN12688847",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688847",
+            "SRA": "SRX17412831",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412831",
+            "SRR": {
+                "SRR21407844": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "65",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058954",
+            "scrnaseq": false
+        },
+        "GSM4058955": {
+            "BioSample": "SAMN12688846",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688846",
+            "SRA": "SRX17412832",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412832",
+            "SRR": {
+                "SRR21407845": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "71",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058955",
+            "scrnaseq": false
+        },
+        "GSM4058956": {
+            "BioSample": "SAMN12688822",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688822",
+            "SRA": "SRX17412833",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412833",
+            "SRR": {
+                "SRR21407846": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "69",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058956",
+            "scrnaseq": false
+        },
+        "GSM4058957": {
+            "BioSample": "SAMN12688849",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688849",
+            "SRA": "SRX17412834",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412834",
+            "SRR": {
+                "SRR21407847": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "67",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058957",
+            "scrnaseq": false
+        },
+        "GSM4058958": {
+            "BioSample": "SAMN12688824",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688824",
+            "SRA": "SRX17412835",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412835",
+            "SRR": {
+                "SRR21407848": "",
+                "SRR21407849": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "59",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058958",
+            "scrnaseq": false
+        },
+        "GSM4058959": {
+            "BioSample": "SAMN12688823",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688823",
+            "SRA": "SRX17412836",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412836",
+            "SRR": {
+                "SRR21407850": "",
+                "SRR21407851": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "70",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058959",
+            "scrnaseq": false
+        },
+        "GSM4058960": {
+            "BioSample": "SAMN12688845",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688845",
+            "SRA": "SRX17412837",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412837",
+            "SRR": {
+                "SRR21407852": "",
+                "SRR21407853": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "56",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058960",
+            "scrnaseq": false
+        },
+        "GSM4058961": {
+            "BioSample": "SAMN12688844",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688844",
+            "SRA": "SRX17412838",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412838",
+            "SRR": {
+                "SRR21407854": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "61",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058961",
+            "scrnaseq": false
+        },
+        "GSM4058962": {
+            "BioSample": "SAMN12688843",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688843",
+            "SRA": "SRX17412839",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412839",
+            "SRR": {
+                "SRR21407855": "",
+                "SRR21407856": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "62",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058962",
+            "scrnaseq": false
+        },
+        "GSM4058963": {
+            "BioSample": "SAMN12688842",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688842",
+            "SRA": "SRX17412840",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412840",
+            "SRR": {
+                "SRR21407857": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "65",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058963",
+            "scrnaseq": false
+        },
+        "GSM4058964": {
+            "BioSample": "SAMN12688841",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688841",
+            "SRA": "SRX17412841",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412841",
+            "SRR": {
+                "SRR21407858": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "78",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058964",
+            "scrnaseq": false
+        },
+        "GSM4058965": {
+            "BioSample": "SAMN12688840",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688840",
+            "SRA": "SRX17412842",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412842",
+            "SRR": {
+                "SRR21407859": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "69",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058965",
+            "scrnaseq": false
+        },
+        "GSM4058966": {
+            "BioSample": "SAMN12688861",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688861",
+            "SRA": "SRX17412843",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412843",
+            "SRR": {
+                "SRR21407860": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "67",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058966",
+            "scrnaseq": false
+        },
+        "GSM4058967": {
+            "BioSample": "SAMN12688860",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688860",
+            "SRA": "SRX17412844",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412844",
+            "SRR": {
+                "SRR21407861": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "59",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058967",
+            "scrnaseq": false
+        },
+        "GSM4058968": {
+            "BioSample": "SAMN12688859",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688859",
+            "SRA": "SRX17412845",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412845",
+            "SRR": {
+                "SRR21407862": "",
+                "SRR21407863": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "70",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058968",
+            "scrnaseq": false
+        },
+        "GSM4058969": {
+            "BioSample": "SAMN12688858",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688858",
+            "SRA": "SRX17412846",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412846",
+            "SRR": {
+                "SRR21407864": "",
+                "SRR21407865": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "64",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058969",
+            "scrnaseq": false
+        },
+        "GSM4058970": {
+            "BioSample": "SAMN12688857",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688857",
+            "SRA": "SRX17412847",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412847",
+            "SRR": {
+                "SRR21407866": "",
+                "SRR21407867": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "66",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058970",
+            "scrnaseq": false
+        },
+        "GSM4058971": {
+            "BioSample": "SAMN12688856",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688856",
+            "SRA": "SRX17412848",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412848",
+            "SRR": {
+                "SRR21407868": "",
+                "SRR21407869": "",
+                "SRR21407870": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "60",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058971",
+            "scrnaseq": false
+        },
+        "GSM4058972": {
+            "BioSample": "SAMN12688855",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688855",
+            "SRA": "SRX17412849",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412849",
+            "SRR": {
+                "SRR21407871": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "age": "66",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058972",
+            "scrnaseq": false
+        },
+        "GSM4058973": {
+            "BioSample": "SAMN12688854",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688854",
+            "SRA": "SRX17412850",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412850",
+            "SRR": {
+                "SRR21407872": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "68",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058973",
+            "scrnaseq": false
+        },
+        "GSM4058974": {
+            "BioSample": "SAMN12688853",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688853",
+            "SRA": "SRX17412851",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412851",
+            "SRR": {
+                "SRR21407873": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "54",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058974",
+            "scrnaseq": false
+        },
+        "GSM4058975": {
+            "BioSample": "SAMN12688852",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688852",
+            "SRA": "SRX17412852",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412852",
+            "SRR": {
+                "SRR21407874": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "74",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058975",
+            "scrnaseq": false
+        },
+        "GSM4058976": {
+            "BioSample": "SAMN12688851",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688851",
+            "SRA": "SRX17412853",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412853",
+            "SRR": {
+                "SRR21407875": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "age": "68",
+                "disease": "IPF",
+                "tissue": "Whole Lung Dissociate"
+            },
+            "sample_id": "GSM4058976",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "IPF Cell Atlas"
+}

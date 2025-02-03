@@ -1,0 +1,17 @@
+{
+    "GEO": "GSE137799",
+    "PMID": [
+        "32004478"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137799",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {},
+    "taxid": "9606",
+    "title": "Long-term culture of alveolospheres"
+}

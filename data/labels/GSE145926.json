@@ -1,0 +1,431 @@
+{
+    "GEO": "GSE145926",
+    "PMID": [
+        "32398875",
+        "39369126"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145926",
+    "platform": [
+        {
+            "platform_id": "GPL23227",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "BGISEQ-500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4339769": {
+            "BioSample": "SAMN14207961",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14207961",
+            "SRA": "SRX7802546",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7802546",
+            "SRR": {
+                "SRR11181954": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "patient group": "mild",
+                "sample type": "BALF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4339769",
+            "scrnaseq": true
+        },
+        "GSM4339770": {
+            "BioSample": "SAMN14207960",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14207960",
+            "SRA": "SRX7802547",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7802547",
+            "SRR": {
+                "SRR11181955": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "patient group": "mild",
+                "sample type": "BALF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4339770",
+            "scrnaseq": true
+        },
+        "GSM4339771": {
+            "BioSample": "SAMN14207959",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14207959",
+            "SRA": "SRX7802548",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7802548",
+            "SRR": {
+                "SRR11181956": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "patient group": "severe",
+                "sample type": "BALF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4339771",
+            "scrnaseq": true
+        },
+        "GSM4339772": {
+            "BioSample": "SAMN14207958",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14207958",
+            "SRA": "SRX7802549",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7802549",
+            "SRR": {
+                "SRR11181957": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "patient group": "mild",
+                "sample type": "BALF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4339772",
+            "scrnaseq": true
+        },
+        "GSM4339773": {
+            "BioSample": "SAMN14207957",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14207957",
+            "SRA": "SRX7802550",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7802550",
+            "SRR": {
+                "SRR11181958": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "patient group": "severe",
+                "sample type": "BALF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4339773",
+            "scrnaseq": true
+        },
+        "GSM4339774": {
+            "BioSample": "SAMN14207956",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14207956",
+            "SRA": "SRX7802551",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7802551",
+            "SRR": {
+                "SRR11181959": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "patient group": "severe",
+                "sample type": "BALF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4339774",
+            "scrnaseq": true
+        },
+        "GSM4385990": {
+            "BioSample": "SAMN14306710",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14306710",
+            "SRA": "SRX7856785",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7856785",
+            "SRR": {
+                "SRR11245351": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "organ": "lung",
+                "patient group": "mild",
+                "sample type": "BALF"
+            },
+            "sample_id": "GSM4385990",
+            "scrnaseq": true
+        },
+        "GSM4385991": {
+            "BioSample": "SAMN14306709",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14306709",
+            "SRA": "SRX7856786",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7856786",
+            "SRR": {
+                "SRR11245352": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "organ": "lung",
+                "patient group": "mild",
+                "sample type": "BALF"
+            },
+            "sample_id": "GSM4385991",
+            "scrnaseq": true
+        },
+        "GSM4385992": {
+            "BioSample": "SAMN14306708",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14306708",
+            "SRA": "SRX7856787",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7856787",
+            "SRR": {
+                "SRR11245353": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "organ": "lung",
+                "patient group": "severe",
+                "sample type": "BALF"
+            },
+            "sample_id": "GSM4385992",
+            "scrnaseq": true
+        },
+        "GSM4385993": {
+            "BioSample": "SAMN14306707",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14306707",
+            "SRA": "SRX7856788",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7856788",
+            "SRR": {
+                "SRR11245354": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "organ": "lung",
+                "patient group": "mild",
+                "sample type": "BALF"
+            },
+            "sample_id": "GSM4385993",
+            "scrnaseq": true
+        },
+        "GSM4385994": {
+            "BioSample": "SAMN14306706",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14306706",
+            "SRA": "SRX7856789",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7856789",
+            "SRR": {
+                "SRR11245355": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "organ": "lung",
+                "patient group": "severe",
+                "sample type": "BALF"
+            },
+            "sample_id": "GSM4385994",
+            "scrnaseq": true
+        },
+        "GSM4385995": {
+            "BioSample": "SAMN14306705",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14306705",
+            "SRA": "SRX7856790",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7856790",
+            "SRR": {
+                "SRR11245356": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "disease state": "Coronavirus infected disease-19 (COVID-19)",
+                "organ": "lung",
+                "patient group": "severe",
+                "sample type": "BALF"
+            },
+            "sample_id": "GSM4385995",
+            "scrnaseq": true
+        },
+        "GSM4475048": {
+            "BioSample": "SAMN14594842",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594842",
+            "SRA": "SRX8108992",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108992",
+            "SRR": {
+                "SRR11537946": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq"
+            ],
+            "characteristics": {
+                "cell subsets": "CD45+",
+                "patient group": "healthy control",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475048",
+            "scrnaseq": true
+        },
+        "GSM4475049": {
+            "BioSample": "SAMN14594850",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594850",
+            "SRA": "SRX8108993",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108993",
+            "SRR": {
+                "SRR11537947": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq"
+            ],
+            "characteristics": {
+                "cell subsets": "CD45+",
+                "patient group": "healthy control",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475049",
+            "scrnaseq": true
+        },
+        "GSM4475050": {
+            "BioSample": "SAMN14594849",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594849",
+            "SRA": "SRX8108994",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108994",
+            "SRR": {
+                "SRR11537948": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq"
+            ],
+            "characteristics": {
+                "cell subsets": "CD45+",
+                "patient group": "healthy control",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475050",
+            "scrnaseq": true
+        },
+        "GSM4475051": {
+            "BioSample": "SAMN14594848",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594848",
+            "SRA": "SRX8108995",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108995",
+            "SRR": {
+                "SRR11537949": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "patient group": "severe COVID-19 patient",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475051",
+            "scrnaseq": true
+        },
+        "GSM4475052": {
+            "BioSample": "SAMN14594847",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594847",
+            "SRA": "SRX8108996",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108996",
+            "SRR": {
+                "SRR11537950": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "patient group": "severe COVID-19 patient",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475052",
+            "scrnaseq": true
+        },
+        "GSM4475053": {
+            "BioSample": "SAMN14594846",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594846",
+            "SRA": "SRX8108997",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108997",
+            "SRR": {
+                "SRR11537951": ""
+            },
+            "Sample_description": [
+                "Single-cell RNAseq"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "patient group": "severe COVID-19 patient",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475053",
+            "scrnaseq": true
+        },
+        "GSM4475054": {
+            "BioSample": "SAMN14594845",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594845",
+            "SRA": "SRX8108998",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108998",
+            "SRR": {
+                "SRR11537952": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "patient group": "severe COVID-19 patient",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475054",
+            "scrnaseq": true
+        },
+        "GSM4475055": {
+            "BioSample": "SAMN14594844",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14594844",
+            "SRA": "SRX8108999",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8108999",
+            "SRR": {
+                "SRR11537953": ""
+            },
+            "Sample_description": [
+                "TCRseq data"
+            ],
+            "characteristics": {
+                "cell subsets": "Total cell",
+                "patient group": "severe COVID-19 patient",
+                "sample type": "bronchoalveolar lavage fluid (BALF)",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4475055",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Single-cell landscape of bronchoalveolar immune cells in COVID-19 patients"
+}

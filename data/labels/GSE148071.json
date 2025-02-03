@@ -1,0 +1,469 @@
+{
+    "GEO": "GSE148071",
+    "PMID": [
+        "33953163"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148071",
+    "platform": [
+        {
+            "platform_id": "GPL20795",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "HiSeq X Ten (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4453576": {
+            "BioSample": "SAMN14534704",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534704",
+            "SRR": {},
+            "characteristics": {
+                "age": "71",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453576",
+            "scrnaseq": true
+        },
+        "GSM4453577": {
+            "BioSample": "SAMN14534702",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534702",
+            "SRR": {},
+            "characteristics": {
+                "age": "62",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453577",
+            "scrnaseq": true
+        },
+        "GSM4453578": {
+            "BioSample": "SAMN14534701",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534701",
+            "SRR": {},
+            "characteristics": {
+                "age": "67",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453578",
+            "scrnaseq": true
+        },
+        "GSM4453579": {
+            "BioSample": "SAMN14534699",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534699",
+            "SRR": {},
+            "characteristics": {
+                "age": "58",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453579",
+            "scrnaseq": true
+        },
+        "GSM4453580": {
+            "BioSample": "SAMN14534697",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534697",
+            "SRR": {},
+            "characteristics": {
+                "age": "62",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453580",
+            "scrnaseq": true
+        },
+        "GSM4453581": {
+            "BioSample": "SAMN14534695",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534695",
+            "SRR": {},
+            "characteristics": {
+                "age": "59",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453581",
+            "scrnaseq": true
+        },
+        "GSM4453582": {
+            "BioSample": "SAMN14534694",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534694",
+            "SRR": {},
+            "characteristics": {
+                "age": "71",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453582",
+            "scrnaseq": true
+        },
+        "GSM4453583": {
+            "BioSample": "SAMN14534692",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534692",
+            "SRR": {},
+            "characteristics": {
+                "age": "35",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453583",
+            "scrnaseq": true
+        },
+        "GSM4453584": {
+            "BioSample": "SAMN14534691",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534691",
+            "SRR": {},
+            "characteristics": {
+                "age": "40",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453584",
+            "scrnaseq": true
+        },
+        "GSM4453585": {
+            "BioSample": "SAMN14534689",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534689",
+            "SRR": {},
+            "characteristics": {
+                "age": "65",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453585",
+            "scrnaseq": true
+        },
+        "GSM4453586": {
+            "BioSample": "SAMN14534687",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534687",
+            "SRR": {},
+            "characteristics": {
+                "age": "58",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453586",
+            "scrnaseq": true
+        },
+        "GSM4453587": {
+            "BioSample": "SAMN14534686",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534686",
+            "SRR": {},
+            "characteristics": {
+                "age": "62",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453587",
+            "scrnaseq": true
+        },
+        "GSM4453588": {
+            "BioSample": "SAMN14534684",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534684",
+            "SRR": {},
+            "characteristics": {
+                "age": "50",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453588",
+            "scrnaseq": true
+        },
+        "GSM4453589": {
+            "BioSample": "SAMN14534682",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534682",
+            "SRR": {},
+            "characteristics": {
+                "age": "60",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453589",
+            "scrnaseq": true
+        },
+        "GSM4453590": {
+            "BioSample": "SAMN14534680",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534680",
+            "SRR": {},
+            "characteristics": {
+                "age": "64",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453590",
+            "scrnaseq": true
+        },
+        "GSM4453591": {
+            "BioSample": "SAMN14534678",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534678",
+            "SRR": {},
+            "characteristics": {
+                "age": "49",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453591",
+            "scrnaseq": true
+        },
+        "GSM4453592": {
+            "BioSample": "SAMN14534676",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534676",
+            "SRR": {},
+            "characteristics": {
+                "age": "71",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453592",
+            "scrnaseq": true
+        },
+        "GSM4453593": {
+            "BioSample": "SAMN14534675",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534675",
+            "SRR": {},
+            "characteristics": {
+                "age": "66",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453593",
+            "scrnaseq": true
+        },
+        "GSM4453594": {
+            "BioSample": "SAMN14534673",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534673",
+            "SRR": {},
+            "characteristics": {
+                "age": "55",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453594",
+            "scrnaseq": true
+        },
+        "GSM4453595": {
+            "BioSample": "SAMN14534672",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534672",
+            "SRR": {},
+            "characteristics": {
+                "age": "59",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453595",
+            "scrnaseq": true
+        },
+        "GSM4453596": {
+            "BioSample": "SAMN14534728",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534728",
+            "SRR": {},
+            "characteristics": {
+                "age": "65",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453596",
+            "scrnaseq": true
+        },
+        "GSM4453597": {
+            "BioSample": "SAMN14534727",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534727",
+            "SRR": {},
+            "characteristics": {
+                "age": "67",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453597",
+            "scrnaseq": true
+        },
+        "GSM4453598": {
+            "BioSample": "SAMN14534726",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534726",
+            "SRR": {},
+            "characteristics": {
+                "age": "77",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453598",
+            "scrnaseq": true
+        },
+        "GSM4453599": {
+            "BioSample": "SAMN14534725",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534725",
+            "SRR": {},
+            "characteristics": {
+                "age": "52",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453599",
+            "scrnaseq": true
+        },
+        "GSM4453600": {
+            "BioSample": "SAMN14534722",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534722",
+            "SRR": {},
+            "characteristics": {
+                "age": "75",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453600",
+            "scrnaseq": true
+        },
+        "GSM4453601": {
+            "BioSample": "SAMN14534721",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534721",
+            "SRR": {},
+            "characteristics": {
+                "age": "53",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453601",
+            "scrnaseq": true
+        },
+        "GSM4453602": {
+            "BioSample": "SAMN14534720",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534720",
+            "SRR": {},
+            "characteristics": {
+                "age": "68",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453602",
+            "scrnaseq": true
+        },
+        "GSM4453603": {
+            "BioSample": "SAMN14534719",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534719",
+            "SRR": {},
+            "characteristics": {
+                "age": "64",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453603",
+            "scrnaseq": true
+        },
+        "GSM4453604": {
+            "BioSample": "SAMN14534718",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534718",
+            "SRR": {},
+            "characteristics": {
+                "age": "48",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453604",
+            "scrnaseq": true
+        },
+        "GSM4453605": {
+            "BioSample": "SAMN14534724",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534724",
+            "SRR": {},
+            "characteristics": {
+                "age": "73",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453605",
+            "scrnaseq": true
+        },
+        "GSM4453606": {
+            "BioSample": "SAMN14534723",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534723",
+            "SRR": {},
+            "characteristics": {
+                "age": "53",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453606",
+            "scrnaseq": true
+        },
+        "GSM4453607": {
+            "BioSample": "SAMN14534717",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534717",
+            "SRR": {},
+            "characteristics": {
+                "age": "71",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453607",
+            "scrnaseq": true
+        },
+        "GSM4453608": {
+            "BioSample": "SAMN14534716",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534716",
+            "SRR": {},
+            "characteristics": {
+                "age": "42",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453608",
+            "scrnaseq": true
+        },
+        "GSM4453609": {
+            "BioSample": "SAMN14534715",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534715",
+            "SRR": {},
+            "characteristics": {
+                "age": "72",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453609",
+            "scrnaseq": true
+        },
+        "GSM4453610": {
+            "BioSample": "SAMN14534714",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534714",
+            "SRR": {},
+            "characteristics": {
+                "age": "63",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453610",
+            "scrnaseq": true
+        },
+        "GSM4453611": {
+            "BioSample": "SAMN14534713",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534713",
+            "SRR": {},
+            "characteristics": {
+                "age": "42",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453611",
+            "scrnaseq": true
+        },
+        "GSM4453612": {
+            "BioSample": "SAMN14534712",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534712",
+            "SRR": {},
+            "characteristics": {
+                "age": "73",
+                "gender": "female"
+            },
+            "sample_id": "GSM4453612",
+            "scrnaseq": true
+        },
+        "GSM4453613": {
+            "BioSample": "SAMN14534711",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534711",
+            "SRR": {},
+            "characteristics": {
+                "age": "55",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453613",
+            "scrnaseq": true
+        },
+        "GSM4453614": {
+            "BioSample": "SAMN14534710",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534710",
+            "SRR": {},
+            "characteristics": {
+                "age": "49",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453614",
+            "scrnaseq": true
+        },
+        "GSM4453615": {
+            "BioSample": "SAMN14534709",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534709",
+            "SRR": {},
+            "characteristics": {
+                "age": "62",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453615",
+            "scrnaseq": true
+        },
+        "GSM4453616": {
+            "BioSample": "SAMN14534708",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534708",
+            "SRR": {},
+            "characteristics": {
+                "age": "60",
+                "gender": "male"
+            },
+            "sample_id": "GSM4453616",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Comprehensive Profiling of Cancer Cells and Their Microenvironment in Advanced NSCLC"
+}

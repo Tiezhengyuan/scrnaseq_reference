@@ -1,0 +1,75 @@
+{
+    "GEO": "GSE137805",
+    "PMID": [
+        "32004478"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137805",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4088789": {
+            "BioSample": "SAMN12802163",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802163",
+            "SRA": "SRX6882057",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882057",
+            "SRR": {
+                "SRR10156651": "",
+                "SRR10156652": "",
+                "SRR10156653": "",
+                "SRR10156654": ""
+            },
+            "characteristics": {
+                "culture media": "CKDCI",
+                "developmental stage": "day 27",
+                "isolation method": "FACS sorted + indrops"
+            },
+            "sample_id": "GSM4088789",
+            "scrnaseq": false
+        },
+        "GSM4088790": {
+            "BioSample": "SAMN12802162",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802162",
+            "SRA": "SRX6882058",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882058",
+            "SRR": {
+                "SRR10156655": "",
+                "SRR10156656": "",
+                "SRR10156657": "",
+                "SRR10156658": ""
+            },
+            "characteristics": {
+                "culture media": "CKDCI",
+                "developmental stage": "day 27",
+                "isolation method": "FACS sorted + indrops"
+            },
+            "sample_id": "GSM4088790",
+            "scrnaseq": false
+        },
+        "GSM4088791": {
+            "BioSample": "SAMN12802161",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802161",
+            "SRA": "SRX6882059",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882059",
+            "SRR": {
+                "SRR10156659": "",
+                "SRR10156660": "",
+                "SRR10156661": "",
+                "SRR10156662": ""
+            },
+            "characteristics": {
+                "culture media": "CKDCI",
+                "developmental stage": "day 27",
+                "isolation method": "FACS sorted + indrops"
+            },
+            "sample_id": "GSM4088791",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Lineage Tracing of PSC-derived iAEC2 Differentiation Using Lentiviral Barcoding"
+}

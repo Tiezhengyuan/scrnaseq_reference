@@ -1,0 +1,17 @@
+{
+    "GEO": "GSE156311",
+    "PMID": [
+        "34313733"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156311",
+    "platform": [
+        {
+            "platform_id": "GPL24247",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Mus musculus)"
+        }
+    ],
+    "samples": {},
+    "taxid": "10090",
+    "title": "Marginating Transitional B cells Modulate Neutrophils in the Lung During Inflammation and Pneumonia"
+}

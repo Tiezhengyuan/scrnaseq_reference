@@ -1,0 +1,149 @@
+{
+    "GEO": "GSE135851",
+    "PMID": [
+        "32603599"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135851",
+    "platform": [
+        {
+            "platform_id": "GPL16791",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4035465": {
+            "BioSample": "SAMN12574693",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574693",
+            "SRA": "SRX6717372",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717372",
+            "SRR": {
+                "SRR9970044": ""
+            },
+            "Sample_description": [
+                "scRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "Lymphangioleiomyomatosis (LAM) patient",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4035465",
+            "scrnaseq": true
+        },
+        "GSM4035466": {
+            "BioSample": "SAMN12574700",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574700",
+            "SRA": "SRX6717373",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717373",
+            "SRR": {
+                "SRR9970045": ""
+            },
+            "Sample_description": [
+                "scRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "Lymphangioleiomyomatosis (LAM) patient",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4035466",
+            "scrnaseq": true
+        },
+        "GSM4035467": {
+            "BioSample": "SAMN12574699",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574699",
+            "SRA": "SRX6717374",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717374",
+            "SRR": {
+                "SRR9970046": ""
+            },
+            "Sample_description": [
+                "scRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "Lymphangioleiomyomatosis (LAM) patient",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4035467",
+            "scrnaseq": true
+        },
+        "GSM4035468": {
+            "BioSample": "SAMN12574698",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574698",
+            "SRA": "SRX6717375",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717375",
+            "SRR": {
+                "SRR9970047": ""
+            },
+            "Sample_description": [
+                "snRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "Lymphangioleiomyomatosis (LAM) patient",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM4035468",
+            "scrnaseq": true
+        },
+        "GSM4035469": {
+            "BioSample": "SAMN12574697",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574697",
+            "SRA": "SRX6717376",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717376",
+            "SRR": {
+                "SRR9970048": ""
+            },
+            "Sample_description": [
+                "scRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "AML patient",
+                "tissue": "kidney"
+            },
+            "sample_id": "GSM4035469",
+            "scrnaseq": true
+        },
+        "GSM4035470": {
+            "BioSample": "SAMN12574694",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574694",
+            "SRA": "SRX6717377",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717377",
+            "SRR": {
+                "SRR9970049": ""
+            },
+            "Sample_description": [
+                "snRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "Lymphangioleiomyomatosis (LAM) patient",
+                "tissue": "Uterus"
+            },
+            "sample_id": "GSM4035470",
+            "scrnaseq": true
+        },
+        "GSM4035471": {
+            "BioSample": "SAMN12574696",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12574696",
+            "SRA": "SRX6717378",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717378",
+            "SRR": {
+                "SRR9970050": ""
+            },
+            "Sample_description": [
+                "snRNA-seq"
+            ],
+            "characteristics": {
+                "subject status": "Normal control",
+                "tissue": "Uterus"
+            },
+            "sample_id": "GSM4035471",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Identification of the lymphangioleiomyomatosis cell and its uterine origin"
+}

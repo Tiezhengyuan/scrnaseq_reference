@@ -1,0 +1,583 @@
+{
+    "GEO": "GSE162500",
+    "PMID": [
+        "33514641"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162500",
+    "platform": [
+        {
+            "platform_id": "GPL15520",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina MiSeq (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL16791",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4952953": {
+            "BioSample": "SAMN16979878",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979878",
+            "SRA": "SRX9619529",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619529",
+            "SRR": {
+                "SRR13181483": ""
+            },
+            "Sample_description": [
+                "3' RNA"
+            ],
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2bN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952953",
+            "scrnaseq": false
+        },
+        "GSM4952954": {
+            "BioSample": "SAMN16979877",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979877",
+            "SRA": "SRX9619530",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619530",
+            "SRR": {
+                "SRR13181484": ""
+            },
+            "Sample_description": [
+                "3' RNA"
+            ],
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "non smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952954",
+            "scrnaseq": false
+        },
+        "GSM4952955": {
+            "BioSample": "SAMN16979876",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979876",
+            "SRA": "SRX9619531",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619531",
+            "SRR": {
+                "SRR13181485": ""
+            },
+            "Sample_description": [
+                "3' RNA"
+            ],
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "non smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952955",
+            "scrnaseq": false
+        },
+        "GSM4952956": {
+            "BioSample": "SAMN16979882",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979882",
+            "SRA": "SRX9619532",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619532",
+            "SRR": {
+                "SRR13181486": ""
+            },
+            "Sample_description": [
+                "3' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN2",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952956",
+            "scrnaseq": false
+        },
+        "GSM4952957": {
+            "BioSample": "SAMN16979881",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979881",
+            "SRA": "SRX9619533",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619533",
+            "SRR": {
+                "SRR13181487": ""
+            },
+            "Sample_description": [
+                "3' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952957",
+            "scrnaseq": false
+        },
+        "GSM4952958": {
+            "BioSample": "SAMN16979880",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979880",
+            "SRA": "SRX9619534",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619534",
+            "SRR": {
+                "SRR13181488": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "non smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952958",
+            "scrnaseq": false
+        },
+        "GSM4952959": {
+            "BioSample": "SAMN16979879",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979879",
+            "SRA": "SRX9619535",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619535",
+            "SRR": {
+                "SRR13181489": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2b N0",
+                "tumor type": "CE"
+            },
+            "sample_id": "GSM4952959",
+            "scrnaseq": false
+        },
+        "GSM4952960": {
+            "BioSample": "SAMN16979875",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979875",
+            "SRA": "SRX9619536",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619536",
+            "SRR": {
+                "SRR13181490": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT3 N0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952960",
+            "scrnaseq": false
+        },
+        "GSM4952961": {
+            "BioSample": "SAMN16979874",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979874",
+            "SRA": "SRX9619537",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619537",
+            "SRR": {
+                "SRR13181491": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "Blood sample",
+                "tumor stage": "pT3 N0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952961",
+            "scrnaseq": false
+        },
+        "GSM4952962": {
+            "BioSample": "SAMN16979873",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979873",
+            "SRA": "SRX9619538",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619538",
+            "SRR": {
+                "SRR13181492": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT1cNO",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952962",
+            "scrnaseq": false
+        },
+        "GSM4952963": {
+            "BioSample": "SAMN16979872",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979872",
+            "SRA": "SRX9619539",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619539",
+            "SRR": {
+                "SRR13181493": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "smoker",
+                "tissue": "Blood sample",
+                "tumor stage": "pT1cNO",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952963",
+            "scrnaseq": false
+        },
+        "GSM4952964": {
+            "BioSample": "SAMN16979871",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979871",
+            "SRA": "SRX9619540",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619540",
+            "SRR": {
+                "SRR13181494": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952964",
+            "scrnaseq": false
+        },
+        "GSM4952965": {
+            "BioSample": "SAMN16979896",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979896",
+            "SRA": "SRX9619541",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619541",
+            "SRR": {
+                "SRR13181495": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC juxta tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952965",
+            "scrnaseq": false
+        },
+        "GSM4952966": {
+            "BioSample": "SAMN16979894",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979894",
+            "SRA": "SRX9619542",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619542",
+            "SRR": {
+                "SRR13181496": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "Blood sample",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952966",
+            "scrnaseq": false
+        },
+        "GSM4952967": {
+            "BioSample": "SAMN16979893",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979893",
+            "SRA": "SRX9619543",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619543",
+            "SRR": {
+                "SRR13181497": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "NA",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "NA",
+                "tumor type": "NA"
+            },
+            "sample_id": "GSM4952967",
+            "scrnaseq": false
+        },
+        "GSM4952968": {
+            "BioSample": "SAMN16979891",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979891",
+            "SRA": "SRX9619544",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619544",
+            "SRR": {
+                "SRR13181498": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "NA",
+                "tissue": "NSCLC juxta tissue",
+                "tumor stage": "NA",
+                "tumor type": "NA"
+            },
+            "sample_id": "GSM4952968",
+            "scrnaseq": false
+        },
+        "GSM4952969": {
+            "BioSample": "SAMN16979890",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979890",
+            "SRA": "SRX9619545",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619545",
+            "SRR": {
+                "SRR13181499": ""
+            },
+            "Sample_description": [
+                "5' RNA"
+            ],
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "NA",
+                "tissue": "Blood sample",
+                "tumor stage": "NA",
+                "tumor type": "NA"
+            },
+            "sample_id": "GSM4952969",
+            "scrnaseq": false
+        },
+        "GSM4952970": {
+            "BioSample": "SAMN16979784",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979784",
+            "SRA": "SRX9619513",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619513",
+            "SRR": {
+                "SRR13181467": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "non smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952970",
+            "scrnaseq": false
+        },
+        "GSM4952971": {
+            "BioSample": "SAMN16979783",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979783",
+            "SRA": "SRX9619514",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619514",
+            "SRR": {
+                "SRR13181468": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2b N0",
+                "tumor type": "CE"
+            },
+            "sample_id": "GSM4952971",
+            "scrnaseq": false
+        },
+        "GSM4952972": {
+            "BioSample": "SAMN16979782",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979782",
+            "SRA": "SRX9619515",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619515",
+            "SRR": {
+                "SRR13181469": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT3 N0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952972",
+            "scrnaseq": false
+        },
+        "GSM4952973": {
+            "BioSample": "SAMN16979781",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979781",
+            "SRA": "SRX9619516",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619516",
+            "SRR": {
+                "SRR13181470": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "Blood sample",
+                "tumor stage": "pT3 N0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952973",
+            "scrnaseq": false
+        },
+        "GSM4952974": {
+            "BioSample": "SAMN16979780",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979780",
+            "SRA": "SRX9619517",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619517",
+            "SRR": {
+                "SRR13181471": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT1cNO",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952974",
+            "scrnaseq": false
+        },
+        "GSM4952975": {
+            "BioSample": "SAMN16979779",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979779",
+            "SRA": "SRX9619518",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619518",
+            "SRR": {
+                "SRR13181472": ""
+            },
+            "characteristics": {
+                "Sex": "F",
+                "smoking status": "smoker",
+                "tissue": "Blood sample",
+                "tumor stage": "pT1cNO",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952975",
+            "scrnaseq": false
+        },
+        "GSM4952976": {
+            "BioSample": "SAMN16979777",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979777",
+            "SRA": "SRX9619519",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619519",
+            "SRR": {
+                "SRR13181473": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952976",
+            "scrnaseq": false
+        },
+        "GSM4952977": {
+            "BioSample": "SAMN16979776",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979776",
+            "SRA": "SRX9619520",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619520",
+            "SRR": {
+                "SRR13181474": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "NSCLC juxta tissue",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952977",
+            "scrnaseq": false
+        },
+        "GSM4952978": {
+            "BioSample": "SAMN16979774",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979774",
+            "SRA": "SRX9619521",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619521",
+            "SRR": {
+                "SRR13181475": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "smoker",
+                "tissue": "Blood sample",
+                "tumor stage": "pT2aN0",
+                "tumor type": "ADK"
+            },
+            "sample_id": "GSM4952978",
+            "scrnaseq": false
+        },
+        "GSM4952979": {
+            "BioSample": "SAMN16979773",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979773",
+            "SRA": "SRX9619522",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619522",
+            "SRR": {
+                "SRR13181476": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "NA",
+                "tissue": "NSCLC tumor tissue",
+                "tumor stage": "NA",
+                "tumor type": "NA"
+            },
+            "sample_id": "GSM4952979",
+            "scrnaseq": false
+        },
+        "GSM4952980": {
+            "BioSample": "SAMN16979802",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979802",
+            "SRA": "SRX9619523",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619523",
+            "SRR": {
+                "SRR13181477": ""
+            },
+            "characteristics": {
+                "Sex": "M",
+                "smoking status": "NA",
+                "tissue": "NSCLC juxta tissue",
+                "tumor stage": "NA",
+                "tumor type": "NA"
+            },
+            "sample_id": "GSM4952980",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Contribution of resident and circulating precursors to tumor-infiltrating CD8+ T cell populations in lung cancer"
+}

@@ -1,8 +1,8 @@
 *workspace
 .nextflow/
-data/
 results/
 work/
+.nextflow*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
