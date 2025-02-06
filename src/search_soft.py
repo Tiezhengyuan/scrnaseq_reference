@@ -15,11 +15,7 @@ class SearchSoft:
     def line_iter(self):
         return Utils.gz_iter(self.infile)
 
-    def split_row(self, line) -> tuple:
-        items = line[1:].split(" = ", 1)
-        key = items[0]
-        val = items[1] if len(items) == 2 else ''
-        return key, val
+
 
 
 
@@ -186,7 +182,7 @@ class SearchSoft:
         key, rec = '', {}
         # names = ['DATABASE', 'SERIES', 'PLATFORM']
         for line in self.line_iter():
-            if line.startswith('^'):
+            if line.startswith('^') or line.startswith('#'):
                 # push rec to data before 
                 if key not in data:
                     data[key] = []
@@ -200,11 +196,13 @@ class SearchSoft:
                 if item[0] not in rec:
                     rec[item[0]] = []
                 rec[item[0]].append(item[1])
-            else:
-                if not line.startswith('#'):
-                    k, v = rec[-1]
-                    rec[-1] = (k, v + line)
         return data
+
+    def split_row(self, line) -> tuple:
+        items = line[1:].split(" = ", 1)
+        key = items[0]
+        val = items[1] if len(items) == 2 else ''
+        return key, val
 
     def print(self, data):
         for k, v in data.items():

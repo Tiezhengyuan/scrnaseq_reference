@@ -1,0 +1,165 @@
+{
+    "GEO": "GSE190510",
+    "PMID": [
+        "35250976"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190510",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5725044": {
+            "BioSample": "SAMN23798116",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798116",
+            "SRA": "SRX13356880",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356880",
+            "SRR": {
+                "SRR17173457": {},
+                "SRR17173458": {},
+                "SRR17173459": {},
+                "SRR17173460": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "44",
+                "disease_state": "Patient with ASS-ILD",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725044",
+            "scrnaseq": true
+        },
+        "GSM5725045": {
+            "BioSample": "SAMN23798115",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798115",
+            "SRA": "SRX13356881",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356881",
+            "SRR": {
+                "SRR17173453": {},
+                "SRR17173454": {},
+                "SRR17173455": {},
+                "SRR17173456": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "54",
+                "disease_state": "Patient with ASS-ILD",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725045",
+            "scrnaseq": true
+        },
+        "GSM5725046": {
+            "BioSample": "SAMN23798114",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798114",
+            "SRA": "SRX13356882",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356882",
+            "SRR": {
+                "SRR17173449": {},
+                "SRR17173450": {},
+                "SRR17173451": {},
+                "SRR17173452": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "56",
+                "disease_state": "Patient with ASS-ILD",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725046",
+            "scrnaseq": true
+        },
+        "GSM5725047": {
+            "BioSample": "SAMN23798113",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798113",
+            "SRA": "SRX13356883",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356883",
+            "SRR": {
+                "SRR17173445": {},
+                "SRR17173446": {},
+                "SRR17173447": {},
+                "SRR17173448": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "70",
+                "disease_state": "Patient with ASS-ILD",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725047",
+            "scrnaseq": true
+        },
+        "GSM5725048": {
+            "BioSample": "SAMN23798112",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798112",
+            "SRA": "SRX13356884",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356884",
+            "SRR": {
+                "SRR17173441": {},
+                "SRR17173442": {},
+                "SRR17173443": {},
+                "SRR17173444": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "57",
+                "disease_state": "Patient with ASS-ILD",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725048",
+            "scrnaseq": true
+        },
+        "GSM5725049": {
+            "BioSample": "SAMN23798111",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798111",
+            "SRA": "SRX13356885",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356885",
+            "SRR": {
+                "SRR17173437": {},
+                "SRR17173438": {},
+                "SRR17173439": {},
+                "SRR17173440": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "49",
+                "disease_state": "Health donors",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725049",
+            "scrnaseq": true
+        },
+        "GSM5725050": {
+            "BioSample": "SAMN23798110",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798110",
+            "SRA": "SRX13356886",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356886",
+            "SRR": {
+                "SRR17173433": {},
+                "SRR17173434": {},
+                "SRR17173435": {},
+                "SRR17173436": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "56",
+                "disease_state": "Health donors",
+                "sex": "female",
+                "tissue": "Peripheral blood mononuclear cell"
+            },
+            "sample_id": "GSM5725050",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Single-cell transcriptomics reveals peripheral immune responses in anti-synthetase syndrome-associated interstitial lung disease"
+}

@@ -1,0 +1,76 @@
+{
+    "GEO": "GSE121309",
+    "PMID": null,
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121309",
+    "platform": [
+        {
+            "platform_id": "GPL21697",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "NextSeq 550 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3431173": {
+            "BioSample": "SAMN10246464",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10246464",
+            "SRA": "SRX4892657",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4892657",
+            "SRR": {
+                "SRR8064284": {},
+                "SRR8064285": {},
+                "SRR8064286": {},
+                "SRR8064287": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_line": "H1299",
+                "cell_type": "Non-small cell lung cancer",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM3431173",
+            "scrnaseq": true
+        },
+        "GSM3431174": {
+            "BioSample": "SAMN10246463",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10246463",
+            "SRA": "SRX4892658",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4892658",
+            "SRR": {
+                "SRR8064288": {},
+                "SRR8064289": {},
+                "SRR8064290": {},
+                "SRR8064291": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_line": "H1299",
+                "cell_type": "Non-small cell lung cancer",
+                "treatment": "DAC+SB"
+            },
+            "sample_id": "GSM3431174",
+            "scrnaseq": true
+        },
+        "GSM3431175": {
+            "BioSample": "SAMN10246461",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10246461",
+            "SRA": "SRX4892659",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4892659",
+            "SRR": {
+                "SRR8064292": {},
+                "SRR8064293": {},
+                "SRR8064294": {},
+                "SRR8064295": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_line": "HCT116",
+                "cell_type": "Colorectal cancer",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM3431175",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Single cell analysis reveals dynamics of transposable element expression following epigenetic de-repression"
+}

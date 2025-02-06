@@ -3,6 +3,7 @@ import gzip
 from utils import Utils
 
 from search_soft import SearchSoft
+from slicer import Slicer
 
 class ParseSoft:
     def __init__(self, local_dir:str, outdir:str=None):
@@ -74,8 +75,10 @@ class ParseSoft:
             softer = SearchSoft(infile)
             geo, pmid = softer.pmid()
             if geo and pmid:
-                res_geo = Utils.geo_update(res_geo, geo, [pmid,])
-                res_pmid = Utils.pmid_update(res_pmid, pmid, [geo,])
+                geo_keys = Slicer.GEO(geo)
+                res_geo = Utils.key_update(res_geo, geo_keys, [pmid,])
+                pmid_keys = Slicer.PMID(pmid)
+                res_pmid = Utils.key_update(res_pmid, pmid_keys, [geo,])
         # export to geo_pmid.json
         file_geo = Utils.to_json(res_geo, self.outdir, 'geo_pmid.json')
         # export to pmid_geo.json
@@ -91,7 +94,8 @@ class ParseSoft:
             softer = SearchSoft(infile)
             geo, _ids = softer.sample_id()
             if geo and _ids:
-                res = Utils.geo_update(res, geo, _ids)
+                geo_keys = Slicer.GEO(geo)
+                res = Utils.key_update(res, geo_keys, _ids)
         # export to json
         outfile = Utils.to_json(res, self.outdir, 'geo_sampleid.json')
         return outfile
@@ -105,7 +109,8 @@ class ParseSoft:
             softer = SearchSoft(infile)
             geo, samples = softer.samples()
             if geo and samples:
-                res = Utils.geo_update(res, geo, samples)
+                geo_keys = Slicer.GEO(geo)
+                res = Utils.key_update(res, geo_keys, samples)
         # export to json
         outfile = Utils.to_json(res, self.outdir, 'geo_samples.json')
         return outfile
@@ -119,7 +124,8 @@ class ParseSoft:
             softer = SearchSoft(infile)
             pmid, sample_ids = softer.pmid_sampleid()
             if pmid and sample_ids:
-                res = Utils.pmid_update(res, pmid, sample_ids)
+                pmid_keys = Slicer.PMID(pmid)
+                res = Utils.key_update(res, pmid_keys, sample_ids)
         # export to json
         outfile = Utils.to_json(res, self.outdir, 'pmid_samples.json')
         return outfile

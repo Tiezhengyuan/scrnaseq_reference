@@ -1,0 +1,135 @@
+{
+    "GEO": "GSE155515",
+    "PMID": [
+        "34497273"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155515",
+    "platform": [
+        {
+            "platform_id": "GPL16791",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4705606": {
+            "BioSample": "SAMN15690496",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690496",
+            "Reanalysis of": "GSM3502715",
+            "SRA": "SRX8862323",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862323",
+            "SRR": {
+                "SRR12363062": {},
+                "SRR12363063": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "36",
+                "cell_type": "small airway epithelium (SAE)",
+                "ethnicity": "Asian-Pacificlslander",
+                "gender": "F",
+                "smoking_status": "nonsmoker"
+            },
+            "sample_id": "GSM4705606",
+            "scrnaseq": false
+        },
+        "GSM4705607": {
+            "BioSample": "SAMN15690495",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690495",
+            "Reanalysis of": "GSM3502716",
+            "SRA": "SRX8862324",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862324",
+            "SRR": {
+                "SRR12363064": {},
+                "SRR12363065": {},
+                "SRR12363066": {},
+                "SRR12363067": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "21",
+                "cell_type": "small airway epithelium (SAE)",
+                "ethnicity": "Caucasian",
+                "gender": "F",
+                "smoking_status": "nonsmoker"
+            },
+            "sample_id": "GSM4705607",
+            "scrnaseq": false
+        },
+        "GSM4705608": {
+            "BioSample": "SAMN15690493",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690493",
+            "Reanalysis of": "GSM3502717",
+            "SRA": "SRX8862325",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862325",
+            "SRR": {
+                "SRR12363068": {},
+                "SRR12363069": {},
+                "SRR12363070": {},
+                "SRR12363071": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "22",
+                "cell_type": "small airway epithelium (SAE)",
+                "ethnicity": "African",
+                "gender": "F",
+                "smoking_status": "nonsmoker"
+            },
+            "sample_id": "GSM4705608",
+            "scrnaseq": false
+        },
+        "GSM4705609": {
+            "BioSample": "SAMN15690491",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690491",
+            "Reanalysis of": "GSM3502718",
+            "SRA": "SRX8862326",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862326",
+            "SRR": {
+                "SRR12363072": {},
+                "SRR12363073": {},
+                "SRR12363074": {},
+                "SRR12363075": {},
+                "SRR12363076": {},
+                "SRR12363077": {},
+                "SRR12363078": {},
+                "SRR12363079": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "57",
+                "cell_type": "small airway epithelium (SAE)",
+                "ethnicity": "African",
+                "gender": "M",
+                "smoking_status": "smoker"
+            },
+            "sample_id": "GSM4705609",
+            "scrnaseq": false
+        },
+        "GSM4705610": {
+            "BioSample": "SAMN15690489",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690489",
+            "Reanalysis of": "GSM3502719",
+            "SRA": "SRX8862327",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862327",
+            "SRR": {
+                "SRR12363080": {},
+                "SRR12363081": {},
+                "SRR12363082": {},
+                "SRR12363083": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "39",
+                "cell_type": "small airway epithelium (SAE)",
+                "ethnicity": "Asian-Pacificlslander",
+                "gender": "M",
+                "smoking_status": "smoker"
+            },
+            "sample_id": "GSM4705610",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Smoking shifts Human Airway Epithelium Club Cells toward a Lesser Differentiated Population"
+}

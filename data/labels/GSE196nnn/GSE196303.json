@@ -1,0 +1,198 @@
+{
+    "GEO": "GSE196303",
+    "PMID": [
+        "35262195"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196303",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5870246": {
+            "BioSample": "SAMN25737244",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737244",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870246",
+            "scrnaseq": false
+        },
+        "GSM5870247": {
+            "BioSample": "SAMN25737245",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737245",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870247",
+            "scrnaseq": false
+        },
+        "GSM5870248": {
+            "BioSample": "SAMN25737246",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737246",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870248",
+            "scrnaseq": false
+        },
+        "GSM5870249": {
+            "BioSample": "SAMN25737247",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737247",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870249",
+            "scrnaseq": false
+        },
+        "GSM5870250": {
+            "BioSample": "SAMN25737248",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737248",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "Atypical carcinoid",
+                "tissue_type": "Lung Carcinoid Tumor",
+                "tnm_stage": "pT2b pN2 (2/16) G2 R0 L0 V0 Pn1"
+            },
+            "sample_id": "GSM5870250",
+            "scrnaseq": false
+        },
+        "GSM5870251": {
+            "BioSample": "SAMN25737249",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737249",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870251",
+            "scrnaseq": false
+        },
+        "GSM5870252": {
+            "BioSample": "SAMN25737250",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737250",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870252",
+            "scrnaseq": false
+        },
+        "GSM5870253": {
+            "BioSample": "SAMN25737251",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737251",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870253",
+            "scrnaseq": false
+        },
+        "GSM5870254": {
+            "BioSample": "SAMN25737252",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737252",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870254",
+            "scrnaseq": false
+        },
+        "GSM5870255": {
+            "BioSample": "SAMN25737210",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737210",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870255",
+            "scrnaseq": false
+        },
+        "GSM5870256": {
+            "BioSample": "SAMN25737211",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737211",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "Typical carcinoid",
+                "tissue_type": "Lung Carcinoid Tumor",
+                "tnm_stage": "pT1b pN0 (0/30) G1 R0 L0 V0 Pn0"
+            },
+            "sample_id": "GSM5870256",
+            "scrnaseq": false
+        },
+        "GSM5870257": {
+            "BioSample": "SAMN25737212",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737212",
+            "SRR": {},
+            "Sample_description": [
+                "single-cell RNA sequencing"
+            ],
+            "characteristics": {
+                "histological_subtype": "na",
+                "tissue_type": "Normal Lung",
+                "tnm_stage": "na"
+            },
+            "sample_id": "GSM5870257",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Single cell profiling of lung carcinoid tumors"
+}

@@ -1,0 +1,337 @@
+{
+    "GEO": "GSE180063",
+    "PMID": [
+        "35421379"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180063",
+    "platform": [
+        {
+            "platform_id": "GPL30391",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "NextSeq 2000 (Homo sapiens; Mus musculus; Severe acute respiratory syndrome coronavirus 2)"
+        }
+    ],
+    "samples": {
+        "GSM5452189": {
+            "BioSample": "SAMN20207181",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207181",
+            "SRA": "SRX11438983",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438983",
+            "SRR": {
+                "SRR15130351": {},
+                "SRR15130352": {},
+                "SRR15130353": {},
+                "SRR15130354": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "N/A",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "7163",
+                "group": "Naive",
+                "inoculation_dose": "N/A",
+                "mouse_strain": "NRG",
+                "time_point": "N/A",
+                "tissue": "Fetal lung tissue",
+                "treatment": "N/A"
+            },
+            "sample_id": "GSM5452189",
+            "scrnaseq": true
+        },
+        "GSM5452190": {
+            "BioSample": "SAMN20207180",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207180",
+            "SRA": "SRX11438984",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438984",
+            "SRR": {
+                "SRR15130355": {},
+                "SRR15130356": {},
+                "SRR15130357": {},
+                "SRR15130358": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "N/A",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "7163",
+                "group": "Naive",
+                "inoculation_dose": "N/A",
+                "mouse_strain": "NRG",
+                "time_point": "N/A",
+                "tissue": "Fetal lung tissue",
+                "treatment": "N/A"
+            },
+            "sample_id": "GSM5452190",
+            "scrnaseq": true
+        },
+        "GSM5452191": {
+            "BioSample": "SAMN20207179",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207179",
+            "SRA": "SRX11438985",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438985",
+            "SRR": {
+                "SRR15130359": {},
+                "SRR15130360": {},
+                "SRR15130361": {},
+                "SRR15130362": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "N/A",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "7165",
+                "group": "Naive",
+                "inoculation_dose": "N/A",
+                "mouse_strain": "NRG",
+                "time_point": "N/A",
+                "tissue": "Fetal lung tissue",
+                "treatment": "N/A"
+            },
+            "sample_id": "GSM5452191",
+            "scrnaseq": true
+        },
+        "GSM5452192": {
+            "BioSample": "SAMN20207178",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207178",
+            "SRA": "SRX11438986",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438986",
+            "SRR": {
+                "SRR15130363": {},
+                "SRR15130364": {},
+                "SRR15130365": {},
+                "SRR15130366": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "1477",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "Naive",
+                "inoculation_dose": "N/A",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "N/A",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452192",
+            "scrnaseq": true
+        },
+        "GSM5452193": {
+            "BioSample": "SAMN20207177",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207177",
+            "SRA": "SRX11438987",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438987",
+            "SRR": {
+                "SRR15130367": {},
+                "SRR15130368": {},
+                "SRR15130369": {},
+                "SRR15130370": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "1477",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "2DPI",
+                "inoculation_dose": "1x10^6 PFU",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "2 days post infection",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452193",
+            "scrnaseq": true
+        },
+        "GSM5452194": {
+            "BioSample": "SAMN20207176",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207176",
+            "SRA": "SRX11438988",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438988",
+            "SRR": {
+                "SRR15130371": {},
+                "SRR15130372": {},
+                "SRR15130373": {},
+                "SRR15130374": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "1430",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "Naive",
+                "inoculation_dose": "N/A",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "N/A",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452194",
+            "scrnaseq": true
+        },
+        "GSM5452195": {
+            "BioSample": "SAMN20207175",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207175",
+            "SRA": "SRX11438989",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438989",
+            "SRR": {
+                "SRR15130375": {},
+                "SRR15130376": {},
+                "SRR15130377": {},
+                "SRR15130378": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "1430",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "7DPI",
+                "inoculation_dose": "1x10^6 PFU",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "7 days post infection",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452195",
+            "scrnaseq": true
+        },
+        "GSM5452196": {
+            "BioSample": "SAMN20207174",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207174",
+            "SRA": "SRX11438990",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438990",
+            "SRR": {
+                "SRR15130379": {},
+                "SRR15130380": {},
+                "SRR15130381": {},
+                "SRR15130382": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "6676",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "7DPI",
+                "inoculation_dose": "1x10^6 PFU",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "7 days post infection",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452196",
+            "scrnaseq": true
+        },
+        "GSM5452197": {
+            "BioSample": "SAMN20207173",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207173",
+            "SRA": "SRX11438991",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438991",
+            "SRR": {
+                "SRR15130383": {},
+                "SRR15130384": {},
+                "SRR15130385": {},
+                "SRR15130386": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "1430",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "7DPI",
+                "inoculation_dose": "1x10^6 PFU",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "7 days post infection",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452197",
+            "scrnaseq": true
+        },
+        "GSM5452198": {
+            "BioSample": "SAMN20207172",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207172",
+            "SRA": "SRX11438992",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438992",
+            "SRR": {
+                "SRR15130387": {},
+                "SRR15130388": {},
+                "SRR15130389": {},
+                "SRR15130390": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "1430",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "2DPI",
+                "inoculation_dose": "1x10^6 PFU",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "2 days post infection",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452198",
+            "scrnaseq": true
+        },
+        "GSM5452199": {
+            "BioSample": "SAMN20207171",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20207171",
+            "SRA": "SRX11438993",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11438993",
+            "SRR": {
+                "SRR15130391": {},
+                "SRR15130392": {},
+                "SRR15130393": {},
+                "SRR15130394": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "scRNA"
+            ],
+            "characteristics": {
+                "cd34+_hsc_donor": "6676",
+                "disease_state": "SARS-CoV-2 WA-isolate",
+                "fetal_lung_tissue_donor": "6588",
+                "group": "2DPI",
+                "inoculation_dose": "1x10^6 PFU",
+                "mouse_strain": "NRG Flk2-/-",
+                "time_point": "2 days post infection",
+                "tissue": "CD34+ Human HSC ; Fetal lung tissue",
+                "treatment": "AAV-hFlt3L"
+            },
+            "sample_id": "GSM5452199",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "9606",
+    "title": "Macrophages govern antiviral responses in human lung tissues protected from SARS-CoV-2 infection"
+}

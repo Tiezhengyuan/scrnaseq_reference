@@ -1,0 +1,750 @@
+{
+    "GEO": "GSE135893",
+    "PMID": [
+        "32832598"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135893",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4037297": {
+            "BioSample": "SAMN12587375",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587375",
+            "SRA": "SRX6726365",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726365",
+            "SRR": {
+                "SRR9985297": {},
+                "SRR9985298": {},
+                "SRR9985299": {},
+                "SRR9985300": {},
+                "SRR9985301": {},
+                "SRR9985302": {},
+                "SRR9985303": {},
+                "SRR9985304": {},
+                "SRR9985305": {},
+                "SRR9985306": {},
+                "SRR9985307": {},
+                "SRR9985308": {},
+                "SRR9985309": {},
+                "SRR9985310": {},
+                "SRR9985311": {},
+                "SRR9985312": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037297",
+            "scrnaseq": false
+        },
+        "GSM4037298": {
+            "BioSample": "SAMN12587374",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587374",
+            "SRA": "SRX6726366",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726366",
+            "SRR": {
+                "SRR9985313": {},
+                "SRR9985314": {},
+                "SRR9985315": {},
+                "SRR9985316": {},
+                "SRR9985317": {},
+                "SRR9985318": {},
+                "SRR9985319": {},
+                "SRR9985320": {},
+                "SRR9985321": {},
+                "SRR9985322": {},
+                "SRR9985323": {},
+                "SRR9985324": {},
+                "SRR9985325": {},
+                "SRR9985326": {},
+                "SRR9985327": {},
+                "SRR9985328": {},
+                "SRR9985329": {},
+                "SRR9985330": {},
+                "SRR9985331": {},
+                "SRR9985332": {},
+                "SRR9985333": {},
+                "SRR9985334": {},
+                "SRR9985335": {},
+                "SRR9985336": {},
+                "SRR9985337": {},
+                "SRR9985338": {},
+                "SRR9985339": {},
+                "SRR9985340": {},
+                "SRR9985341": {},
+                "SRR9985342": {},
+                "SRR9985343": {},
+                "SRR9985344": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037298",
+            "scrnaseq": false
+        },
+        "GSM4037299": {
+            "BioSample": "SAMN12587373",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587373",
+            "SRA": "SRX6726367",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726367",
+            "SRR": {
+                "SRR9985345": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037299",
+            "scrnaseq": false
+        },
+        "GSM4037300": {
+            "BioSample": "SAMN12587372",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587372",
+            "SRA": "SRX6726368",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726368",
+            "SRR": {
+                "SRR9985346": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037300",
+            "scrnaseq": false
+        },
+        "GSM4037301": {
+            "BioSample": "SAMN12587371",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587371",
+            "SRA": "SRX6726369",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726369",
+            "SRR": {
+                "SRR9985347": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037301",
+            "scrnaseq": false
+        },
+        "GSM4037302": {
+            "BioSample": "SAMN12587370",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587370",
+            "SRA": "SRX6726370",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726370",
+            "SRR": {
+                "SRR10368214": {},
+                "SRR9985349": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037302",
+            "scrnaseq": false
+        },
+        "GSM4037303": {
+            "BioSample": "SAMN12587369",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587369",
+            "SRA": "SRX6726371",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726371",
+            "SRR": {
+                "SRR9985350": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037303",
+            "scrnaseq": false
+        },
+        "GSM4037304": {
+            "BioSample": "SAMN12587368",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587368",
+            "SRA": "SRX6726372",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726372",
+            "SRR": {
+                "SRR9985351": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037304",
+            "scrnaseq": false
+        },
+        "GSM4037305": {
+            "BioSample": "SAMN12587367",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587367",
+            "SRA": "SRX6726373",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726373",
+            "SRR": {
+                "SRR9985352": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037305",
+            "scrnaseq": false
+        },
+        "GSM4037306": {
+            "BioSample": "SAMN12587366",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587366",
+            "SRA": "SRX6726374",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726374",
+            "SRR": {
+                "SRR9985353": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037306",
+            "scrnaseq": false
+        },
+        "GSM4037307": {
+            "BioSample": "SAMN12587365",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587365",
+            "SRA": "SRX6726375",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726375",
+            "SRR": {
+                "SRR9985354": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037307",
+            "scrnaseq": false
+        },
+        "GSM4037308": {
+            "BioSample": "SAMN12587364",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587364",
+            "SRA": "SRX6726376",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726376",
+            "SRR": {
+                "SRR9985355": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037308",
+            "scrnaseq": false
+        },
+        "GSM4037309": {
+            "BioSample": "SAMN12587363",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587363",
+            "SRA": "SRX6726377",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726377",
+            "SRR": {
+                "SRR9985356": {},
+                "SRR9985357": {},
+                "SRR9985358": {},
+                "SRR9985359": {},
+                "SRR9985360": {},
+                "SRR9985361": {},
+                "SRR9985362": {},
+                "SRR9985363": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037309",
+            "scrnaseq": false
+        },
+        "GSM4037310": {
+            "BioSample": "SAMN12587362",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587362",
+            "SRA": "SRX6726378",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726378",
+            "SRR": {
+                "SRR9985364": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037310",
+            "scrnaseq": false
+        },
+        "GSM4037311": {
+            "BioSample": "SAMN12587361",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587361",
+            "SRA": "SRX6726379",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726379",
+            "SRR": {
+                "SRR9985365": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037311",
+            "scrnaseq": false
+        },
+        "GSM4037312": {
+            "BioSample": "SAMN12587360",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587360",
+            "SRA": "SRX6726380",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726380",
+            "SRR": {
+                "SRR9985366": {},
+                "SRR9985367": {},
+                "SRR9985368": {},
+                "SRR9985369": {},
+                "SRR9985370": {},
+                "SRR9985371": {},
+                "SRR9985372": {},
+                "SRR9985373": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037312",
+            "scrnaseq": false
+        },
+        "GSM4037313": {
+            "BioSample": "SAMN12587359",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587359",
+            "SRA": "SRX6726381",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726381",
+            "SRR": {
+                "SRR9985374": {},
+                "SRR9985375": {},
+                "SRR9985376": {},
+                "SRR9985377": {},
+                "SRR9985378": {},
+                "SRR9985379": {},
+                "SRR9985380": {},
+                "SRR9985381": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037313",
+            "scrnaseq": false
+        },
+        "GSM4037314": {
+            "BioSample": "SAMN12587358",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587358",
+            "SRA": "SRX6726382",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726382",
+            "SRR": {
+                "SRR9985382": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037314",
+            "scrnaseq": false
+        },
+        "GSM4037315": {
+            "BioSample": "SAMN12587357",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587357",
+            "SRA": "SRX6726383",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726383",
+            "SRR": {
+                "SRR9985383": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037315",
+            "scrnaseq": false
+        },
+        "GSM4037316": {
+            "BioSample": "SAMN12587356",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587356",
+            "SRA": "SRX6726384",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726384",
+            "SRR": {
+                "SRR10368215": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037316",
+            "scrnaseq": false
+        },
+        "GSM4037317": {
+            "BioSample": "SAMN12587355",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587355",
+            "SRA": "SRX6726385",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726385",
+            "SRR": {
+                "SRR9985385": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037317",
+            "scrnaseq": false
+        },
+        "GSM4037318": {
+            "BioSample": "SAMN12587354",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587354",
+            "SRA": "SRX6726386",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726386",
+            "SRR": {
+                "SRR9985386": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037318",
+            "scrnaseq": false
+        },
+        "GSM4037319": {
+            "BioSample": "SAMN12587353",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587353",
+            "SRA": "SRX6726387",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726387",
+            "SRR": {
+                "SRR9985387": {},
+                "SRR9985388": {},
+                "SRR9985389": {},
+                "SRR9985390": {},
+                "SRR9985391": {},
+                "SRR9985392": {},
+                "SRR9985396": {},
+                "SRR9985397": {},
+                "SRR9985398": {},
+                "SRR9985399": {},
+                "SRR9985400": {},
+                "SRR9985401": {},
+                "SRR9985402": {},
+                "SRR9985403": {},
+                "SRR9985404": {},
+                "SRR9985405": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037319",
+            "scrnaseq": false
+        },
+        "GSM4037320": {
+            "BioSample": "SAMN12587352",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587352",
+            "SRA": "SRX6726388",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726388",
+            "SRR": {
+                "SRR9985406": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037320",
+            "scrnaseq": false
+        },
+        "GSM4037321": {
+            "BioSample": "SAMN12587351",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587351",
+            "SRA": "SRX6726389",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726389",
+            "SRR": {
+                "SRR9985407": {},
+                "SRR9985408": {},
+                "SRR9985409": {},
+                "SRR9985410": {},
+                "SRR9985411": {},
+                "SRR9985412": {},
+                "SRR9985413": {},
+                "SRR9985414": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037321",
+            "scrnaseq": false
+        },
+        "GSM4037322": {
+            "BioSample": "SAMN12587386",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587386",
+            "SRA": "SRX6726390",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726390",
+            "SRR": {
+                "SRR9985415": {},
+                "SRR9985416": {},
+                "SRR9985417": {},
+                "SRR9985418": {},
+                "SRR9985419": {},
+                "SRR9985420": {},
+                "SRR9985421": {},
+                "SRR9985422": {},
+                "SRR9985423": {},
+                "SRR9985424": {},
+                "SRR9985425": {},
+                "SRR9985426": {},
+                "SRR9985427": {},
+                "SRR9985428": {},
+                "SRR9985429": {},
+                "SRR9985430": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037322",
+            "scrnaseq": false
+        },
+        "GSM4037323": {
+            "BioSample": "SAMN12587385",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587385",
+            "SRA": "SRX6726391",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726391",
+            "SRR": {
+                "SRR9985431": {},
+                "SRR9985432": {},
+                "SRR9985433": {},
+                "SRR9985434": {},
+                "SRR9985435": {},
+                "SRR9985436": {},
+                "SRR9985437": {},
+                "SRR9985438": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037323",
+            "scrnaseq": false
+        },
+        "GSM4037324": {
+            "BioSample": "SAMN12587384",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587384",
+            "SRA": "SRX6726392",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726392",
+            "SRR": {
+                "SRR9985439": {},
+                "SRR9985440": {},
+                "SRR9985441": {},
+                "SRR9985442": {},
+                "SRR9985443": {},
+                "SRR9985492": {},
+                "SRR9985493": {},
+                "SRR9985494": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037324",
+            "scrnaseq": false
+        },
+        "GSM4037325": {
+            "BioSample": "SAMN12587383",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587383",
+            "SRA": "SRX6726393",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726393",
+            "SRR": {
+                "SRR9985495": {},
+                "SRR9985496": {},
+                "SRR9985497": {},
+                "SRR9985498": {},
+                "SRR9985499": {},
+                "SRR9985500": {},
+                "SRR9985501": {},
+                "SRR9985502": {},
+                "SRR9985503": {},
+                "SRR9985504": {},
+                "SRR9985505": {},
+                "SRR9985506": {},
+                "SRR9985507": {},
+                "SRR9985508": {},
+                "SRR9985509": {},
+                "SRR9985510": {},
+                "SRR9985511": {},
+                "SRR9985512": {},
+                "SRR9985513": {},
+                "SRR9985514": {},
+                "SRR9985515": {},
+                "SRR9985516": {},
+                "SRR9985517": {},
+                "SRR9985518": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037325",
+            "scrnaseq": false
+        },
+        "GSM4037326": {
+            "BioSample": "SAMN12587382",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587382",
+            "SRA": "SRX6726394",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726394",
+            "SRR": {
+                "SRR9985519": {},
+                "SRR9985520": {},
+                "SRR9985521": {},
+                "SRR9985522": {},
+                "SRR9985523": {},
+                "SRR9985524": {},
+                "SRR9985525": {},
+                "SRR9985526": {},
+                "SRR9985527": {},
+                "SRR9985528": {},
+                "SRR9985529": {},
+                "SRR9985530": {},
+                "SRR9985531": {},
+                "SRR9985532": {},
+                "SRR9985533": {},
+                "SRR9985534": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037326",
+            "scrnaseq": false
+        },
+        "GSM4037327": {
+            "BioSample": "SAMN12587381",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587381",
+            "SRA": "SRX6726395",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726395",
+            "SRR": {
+                "SRR9985444": {},
+                "SRR9985445": {},
+                "SRR9985446": {},
+                "SRR9985535": {},
+                "SRR9985536": {},
+                "SRR9985537": {},
+                "SRR9985538": {},
+                "SRR9985539": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037327",
+            "scrnaseq": false
+        },
+        "GSM4037328": {
+            "BioSample": "SAMN12587380",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587380",
+            "SRA": "SRX6726396",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726396",
+            "SRR": {
+                "SRR9985447": {},
+                "SRR9985448": {},
+                "SRR9985449": {},
+                "SRR9985450": {},
+                "SRR9985451": {},
+                "SRR9985452": {},
+                "SRR9985453": {},
+                "SRR9985454": {},
+                "SRR9985455": {},
+                "SRR9985456": {},
+                "SRR9985457": {},
+                "SRR9985458": {},
+                "SRR9985459": {},
+                "SRR9985460": {},
+                "SRR9985461": {},
+                "SRR9985462": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037328",
+            "scrnaseq": false
+        },
+        "GSM4037329": {
+            "BioSample": "SAMN12587379",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12587379",
+            "SRA": "SRX6726397",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6726397",
+            "SRR": {
+                "SRR9985463": {},
+                "SRR9985464": {},
+                "SRR9985465": {},
+                "SRR9985466": {},
+                "SRR9985467": {},
+                "SRR9985468": {},
+                "SRR9985469": {},
+                "SRR9985470": {},
+                "SRR9985471": {},
+                "SRR9985472": {},
+                "SRR9985473": {},
+                "SRR9985474": {},
+                "SRR9985475": {},
+                "SRR9985476": {},
+                "SRR9985477": {},
+                "SRR9985478": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "pulmonary fibrosis (PF)",
+                "tissue": "Lung Biopsy"
+            },
+            "sample_id": "GSM4037329",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Single-cell RNA-sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis"
+}

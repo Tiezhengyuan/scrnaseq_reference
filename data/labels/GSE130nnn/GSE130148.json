@@ -1,0 +1,72 @@
+{
+    "GEO": "GSE130148",
+    "PMID": [
+        "31209336"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130148",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3732848": {
+            "BioSample": "SAMN11477230",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11477230",
+            "SRR": {},
+            "Sample_description": [
+                "Drop-seq"
+            ],
+            "characteristics": {
+                "age": "62",
+                "gender": "Male",
+                "number_of_cells": "2189",
+                "segment": "lower lobe, left",
+                "smoker": "yes, >100py",
+                "tissue": "Parenchymal lung tissue"
+            },
+            "sample_id": "GSM3732848",
+            "scrnaseq": false
+        },
+        "GSM3732850": {
+            "BioSample": "SAMN11477229",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11477229",
+            "SRR": {},
+            "Sample_description": [
+                "Drop-seq"
+            ],
+            "characteristics": {
+                "age": "58",
+                "gender": "Male",
+                "number_of_cells": "3314",
+                "segment": "upper lobe, left",
+                "smoker": "yes, 45py",
+                "tissue": "Parenchymal lung tissue"
+            },
+            "sample_id": "GSM3732850",
+            "scrnaseq": false
+        },
+        "GSM3732852": {
+            "BioSample": "SAMN11477228",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11477228",
+            "SRR": {},
+            "Sample_description": [
+                "Drop-seq"
+            ],
+            "characteristics": {
+                "age": "58",
+                "gender": "Male",
+                "number_of_cells": "2485",
+                "segment": "main bronchus",
+                "smoker": "no",
+                "tissue": "Parenchymal lung tissue"
+            },
+            "sample_id": "GSM3732852",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Single cell RNA sequencing analysis of fresh resected human lung tissue"
+}

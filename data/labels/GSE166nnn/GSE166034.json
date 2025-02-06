@@ -1,0 +1,226 @@
+{
+    "GEO": "GSE166034",
+    "PMID": [
+        "33705361"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166034",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5060476": {
+            "BioSample": "SAMN17764629",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764629",
+            "SRA": "SRX10008397",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008397",
+            "SRR": {
+                "SRR13615000": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "BEC",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM5060476",
+            "scrnaseq": false
+        },
+        "GSM5060477": {
+            "BioSample": "SAMN17764628",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764628",
+            "SRA": "SRX10008398",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008398",
+            "SRR": {
+                "SRR13615001": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "BEC",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM5060477",
+            "scrnaseq": false
+        },
+        "GSM5060478": {
+            "BioSample": "SAMN17764627",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764627",
+            "SRA": "SRX10008399",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008399",
+            "SRR": {
+                "SRR13615002": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "BEC",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM5060478",
+            "scrnaseq": false
+        },
+        "GSM5060479": {
+            "BioSample": "SAMN17764626",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764626",
+            "SRA": "SRX10008400",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008400",
+            "SRR": {
+                "SRR13615003": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "BEC",
+                "treatment": "Doxorubicin 250nM"
+            },
+            "sample_id": "GSM5060479",
+            "scrnaseq": false
+        },
+        "GSM5060480": {
+            "BioSample": "SAMN17764625",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764625",
+            "SRA": "SRX10008401",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008401",
+            "SRR": {
+                "SRR13615004": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "BEC",
+                "treatment": "Doxorubicin 250nM"
+            },
+            "sample_id": "GSM5060480",
+            "scrnaseq": false
+        },
+        "GSM5060481": {
+            "BioSample": "SAMN17764624",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764624",
+            "SRA": "SRX10008402",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008402",
+            "SRR": {
+                "SRR13615005": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "BEC",
+                "treatment": "Doxorubicin 250nM"
+            },
+            "sample_id": "GSM5060481",
+            "scrnaseq": false
+        },
+        "GSM5060482": {
+            "BioSample": "SAMN17764623",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764623",
+            "SRA": "SRX10008403",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008403",
+            "SRR": {
+                "SRR13615006": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM5060482",
+            "scrnaseq": false
+        },
+        "GSM5060483": {
+            "BioSample": "SAMN17764622",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764622",
+            "SRA": "SRX10008404",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008404",
+            "SRR": {
+                "SRR13615007": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "DMSO"
+            },
+            "sample_id": "GSM5060483",
+            "scrnaseq": false
+        },
+        "GSM5060484": {
+            "BioSample": "SAMN17764659",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764659",
+            "SRA": "SRX10008405",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008405",
+            "SRR": {
+                "SRR13615008": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "Doxorubicin 500nM"
+            },
+            "sample_id": "GSM5060484",
+            "scrnaseq": false
+        },
+        "GSM5060485": {
+            "BioSample": "SAMN17764658",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764658",
+            "SRA": "SRX10008406",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008406",
+            "SRR": {
+                "SRR13615009": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "Doxorubicin 500nM"
+            },
+            "sample_id": "GSM5060485",
+            "scrnaseq": false
+        },
+        "GSM5060486": {
+            "BioSample": "SAMN17764657",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764657",
+            "SRA": "SRX10008407",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008407",
+            "SRR": {
+                "SRR13615010": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "H2O2 100uM"
+            },
+            "sample_id": "GSM5060486",
+            "scrnaseq": false
+        },
+        "GSM5060487": {
+            "BioSample": "SAMN17764656",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764656",
+            "SRA": "SRX10008408",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008408",
+            "SRR": {
+                "SRR13615011": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "H2O2 100uM"
+            },
+            "sample_id": "GSM5060487",
+            "scrnaseq": false
+        },
+        "GSM5060488": {
+            "BioSample": "SAMN17764655",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764655",
+            "SRA": "SRX10008409",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008409",
+            "SRR": {
+                "SRR13615012": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "SAEC",
+                "treatment": "H2O2 50uM"
+            },
+            "sample_id": "GSM5060488",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Characterizing senescent lung epithelial cells"
+}

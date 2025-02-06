@@ -1,0 +1,262 @@
+{
+    "GEO": "GSE128169",
+    "PMID": [
+        "31405848"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128169",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3666096": {
+            "BioSample": "SAMN11106021",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106021",
+            "SRR": {},
+            "Sample_description": [
+                "CONTROL 1"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "healthy control",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666096",
+            "scrnaseq": false
+        },
+        "GSM3666097": {
+            "BioSample": "SAMN11106020",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106020",
+            "SRR": {},
+            "Sample_description": [
+                "CONTROL 2"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "healthy control",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666097",
+            "scrnaseq": false
+        },
+        "GSM3666098": {
+            "BioSample": "SAMN11106019",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106019",
+            "SRR": {},
+            "Sample_description": [
+                "CONTROL 3"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "healthy control",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666098",
+            "scrnaseq": false
+        },
+        "GSM3666099": {
+            "BioSample": "SAMN11106018",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106018",
+            "SRR": {},
+            "Sample_description": [
+                "CONTROL 5"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "healthy control",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666099",
+            "scrnaseq": false
+        },
+        "GSM3666100": {
+            "BioSample": "SAMN11106017",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106017",
+            "SRR": {},
+            "Sample_description": [
+                "CONTROL 4"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "healthy control",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666100",
+            "scrnaseq": false
+        },
+        "GSM3666101": {
+            "BioSample": "SAMN11106029",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106029",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 2"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666101",
+            "scrnaseq": false
+        },
+        "GSM3666102": {
+            "BioSample": "SAMN11106024",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106024",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 1"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666102",
+            "scrnaseq": false
+        },
+        "GSM3666103": {
+            "BioSample": "SAMN11106023",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106023",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 4"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666103",
+            "scrnaseq": false
+        },
+        "GSM3666104": {
+            "BioSample": "SAMN11106022",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106022",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 3"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666104",
+            "scrnaseq": false
+        },
+        "GSM3666105": {
+            "BioSample": "SAMN11106028",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106028",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 6"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666105",
+            "scrnaseq": false
+        },
+        "GSM3666106": {
+            "BioSample": "SAMN11106027",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106027",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 5"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666106",
+            "scrnaseq": false
+        },
+        "GSM3666107": {
+            "BioSample": "SAMN11106026",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106026",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 8"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666107",
+            "scrnaseq": false
+        },
+        "GSM3666108": {
+            "BioSample": "SAMN11106025",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106025",
+            "SRR": {},
+            "Sample_description": [
+                "SSC 7"
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V2 chemistry",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (SSc-ILD) patient",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3666108",
+            "scrnaseq": false
+        },
+        "GSM3909673": {
+            "BioSample": "SAMN12151588",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12151588",
+            "SRR": {},
+            "Sample_description": [
+                "poly-adenylated RNA, surface protein expression with TotalSeq-A antibodies",
+                "CONTROL 6",
+                "This sample was sequenced twice-- once on the NextSeq 500 and once on the NovaSeq 6000. The output .h5 file contains the combined data from both of these instruments following alignment to the GRCh38 reference genome."
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V3 chemistry + CITE-Seq Feature Barcoding with BioLegend Total-Seq A antibodies",
+                "disease_state": "healthy donor",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3909673",
+            "scrnaseq": false
+        },
+        "GSM3909674": {
+            "BioSample": "SAMN12151587",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12151587",
+            "SRR": {},
+            "Sample_description": [
+                "poly-adenylated RNA, surface protein expression with TotalSeq-A antibodies",
+                "SSC 9/10",
+                "This sample was sequenced twice-- once on the NextSeq 500 and once on the NovaSeq 6000. The output .h5 file contains the combined data from both of these instruments following alignment to the GRCh38 reference genome."
+            ],
+            "characteristics": {
+                "10x_genomics_chemistry": "10X Genomics 3 Prime V3 chemistry + Cell Hashing HTO + CITE-Seq Feature Barcoding with BioLegend Total-Seq A antibodies",
+                "disease_state": "scleroderma patient",
+                "lung_section/portion": "mix of hashtagged upper  lobe + hashtagged lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3909674",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Single-cell analysis reveals fibroblast heterogeneity and myofibroblasts in systemic sclerosis-associated interstitial lung disease"
+}

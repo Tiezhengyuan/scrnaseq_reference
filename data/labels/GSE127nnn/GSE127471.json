@@ -1,0 +1,17 @@
+{
+    "GEO": "GSE127471",
+    "PMID": [
+        "31061481"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE127471",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {},
+    "taxid": "9606",
+    "title": "High-throughput tissue dissection and cell purification with digital cytometry [scRNA-Seq]"
+}

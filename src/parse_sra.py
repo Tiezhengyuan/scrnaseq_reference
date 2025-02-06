@@ -1,18 +1,11 @@
 '''
+parse SRA data into GEO data
 ftp.ncbi.nlm.nih.gov/sra/reports/Metadata/SRA_Accessions.tab
-
-Accession       Submission      Status  Updated Published       
-Received        Type    Center  Visibility      Alias   
-Experiment      Sample  Study   Loaded  Spots   Bases   
-Md5sum  BioSample       BioProject      ReplacedBy
-
 '''
 import re
 import os
-import json
 import subprocess
 from typing import Iterable
-
 
 from utils import Utils
 from slicer import Slicer
@@ -23,10 +16,14 @@ class ParseSra:
         self.local_dir = local_dir
         self.outdir = outdir
 
-
     def line_iter(self) -> Iterable:
         '''
         read SRA_Accessions.tab
+        columns:
+        Accession       Submission      Status  Updated Published       
+        Received        Type    Center  Visibility      Alias   
+        Experiment      Sample  Study   Loaded  Spots   Bases   
+        Md5sum  BioSample       BioProject      ReplacedBy
         '''
         url = 'ftp.ncbi.nlm.nih.gov/sra/reports/Metadata/SRA_Accessions.tab'
         infile = os.path.join(self.local_dir, url)
@@ -89,6 +86,25 @@ class ParseSra:
         parse SRR given biosample accession
         '''
         samples = enriched_data['samples']
+        for sample_id, sample in samples.items():
+            key = sample.get('BioSample')
+            if key:
+                if 'SRR' not in samples[sample_id]:
+                    sample['SRR'] = {}
+                biosample_keys = Slicer.BioSample(key)
+                values = Utils.key_get(samn_srr, biosample_keys)
+                for srr_acc in values:
+                    if srr_acc not in sample['SRR']:
+                        sample['SRR'][srr_acc] = {}
+        return enriched_data
+
+    #TODO
+    @staticmethod
+    def parse_srr_fastq(enriched_data:dict, samn_srr:dict, fastq_dir:str=None):
+        '''
+        parse SRR given biosample accession
+        '''
+        samples = enriched_data['samples']
         for sample_id in samples:
             key = samples[sample_id].get('BioSample')
             if key:
@@ -96,12 +112,15 @@ class ParseSra:
                 values = Utils.key_get(samn_srr, biosample_keys)
                 srr_info = {}
                 for srr_acc in values:
-                    fq_path = Utils.fastq_gz_path(srr_acc, fastq_dir)
-                    srr_info[srr_acc] = fq_path if fq_path else ''
+                    srr_info[srr_acc] = Utils.fastq_gz_path(srr_acc, fastq_dir)
                 samples[sample_id]['SRR'] = srr_info
         return enriched_data
-    
+
     def move_srr_fastq(self):
+        '''
+        Organize SRR FASTQ
+        move SRR*.fastq.gz to a certain directory
+        '''
         n = m = 0
         file_iter = Utils.file_pattern_iter(self.local_dir, '.fastq.gz')
         for path in file_iter:

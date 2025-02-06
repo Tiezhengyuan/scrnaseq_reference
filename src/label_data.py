@@ -1,6 +1,10 @@
+'''
+Prepare GEO data, which will be used for downloading and labaling
+'''
 import os
 import json
 from utils import Utils
+from slicer import Slicer
 
 class LabelData:
     http = 'https://www.ncbi.nlm.nih.gov/geo'
@@ -10,14 +14,6 @@ class LabelData:
     def __init__(self, data_dir:str=None):
         self.data_dir = data_dir if data_dir else \
             '/home/yuan/bio/scrnaseq_reference/data'
-
-    def json_iter(self):
-        '''
-        scan all data from json
-        '''
-        file_iter = Utils.file_pattern_iter(self.data_dir, '.json')
-        for path in file_iter:
-            yield Utils.from_json(path)
 
     def load(self, geo:str, sample_ids:list=None):
         curr = self.from_json(geo)
@@ -38,18 +34,24 @@ class LabelData:
         return data
 
     def from_json(self, geo:str):
+        '''
+        retrieve data given a GEO from local json
+        '''
         data = {}
-        infile = os.path.join(self.data_dir, f"{geo}.json")
-        if os.path.isfile(infile):
-            with open(infile, 'r') as f:
-                data = json.load(f)
+        geo_key = Slicer.GEO(geo)[0]
+        indir = Utils.init_dir(self.data_dir, [geo_key,])
+        infile = os.path.join(indir, f"{geo}.json")
+        data = Utils.from_json(infile)
         return data
 
     def save(self, data:dict):
+        '''
+        save save to the local path in json format
+        '''
         geo = data['GEO']
-        outfile = os.path.join(self.data_dir, f"{geo}.json")
-        with open(outfile, 'w') as f:
-            json.dump(data, f, indent=4, sort_keys=True)
+        geo_key = Slicer.GEO(geo)[0]
+        outdir = Utils.init_dir(self.data_dir, [geo_key,])
+        outfile = Utils.to_json(data, outdir, f"{geo}.json")
         return outfile
     
 

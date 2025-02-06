@@ -1,0 +1,495 @@
+{
+    "GEO": "GSE180908",
+    "PMID": [
+        "35421379"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180908",
+    "platform": [
+        {
+            "platform_id": "GPL30440",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "DNBSEQ-T7 (Homo sapiens; Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM5474858": {
+            "BioSample": "SAMN20434239",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434239",
+            "SRA": "SRX11569478",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569478",
+            "SRR": {
+                "SRR15264217": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample01"
+            ],
+            "characteristics": {
+                "group": "Naive",
+                "harvest_dpi": "0",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "0.00E+00",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "None"
+            },
+            "sample_id": "GSM5474858",
+            "scrnaseq": false
+        },
+        "GSM5474859": {
+            "BioSample": "SAMN20434240",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434240",
+            "SRA": "SRX11569479",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569479",
+            "SRR": {
+                "SRR15264218": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample02"
+            ],
+            "characteristics": {
+                "group": "Naive",
+                "harvest_dpi": "0",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "0.00E+00",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "None"
+            },
+            "sample_id": "GSM5474859",
+            "scrnaseq": false
+        },
+        "GSM5474860": {
+            "BioSample": "SAMN20434241",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434241",
+            "SRA": "SRX11569480",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569480",
+            "SRR": {
+                "SRR15264219": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample03"
+            ],
+            "characteristics": {
+                "group": "Naive",
+                "harvest_dpi": "0",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "0.00E+00",
+                "xenograft_donor_id": "6538",
+                "xenograft_pair": "None"
+            },
+            "sample_id": "GSM5474860",
+            "scrnaseq": false
+        },
+        "GSM5474861": {
+            "BioSample": "SAMN20434242",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434242",
+            "SRA": "SRX11569481",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569481",
+            "SRR": {
+                "SRR15264220": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample04"
+            ],
+            "characteristics": {
+                "group": "Naive",
+                "harvest_dpi": "0",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "0.00E+00",
+                "xenograft_donor_id": "6538",
+                "xenograft_pair": "None"
+            },
+            "sample_id": "GSM5474861",
+            "scrnaseq": false
+        },
+        "GSM5474862": {
+            "BioSample": "SAMN20434243",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434243",
+            "SRA": "SRX11569482",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569482",
+            "SRR": {
+                "SRR15264221": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample05"
+            ],
+            "characteristics": {
+                "group": "Naive",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "1.77E+04",
+                "xenograft_donor_id": "6497",
+                "xenograft_pair": "None"
+            },
+            "sample_id": "GSM5474862",
+            "scrnaseq": false
+        },
+        "GSM5474863": {
+            "BioSample": "SAMN20434244",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434244",
+            "SRA": "SRX11569483",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569483",
+            "SRR": {
+                "SRR15264222": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample06"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "2DPI",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "++",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "2.36E+08",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Single"
+            },
+            "sample_id": "GSM5474863",
+            "scrnaseq": false
+        },
+        "GSM5474864": {
+            "BioSample": "SAMN20434245",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434245",
+            "SRA": "SRX11569484",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569484",
+            "SRR": {
+                "SRR15264223": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Severe coagulative necrosis attributed to thrombosis of large vessels",
+                "sample07"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "2DPI",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "++",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "1.01E+09",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "Discordant"
+            },
+            "sample_id": "GSM5474864",
+            "scrnaseq": false
+        },
+        "GSM5474865": {
+            "BioSample": "SAMN20434246",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434246",
+            "SRA": "SRX11569485",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569485",
+            "SRR": {
+                "SRR15264224": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample08"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "2DPI",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "++",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "1.30E+09",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Discordant"
+            },
+            "sample_id": "GSM5474865",
+            "scrnaseq": false
+        },
+        "GSM5474866": {
+            "BioSample": "SAMN20434350",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434350",
+            "SRA": "SRX11569486",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569486",
+            "SRR": {
+                "SRR15264225": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample09"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "2DPI",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "+++",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "8.30E+07",
+                "xenograft_donor_id": "6538",
+                "xenograft_pair": "Discordant"
+            },
+            "sample_id": "GSM5474866",
+            "scrnaseq": false
+        },
+        "GSM5474867": {
+            "BioSample": "SAMN20434351",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434351",
+            "SRA": "SRX11569487",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569487",
+            "SRR": {
+                "SRR15264226": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Severe edema and fibrin thrombosis",
+                "sample10"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "4.38E+07",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Paired"
+            },
+            "sample_id": "GSM5474867",
+            "scrnaseq": false
+        },
+        "GSM5474868": {
+            "BioSample": "SAMN20434352",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434352",
+            "SRA": "SRX11569488",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569488",
+            "SRR": {
+                "SRR15264227": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Severe edema and fibrin thrombosis",
+                "sample11"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "4.38E+07",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Paired"
+            },
+            "sample_id": "GSM5474868",
+            "scrnaseq": false
+        },
+        "GSM5474869": {
+            "BioSample": "SAMN20434353",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434353",
+            "SRA": "SRX11569489",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569489",
+            "SRR": {
+                "SRR15264228": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Severe coagulative necrosis attributed to thrombosis of large vessels",
+                "sample12"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "++",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "8.53E+07",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Paired"
+            },
+            "sample_id": "GSM5474869",
+            "scrnaseq": false
+        },
+        "GSM5474870": {
+            "BioSample": "SAMN20434354",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434354",
+            "SRA": "SRX11569490",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569490",
+            "SRR": {
+                "SRR15264229": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Severe coagulative necrosis attributed to thrombosis of large vessels",
+                "sample13"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+++",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "2.58E+08",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "Paired"
+            },
+            "sample_id": "GSM5474870",
+            "scrnaseq": false
+        },
+        "GSM5474871": {
+            "BioSample": "SAMN20434355",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434355",
+            "SRA": "SRX11569491",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569491",
+            "SRR": {
+                "SRR15264230": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung",
+                "sample14"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "1.07E+08",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Paired"
+            },
+            "sample_id": "GSM5474871",
+            "scrnaseq": false
+        },
+        "GSM5474872": {
+            "BioSample": "SAMN20434356",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434356",
+            "SRA": "SRX11569492",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569492",
+            "SRR": {
+                "SRR15264231": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung",
+                "sample15"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "1.54E+06",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "Paired"
+            },
+            "sample_id": "GSM5474872",
+            "scrnaseq": false
+        },
+        "GSM5474873": {
+            "BioSample": "SAMN20434357",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434357",
+            "SRA": "SRX11569493",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569493",
+            "SRR": {
+                "SRR15264232": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "focal area of immunoreactivity; thrombosis with inflammation and hemorrhage",
+                "sample16"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "1.05E+08",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "Single"
+            },
+            "sample_id": "GSM5474873",
+            "scrnaseq": false
+        },
+        "GSM5474874": {
+            "BioSample": "SAMN20434358",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434358",
+            "SRA": "SRX11569494",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569494",
+            "SRR": {
+                "SRR15264233": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Rare pneumocyte; mild rare thromobisis edema hemorrhage and inflammation",
+                "sample17"
+            ],
+            "characteristics": {
+                "agent": "SARS-CoV-2",
+                "group": "7DPI",
+                "harvest_dpi": "7",
+                "sars-cov-2_ihc": "+",
+                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
+                "viral_copies/mg_tissue": "8.46E+06",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "Single"
+            },
+            "sample_id": "GSM5474874",
+            "scrnaseq": false
+        },
+        "GSM5474875": {
+            "BioSample": "SAMN20434359",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434359",
+            "SRA": "SRX11569495",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569495",
+            "SRR": {
+                "SRR15264234": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample18"
+            ],
+            "characteristics": {
+                "group": "Contralateral",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "6.64E+05",
+                "xenograft_donor_id": "6522",
+                "xenograft_pair": "Discordant"
+            },
+            "sample_id": "GSM5474875",
+            "scrnaseq": false
+        },
+        "GSM5474876": {
+            "BioSample": "SAMN20434360",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434360",
+            "SRA": "SRX11569496",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569496",
+            "SRR": {
+                "SRR15264235": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "sample19"
+            ],
+            "characteristics": {
+                "group": "Contralateral",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "None",
+                "viral_copies/mg_tissue": "9.24E+05",
+                "xenograft_donor_id": "6588",
+                "xenograft_pair": "Discordant"
+            },
+            "sample_id": "GSM5474876",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Macrophages govern antiviral responses in human lung tissues protected from SARS-CoV-2 infection"
+}

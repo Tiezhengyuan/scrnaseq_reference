@@ -1,0 +1,170 @@
+{
+    "GEO": "GSE125188",
+    "PMID": [
+        "32351704"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125188",
+    "platform": [
+        {
+            "platform_id": "GPL20795",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "HiSeq X Ten (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3564834": {
+            "BioSample": "SAMN10755966",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755966",
+            "SRA": "SRX5255152",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255152",
+            "SRR": {
+                "SRR8448139": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "blood"
+            },
+            "sample_id": "GSM3564834",
+            "scrnaseq": false
+        },
+        "GSM3564835": {
+            "BioSample": "SAMN10755965",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755965",
+            "SRA": "SRX5255153",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255153",
+            "SRR": {
+                "SRR8448140": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "spleen"
+            },
+            "sample_id": "GSM3564835",
+            "scrnaseq": false
+        },
+        "GSM3564836": {
+            "BioSample": "SAMN10755964",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755964",
+            "SRA": "SRX5255154",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255154",
+            "SRR": {
+                "SRR8448141": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "liver"
+            },
+            "sample_id": "GSM3564836",
+            "scrnaseq": false
+        },
+        "GSM3564837": {
+            "BioSample": "SAMN10755963",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755963",
+            "SRA": "SRX5255155",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255155",
+            "SRR": {
+                "SRR8448142": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "blood"
+            },
+            "sample_id": "GSM3564837",
+            "scrnaseq": false
+        },
+        "GSM3564838": {
+            "BioSample": "SAMN10755962",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755962",
+            "SRA": "SRX5255156",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255156",
+            "SRR": {
+                "SRR8448143": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "spleen"
+            },
+            "sample_id": "GSM3564838",
+            "scrnaseq": false
+        },
+        "GSM3564839": {
+            "BioSample": "SAMN10755961",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755961",
+            "SRA": "SRX5255157",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255157",
+            "SRR": {
+                "SRR8448144": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "liver"
+            },
+            "sample_id": "GSM3564839",
+            "scrnaseq": false
+        },
+        "GSM3564840": {
+            "BioSample": "SAMN10755960",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755960",
+            "SRA": "SRX5255158",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255158",
+            "SRR": {
+                "SRR8448145": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "blood"
+            },
+            "sample_id": "GSM3564840",
+            "scrnaseq": false
+        },
+        "GSM3564841": {
+            "BioSample": "SAMN10755959",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755959",
+            "SRA": "SRX5255159",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255159",
+            "SRR": {
+                "SRR8448146": {},
+                "srr_acc": {}
+            },
+            "Sample_description": [
+                "Single-cell RNAseq data"
+            ],
+            "characteristics": {
+                "cell_type": "CD45+",
+                "tissue": "spleen"
+            },
+            "sample_id": "GSM3564841",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Single-cell RNA sequencing reveals the heterogeneity of liver-resident immune cells in human"
+}

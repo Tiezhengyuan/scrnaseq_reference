@@ -1,0 +1,113 @@
+{
+    "GEO": "GSE185044",
+    "PMID": [
+        "34707603"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185044",
+    "platform": [
+        {
+            "platform_id": "GPL17021",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM5603827": {
+            "BioSample": "SAMN21904216",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904216",
+            "SRA": "SRX12405303",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405303",
+            "SRR": {
+                "SRR16119834": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "Microglia",
+                "condition": "Wildtype",
+                "sex": "Male",
+                "strain": "p38alphaf/f Cre-",
+                "treatment": "EAE induced with 2XMOG/CFA"
+            },
+            "sample_id": "GSM5603827",
+            "scrnaseq": false
+        },
+        "GSM5603828": {
+            "BioSample": "SAMN21904215",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904215",
+            "SRA": "SRX12405304",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405304",
+            "SRR": {
+                "SRR16119833": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "Microglia",
+                "condition": "Wildtype",
+                "sex": "Male",
+                "strain": "p38alphaf/f Cre-",
+                "treatment": "EAE induced with 2XMOG/CFA"
+            },
+            "sample_id": "GSM5603828",
+            "scrnaseq": false
+        },
+        "GSM5603829": {
+            "BioSample": "SAMN21904214",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904214",
+            "SRA": "SRX12405305",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405305",
+            "SRR": {
+                "SRR16119832": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "Microglia",
+                "condition": "Wildtype",
+                "sex": "Male",
+                "strain": "p38alphaf/f Cre-",
+                "treatment": "EAE induced with 2XMOG/CFA"
+            },
+            "sample_id": "GSM5603829",
+            "scrnaseq": false
+        },
+        "GSM5603830": {
+            "BioSample": "SAMN21904213",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904213",
+            "SRA": "SRX12405306",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405306",
+            "SRR": {
+                "SRR16119831": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "Microglia",
+                "condition": "Conditional Knock Out",
+                "sex": "Male",
+                "strain": "p38alphaCKOCx3cr1-ER",
+                "treatment": "EAE induced with 2XMOG/CFA"
+            },
+            "sample_id": "GSM5603830",
+            "scrnaseq": false
+        },
+        "GSM5603831": {
+            "BioSample": "SAMN21904212",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904212",
+            "SRA": "SRX12405307",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405307",
+            "SRR": {
+                "SRR16119830": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "cell_type": "Microglia",
+                "condition": "Conditional Knock Out",
+                "sex": "Male",
+                "strain": "p38alphaCKOCx3cr1-ER",
+                "treatment": "EAE induced with 2XMOG/CFA"
+            },
+            "sample_id": "GSM5603831",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "10090",
+    "title": "p38 MAP kinase signaling in microglia plays a sex-specific protective role in CNS autoimmunity and regulates microglial transcriptional states [male]"
+}

@@ -1,0 +1,231 @@
+{
+    "GEO": "GSE128033",
+    "PMID": [
+        "31221805",
+        "37706427"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128033",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3660641": {
+            "BioSample": "SAMN11086908",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086908",
+            "Reanalyzed by": "GSM5206782",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660641",
+            "scrnaseq": false
+        },
+        "GSM3660642": {
+            "BioSample": "SAMN11086907",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086907",
+            "Reanalyzed by": "GSM5206783",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660642",
+            "scrnaseq": false
+        },
+        "GSM3660643": {
+            "BioSample": "SAMN11086906",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086906",
+            "Reanalyzed by": "GSM5206784",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660643",
+            "scrnaseq": false
+        },
+        "GSM3660644": {
+            "BioSample": "SAMN11086905",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086905",
+            "Reanalyzed by": "GSM5206785",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660644",
+            "scrnaseq": false
+        },
+        "GSM3660645": {
+            "BioSample": "SAMN11086904",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086904",
+            "Reanalyzed by": "GSM5206786",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660645",
+            "scrnaseq": false
+        },
+        "GSM3660646": {
+            "BioSample": "SAMN11086903",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086903",
+            "Reanalyzed by": "GSM5206787",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660646",
+            "scrnaseq": false
+        },
+        "GSM3660647": {
+            "BioSample": "SAMN11086902",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086902",
+            "Reanalyzed by": "GSM5206788",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660647",
+            "scrnaseq": false
+        },
+        "GSM3660648": {
+            "BioSample": "SAMN11086901",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086901",
+            "Reanalyzed by": "GSM5206789",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660648",
+            "scrnaseq": false
+        },
+        "GSM3660649": {
+            "BioSample": "SAMN11086900",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086900",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "frozen Brochoalvelolar lavage (BAL) cells",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660649",
+            "scrnaseq": false
+        },
+        "GSM3660650": {
+            "BioSample": "SAMN11086899",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086899",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "normal/healthy donor",
+                "lung_section/portion": "fresh Brochoalvelolar lavage (BAL) + brush cells",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660650",
+            "scrnaseq": false
+        },
+        "GSM3660651": {
+            "BioSample": "SAMN11086898",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086898",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660651",
+            "scrnaseq": false
+        },
+        "GSM3660652": {
+            "BioSample": "SAMN11086897",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086897",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660652",
+            "scrnaseq": false
+        },
+        "GSM3660653": {
+            "BioSample": "SAMN11086896",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086896",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660653",
+            "scrnaseq": false
+        },
+        "GSM3660654": {
+            "BioSample": "SAMN11086895",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086895",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660654",
+            "scrnaseq": false
+        },
+        "GSM3660655": {
+            "BioSample": "SAMN11086894",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086894",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "upper lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660655",
+            "scrnaseq": false
+        },
+        "GSM3660656": {
+            "BioSample": "SAMN11086893",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086893",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660656",
+            "scrnaseq": false
+        },
+        "GSM3660657": {
+            "BioSample": "SAMN11086892",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11086892",
+            "SRR": {},
+            "characteristics": {
+                "disease_state": "idiopathic pulmonary fibrosis (IPF)",
+                "lung_section/portion": "lower lobe lung",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM3660657",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Proliferating SPP1/MERTK-expressing macrophages in idiopathic pulmonary fibrosis"
+}

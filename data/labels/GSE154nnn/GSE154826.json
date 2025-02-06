@@ -1,0 +1,3727 @@
+{
+    "GEO": "GSE154826",
+    "PMID": [
+        "34767762"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154826",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4680740": {
+            "BioSample": "SAMN14266271",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266271",
+            "SRA": "SRX7830690",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830690",
+            "SRR": {
+                "SRR11218342": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "normal_370_HYJJ7BGXY",
+                "patient_id": "370",
+                "samplename_old": "normal_370",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680740",
+            "scrnaseq": true
+        },
+        "GSM4680741": {
+            "BioSample": "SAMN14266289",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266289",
+            "SRA": "SRX7830637",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830637",
+            "SRR": {
+                "SRR11218397": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "tumor_370_HYJJ7BGXY",
+                "patient_id": "370",
+                "samplename_old": "tumor_370",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680741",
+            "scrnaseq": true
+        },
+        "GSM4680742": {
+            "BioSample": "SAMN14266326",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266326",
+            "SRA": "SRX7830675",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830675",
+            "SRR": {
+                "SRR11218356": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "normal_371_HYJJ7BGXY",
+                "patient_id": "371",
+                "samplename_old": "normal_371",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680742",
+            "scrnaseq": true
+        },
+        "GSM4680743": {
+            "BioSample": "SAMN14266300",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266300",
+            "SRA": "SRX7830536",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830536",
+            "SRR": {
+                "SRR11218497": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "tumor_371_HYJJ7BGXY",
+                "patient_id": "371",
+                "samplename_old": "tumor_371",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680743",
+            "scrnaseq": true
+        },
+        "GSM4680744": {
+            "BioSample": "SAMN14266257",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266257",
+            "SRA": "SRX7830570",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830570",
+            "SRR": {
+                "SRR11218464": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "normal_377_HGKWGBGX2",
+                "patient_id": "377",
+                "samplename_old": "normal_377",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680744",
+            "scrnaseq": true
+        },
+        "GSM4680745": {
+            "BioSample": "SAMN14266302",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266302",
+            "SRA": "SRX7830539",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830539",
+            "SRR": {
+                "SRR11218494": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "tumor_377_HGKWGBGX2",
+                "patient_id": "377",
+                "samplename_old": "tumor_377",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680745",
+            "scrnaseq": true
+        },
+        "GSM4680746": {
+            "BioSample": "SAMN14266265",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266265",
+            "SRA": "SRX7830679",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830679",
+            "SRR": {
+                "SRR11218353": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "378N_run199",
+                "patient_id": "378",
+                "samplename_old": "378N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680746",
+            "scrnaseq": true
+        },
+        "GSM4680747": {
+            "BioSample": "SAMN14266255",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266255",
+            "SRA": "SRX7830568",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830568",
+            "SRR": {
+                "SRR11218466": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "378T_run199",
+                "patient_id": "378",
+                "samplename_old": "378T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680747",
+            "scrnaseq": true
+        },
+        "GSM4680748": {
+            "BioSample": "SAMN14266286",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266286",
+            "SRA": "SRX7830631",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830631",
+            "SRR": {
+                "SRR11218402": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "178_run338",
+                "patient_id": "393",
+                "samplename_old": "178",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680748",
+            "scrnaseq": true
+        },
+        "GSM4680749": {
+            "BioSample": "SAMN14266312",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266312",
+            "SRA": "SRX7830651",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830651",
+            "SRR": {
+                "SRR11218380": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "403N_run214",
+                "patient_id": "403",
+                "samplename_old": "403N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680749",
+            "scrnaseq": true
+        },
+        "GSM4680750": {
+            "BioSample": "SAMN14266304",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266304",
+            "SRA": "SRX7830541",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830541",
+            "SRR": {
+                "SRR11218492": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "403T_run214",
+                "patient_id": "403",
+                "samplename_old": "403T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680750",
+            "scrnaseq": true
+        },
+        "GSM4680751": {
+            "BioSample": "SAMN14266295",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266295",
+            "SRA": "SRX7830643",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830643",
+            "SRR": {
+                "SRR11218389": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "406N_run214",
+                "patient_id": "406",
+                "samplename_old": "406N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680751",
+            "scrnaseq": true
+        },
+        "GSM4680752": {
+            "BioSample": "SAMN14266239",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266239",
+            "SRA": "SRX7830600",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830600",
+            "SRR": {
+                "SRR11218433": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "406T_run214",
+                "patient_id": "406",
+                "samplename_old": "406T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680752",
+            "scrnaseq": true
+        },
+        "GSM4680753": {
+            "BioSample": "SAMN14266290",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266290",
+            "SRA": "SRX7830638",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830638",
+            "SRR": {
+                "SRR11218395": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "normal_408_H3TWNBGX3",
+                "patient_id": "408",
+                "samplename_old": "normal_408",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680753",
+            "scrnaseq": true
+        },
+        "GSM4680754": {
+            "BioSample": "SAMN14266341",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266341",
+            "SRA": "SRX7830603",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830603",
+            "SRR": {
+                "SRR11218430": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "tumor_408_H3TWNBGX3",
+                "patient_id": "408",
+                "samplename_old": "tumor_408",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680754",
+            "scrnaseq": true
+        },
+        "GSM4680755": {
+            "BioSample": "SAMN14266336",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266336",
+            "SRA": "SRX7830593",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830593",
+            "SRR": {
+                "SRR11218439": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "normal_410_H3TWNBGX3",
+                "patient_id": "410",
+                "samplename_old": "normal_410",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680755",
+            "scrnaseq": true
+        },
+        "GSM4680756": {
+            "BioSample": "SAMN14266306",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266306",
+            "SRA": "SRX7830546",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830546",
+            "SRR": {
+                "SRR11218388": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "tumor_410_H3TWNBGX3",
+                "patient_id": "410",
+                "samplename_old": "tumor_410",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680756",
+            "scrnaseq": true
+        },
+        "GSM4680757": {
+            "BioSample": "SAMN15590905",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590905",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "458N",
+                "patient_id": "458",
+                "samplename_old": "458N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680757",
+            "scrnaseq": true
+        },
+        "GSM4680758": {
+            "BioSample": "SAMN15590904",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590904",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "458T",
+                "patient_id": "458",
+                "samplename_old": "458T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680758",
+            "scrnaseq": true
+        },
+        "GSM4680759": {
+            "BioSample": "SAMN14266226",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266226",
+            "SRA": "SRX7830531",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830531",
+            "SRR": {
+                "SRR11218502": {},
+                "SRR11218503": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "460N_run276",
+                "patient_id": "460",
+                "samplename_old": "460N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680759",
+            "scrnaseq": true
+        },
+        "GSM4680760": {
+            "BioSample": "SAMN14266226",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266226",
+            "SRA": "SRX7830530",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830530",
+            "SRR": {
+                "SRR11218502": {},
+                "SRR11218503": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "460N_run278",
+                "patient_id": "460",
+                "samplename_old": "460N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680760",
+            "scrnaseq": true
+        },
+        "GSM4680761": {
+            "BioSample": "SAMN14266332",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266332",
+            "SRA": "SRX7830587",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830587",
+            "SRR": {
+                "SRR11218445": {},
+                "SRR11218446": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "460T_run276",
+                "patient_id": "460",
+                "samplename_old": "460T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680761",
+            "scrnaseq": true
+        },
+        "GSM4680762": {
+            "BioSample": "SAMN14266332",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266332",
+            "SRA": "SRX7830586",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830586",
+            "SRR": {
+                "SRR11218445": {},
+                "SRR11218446": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "460T_run278",
+                "patient_id": "460",
+                "samplename_old": "460T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680762",
+            "scrnaseq": true
+        },
+        "GSM4680763": {
+            "BioSample": "SAMN15590903",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590903",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "464N",
+                "patient_id": "464",
+                "samplename_old": "464N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680763",
+            "scrnaseq": true
+        },
+        "GSM4680764": {
+            "BioSample": "SAMN15590902",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590902",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "464T",
+                "patient_id": "464",
+                "samplename_old": "464T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680764",
+            "scrnaseq": true
+        },
+        "GSM4680765": {
+            "BioSample": "SAMN14266270",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266270",
+            "SRA": "SRX7830689",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830689",
+            "SRR": {
+                "SRR11218343": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "514N_run323",
+                "patient_id": "514",
+                "samplename_old": "514N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680765",
+            "scrnaseq": true
+        },
+        "GSM4680766": {
+            "BioSample": "SAMN14266264",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266264",
+            "SRA": "SRX7830678",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830678",
+            "SRR": {
+                "SRR11218354": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "514T_run323",
+                "patient_id": "514",
+                "samplename_old": "514T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680766",
+            "scrnaseq": true
+        },
+        "GSM4680767": {
+            "BioSample": "SAMN14266242",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266242",
+            "SRA": "SRX7830610",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830610",
+            "SRR": {
+                "SRR11218423": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "BM174N_run332",
+                "patient_id": "522",
+                "samplename_old": "BM174N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680767",
+            "scrnaseq": true
+        },
+        "GSM4680768": {
+            "BioSample": "SAMN14266244",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266244",
+            "SRA": "SRX7830547",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830547",
+            "SRR": {
+                "SRR11218487": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "BM174T_run332",
+                "patient_id": "522",
+                "samplename_old": "BM174T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680768",
+            "scrnaseq": true
+        },
+        "GSM4680769": {
+            "BioSample": "SAMN14266278",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266278",
+            "SRA": "SRX7830619",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830619",
+            "SRR": {
+                "SRR11218414": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "532N_run344",
+                "patient_id": "532",
+                "samplename_old": "532N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680769",
+            "scrnaseq": true
+        },
+        "GSM4680770": {
+            "BioSample": "SAMN14266229",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266229",
+            "SRA": "SRX7830576",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830576",
+            "SRR": {
+                "SRR11218458": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "532T_run344",
+                "patient_id": "532",
+                "samplename_old": "532T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680770",
+            "scrnaseq": true
+        },
+        "GSM4680771": {
+            "BioSample": "SAMN14266308",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266308",
+            "SRA": "SRX7830646",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830646",
+            "SRR": {
+                "SRR11218386": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "558T_run378",
+                "patient_id": "558",
+                "samplename_old": "558T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680771",
+            "scrnaseq": true
+        },
+        "GSM4680772": {
+            "BioSample": "SAMN15590901",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590901",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "564N",
+                "patient_id": "564",
+                "samplename_old": "564N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680772",
+            "scrnaseq": true
+        },
+        "GSM4680773": {
+            "BioSample": "SAMN15590900",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590900",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "564T",
+                "patient_id": "564",
+                "samplename_old": "564T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680773",
+            "scrnaseq": true
+        },
+        "GSM4680774": {
+            "BioSample": "SAMN14266294",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266294",
+            "SRA": "SRX7830642",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830642",
+            "SRR": {
+                "SRR11218391": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "569N_run393",
+                "patient_id": "569",
+                "samplename_old": "569N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680774",
+            "scrnaseq": true
+        },
+        "GSM4680775": {
+            "BioSample": "SAMN14266281",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266281",
+            "SRA": "SRX7830623",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830623",
+            "SRR": {
+                "SRR11218410": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "569T_run393",
+                "patient_id": "569",
+                "samplename_old": "569T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680775",
+            "scrnaseq": true
+        },
+        "GSM4680776": {
+            "BioSample": "SAMN14266280",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266280",
+            "SRA": "SRX7830621",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830621",
+            "SRR": {
+                "SRR11218411": {},
+                "SRR11218412": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "570N_run394",
+                "patient_id": "570",
+                "samplename_old": "570N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680776",
+            "scrnaseq": true
+        },
+        "GSM4680777": {
+            "BioSample": "SAMN14266280",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266280",
+            "SRA": "SRX7830622",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830622",
+            "SRR": {
+                "SRR11218411": {},
+                "SRR11218412": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "570N_run395",
+                "patient_id": "570",
+                "samplename_old": "570N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680777",
+            "scrnaseq": true
+        },
+        "GSM4680778": {
+            "BioSample": "SAMN14266269",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266269",
+            "SRA": "SRX7830687",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830687",
+            "SRR": {
+                "SRR11218344": {},
+                "SRR11218345": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "570T_run394",
+                "patient_id": "570",
+                "samplename_old": "570T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680778",
+            "scrnaseq": true
+        },
+        "GSM4680779": {
+            "BioSample": "SAMN14266269",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266269",
+            "SRA": "SRX7830688",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830688",
+            "SRR": {
+                "SRR11218344": {},
+                "SRR11218345": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "570T_run395",
+                "patient_id": "570",
+                "samplename_old": "570T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680779",
+            "scrnaseq": true
+        },
+        "GSM4680780": {
+            "BioSample": "SAMN14266292",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266292",
+            "SRA": "SRX7830639",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830639",
+            "SRR": {
+                "SRR11218393": {},
+                "SRR11218394": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "571T_run394",
+                "patient_id": "571",
+                "samplename_old": "571T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680780",
+            "scrnaseq": true
+        },
+        "GSM4680781": {
+            "BioSample": "SAMN14266292",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266292",
+            "SRA": "SRX7830640",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830640",
+            "SRR": {
+                "SRR11218393": {},
+                "SRR11218394": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "571T_run395",
+                "patient_id": "571",
+                "samplename_old": "571T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680781",
+            "scrnaseq": true
+        },
+        "GSM4680782": {
+            "BioSample": "SAMN14266324",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266324",
+            "SRA": "SRX7830669",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830669",
+            "SRR": {
+                "SRR11218361": {},
+                "SRR11218362": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "572N_run394",
+                "patient_id": "572",
+                "samplename_old": "572N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680782",
+            "scrnaseq": true
+        },
+        "GSM4680783": {
+            "BioSample": "SAMN14266324",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266324",
+            "SRA": "SRX7830670",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830670",
+            "SRR": {
+                "SRR11218361": {},
+                "SRR11218362": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "572N_run395",
+                "patient_id": "572",
+                "samplename_old": "572N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680783",
+            "scrnaseq": true
+        },
+        "GSM4680784": {
+            "BioSample": "SAMN14266309",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266309",
+            "SRA": "SRX7830647",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830647",
+            "SRR": {
+                "SRR11218384": {},
+                "SRR11218385": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "572T_run394",
+                "patient_id": "572",
+                "samplename_old": "572T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680784",
+            "scrnaseq": true
+        },
+        "GSM4680785": {
+            "BioSample": "SAMN14266309",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266309",
+            "SRA": "SRX7830648",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830648",
+            "SRR": {
+                "SRR11218384": {},
+                "SRR11218385": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "572T_run395",
+                "patient_id": "572",
+                "samplename_old": "572T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680785",
+            "scrnaseq": true
+        },
+        "GSM4680786": {
+            "BioSample": "SAMN15590899",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590899",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "578N",
+                "patient_id": "578",
+                "samplename_old": "578N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680786",
+            "scrnaseq": true
+        },
+        "GSM4680787": {
+            "BioSample": "SAMN15590898",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590898",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "578T",
+                "patient_id": "578",
+                "samplename_old": "578T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680787",
+            "scrnaseq": true
+        },
+        "GSM4680788": {
+            "BioSample": "SAMN14266256",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266256",
+            "SRA": "SRX7830569",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830569",
+            "SRR": {
+                "SRR11218465": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "581TN_run393",
+                "patient_id": "581",
+                "samplename_old": "581TN",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680788",
+            "scrnaseq": true
+        },
+        "GSM4680789": {
+            "BioSample": "SAMN14266334",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266334",
+            "SRA": "SRX7830590",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830590",
+            "SRR": {
+                "SRR11218442": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "581TN-A_run393",
+                "patient_id": "581",
+                "samplename_old": "581TN-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680789",
+            "scrnaseq": true
+        },
+        "GSM4680790": {
+            "BioSample": "SAMN14266238",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266238",
+            "SRA": "SRX7830589",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830589",
+            "SRR": {
+                "SRR11218443": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "581TN-H_run393",
+                "patient_id": "581",
+                "samplename_old": "581TN-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680790",
+            "scrnaseq": true
+        },
+        "GSM4680791": {
+            "BioSample": "SAMN14266260",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266260",
+            "SRA": "SRX7830575",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830575",
+            "SRR": {
+                "SRR11218459": {},
+                "SRR11218460": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "581N_run406",
+                "patient_id": "581",
+                "samplename_old": "581N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680791",
+            "scrnaseq": true
+        },
+        "GSM4680792": {
+            "BioSample": "SAMN14266260",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266260",
+            "SRA": "SRX7830574",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830574",
+            "SRR": {
+                "SRR11218459": {},
+                "SRR11218460": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "581N_run407",
+                "patient_id": "581",
+                "samplename_old": "581N",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680792",
+            "scrnaseq": true
+        },
+        "GSM4680793": {
+            "BioSample": "SAMN14266251",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266251",
+            "SRA": "SRX7830560",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830560",
+            "SRR": {
+                "SRR11218474": {},
+                "SRR11218475": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "581T_run406",
+                "patient_id": "581",
+                "samplename_old": "581T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680793",
+            "scrnaseq": true
+        },
+        "GSM4680794": {
+            "BioSample": "SAMN14266251",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266251",
+            "SRA": "SRX7830559",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830559",
+            "SRR": {
+                "SRR11218474": {},
+                "SRR11218475": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "581T_run407",
+                "patient_id": "581",
+                "samplename_old": "581T",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680794",
+            "scrnaseq": true
+        },
+        "GSM4680795": {
+            "BioSample": "SAMN14266322",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266322",
+            "SRA": "SRX7830667",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830667",
+            "SRR": {
+                "SRR11218364": {},
+                "SRR11218365": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "584TN1_run406",
+                "patient_id": "584",
+                "samplename_old": "584TN1",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680795",
+            "scrnaseq": true
+        },
+        "GSM4680796": {
+            "BioSample": "SAMN14266322",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266322",
+            "SRA": "SRX7830666",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830666",
+            "SRR": {
+                "SRR11218364": {},
+                "SRR11218365": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "584TN1_run407",
+                "patient_id": "584",
+                "samplename_old": "584TN1",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680796",
+            "scrnaseq": true
+        },
+        "GSM4680797": {
+            "BioSample": "SAMN14266258",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266258",
+            "SRA": "SRX7830571",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830571",
+            "SRR": {
+                "SRR11218463": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "584TN1-A_run405",
+                "patient_id": "584",
+                "samplename_old": "584TN1-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680797",
+            "scrnaseq": true
+        },
+        "GSM4680798": {
+            "BioSample": "SAMN14266291",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266291",
+            "SRA": "SRX7830635",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830635",
+            "SRR": {
+                "SRR11218396": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "584TN1-H_run402",
+                "patient_id": "584",
+                "samplename_old": "584TN1-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680798",
+            "scrnaseq": true
+        },
+        "GSM4680799": {
+            "BioSample": "SAMN14266236",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266236",
+            "SRA": "SRX7830663",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830663",
+            "SRR": {
+                "SRR11218368": {},
+                "SRR11218379": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "584TN2_run406",
+                "patient_id": "584",
+                "samplename_old": "584TN2",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680799",
+            "scrnaseq": true
+        },
+        "GSM4680800": {
+            "BioSample": "SAMN14266236",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266236",
+            "SRA": "SRX7830652",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830652",
+            "SRR": {
+                "SRR11218368": {},
+                "SRR11218379": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "584TN2_run407",
+                "patient_id": "584",
+                "samplename_old": "584TN2",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680800",
+            "scrnaseq": true
+        },
+        "GSM4680801": {
+            "BioSample": "SAMN14266298",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266298",
+            "SRA": "SRX7830533",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830533",
+            "SRR": {
+                "SRR11218500": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "584TN2-A_run405",
+                "patient_id": "584",
+                "samplename_old": "584TN2-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680801",
+            "scrnaseq": true
+        },
+        "GSM4680802": {
+            "BioSample": "SAMN14266331",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266331",
+            "SRA": "SRX7830585",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830585",
+            "SRR": {
+                "SRR11218448": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "584TN2-H_run404",
+                "patient_id": "584",
+                "samplename_old": "584TN2-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680802",
+            "scrnaseq": true
+        },
+        "GSM4680803": {
+            "BioSample": "SAMN14266342",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266342",
+            "SRA": "SRX7830604",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830604",
+            "SRR": {
+                "SRR11218429": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "593TN_run402",
+                "patient_id": "593",
+                "samplename_old": "593TN",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680803",
+            "scrnaseq": true
+        },
+        "GSM4680804": {
+            "BioSample": "SAMN14266288",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266288",
+            "SRA": "SRX7830634",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830634",
+            "SRR": {
+                "SRR11218399": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "593TN-A_run404",
+                "patient_id": "593",
+                "samplename_old": "593TN-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680804",
+            "scrnaseq": true
+        },
+        "GSM4680805": {
+            "BioSample": "SAMN14266240",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266240",
+            "SRA": "SRX7830605",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830605",
+            "SRR": {
+                "SRR11218428": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "593TN-H_run404",
+                "patient_id": "593",
+                "samplename_old": "593TN-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680805",
+            "scrnaseq": true
+        },
+        "GSM4680806": {
+            "BioSample": "SAMN14266276",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266276",
+            "SRA": "SRX7830616",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830616",
+            "SRR": {
+                "SRR11218417": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "596TN1_run420",
+                "patient_id": "596",
+                "samplename_old": "596TN1",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680806",
+            "scrnaseq": true
+        },
+        "GSM4680807": {
+            "BioSample": "SAMN14266272",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266272",
+            "SRA": "SRX7830691",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830691",
+            "SRR": {
+                "SRR11218341": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "596TN1-A_run411",
+                "patient_id": "596",
+                "samplename_old": "596TN1-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680807",
+            "scrnaseq": true
+        },
+        "GSM4680808": {
+            "BioSample": "SAMN14266285",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266285",
+            "SRA": "SRX7830630",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830630",
+            "SRR": {
+                "SRR11218403": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "596TN1-H_run404",
+                "patient_id": "596",
+                "samplename_old": "596TN1-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680808",
+            "scrnaseq": true
+        },
+        "GSM4680809": {
+            "BioSample": "SAMN14266273",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266273",
+            "SRA": "SRX7830692",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830692",
+            "SRR": {
+                "SRR11218340": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "596TN2_run420",
+                "patient_id": "596",
+                "samplename_old": "596TN2",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680809",
+            "scrnaseq": true
+        },
+        "GSM4680810": {
+            "BioSample": "SAMN14266328",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266328",
+            "SRA": "SRX7830581",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830581",
+            "SRR": {
+                "SRR11218452": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "596TN2-A_run411",
+                "patient_id": "596",
+                "samplename_old": "596TN2-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680810",
+            "scrnaseq": true
+        },
+        "GSM4680811": {
+            "BioSample": "SAMN14266279",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266279",
+            "SRA": "SRX7830620",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830620",
+            "SRR": {
+                "SRR11218413": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "596TN2-H_run420",
+                "patient_id": "596",
+                "samplename_old": "596TN2-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680811",
+            "scrnaseq": true
+        },
+        "GSM4680812": {
+            "BioSample": "SAMN14266316",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266316",
+            "SRA": "SRX7830657",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830657",
+            "SRR": {
+                "SRR11218374": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "630TN_run449",
+                "patient_id": "630",
+                "samplename_old": "630TN",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680812",
+            "scrnaseq": true
+        },
+        "GSM4680813": {
+            "BioSample": "SAMN14266261",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266261",
+            "SRA": "SRX7830577",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830577",
+            "SRR": {
+                "SRR11218457": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "630TN-A_run448",
+                "patient_id": "630",
+                "samplename_old": "630TN-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680813",
+            "scrnaseq": true
+        },
+        "GSM4680814": {
+            "BioSample": "SAMN14266234",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266234",
+            "SRA": "SRX7830532",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830532",
+            "SRR": {
+                "SRR11218501": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "630TN-H_run447",
+                "patient_id": "630",
+                "samplename_old": "630TN-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680814",
+            "scrnaseq": true
+        },
+        "GSM4680815": {
+            "BioSample": "SAMN14266250",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266250",
+            "SRA": "SRX7830558",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830558",
+            "SRR": {
+                "SRR11218476": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "626TN1_run507",
+                "patient_id": "626",
+                "samplename_old": "626TN1",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680815",
+            "scrnaseq": true
+        },
+        "GSM4680816": {
+            "BioSample": "SAMN14266227",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266227",
+            "SRA": "SRX7830608",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830608",
+            "SRR": {
+                "SRR11218425": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "626TN1-A_run513",
+                "patient_id": "626",
+                "samplename_old": "626TN1-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680816",
+            "scrnaseq": true
+        },
+        "GSM4680817": {
+            "BioSample": "SAMN14266327",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266327",
+            "SRA": "SRX7830676",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830676",
+            "SRR": {
+                "SRR11218454": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "626TN1-H_run438",
+                "patient_id": "626",
+                "samplename_old": "626TN1-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680817",
+            "scrnaseq": true
+        },
+        "GSM4680818": {
+            "BioSample": "SAMN14266231",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266231",
+            "SRA": "SRX7830613",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830613",
+            "SRR": {
+                "SRR11218420": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "626TN2_run508",
+                "patient_id": "626",
+                "samplename_old": "626TN2",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680818",
+            "scrnaseq": true
+        },
+        "GSM4680819": {
+            "BioSample": "SAMN14266323",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266323",
+            "SRA": "SRX7830668",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830668",
+            "SRR": {
+                "SRR11218363": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "626TN2-A_run513",
+                "patient_id": "626",
+                "samplename_old": "626TN2-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680819",
+            "scrnaseq": true
+        },
+        "GSM4680820": {
+            "BioSample": "SAMN14266307",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266307",
+            "SRA": "SRX7830645",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830645",
+            "SRR": {
+                "SRR11218387": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "626TN2-H_run438",
+                "patient_id": "626",
+                "samplename_old": "626TN2-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor"
+            },
+            "sample_id": "GSM4680820",
+            "scrnaseq": true
+        },
+        "GSM4680821": {
+            "BioSample": "SAMN14266268",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266268",
+            "SRA": "SRX7830686",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830686",
+            "SRR": {
+                "SRR11218346": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001v2A_run2",
+                "patient_id": "695",
+                "samplename_old": "7001v2A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680821",
+            "scrnaseq": true
+        },
+        "GSM4680822": {
+            "BioSample": "SAMN14266299",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266299",
+            "SRA": "SRX7830535",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830535",
+            "SRR": {
+                "SRR11218498": {},
+                "SRR11218499": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2A-A_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2A-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680822",
+            "scrnaseq": true
+        },
+        "GSM4680823": {
+            "BioSample": "SAMN14266299",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266299",
+            "SRA": "SRX7830534",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830534",
+            "SRR": {
+                "SRR11218498": {},
+                "SRR11218499": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2A-A_run6",
+                "patient_id": "695",
+                "samplename_old": "7001v2A-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680823",
+            "scrnaseq": true
+        },
+        "GSM4680824": {
+            "BioSample": "SAMN14266284",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266284",
+            "SRA": "SRX7830629",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830629",
+            "SRR": {
+                "SRR11218404": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7001v2A-H_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2A-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680824",
+            "scrnaseq": true
+        },
+        "GSM4680825": {
+            "BioSample": "SAMN14266319",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266319",
+            "SRA": "SRX7830660",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830660",
+            "SRR": {
+                "SRR11218371": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001v2B_run2",
+                "patient_id": "695",
+                "samplename_old": "7001v2B",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680825",
+            "scrnaseq": true
+        },
+        "GSM4680826": {
+            "BioSample": "SAMN14266335",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266335",
+            "SRA": "SRX7830592",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830592",
+            "SRR": {
+                "SRR11218440": {},
+                "SRR11218441": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2B-A_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2B-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680826",
+            "scrnaseq": true
+        },
+        "GSM4680827": {
+            "BioSample": "SAMN14266335",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266335",
+            "SRA": "SRX7830591",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830591",
+            "SRR": {
+                "SRR11218440": {},
+                "SRR11218441": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2B-A_run6",
+                "patient_id": "695",
+                "samplename_old": "7001v2B-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680827",
+            "scrnaseq": true
+        },
+        "GSM4680828": {
+            "BioSample": "SAMN14266340",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266340",
+            "SRA": "SRX7830602",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830602",
+            "SRR": {
+                "SRR11218431": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7001v2B-H_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2B-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680828",
+            "scrnaseq": true
+        },
+        "GSM4680829": {
+            "BioSample": "SAMN14266248",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266248",
+            "SRA": "SRX7830554",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830554",
+            "SRR": {
+                "SRR11218480": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001v2C_run2",
+                "patient_id": "695",
+                "samplename_old": "7001v2C",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680829",
+            "scrnaseq": true
+        },
+        "GSM4680830": {
+            "BioSample": "SAMN14266283",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266283",
+            "SRA": "SRX7830628",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830628",
+            "SRR": {
+                "SRR11218405": {},
+                "SRR11218406": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2C-A_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2C-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680830",
+            "scrnaseq": true
+        },
+        "GSM4680831": {
+            "BioSample": "SAMN14266283",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266283",
+            "SRA": "SRX7830627",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830627",
+            "SRR": {
+                "SRR11218405": {},
+                "SRR11218406": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2C-A_run6",
+                "patient_id": "695",
+                "samplename_old": "7001v2C-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680831",
+            "scrnaseq": true
+        },
+        "GSM4680832": {
+            "BioSample": "SAMN14266237",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266237",
+            "SRA": "SRX7830674",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830674",
+            "SRR": {
+                "SRR11218357": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7001v2C-H_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2C-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680832",
+            "scrnaseq": true
+        },
+        "GSM4680833": {
+            "BioSample": "SAMN14266296",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266296",
+            "SRA": "SRX7830644",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830644",
+            "SRR": {
+                "SRR11218390": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001v2D_run2",
+                "patient_id": "695",
+                "samplename_old": "7001v2D",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680833",
+            "scrnaseq": true
+        },
+        "GSM4680834": {
+            "BioSample": "SAMN14266228",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266228",
+            "SRA": "SRX7830565",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830565",
+            "SRR": {
+                "SRR11218469": {},
+                "SRR11218481": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2D-A_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2D-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680834",
+            "scrnaseq": true
+        },
+        "GSM4680835": {
+            "BioSample": "SAMN14266228",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266228",
+            "SRA": "SRX7830553",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830553",
+            "SRR": {
+                "SRR11218469": {},
+                "SRR11218481": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7001v2D-A_run6",
+                "patient_id": "695",
+                "samplename_old": "7001v2D-A",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680835",
+            "scrnaseq": true
+        },
+        "GSM4680836": {
+            "BioSample": "SAMN14266313",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266313",
+            "SRA": "SRX7830653",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830653",
+            "SRR": {
+                "SRR11218378": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7001v2D-H_run1",
+                "patient_id": "695",
+                "samplename_old": "7001v2D-H",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680836",
+            "scrnaseq": true
+        },
+        "GSM4680837": {
+            "BioSample": "SAMN14266249",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266249",
+            "SRA": "SRX7830556",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830556",
+            "SRR": {
+                "SRR11218477": {},
+                "SRR11218478": {},
+                "SRR11218479": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001N5_run0",
+                "patient_id": "695",
+                "samplename_old": "7001N5",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680837",
+            "scrnaseq": true
+        },
+        "GSM4680838": {
+            "BioSample": "SAMN14266249",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266249",
+            "SRA": "SRX7830555",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830555",
+            "SRR": {
+                "SRR11218477": {},
+                "SRR11218478": {},
+                "SRR11218479": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001N5_run3",
+                "patient_id": "695",
+                "samplename_old": "7001N5",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680838",
+            "scrnaseq": true
+        },
+        "GSM4680839": {
+            "BioSample": "SAMN14266249",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266249",
+            "SRA": "SRX7830557",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830557",
+            "SRR": {
+                "SRR11218477": {},
+                "SRR11218478": {},
+                "SRR11218479": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001N5_run4",
+                "patient_id": "695",
+                "samplename_old": "7001N5",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680839",
+            "scrnaseq": true
+        },
+        "GSM4680840": {
+            "BioSample": "SAMN14266254",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266254",
+            "SRA": "SRX7830567",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830567",
+            "SRR": {
+                "SRR11218467": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "TCR",
+                "libraryname": "7001N5-T_run5",
+                "patient_id": "695",
+                "samplename_old": "7001N5-T",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680840",
+            "scrnaseq": false
+        },
+        "GSM4680841": {
+            "BioSample": "SAMN14266230",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266230",
+            "SRA": "SRX7830683",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830683",
+            "SRR": {
+                "SRR11218349": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7001T5_run0",
+                "patient_id": "695",
+                "samplename_old": "7001T5",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680841",
+            "scrnaseq": true
+        },
+        "GSM4680842": {
+            "BioSample": "SAMN14266311",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266311",
+            "SRA": "SRX7830542",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830542",
+            "SRR": {
+                "SRR11218382": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "TCR",
+                "libraryname": "7001T5-T_run5",
+                "patient_id": "695",
+                "samplename_old": "7001T5-T",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680842",
+            "scrnaseq": false
+        },
+        "GSM4680843": {
+            "BioSample": "SAMN14266252",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266252",
+            "SRA": "SRX7830561",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830561",
+            "SRR": {
+                "SRR11218473": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "lib39_HCCC7BGX2",
+                "patient_id": "338",
+                "samplename_old": "lib39",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680843",
+            "scrnaseq": true
+        },
+        "GSM4680844": {
+            "BioSample": "SAMN14266330",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266330",
+            "SRA": "SRX7830584",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830584",
+            "SRR": {
+                "SRR11218449": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "lib40_HCCC7BGX2",
+                "patient_id": "338",
+                "samplename_old": "lib40",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680844",
+            "scrnaseq": true
+        },
+        "GSM4680845": {
+            "BioSample": "SAMN14266333",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266333",
+            "SRA": "SRX7830588",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830588",
+            "SRR": {
+                "SRR11218444": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "5TEST1N_run330",
+                "patient_id": "522",
+                "samplename_old": "5TEST1N",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680845",
+            "scrnaseq": true
+        },
+        "GSM4680846": {
+            "BioSample": "SAMN15032361",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15032361",
+            "SRA": "SRX8405473",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8405473",
+            "SRR": {
+                "SRR11855373": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "TCR",
+                "libraryname": "5TEST1N-T_run329",
+                "patient_id": "522",
+                "samplename_old": "5TEST1N-T",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680846",
+            "scrnaseq": false
+        },
+        "GSM4680847": {
+            "BioSample": "SAMN14266315",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266315",
+            "SRA": "SRX7830656",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830656",
+            "SRR": {
+                "SRR11218375": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "5TEST1T_run330",
+                "patient_id": "522",
+                "samplename_old": "5TEST1T",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680847",
+            "scrnaseq": true
+        },
+        "GSM4680848": {
+            "BioSample": "SAMN15032362",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15032362",
+            "SRA": "SRX8405474",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8405474",
+            "SRR": {
+                "SRR11855372": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "TCR",
+                "libraryname": "5TEST1T-T_run329",
+                "patient_id": "522",
+                "samplename_old": "5TEST1T-T",
+                "sex": "female",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680848",
+            "scrnaseq": false
+        },
+        "GSM4680849": {
+            "BioSample": "SAMN14266235",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266235",
+            "SRA": "SRX7830544",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830544",
+            "SRR": {
+                "SRR11218490": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "714T_run590",
+                "patient_id": "714",
+                "samplename_old": "714T",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680849",
+            "scrnaseq": true
+        },
+        "GSM4680850": {
+            "BioSample": "SAMN14266247",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266247",
+            "SRA": "SRX7830552",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830552",
+            "SRR": {
+                "SRR11218482": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "714N_run590",
+                "patient_id": "714",
+                "samplename_old": "714N",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680850",
+            "scrnaseq": true
+        },
+        "GSM4680851": {
+            "BioSample": "SAMN15590897",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590897",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "IN190329",
+                "patient_id": "729",
+                "samplename_old": "IN190329",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680851",
+            "scrnaseq": true
+        },
+        "GSM4680852": {
+            "BioSample": "SAMN15590896",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15590896",
+            "SRR": {},
+            "Sample_description": [
+                "patient did not consent to sharing of raw reads"
+            ],
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "IT190329",
+                "patient_id": "729",
+                "samplename_old": "IT190329",
+                "sex": "female",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680852",
+            "scrnaseq": true
+        },
+        "GSM4680853": {
+            "BioSample": "SAMN14266275",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266275",
+            "SRA": "SRX7830615",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830615",
+            "SRR": {
+                "SRR11218418": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "HS190415I_runbroad6",
+                "patient_id": "725",
+                "samplename_old": "HS190415I",
+                "sex": "female",
+                "technology": "3' V3",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680853",
+            "scrnaseq": true
+        },
+        "GSM4680854": {
+            "BioSample": "SAMN14266253",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266253",
+            "SRA": "SRX7830564",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830564",
+            "SRR": {
+                "SRR11218468": {},
+                "SRR11218470": {},
+                "SRR11218472": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2A_run7",
+                "patient_id": "706",
+                "samplename_old": "7002v2A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680854",
+            "scrnaseq": true
+        },
+        "GSM4680855": {
+            "BioSample": "SAMN14266253",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266253",
+            "SRA": "SRX7830562",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830562",
+            "SRR": {
+                "SRR11218468": {},
+                "SRR11218470": {},
+                "SRR11218472": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680855",
+            "scrnaseq": true
+        },
+        "GSM4680856": {
+            "BioSample": "SAMN14266253",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266253",
+            "SRA": "SRX7830566",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830566",
+            "SRR": {
+                "SRR11218468": {},
+                "SRR11218470": {},
+                "SRR11218472": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680856",
+            "scrnaseq": true
+        },
+        "GSM4680857": {
+            "BioSample": "SAMN14266338",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266338",
+            "SRA": "SRX7830597",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830597",
+            "SRR": {
+                "SRR11218435": {},
+                "SRR11218436": {},
+                "SRR11218437": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2A-A_run7",
+                "patient_id": "706",
+                "samplename_old": "7002v2A-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680857",
+            "scrnaseq": true
+        },
+        "GSM4680858": {
+            "BioSample": "SAMN14266338",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266338",
+            "SRA": "SRX7830596",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830596",
+            "SRR": {
+                "SRR11218435": {},
+                "SRR11218436": {},
+                "SRR11218437": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2A-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2A-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680858",
+            "scrnaseq": true
+        },
+        "GSM4680859": {
+            "BioSample": "SAMN14266338",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266338",
+            "SRA": "SRX7830598",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830598",
+            "SRR": {
+                "SRR11218435": {},
+                "SRR11218436": {},
+                "SRR11218437": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2A-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2A-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680859",
+            "scrnaseq": true
+        },
+        "GSM4680860": {
+            "BioSample": "SAMN14266267",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266267",
+            "SRA": "SRX7830684",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830684",
+            "SRR": {
+                "SRR11218347": {},
+                "SRR11218348": {},
+                "SRR11218350": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2A-H_run7",
+                "patient_id": "706",
+                "samplename_old": "7002v2A-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680860",
+            "scrnaseq": true
+        },
+        "GSM4680861": {
+            "BioSample": "SAMN14266267",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266267",
+            "SRA": "SRX7830682",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830682",
+            "SRR": {
+                "SRR11218347": {},
+                "SRR11218348": {},
+                "SRR11218350": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2A-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2A-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680861",
+            "scrnaseq": true
+        },
+        "GSM4680862": {
+            "BioSample": "SAMN14266267",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266267",
+            "SRA": "SRX7830685",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830685",
+            "SRR": {
+                "SRR11218347": {},
+                "SRR11218348": {},
+                "SRR11218350": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2A-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2A-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680862",
+            "scrnaseq": true
+        },
+        "GSM4680863": {
+            "BioSample": "SAMN14266337",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266337",
+            "SRA": "SRX7830594",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830594",
+            "SRR": {
+                "SRR11218438": {},
+                "SRR11218447": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2B_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2B",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680863",
+            "scrnaseq": true
+        },
+        "GSM4680864": {
+            "BioSample": "SAMN14266337",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266337",
+            "SRA": "SRX7830595",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830595",
+            "SRR": {
+                "SRR11218438": {},
+                "SRR11218447": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2B_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2B",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680864",
+            "scrnaseq": true
+        },
+        "GSM4680865": {
+            "BioSample": "SAMN14266305",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266305",
+            "SRA": "SRX7830543",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830543",
+            "SRR": {
+                "SRR11218489": {},
+                "SRR11218491": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2B-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2B-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680865",
+            "scrnaseq": true
+        },
+        "GSM4680866": {
+            "BioSample": "SAMN14266305",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266305",
+            "SRA": "SRX7830545",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830545",
+            "SRR": {
+                "SRR11218489": {},
+                "SRR11218491": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2B-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2B-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680866",
+            "scrnaseq": true
+        },
+        "GSM4680867": {
+            "BioSample": "SAMN14266314",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266314",
+            "SRA": "SRX7830654",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830654",
+            "SRR": {
+                "SRR11218376": {},
+                "SRR11218377": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2B-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2B-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680867",
+            "scrnaseq": true
+        },
+        "GSM4680868": {
+            "BioSample": "SAMN14266314",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266314",
+            "SRA": "SRX7830655",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830655",
+            "SRR": {
+                "SRR11218376": {},
+                "SRR11218377": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2B-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2B-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680868",
+            "scrnaseq": true
+        },
+        "GSM4680869": {
+            "BioSample": "SAMN14266245",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266245",
+            "SRA": "SRX7830548",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830548",
+            "SRR": {
+                "SRR11218485": {},
+                "SRR11218486": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2C_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2C",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680869",
+            "scrnaseq": true
+        },
+        "GSM4680870": {
+            "BioSample": "SAMN14266245",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266245",
+            "SRA": "SRX7830549",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830549",
+            "SRR": {
+                "SRR11218485": {},
+                "SRR11218486": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2C_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2C",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680870",
+            "scrnaseq": true
+        },
+        "GSM4680871": {
+            "BioSample": "SAMN14266282",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266282",
+            "SRA": "SRX7830625",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830625",
+            "SRR": {
+                "SRR11218407": {},
+                "SRR11218408": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2C-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2C-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680871",
+            "scrnaseq": true
+        },
+        "GSM4680872": {
+            "BioSample": "SAMN14266282",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266282",
+            "SRA": "SRX7830626",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830626",
+            "SRR": {
+                "SRR11218407": {},
+                "SRR11218408": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2C-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2C-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680872",
+            "scrnaseq": true
+        },
+        "GSM4680873": {
+            "BioSample": "SAMN14266263",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266263",
+            "SRA": "SRX7830580",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830580",
+            "SRR": {
+                "SRR11218355": {},
+                "SRR11218453": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2C-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2C-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680873",
+            "scrnaseq": true
+        },
+        "GSM4680874": {
+            "BioSample": "SAMN14266263",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266263",
+            "SRA": "SRX7830677",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830677",
+            "SRR": {
+                "SRR11218355": {},
+                "SRR11218453": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2C-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2C-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680874",
+            "scrnaseq": true
+        },
+        "GSM4680875": {
+            "BioSample": "SAMN14266329",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266329",
+            "SRA": "SRX7830582",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830582",
+            "SRR": {
+                "SRR11218450": {},
+                "SRR11218451": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2D_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2D",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680875",
+            "scrnaseq": true
+        },
+        "GSM4680876": {
+            "BioSample": "SAMN14266329",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266329",
+            "SRA": "SRX7830583",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830583",
+            "SRR": {
+                "SRR11218450": {},
+                "SRR11218451": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2D_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2D",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680876",
+            "scrnaseq": true
+        },
+        "GSM4680877": {
+            "BioSample": "SAMN14266262",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266262",
+            "SRA": "SRX7830578",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830578",
+            "SRR": {
+                "SRR11218455": {},
+                "SRR11218456": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2D-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2D-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680877",
+            "scrnaseq": true
+        },
+        "GSM4680878": {
+            "BioSample": "SAMN14266262",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266262",
+            "SRA": "SRX7830579",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830579",
+            "SRR": {
+                "SRR11218455": {},
+                "SRR11218456": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2D-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2D-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680878",
+            "scrnaseq": true
+        },
+        "GSM4680879": {
+            "BioSample": "SAMN14266266",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266266",
+            "SRA": "SRX7830680",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830680",
+            "SRR": {
+                "SRR11218351": {},
+                "SRR11218352": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2D-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2D-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680879",
+            "scrnaseq": true
+        },
+        "GSM4680880": {
+            "BioSample": "SAMN14266266",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266266",
+            "SRA": "SRX7830681",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830681",
+            "SRR": {
+                "SRR11218351": {},
+                "SRR11218352": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2D-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2D-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680880",
+            "scrnaseq": true
+        },
+        "GSM4680881": {
+            "BioSample": "SAMN14266277",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266277",
+            "SRA": "SRX7830617",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830617",
+            "SRR": {
+                "SRR11218415": {},
+                "SRR11218416": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2E_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2E",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680881",
+            "scrnaseq": true
+        },
+        "GSM4680882": {
+            "BioSample": "SAMN14266277",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266277",
+            "SRA": "SRX7830618",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830618",
+            "SRR": {
+                "SRR11218415": {},
+                "SRR11218416": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2E_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2E",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680882",
+            "scrnaseq": true
+        },
+        "GSM4680883": {
+            "BioSample": "SAMN14266339",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266339",
+            "SRA": "SRX7830599",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830599",
+            "SRR": {
+                "SRR11218432": {},
+                "SRR11218434": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2E-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2E-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680883",
+            "scrnaseq": true
+        },
+        "GSM4680884": {
+            "BioSample": "SAMN14266339",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266339",
+            "SRA": "SRX7830601",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830601",
+            "SRR": {
+                "SRR11218432": {},
+                "SRR11218434": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2E-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2E-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680884",
+            "scrnaseq": true
+        },
+        "GSM4680885": {
+            "BioSample": "SAMN14266246",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266246",
+            "SRA": "SRX7830550",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830550",
+            "SRR": {
+                "SRR11218483": {},
+                "SRR11218484": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2E-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2E-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680885",
+            "scrnaseq": true
+        },
+        "GSM4680886": {
+            "BioSample": "SAMN14266246",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266246",
+            "SRA": "SRX7830551",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830551",
+            "SRR": {
+                "SRR11218483": {},
+                "SRR11218484": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2E-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2E-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680886",
+            "scrnaseq": true
+        },
+        "GSM4680887": {
+            "BioSample": "SAMN14266243",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266243",
+            "SRA": "SRX7830611",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830611",
+            "SRR": {
+                "SRR11218422": {},
+                "SRR11218488": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2F_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2F",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680887",
+            "scrnaseq": true
+        },
+        "GSM4680888": {
+            "BioSample": "SAMN14266243",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266243",
+            "SRA": "SRX7830612",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830612",
+            "SRR": {
+                "SRR11218422": {},
+                "SRR11218488": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2F_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2F",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680888",
+            "scrnaseq": true
+        },
+        "GSM4680889": {
+            "BioSample": "SAMN14266303",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266303",
+            "SRA": "SRX7830538",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830538",
+            "SRR": {
+                "SRR11218493": {},
+                "SRR11218495": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2F-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2F-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680889",
+            "scrnaseq": true
+        },
+        "GSM4680890": {
+            "BioSample": "SAMN14266303",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266303",
+            "SRA": "SRX7830540",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830540",
+            "SRR": {
+                "SRR11218493": {},
+                "SRR11218495": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2F-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2F-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680890",
+            "scrnaseq": true
+        },
+        "GSM4680891": {
+            "BioSample": "SAMN14266274",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266274",
+            "SRA": "SRX7830693",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830693",
+            "SRR": {
+                "SRR11218419": {},
+                "SRR11218421": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2F-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2F-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680891",
+            "scrnaseq": true
+        },
+        "GSM4680892": {
+            "BioSample": "SAMN14266274",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266274",
+            "SRA": "SRX7830614",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830614",
+            "SRR": {
+                "SRR11218419": {},
+                "SRR11218421": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2F-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2F-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680892",
+            "scrnaseq": true
+        },
+        "GSM4680893": {
+            "BioSample": "SAMN14266321",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266321",
+            "SRA": "SRX7830664",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830664",
+            "SRR": {
+                "SRR11218366": {},
+                "SRR11218367": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2G_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2G",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680893",
+            "scrnaseq": true
+        },
+        "GSM4680894": {
+            "BioSample": "SAMN14266321",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266321",
+            "SRA": "SRX7830665",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830665",
+            "SRR": {
+                "SRR11218366": {},
+                "SRR11218367": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002v2G_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2G",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680894",
+            "scrnaseq": true
+        },
+        "GSM4680895": {
+            "BioSample": "SAMN14266259",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266259",
+            "SRA": "SRX7830572",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830572",
+            "SRR": {
+                "SRR11218461": {},
+                "SRR11218462": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2G-A_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2G-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680895",
+            "scrnaseq": true
+        },
+        "GSM4680896": {
+            "BioSample": "SAMN14266259",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266259",
+            "SRA": "SRX7830573",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830573",
+            "SRR": {
+                "SRR11218461": {},
+                "SRR11218462": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "ADT",
+                "libraryname": "7002v2G-A_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2G-A",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680896",
+            "scrnaseq": true
+        },
+        "GSM4680897": {
+            "BioSample": "SAMN14266320",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266320",
+            "SRA": "SRX7830661",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830661",
+            "SRR": {
+                "SRR11218369": {},
+                "SRR11218370": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2G-H_run8",
+                "patient_id": "706",
+                "samplename_old": "7002v2G-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680897",
+            "scrnaseq": true
+        },
+        "GSM4680898": {
+            "BioSample": "SAMN14266320",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266320",
+            "SRA": "SRX7830662",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830662",
+            "SRR": {
+                "SRR11218369": {},
+                "SRR11218370": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "HTO",
+                "libraryname": "7002v2G-H_run9",
+                "patient_id": "706",
+                "samplename_old": "7002v2G-H",
+                "sex": "male",
+                "technology": "3' V2",
+                "tissue": "lung",
+                "tissue_type": "Normal, Tumor, PBMC, spiked mouse cells"
+            },
+            "sample_id": "GSM4680898",
+            "scrnaseq": true
+        },
+        "GSM4680899": {
+            "BioSample": "SAMN14266310",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266310",
+            "SRA": "SRX7830649",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830649",
+            "SRR": {
+                "SRR11218381": {},
+                "SRR11218383": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002N5_run8",
+                "patient_id": "706",
+                "samplename_old": "7002N5",
+                "sex": "male",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680899",
+            "scrnaseq": true
+        },
+        "GSM4680900": {
+            "BioSample": "SAMN14266310",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266310",
+            "SRA": "SRX7830650",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830650",
+            "SRR": {
+                "SRR11218381": {},
+                "SRR11218383": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002N5_run9",
+                "patient_id": "706",
+                "samplename_old": "7002N5",
+                "sex": "male",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680900",
+            "scrnaseq": true
+        },
+        "GSM4680901": {
+            "BioSample": "SAMN14266297",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266297",
+            "SRA": "SRX7830563",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830563",
+            "SRR": {
+                "SRR11218471": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "TCR",
+                "libraryname": "7002N5-T_run12",
+                "patient_id": "706",
+                "samplename_old": "7002N5-T",
+                "sex": "male",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Normal"
+            },
+            "sample_id": "GSM4680901",
+            "scrnaseq": false
+        },
+        "GSM4680902": {
+            "BioSample": "SAMN14266287",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266287",
+            "SRA": "SRX7830632",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830632",
+            "SRR": {
+                "SRR11218400": {},
+                "SRR11218401": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002T5_run8",
+                "patient_id": "706",
+                "samplename_old": "7002T5",
+                "sex": "male",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680902",
+            "scrnaseq": true
+        },
+        "GSM4680903": {
+            "BioSample": "SAMN14266287",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266287",
+            "SRA": "SRX7830633",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830633",
+            "SRR": {
+                "SRR11218400": {},
+                "SRR11218401": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "GEX",
+                "libraryname": "7002T5_run9",
+                "patient_id": "706",
+                "samplename_old": "7002T5",
+                "sex": "male",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680903",
+            "scrnaseq": true
+        },
+        "GSM4680904": {
+            "BioSample": "SAMN14266317",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14266317",
+            "SRA": "SRX7830658",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7830658",
+            "SRR": {
+                "SRR11218373": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "library_type": "TCR",
+                "libraryname": "7002T5-T_run12",
+                "patient_id": "706",
+                "samplename_old": "7002T5-T",
+                "sex": "male",
+                "technology": "5' V1",
+                "tissue": "lung",
+                "tissue_type": "Tumor"
+            },
+            "sample_id": "GSM4680904",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "CITEseq analysis of non-small-cell lung cancer lesions"
+}

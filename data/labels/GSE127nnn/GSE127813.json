@@ -1,0 +1,151 @@
+{
+    "GEO": "GSE127813",
+    "PMID": [
+        "31061481",
+        "31960376"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE127813",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3639285": {
+            "BioSample": "SAMN11051511",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051511",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517001156",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639285",
+            "scrnaseq": false
+        },
+        "GSM3639286": {
+            "BioSample": "SAMN11051510",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051510",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517001157",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639286",
+            "scrnaseq": false
+        },
+        "GSM3639287": {
+            "BioSample": "SAMN11051509",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051509",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517001159",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639287",
+            "scrnaseq": false
+        },
+        "GSM3639288": {
+            "BioSample": "SAMN11051505",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051505",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517001160",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639288",
+            "scrnaseq": false
+        },
+        "GSM3639289": {
+            "BioSample": "SAMN11051409",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051409",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517001161",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639289",
+            "scrnaseq": false
+        },
+        "GSM3639290": {
+            "BioSample": "SAMN11051443",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051443",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517001162",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639290",
+            "scrnaseq": false
+        },
+        "GSM3639291": {
+            "BioSample": "SAMN11051441",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051441",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517102034",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639291",
+            "scrnaseq": false
+        },
+        "GSM3639292": {
+            "BioSample": "SAMN11051440",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051440",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517102035",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639292",
+            "scrnaseq": false
+        },
+        "GSM3639293": {
+            "BioSample": "SAMN11051508",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051508",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517102036",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639293",
+            "scrnaseq": false
+        },
+        "GSM3639294": {
+            "BioSample": "SAMN11051507",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051507",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517102037",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639294",
+            "scrnaseq": false
+        },
+        "GSM3639295": {
+            "BioSample": "SAMN11051506",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051506",
+            "SRR": {},
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "W070517102038",
+                "tissue": "whole blood"
+            },
+            "sample_id": "GSM3639295",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "High-throughput tissue dissection and cell purification with digital cytometry [healthy adults]"
+}

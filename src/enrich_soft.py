@@ -65,8 +65,7 @@ class EnrichSoft:
             _sample = {}
             for k,v in sample.items():
                 if k.startswith('Sample_characteristics'):
-                    sub = dict([tuple(i.split(': ', 1)) for i in v])
-                    _sample['characteristics'] = sub
+                    _sample['characteristics'] = self.sample_characteristics(v)
                 elif k.startswith('Sample_relation'):
                     sub = dict([tuple(i.split(': ', 1)) for i in v])
                     if 'SRA' in sub:
@@ -83,6 +82,34 @@ class EnrichSoft:
                     _sample['scrnaseq'] = True if 'single-cell' in v else False
             res[sample_id].update(_sample)
         return res
+
+    def sample_characteristics(self, values:list):
+        '''
+        stanadardize terminology of Sample_characteristics
+        '''
+        cht = {}
+        for val in values:
+            k, v = val.split(': ', 1)
+            k = k.lower().replace(' ', '_')
+            cht[k] = v
+
+        # combine keys
+        cht = Utils.rename_key(cht, 'cell_type', 'cell_subsets')
+        cht = Utils.rename_key(cht, 'tissue', 'organ')
+        cht = Utils.rename_key(cht, 'tissue', 'engraftment')
+        cht = Utils.rename_key(cht, 'disease_state', 'disease')
+        cht = Utils.rename_key(cht, 'disease_state', 'infection')
+        cht = Utils.rename_key(cht, 'disease_state', 'infectious_agent')
+        cht = Utils.rename_key(cht, 'disease_state', 'subject_status')
+        cht = Utils.rename_key(cht, 'time_point', 'time')
+        cht = Utils.rename_key(cht, 'time_point', 'time_point_post_infection')
+        cht = Utils.rename_key(cht, 'technology', '10x_chromium_encapsulation_kit')
+        cht = Utils.rename_key(cht, 'group', 'patient_group')
+        # delete some keys
+        for k in ('patient_origin', 'sample_id', 'passage'):
+            if k in cht:
+                del cht[k]
+        return cht
 
     def SRR(self, SRA_url):
         '''

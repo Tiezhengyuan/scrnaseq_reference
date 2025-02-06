@@ -43,3 +43,11 @@ class Slicer:
         prefix = acc[:6] 
         return [prefix, acc]
 
+    @staticmethod
+    def PMID(acc):
+        '''
+        6-8 digits
+        '''
+        acc = str(acc)
+        prefix = acc[:3] 
+        return [prefix, acc]

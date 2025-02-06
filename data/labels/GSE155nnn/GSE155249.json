@@ -1,0 +1,347 @@
+{
+    "GEO": "GSE155249",
+    "PMID": [
+        "33429418"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155249",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4698176": {
+            "BioSample": "SAMN15659778",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659778",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 1",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_4",
+                "sample_type": "BAL",
+                "time_point": "1 day after intubation"
+            },
+            "sample_id": "GSM4698176",
+            "scrnaseq": false
+        },
+        "GSM4698177": {
+            "BioSample": "SAMN15659777",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659777",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 2",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_5",
+                "sample_type": "BAL",
+                "time_point": "1 day after intubation"
+            },
+            "sample_id": "GSM4698177",
+            "scrnaseq": false
+        },
+        "GSM4698178": {
+            "BioSample": "SAMN15659775",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659775",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 3",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_3",
+                "sample_type": "BAL",
+                "time_point": "1 day after intubation"
+            },
+            "sample_id": "GSM4698178",
+            "scrnaseq": false
+        },
+        "GSM4698179": {
+            "BioSample": "SAMN15659774",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659774",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 4",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_3",
+                "sample_type": "BAL",
+                "time_point": "1 day after intubation"
+            },
+            "sample_id": "GSM4698179",
+            "scrnaseq": false
+        },
+        "GSM4698180": {
+            "BioSample": "SAMN15659773",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659773",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 5",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_1",
+                "sample_type": "BAL",
+                "time_point": "2 days after intubation"
+            },
+            "sample_id": "GSM4698180",
+            "scrnaseq": false
+        },
+        "GSM4698181": {
+            "BioSample": "SAMN15659772",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659772",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 6",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_1",
+                "sample_type": "BAL",
+                "time_point": "2 days after intubation"
+            },
+            "sample_id": "GSM4698181",
+            "scrnaseq": false
+        },
+        "GSM4698182": {
+            "BioSample": "SAMN15659771",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659771",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 7",
+                "main.h5ad",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_2",
+                "sample_type": "BAL",
+                "time_point": "0 days after intubation"
+            },
+            "sample_id": "GSM4698182",
+            "scrnaseq": false
+        },
+        "GSM4698183": {
+            "BioSample": "SAMN15659770",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659770",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 8",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Negative",
+                "individual": "Patient_6",
+                "sample_type": "BAL",
+                "time_point": "1 day after intubation"
+            },
+            "sample_id": "GSM4698183",
+            "scrnaseq": false
+        },
+        "GSM4698184": {
+            "BioSample": "SAMN15659769",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659769",
+            "SRR": {},
+            "Sample_description": [
+                "Sample 9",
+                "supplement.h5ad"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "disease_state": "COVID-19 Negative",
+                "individual": "Patient_6",
+                "sample_type": "BAL",
+                "time_point": "1 day after intubation"
+            },
+            "sample_id": "GSM4698184",
+            "scrnaseq": false
+        },
+        "GSM4850111": {
+            "BioSample": "SAMN16522965",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522965",
+            "SRR": {},
+            "Sample_description": [
+                "supplement.h5ad",
+                "Sample_10"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Negative",
+                "individual": "Patient_C"
+            },
+            "sample_id": "GSM4850111",
+            "scrnaseq": false
+        },
+        "GSM4850112": {
+            "BioSample": "SAMN16522964",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522964",
+            "SRR": {},
+            "Sample_description": [
+                "supplement.h5ad",
+                "Sample_11"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Negative",
+                "individual": "Patient_C"
+            },
+            "sample_id": "GSM4850112",
+            "scrnaseq": false
+        },
+        "GSM4850113": {
+            "BioSample": "SAMN16522963",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522963",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_12"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "1",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_9"
+            },
+            "sample_id": "GSM4850113",
+            "scrnaseq": false
+        },
+        "GSM4850114": {
+            "BioSample": "SAMN16522962",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522962",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_13"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "1",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_9"
+            },
+            "sample_id": "GSM4850114",
+            "scrnaseq": false
+        },
+        "GSM4850115": {
+            "BioSample": "SAMN16522961",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522961",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_14"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_A"
+            },
+            "sample_id": "GSM4850115",
+            "scrnaseq": false
+        },
+        "GSM4850116": {
+            "BioSample": "SAMN16522960",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522960",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_15"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_B"
+            },
+            "sample_id": "GSM4850116",
+            "scrnaseq": false
+        },
+        "GSM4850117": {
+            "BioSample": "SAMN16522959",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522959",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_16"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_A+B"
+            },
+            "sample_id": "GSM4850117",
+            "scrnaseq": false
+        },
+        "GSM4850118": {
+            "BioSample": "SAMN16522958",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522958",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_17"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_7"
+            },
+            "sample_id": "GSM4850118",
+            "scrnaseq": false
+        },
+        "GSM4850119": {
+            "BioSample": "SAMN16522957",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522957",
+            "SRR": {},
+            "Sample_description": [
+                "main.h5ad",
+                "supplement.h5ad",
+                "Sample_18"
+            ],
+            "characteristics": {
+                "cell_type": "Sorted macrophages and T cells",
+                "day_after_intubation": "0",
+                "disease_state": "COVID-19 Positive",
+                "individual": "Patient_8"
+            },
+            "sample_id": "GSM4850119",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Circuits between infected macrophages and T cells in SARS-CoV-2 pneumonia"
+}

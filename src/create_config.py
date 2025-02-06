@@ -1,38 +1,58 @@
 import os
 import json
+import shutil
+from typing import Iterable
+
+from utils import Utils
 
 class CreateConfig:
-    def __init__(self, config_dir:str):
-        self.config_dir = config_dir
+    constants_dir = os.path.join(os.path.dirname(__file__), 'constants')
 
-    def fetch_geo(self, geo:list, samples:list, results_dir:str) -> str:
+    def __init__(self, meta_dir:str):
+        self.meta_dir = meta_dir
+
+    @staticmethod
+    def get_biosamples(meta_dir:str) -> Iterable:
+        '''
+        get sample_id for download fastq
+        '''
+        indir = os.path.join(meta_dir, 'labels')
+        for data in Utils.json_iter(indir):
+            geo = data['GEO']
+            biosamples = []
+            samples = data.get('samples', {})
+            for sample_id, info in samples.items():
+                # SRX accessions should exist
+                if 'SRA' in info:
+                    biosamples.append(info['BioSample'])
+            if biosamples:
+                yield geo, biosamples
+    
+    @staticmethod
+    def fetch_geo(geo:str, samples:list, outdir:str) -> str:
         '''
         ids used for nf-core/fetchngs
         '''
-        outdir = os.path.join(self.config_dir, 'ids')
-        if outdir is not None:
-            if not os.path.isdir(outdir):
-                os.mkdir(outdir)
+        outdir = os.path.join(outdir, geo)
+        if not os.path.isdir(outdir):
+            os.mkdir(outdir)
 
         # build two files
         # ids file
-        id_file = os.path.join(outdir, f"{geo}.csv")
+        id_file = os.path.join(outdir, "ids.csv")
         with open(id_file, 'w') as f1:
             f1.write('\n'.join(samples))
-        # config file
-        config_file = os.path.join(outdir, f"{geo}.config")
-        raw_dir = os.path.join(results_dir, geo)
-        with open(config_file, 'w') as f2:
-            lines = [
-                "process.ignoreAnyError.errorStrategy = \'ignore\'",
-                f"params.input = \"{os.path.abspath(id_file)}\"",
-                f"params.outdir = \"{raw_dir}\"",
-            ]
-            f2.write('\n'.join(lines))
+        
+        # copy params.config
+        default_config = os.path.join(CreateConfig.constants_dir, "params.config")
+        shutil.copy(default_config, outdir)
 
-        bash_file = os.path.join(outdir, f"{geo}.sh")
-        with open(bash_file, 'w') as f3:
-            cmd = "nextflow run nf-core/fetchngs -r 1.12.0 -profile docker -resume"
-            cmd += ' -c ' + os.path.abspath(config_file)
-            f3.write(cmd)
-        return cmd
+        # bash file
+        bash_file = os.path.join(outdir, "run.sh")
+        with open(bash_file, 'w') as f2:
+            cmd = [
+                'cd ' + outdir,
+                'nextflow run nf-core/fetchngs -r 1.12.0 -profile docker -c params.config',
+            ]
+            f2.write('\n'.join(cmd))
+        return bash_file

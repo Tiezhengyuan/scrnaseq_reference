@@ -1,0 +1,36 @@
+{
+    "GEO": "GSE121611",
+    "PMID": [
+        "30554520"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121611",
+    "platform": [
+        {
+            "platform_id": "GPL19057",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM3440071": {
+            "BioSample": "SAMN10267698",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10267698",
+            "SRA": "SRX4912881",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4912881",
+            "SRR": {
+                "SRR8180470": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "age": "4 months",
+                "mouse_strain": "C57Bl/6j (Jax stock 000664)",
+                "replicate": "Mouse #1",
+                "sex": "Male"
+            },
+            "sample_id": "GSM3440071",
+            "scrnaseq": true
+        }
+    },
+    "taxid": "10090",
+    "title": "Single-Cell Transcriptomic Analysis of Human Lung Reveals Complex Multicellular Changes During Pulmonary Fibrosis"
+}

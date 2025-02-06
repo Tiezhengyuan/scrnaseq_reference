@@ -1,0 +1,786 @@
+{
+    "GEO": "GSE166036",
+    "PMID": [
+        "33705361"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166036",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5060505": {
+            "BioSample": "SAMN17764660",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764660",
+            "SRA": "SRX10008426",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008426",
+            "SRR": {
+                "SRR13615029": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060505",
+            "scrnaseq": false
+        },
+        "GSM5060506": {
+            "BioSample": "SAMN17764695",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764695",
+            "SRA": "SRX10008427",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008427",
+            "SRR": {
+                "SRR13615030": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060506",
+            "scrnaseq": false
+        },
+        "GSM5060507": {
+            "BioSample": "SAMN17764694",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764694",
+            "SRA": "SRX10008428",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008428",
+            "SRR": {
+                "SRR13615031": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060507",
+            "scrnaseq": false
+        },
+        "GSM5060508": {
+            "BioSample": "SAMN17764693",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764693",
+            "SRA": "SRX10008429",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008429",
+            "SRR": {
+                "SRR13615032": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060508",
+            "scrnaseq": false
+        },
+        "GSM5060509": {
+            "BioSample": "SAMN17764692",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764692",
+            "SRA": "SRX10008430",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008430",
+            "SRR": {
+                "SRR13615033": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060509",
+            "scrnaseq": false
+        },
+        "GSM5060510": {
+            "BioSample": "SAMN17764691",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764691",
+            "SRA": "SRX10008431",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008431",
+            "SRR": {
+                "SRR13615034": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060510",
+            "scrnaseq": false
+        },
+        "GSM5060511": {
+            "BioSample": "SAMN17764690",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764690",
+            "SRA": "SRX10008432",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008432",
+            "SRR": {
+                "SRR13615035": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060511",
+            "scrnaseq": false
+        },
+        "GSM5060512": {
+            "BioSample": "SAMN17764689",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764689",
+            "SRA": "SRX10008433",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008433",
+            "SRR": {
+                "SRR13615036": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060512",
+            "scrnaseq": false
+        },
+        "GSM5060513": {
+            "BioSample": "SAMN17764688",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764688",
+            "SRA": "SRX10008434",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008434",
+            "SRR": {
+                "SRR13615037": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060513",
+            "scrnaseq": false
+        },
+        "GSM5060514": {
+            "BioSample": "SAMN17764687",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764687",
+            "SRA": "SRX10008435",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008435",
+            "SRR": {
+                "SRR13615038": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060514",
+            "scrnaseq": false
+        },
+        "GSM5060515": {
+            "BioSample": "SAMN17764686",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764686",
+            "SRA": "SRX10008436",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008436",
+            "SRR": {
+                "SRR13615039": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060515",
+            "scrnaseq": false
+        },
+        "GSM5060516": {
+            "BioSample": "SAMN17764685",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764685",
+            "SRA": "SRX10008437",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008437",
+            "SRR": {
+                "SRR13615040": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060516",
+            "scrnaseq": false
+        },
+        "GSM5060517": {
+            "BioSample": "SAMN17764684",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764684",
+            "SRA": "SRX10008438",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008438",
+            "SRR": {
+                "SRR13615041": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060517",
+            "scrnaseq": false
+        },
+        "GSM5060518": {
+            "BioSample": "SAMN17764683",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764683",
+            "SRA": "SRX10008439",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008439",
+            "SRR": {
+                "SRR13615042": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060518",
+            "scrnaseq": false
+        },
+        "GSM5060519": {
+            "BioSample": "SAMN17764682",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764682",
+            "SRA": "SRX10008440",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008440",
+            "SRR": {
+                "SRR13615043": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060519",
+            "scrnaseq": false
+        },
+        "GSM5060520": {
+            "BioSample": "SAMN17764681",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764681",
+            "SRA": "SRX10008441",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008441",
+            "SRR": {
+                "SRR13615044": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060520",
+            "scrnaseq": false
+        },
+        "GSM5060521": {
+            "BioSample": "SAMN17764680",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764680",
+            "SRA": "SRX10008442",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008442",
+            "SRR": {
+                "SRR13615045": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060521",
+            "scrnaseq": false
+        },
+        "GSM5060522": {
+            "BioSample": "SAMN17764679",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764679",
+            "SRA": "SRX10008443",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008443",
+            "SRR": {
+                "SRR13615046": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060522",
+            "scrnaseq": false
+        },
+        "GSM5060523": {
+            "BioSample": "SAMN17764678",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764678",
+            "SRA": "SRX10008444",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008444",
+            "SRR": {
+                "SRR13615047": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060523",
+            "scrnaseq": false
+        },
+        "GSM5060524": {
+            "BioSample": "SAMN17764677",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764677",
+            "SRA": "SRX10008445",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008445",
+            "SRR": {
+                "SRR13615048": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060524",
+            "scrnaseq": false
+        },
+        "GSM5060525": {
+            "BioSample": "SAMN17764712",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764712",
+            "SRA": "SRX10008446",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008446",
+            "SRR": {
+                "SRR13615049": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060525",
+            "scrnaseq": false
+        },
+        "GSM5060526": {
+            "BioSample": "SAMN17764711",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764711",
+            "SRA": "SRX10008447",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008447",
+            "SRR": {
+                "SRR13615050": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060526",
+            "scrnaseq": false
+        },
+        "GSM5060527": {
+            "BioSample": "SAMN17764710",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764710",
+            "SRA": "SRX10008448",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008448",
+            "SRR": {
+                "SRR13615051": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060527",
+            "scrnaseq": false
+        },
+        "GSM5060528": {
+            "BioSample": "SAMN17764709",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764709",
+            "SRA": "SRX10008449",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008449",
+            "SRR": {
+                "SRR13615052": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060528",
+            "scrnaseq": false
+        },
+        "GSM5060529": {
+            "BioSample": "SAMN17764708",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764708",
+            "SRA": "SRX10008450",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008450",
+            "SRR": {
+                "SRR13615053": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060529",
+            "scrnaseq": false
+        },
+        "GSM5060530": {
+            "BioSample": "SAMN17764707",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764707",
+            "SRA": "SRX10008451",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008451",
+            "SRR": {
+                "SRR13615054": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060530",
+            "scrnaseq": false
+        },
+        "GSM5060531": {
+            "BioSample": "SAMN17764706",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764706",
+            "SRA": "SRX10008452",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008452",
+            "SRR": {
+                "SRR13615055": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060531",
+            "scrnaseq": false
+        },
+        "GSM5060532": {
+            "BioSample": "SAMN17764705",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764705",
+            "SRA": "SRX10008453",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008453",
+            "SRR": {
+                "SRR13615056": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "IPF",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060532",
+            "scrnaseq": false
+        },
+        "GSM5060533": {
+            "BioSample": "SAMN17764704",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764704",
+            "SRA": "SRX10008454",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008454",
+            "SRR": {
+                "SRR13615057": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060533",
+            "scrnaseq": false
+        },
+        "GSM5060534": {
+            "BioSample": "SAMN17764703",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764703",
+            "SRA": "SRX10008455",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008455",
+            "SRR": {
+                "SRR13615058": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060534",
+            "scrnaseq": false
+        },
+        "GSM5060535": {
+            "BioSample": "SAMN17764702",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764702",
+            "SRA": "SRX10008456",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008456",
+            "SRR": {
+                "SRR13615059": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060535",
+            "scrnaseq": false
+        },
+        "GSM5060536": {
+            "BioSample": "SAMN17764701",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764701",
+            "SRA": "SRX10008457",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008457",
+            "SRR": {
+                "SRR13615060": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060536",
+            "scrnaseq": false
+        },
+        "GSM5060537": {
+            "BioSample": "SAMN17764700",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764700",
+            "SRA": "SRX10008458",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008458",
+            "SRR": {
+                "SRR13615061": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060537",
+            "scrnaseq": false
+        },
+        "GSM5060538": {
+            "BioSample": "SAMN17764699",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764699",
+            "SRA": "SRX10008459",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008459",
+            "SRR": {
+                "SRR13615062": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060538",
+            "scrnaseq": false
+        },
+        "GSM5060539": {
+            "BioSample": "SAMN17764698",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764698",
+            "SRA": "SRX10008460",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008460",
+            "SRR": {
+                "SRR13615063": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060539",
+            "scrnaseq": false
+        },
+        "GSM5060540": {
+            "BioSample": "SAMN17764697",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764697",
+            "SRA": "SRX10008461",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008461",
+            "SRR": {
+                "SRR13615064": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060540",
+            "scrnaseq": false
+        },
+        "GSM5060541": {
+            "BioSample": "SAMN17764696",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764696",
+            "SRA": "SRX10008462",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008462",
+            "SRR": {
+                "SRR13615065": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060541",
+            "scrnaseq": false
+        },
+        "GSM5060542": {
+            "BioSample": "SAMN17764648",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764648",
+            "SRA": "SRX10008463",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008463",
+            "SRR": {
+                "SRR13615066": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060542",
+            "scrnaseq": false
+        },
+        "GSM5060543": {
+            "BioSample": "SAMN17764647",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764647",
+            "SRA": "SRX10008464",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008464",
+            "SRR": {
+                "SRR13615067": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060543",
+            "scrnaseq": false
+        },
+        "GSM5060544": {
+            "BioSample": "SAMN17764646",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764646",
+            "SRA": "SRX10008465",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008465",
+            "SRR": {
+                "SRR13615068": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060544",
+            "scrnaseq": false
+        },
+        "GSM5060545": {
+            "BioSample": "SAMN17764645",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764645",
+            "SRA": "SRX10008466",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008466",
+            "SRR": {
+                "SRR13615069": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "Normal",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060545",
+            "scrnaseq": false
+        },
+        "GSM5060546": {
+            "BioSample": "SAMN17764644",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764644",
+            "SRA": "SRX10008467",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008467",
+            "SRR": {
+                "SRR13615070": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060546",
+            "scrnaseq": false
+        },
+        "GSM5060547": {
+            "BioSample": "SAMN17764643",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764643",
+            "SRA": "SRX10008468",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008468",
+            "SRR": {
+                "SRR13615071": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060547",
+            "scrnaseq": false
+        },
+        "GSM5060548": {
+            "BioSample": "SAMN17764642",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764642",
+            "SRA": "SRX10008469",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008469",
+            "SRR": {
+                "SRR13615072": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060548",
+            "scrnaseq": false
+        },
+        "GSM5060549": {
+            "BioSample": "SAMN17764641",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764641",
+            "SRA": "SRX10008470",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008470",
+            "SRR": {
+                "SRR13615073": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060549",
+            "scrnaseq": false
+        },
+        "GSM5060550": {
+            "BioSample": "SAMN17764676",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764676",
+            "SRA": "SRX10008471",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008471",
+            "SRR": {
+                "SRR13615074": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060550",
+            "scrnaseq": false
+        },
+        "GSM5060551": {
+            "BioSample": "SAMN17764675",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764675",
+            "SRA": "SRX10008472",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008472",
+            "SRR": {
+                "SRR13615075": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060551",
+            "scrnaseq": false
+        },
+        "GSM5060552": {
+            "BioSample": "SAMN17764674",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764674",
+            "SRA": "SRX10008473",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008473",
+            "SRR": {
+                "SRR13615076": {},
+                "srr_acc": {}
+            },
+            "characteristics": {
+                "disease_state": "SSc-ILD",
+                "tissue": "lung"
+            },
+            "sample_id": "GSM5060552",
+            "scrnaseq": false
+        }
+    },
+    "taxid": "9606",
+    "title": "Examining gene expression profile from varying preparations of fibrotic lung tissue"
+}
