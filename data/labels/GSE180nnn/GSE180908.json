@@ -18,8 +18,11 @@
             "SRA": "SRX11569478",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569478",
             "SRR": {
-                "SRR15264217": {},
-                "srr_acc": {}
+                "SRR15264217": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/017/SRR15264217/SRR15264217.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample01"
@@ -42,8 +45,11 @@
             "SRA": "SRX11569479",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569479",
             "SRR": {
-                "SRR15264218": {},
-                "srr_acc": {}
+                "SRR15264218": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/018/SRR15264218/SRR15264218.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample02"
@@ -66,8 +72,11 @@
             "SRA": "SRX11569480",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569480",
             "SRR": {
-                "SRR15264219": {},
-                "srr_acc": {}
+                "SRR15264219": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/019/SRR15264219/SRR15264219.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample03"
@@ -90,8 +99,11 @@
             "SRA": "SRX11569481",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569481",
             "SRR": {
-                "SRR15264220": {},
-                "srr_acc": {}
+                "SRR15264220": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/020/SRR15264220/SRR15264220.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample04"
@@ -114,8 +126,11 @@
             "SRA": "SRX11569482",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569482",
             "SRR": {
-                "SRR15264221": {},
-                "srr_acc": {}
+                "SRR15264221": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/021/SRR15264221/SRR15264221.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample05"
@@ -138,8 +153,11 @@
             "SRA": "SRX11569483",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569483",
             "SRR": {
-                "SRR15264222": {},
-                "srr_acc": {}
+                "SRR15264222": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/022/SRR15264222/SRR15264222.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample06"
@@ -163,8 +181,11 @@
             "SRA": "SRX11569484",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569484",
             "SRR": {
-                "SRR15264223": {},
-                "srr_acc": {}
+                "SRR15264223": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/023/SRR15264223/SRR15264223.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Severe coagulative necrosis attributed to thrombosis of large vessels",
@@ -189,8 +210,11 @@
             "SRA": "SRX11569485",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569485",
             "SRR": {
-                "SRR15264224": {},
-                "srr_acc": {}
+                "SRR15264224": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/024/SRR15264224/SRR15264224.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample08"
@@ -214,8 +238,11 @@
             "SRA": "SRX11569486",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569486",
             "SRR": {
-                "SRR15264225": {},
-                "srr_acc": {}
+                "SRR15264225": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/025/SRR15264225/SRR15264225.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample09"
@@ -239,8 +266,11 @@
             "SRA": "SRX11569487",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569487",
             "SRR": {
-                "SRR15264226": {},
-                "srr_acc": {}
+                "SRR15264226": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/026/SRR15264226/SRR15264226.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Severe edema and fibrin thrombosis",
@@ -265,8 +295,11 @@
             "SRA": "SRX11569488",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569488",
             "SRR": {
-                "SRR15264227": {},
-                "srr_acc": {}
+                "SRR15264227": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/027/SRR15264227/SRR15264227.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Severe edema and fibrin thrombosis",
@@ -291,8 +324,11 @@
             "SRA": "SRX11569489",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569489",
             "SRR": {
-                "SRR15264228": {},
-                "srr_acc": {}
+                "SRR15264228": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/028/SRR15264228/SRR15264228.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Severe coagulative necrosis attributed to thrombosis of large vessels",
@@ -317,8 +353,11 @@
             "SRA": "SRX11569490",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569490",
             "SRR": {
-                "SRR15264229": {},
-                "srr_acc": {}
+                "SRR15264229": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/029/SRR15264229/SRR15264229.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Severe coagulative necrosis attributed to thrombosis of large vessels",
@@ -343,8 +382,11 @@
             "SRA": "SRX11569491",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569491",
             "SRR": {
-                "SRR15264230": {},
-                "srr_acc": {}
+                "SRR15264230": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/030/SRR15264230/SRR15264230.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung",
@@ -369,8 +411,11 @@
             "SRA": "SRX11569492",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569492",
             "SRR": {
-                "SRR15264231": {},
-                "srr_acc": {}
+                "SRR15264231": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/031/SRR15264231/SRR15264231.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung",
@@ -395,8 +440,11 @@
             "SRA": "SRX11569493",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569493",
             "SRR": {
-                "SRR15264232": {},
-                "srr_acc": {}
+                "SRR15264232": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/032/SRR15264232/SRR15264232.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "focal area of immunoreactivity; thrombosis with inflammation and hemorrhage",
@@ -421,8 +469,11 @@
             "SRA": "SRX11569494",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569494",
             "SRR": {
-                "SRR15264233": {},
-                "srr_acc": {}
+                "SRR15264233": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/033/SRR15264233/SRR15264233.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Rare pneumocyte; mild rare thromobisis edema hemorrhage and inflammation",
@@ -447,8 +498,11 @@
             "SRA": "SRX11569495",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569495",
             "SRR": {
-                "SRR15264234": {},
-                "srr_acc": {}
+                "SRR15264234": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/034/SRR15264234/SRR15264234.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample18"
@@ -471,8 +525,11 @@
             "SRA": "SRX11569496",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569496",
             "SRR": {
-                "SRR15264235": {},
-                "srr_acc": {}
+                "SRR15264235": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/035/SRR15264235/SRR15264235.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "sample19"

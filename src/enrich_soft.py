@@ -91,6 +91,8 @@ class EnrichSoft:
         for val in values:
             k, v = val.split(': ', 1)
             k = k.lower().replace(' ', '_')
+            if v in ('N/A', 'n/a'):
+                v = None
             cht[k] = v
 
         # combine keys

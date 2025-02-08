@@ -21,8 +21,7 @@
                 "SRR16119766": {},
                 "SRR16119767": {},
                 "SRR16119768": {},
-                "SRR16119769": {},
-                "srr_acc": {}
+                "SRR16119769": {}
             },
             "Sample_description": [
                 "GEX for three WT replicates: W3, W4, W5"
@@ -46,8 +45,7 @@
                 "SRR16119762": {},
                 "SRR16119763": {},
                 "SRR16119764": {},
-                "SRR16119765": {},
-                "srr_acc": {}
+                "SRR16119765": {}
             },
             "Sample_description": [
                 "HTO for three WT replicates: W3, W4, W5"
@@ -70,8 +68,7 @@
             "SRR": {
                 "SRR16119759": {},
                 "SRR16119760": {},
-                "SRR16119761": {},
-                "srr_acc": {}
+                "SRR16119761": {}
             },
             "Sample_description": [
                 "GEX for three KO replicates: K6, K7, K8"

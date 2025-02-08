@@ -23,11 +23,26 @@
             "SRA": "SRX6073179",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073179",
             "SRR": {
-                "SRR9304738": {},
-                "SRR9304739": {},
-                "SRR9304740": {},
-                "SRR9304741": {},
-                "srr_acc": {}
+                "SRR9304738": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304738/SRR9304738.fastq.gz"
+                    ]
+                },
+                "SRR9304739": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304739/SRR9304739.fastq.gz"
+                    ]
+                },
+                "SRR9304740": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304740/SRR9304740.fastq.gz"
+                    ]
+                },
+                "SRR9304741": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304741/SRR9304741.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -44,11 +59,26 @@
             "SRA": "SRX6073180",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073180",
             "SRR": {
-                "SRR9304742": {},
-                "SRR9304743": {},
-                "SRR9304744": {},
-                "SRR9304745": {},
-                "srr_acc": {}
+                "SRR9304742": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304742/SRR9304742.fastq.gz"
+                    ]
+                },
+                "SRR9304743": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304743/SRR9304743.fastq.gz"
+                    ]
+                },
+                "SRR9304744": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304744/SRR9304744.fastq.gz"
+                    ]
+                },
+                "SRR9304745": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304745/SRR9304745.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -65,11 +95,26 @@
             "SRA": "SRX6073181",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073181",
             "SRR": {
-                "SRR9304746": {},
-                "SRR9304747": {},
-                "SRR9304748": {},
-                "SRR9304749": {},
-                "srr_acc": {}
+                "SRR9304746": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304746/SRR9304746.fastq.gz"
+                    ]
+                },
+                "SRR9304747": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304747/SRR9304747.fastq.gz"
+                    ]
+                },
+                "SRR9304748": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304748/SRR9304748.fastq.gz"
+                    ]
+                },
+                "SRR9304749": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304749/SRR9304749.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -86,11 +131,26 @@
             "SRA": "SRX6073182",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073182",
             "SRR": {
-                "SRR9304750": {},
-                "SRR9304751": {},
-                "SRR9304752": {},
-                "SRR9304753": {},
-                "srr_acc": {}
+                "SRR9304750": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304750/SRR9304750.fastq.gz"
+                    ]
+                },
+                "SRR9304751": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304751/SRR9304751.fastq.gz"
+                    ]
+                },
+                "SRR9304752": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304752/SRR9304752.fastq.gz"
+                    ]
+                },
+                "SRR9304753": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304753/SRR9304753.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -107,8 +167,11 @@
             "SRA": "SRX6073183",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073183",
             "SRR": {
-                "SRR9304754": {},
-                "srr_acc": {}
+                "SRR9304754": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304754/SRR9304754.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -125,8 +188,11 @@
             "SRA": "SRX6073184",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073184",
             "SRR": {
-                "SRR9304755": {},
-                "srr_acc": {}
+                "SRR9304755": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304755/SRR9304755.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -143,8 +209,11 @@
             "SRA": "SRX6073185",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073185",
             "SRR": {
-                "SRR9304756": {},
-                "srr_acc": {}
+                "SRR9304756": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304756/SRR9304756.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -161,8 +230,11 @@
             "SRA": "SRX6073186",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073186",
             "SRR": {
-                "SRR9304757": {},
-                "srr_acc": {}
+                "SRR9304757": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304757/SRR9304757.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "genotype/variation": "Col1a1-GFP reporter",
@@ -179,9 +251,16 @@
             "SRA": "SRX6073187",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073187",
             "SRR": {
-                "SRR9304758": {},
-                "SRR9304759": {},
-                "srr_acc": {}
+                "SRR9304758": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304758/SRR9304758.fastq.gz"
+                    ]
+                },
+                "SRR9304759": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304759/SRR9304759.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Normal",
@@ -197,9 +276,16 @@
             "SRA": "SRX6073188",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073188",
             "SRR": {
-                "SRR9304760": {},
-                "SRR9304761": {},
-                "srr_acc": {}
+                "SRR9304760": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304760/SRR9304760.fastq.gz"
+                    ]
+                },
+                "SRR9304761": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304761/SRR9304761.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Normal",
@@ -215,9 +301,16 @@
             "SRA": "SRX6073189",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073189",
             "SRR": {
-                "SRR9304762": {},
-                "SRR9304763": {},
-                "srr_acc": {}
+                "SRR9304762": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304762/SRR9304762.fastq.gz"
+                    ]
+                },
+                "SRR9304763": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304763/SRR9304763.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Normal",
@@ -233,9 +326,16 @@
             "SRA": "SRX6073190",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073190",
             "SRR": {
-                "SRR9304764": {},
-                "SRR9304765": {},
-                "srr_acc": {}
+                "SRR9304764": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304764/SRR9304764.fastq.gz"
+                    ]
+                },
+                "SRR9304765": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304765/SRR9304765.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Normal",
@@ -251,11 +351,26 @@
             "SRA": "SRX6073191",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073191",
             "SRR": {
-                "SRR9304766": {},
-                "SRR9304767": {},
-                "SRR9304768": {},
-                "SRR9304769": {},
-                "srr_acc": {}
+                "SRR9304766": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304766/SRR9304766.fastq.gz"
+                    ]
+                },
+                "SRR9304767": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304767/SRR9304767.fastq.gz"
+                    ]
+                },
+                "SRR9304768": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304768/SRR9304768.fastq.gz"
+                    ]
+                },
+                "SRR9304769": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304769/SRR9304769.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Normal",
@@ -271,11 +386,26 @@
             "SRA": "SRX6073192",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073192",
             "SRR": {
-                "SRR9304770": {},
-                "SRR9304771": {},
-                "SRR9304772": {},
-                "SRR9304773": {},
-                "srr_acc": {}
+                "SRR9304770": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304770/SRR9304770.fastq.gz"
+                    ]
+                },
+                "SRR9304771": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304771/SRR9304771.fastq.gz"
+                    ]
+                },
+                "SRR9304772": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304772/SRR9304772.fastq.gz"
+                    ]
+                },
+                "SRR9304773": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304773/SRR9304773.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Normal",
@@ -291,11 +421,26 @@
             "SRA": "SRX6073193",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073193",
             "SRR": {
-                "SRR9304774": {},
-                "SRR9304775": {},
-                "SRR9304776": {},
-                "SRR9304777": {},
-                "srr_acc": {}
+                "SRR9304774": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304774/SRR9304774.fastq.gz"
+                    ]
+                },
+                "SRR9304775": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304775/SRR9304775.fastq.gz"
+                    ]
+                },
+                "SRR9304776": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304776/SRR9304776.fastq.gz"
+                    ]
+                },
+                "SRR9304777": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304777/SRR9304777.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
@@ -311,11 +456,26 @@
             "SRA": "SRX6073194",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073194",
             "SRR": {
-                "SRR9304778": {},
-                "SRR9304779": {},
-                "SRR9304780": {},
-                "SRR9304781": {},
-                "srr_acc": {}
+                "SRR9304778": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304778/SRR9304778.fastq.gz"
+                    ]
+                },
+                "SRR9304779": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304779/SRR9304779.fastq.gz"
+                    ]
+                },
+                "SRR9304780": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304780/SRR9304780.fastq.gz"
+                    ]
+                },
+                "SRR9304781": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304781/SRR9304781.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
@@ -331,9 +491,16 @@
             "SRA": "SRX6073195",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073195",
             "SRR": {
-                "SRR9304782": {},
-                "SRR9304783": {},
-                "srr_acc": {}
+                "SRR9304782": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304782/SRR9304782.fastq.gz"
+                    ]
+                },
+                "SRR9304783": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304783/SRR9304783.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
@@ -349,9 +516,16 @@
             "SRA": "SRX6073196",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073196",
             "SRR": {
-                "SRR9304784": {},
-                "SRR9304785": {},
-                "srr_acc": {}
+                "SRR9304784": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304784/SRR9304784.fastq.gz"
+                    ]
+                },
+                "SRR9304785": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304785/SRR9304785.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
@@ -367,11 +541,26 @@
             "SRA": "SRX6073197",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073197",
             "SRR": {
-                "SRR9304786": {},
-                "SRR9304787": {},
-                "SRR9304788": {},
-                "SRR9304789": {},
-                "srr_acc": {}
+                "SRR9304786": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304786/SRR9304786.fastq.gz"
+                    ]
+                },
+                "SRR9304787": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304787/SRR9304787.fastq.gz"
+                    ]
+                },
+                "SRR9304788": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304788/SRR9304788.fastq.gz"
+                    ]
+                },
+                "SRR9304789": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304789/SRR9304789.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
@@ -387,11 +576,26 @@
             "SRA": "SRX6073198",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073198",
             "SRR": {
-                "SRR9304790": {},
-                "SRR9304791": {},
-                "SRR9304792": {},
-                "SRR9304793": {},
-                "srr_acc": {}
+                "SRR9304790": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304790/SRR9304790.fastq.gz"
+                    ]
+                },
+                "SRR9304791": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304791/SRR9304791.fastq.gz"
+                    ]
+                },
+                "SRR9304792": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304792/SRR9304792.fastq.gz"
+                    ]
+                },
+                "SRR9304793": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304793/SRR9304793.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
@@ -407,11 +611,26 @@
             "SRA": "SRX6073199",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073199",
             "SRR": {
-                "SRR9304794": {},
-                "SRR9304795": {},
-                "SRR9304796": {},
-                "SRR9304797": {},
-                "srr_acc": {}
+                "SRR9304794": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304794/SRR9304794.fastq.gz"
+                    ]
+                },
+                "SRR9304795": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304795/SRR9304795.fastq.gz"
+                    ]
+                },
+                "SRR9304796": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304796/SRR9304796.fastq.gz"
+                    ]
+                },
+                "SRR9304797": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304797/SRR9304797.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Scleroderma",
@@ -427,11 +646,26 @@
             "SRA": "SRX6073200",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073200",
             "SRR": {
-                "SRR9304798": {},
-                "SRR9304799": {},
-                "SRR9304800": {},
-                "SRR9304801": {},
-                "srr_acc": {}
+                "SRR9304798": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304798/SRR9304798.fastq.gz"
+                    ]
+                },
+                "SRR9304799": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304799/SRR9304799.fastq.gz"
+                    ]
+                },
+                "SRR9304800": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304800/SRR9304800.fastq.gz"
+                    ]
+                },
+                "SRR9304801": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304801/SRR9304801.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Scleroderma",
@@ -447,11 +681,26 @@
             "SRA": "SRX6073201",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073201",
             "SRR": {
-                "SRR9304802": {},
-                "SRR9304803": {},
-                "SRR9304804": {},
-                "SRR9304805": {},
-                "srr_acc": {}
+                "SRR9304802": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304802/SRR9304802.fastq.gz"
+                    ]
+                },
+                "SRR9304803": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304803/SRR9304803.fastq.gz"
+                    ]
+                },
+                "SRR9304804": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304804/SRR9304804.fastq.gz"
+                    ]
+                },
+                "SRR9304805": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304805/SRR9304805.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_diagnosis": "Scleroderma",

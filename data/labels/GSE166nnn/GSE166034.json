@@ -18,8 +18,11 @@
             "SRA": "SRX10008397",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008397",
             "SRR": {
-                "SRR13615000": {},
-                "srr_acc": {}
+                "SRR13615000": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/000/SRR13615000/SRR13615000.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "BEC",
@@ -34,8 +37,11 @@
             "SRA": "SRX10008398",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008398",
             "SRR": {
-                "SRR13615001": {},
-                "srr_acc": {}
+                "SRR13615001": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/001/SRR13615001/SRR13615001.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "BEC",
@@ -50,8 +56,11 @@
             "SRA": "SRX10008399",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008399",
             "SRR": {
-                "SRR13615002": {},
-                "srr_acc": {}
+                "SRR13615002": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/002/SRR13615002/SRR13615002.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "BEC",
@@ -66,8 +75,11 @@
             "SRA": "SRX10008400",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008400",
             "SRR": {
-                "SRR13615003": {},
-                "srr_acc": {}
+                "SRR13615003": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/003/SRR13615003/SRR13615003.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "BEC",
@@ -82,8 +94,11 @@
             "SRA": "SRX10008401",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008401",
             "SRR": {
-                "SRR13615004": {},
-                "srr_acc": {}
+                "SRR13615004": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/004/SRR13615004/SRR13615004.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "BEC",
@@ -98,8 +113,11 @@
             "SRA": "SRX10008402",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008402",
             "SRR": {
-                "SRR13615005": {},
-                "srr_acc": {}
+                "SRR13615005": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/005/SRR13615005/SRR13615005.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "BEC",
@@ -114,8 +132,11 @@
             "SRA": "SRX10008403",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008403",
             "SRR": {
-                "SRR13615006": {},
-                "srr_acc": {}
+                "SRR13615006": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/006/SRR13615006/SRR13615006.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",
@@ -130,8 +151,11 @@
             "SRA": "SRX10008404",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008404",
             "SRR": {
-                "SRR13615007": {},
-                "srr_acc": {}
+                "SRR13615007": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/007/SRR13615007/SRR13615007.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",
@@ -146,8 +170,11 @@
             "SRA": "SRX10008405",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008405",
             "SRR": {
-                "SRR13615008": {},
-                "srr_acc": {}
+                "SRR13615008": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/008/SRR13615008/SRR13615008.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",
@@ -162,8 +189,11 @@
             "SRA": "SRX10008406",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008406",
             "SRR": {
-                "SRR13615009": {},
-                "srr_acc": {}
+                "SRR13615009": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/009/SRR13615009/SRR13615009.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",
@@ -178,8 +208,11 @@
             "SRA": "SRX10008407",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008407",
             "SRR": {
-                "SRR13615010": {},
-                "srr_acc": {}
+                "SRR13615010": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/010/SRR13615010/SRR13615010.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",
@@ -194,8 +227,11 @@
             "SRA": "SRX10008408",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008408",
             "SRR": {
-                "SRR13615011": {},
-                "srr_acc": {}
+                "SRR13615011": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/011/SRR13615011/SRR13615011.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",
@@ -210,8 +246,11 @@
             "SRA": "SRX10008409",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008409",
             "SRR": {
-                "SRR13615012": {},
-                "srr_acc": {}
+                "SRR13615012": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/012/SRR13615012/SRR13615012.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "SAEC",

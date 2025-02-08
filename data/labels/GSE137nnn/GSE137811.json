@@ -18,8 +18,7 @@
             "SRA": "SRX6882061",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882061",
             "SRR": {
-                "SRR10156667": {},
-                "srr_acc": {}
+                "SRR10156667": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -38,8 +37,7 @@
             "SRA": "SRX6882062",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882062",
             "SRR": {
-                "SRR10156668": {},
-                "srr_acc": {}
+                "SRR10156668": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -58,8 +56,7 @@
             "SRA": "SRX6882063",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882063",
             "SRR": {
-                "SRR10156669": {},
-                "srr_acc": {}
+                "SRR10156669": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -78,8 +75,7 @@
             "SRA": "SRX6882064",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882064",
             "SRR": {
-                "SRR10156670": {},
-                "srr_acc": {}
+                "SRR10156670": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -98,8 +94,7 @@
             "SRA": "SRX6882065",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882065",
             "SRR": {
-                "SRR10156671": {},
-                "srr_acc": {}
+                "SRR10156671": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -118,8 +113,7 @@
             "SRA": "SRX6882066",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882066",
             "SRR": {
-                "SRR10156672": {},
-                "srr_acc": {}
+                "SRR10156672": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -138,8 +132,7 @@
             "SRA": "SRX6882067",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882067",
             "SRR": {
-                "SRR10156673": {},
-                "srr_acc": {}
+                "SRR10156673": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -158,8 +151,7 @@
             "SRA": "SRX6882068",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882068",
             "SRR": {
-                "SRR10156674": {},
-                "srr_acc": {}
+                "SRR10156674": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -178,8 +170,7 @@
             "SRA": "SRX6882069",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882069",
             "SRR": {
-                "SRR10156675": {},
-                "srr_acc": {}
+                "SRR10156675": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -198,8 +189,7 @@
             "SRA": "SRX6882070",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882070",
             "SRR": {
-                "SRR10156676": {},
-                "srr_acc": {}
+                "SRR10156676": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -218,8 +208,7 @@
             "SRA": "SRX6882071",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882071",
             "SRR": {
-                "SRR10156677": {},
-                "srr_acc": {}
+                "SRR10156677": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -238,8 +227,7 @@
             "SRA": "SRX6882072",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882072",
             "SRR": {
-                "SRR10156678": {},
-                "srr_acc": {}
+                "SRR10156678": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"
@@ -258,8 +246,7 @@
             "SRA": "SRX6882073",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882073",
             "SRR": {
-                "SRR10156679": {},
-                "srr_acc": {}
+                "SRR10156679": {}
             },
             "Sample_description": [
                 "cell_names_final.txt,gene_names_final.txt,11_09_killian_final.mtx.gz"

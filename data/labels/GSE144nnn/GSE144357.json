@@ -18,8 +18,7 @@
             "SRA": "SRX7639834",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639834",
             "SRR": {
-                "SRR10974767": {},
-                "srr_acc": {}
+                "SRR10974767": {}
             },
             "Sample_description": [
                 "single cell RNA sequencing of polyclonal WT population of colorectal cancer cell line HCT-116 by the 10x platform."
@@ -38,8 +37,7 @@
             "SRA": "SRX7639818",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639818",
             "SRR": {
-                "SRR10974768": {},
-                "srr_acc": {}
+                "SRR10974768": {}
             },
             "Sample_description": [
                 "single cell RNA sequencing of polyclonal WT population of colorectal cancer cell line HCT-116 by MARS-seq (Jaitin et al., 2014)"
@@ -58,8 +56,7 @@
             "SRA": "SRX7639819",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639819",
             "SRR": {
-                "SRR10974769": {},
-                "srr_acc": {}
+                "SRR10974769": {}
             },
             "Sample_description": [
                 "single cell RNA sequencing of polyclonal DKO population of colorectal cancer cell line HCT-116 by the 10x platform."
@@ -80,8 +77,7 @@
             "SRR": {
                 "SRR10974770": {},
                 "SRR10974771": {},
-                "SRR10974772": {},
-                "srr_acc": {}
+                "SRR10974772": {}
             },
             "Sample_description": [
                 "single cell RNA sequencing of polyclonal DKO population of colorectal cancer cell line HCT-116 by MARS-seq (Jaitin et al., 2014)"
@@ -100,8 +96,7 @@
             "SRA": "SRX7639821",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639821",
             "SRR": {
-                "SRR10975279": {},
-                "srr_acc": {}
+                "SRR10975279": {}
             },
             "Sample_description": [
                 "single cell RNA sequencing of polyclonal  population of embryonic lung fibrobalsts cell line WI-38 by MARS-seq (Jaitin et al., 2014)"
@@ -121,8 +116,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639822",
             "SRR": {
                 "SRR10975280": {},
-                "SRR10975281": {},
-                "srr_acc": {}
+                "SRR10975281": {}
             },
             "Sample_description": [
                 "bulk MARS-seq of single-cell-derived HCT116 WT clones"
@@ -141,8 +135,7 @@
             "SRA": "SRX7639823",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639823",
             "SRR": {
-                "SRR10975282": {},
-                "srr_acc": {}
+                "SRR10975282": {}
             },
             "Sample_description": [
                 "bulk MARS-seq of single-cell-derived HCT116 KO clones"
@@ -161,8 +154,7 @@
             "SRA": "SRX7639824",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639824",
             "SRR": {
-                "SRR10975283": {},
-                "srr_acc": {}
+                "SRR10975283": {}
             },
             "Sample_description": [
                 "bulk MARS-seq of single-cell-derived HCT116 DKO clones"
@@ -181,8 +173,7 @@
             "SRA": "SRX7639825",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639825",
             "SRR": {
-                "SRR10975284": {},
-                "srr_acc": {}
+                "SRR10975284": {}
             },
             "Sample_description": [
                 "bulk MARS-seq of single-cell-derived WI-38 clones"
@@ -201,8 +192,7 @@
             "SRA": "SRX7639826",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639826",
             "SRR": {
-                "SRR10975285": {},
-                "srr_acc": {}
+                "SRR10975285": {}
             },
             "Sample_description": [
                 "bulk MARS-seq of single-cell-derived A549 clones"
@@ -221,8 +211,7 @@
             "SRA": "SRX7639827",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639827",
             "SRR": {
-                "SRR10975286": {},
-                "srr_acc": {}
+                "SRR10975286": {}
             },
             "Sample_description": [
                 "bulk MARS-seq of single-cell-derived NCI-H1299 clones"
@@ -241,8 +230,7 @@
             "SRA": "SRX7639828",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639828",
             "SRR": {
-                "SRR10975287": {},
-                "srr_acc": {}
+                "SRR10975287": {}
             },
             "Sample_description": [
                 "low-depth bulk MARS-seq of single cell derived HCT116 clones, 10 days after seeding of single cells"
@@ -261,8 +249,7 @@
             "SRA": "SRX7639829",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639829",
             "SRR": {
-                "SRR10975288": {},
-                "srr_acc": {}
+                "SRR10975288": {}
             },
             "Sample_description": [
                 "low-depth bulk MARS-seq of single cell derived HCT116 clones, 18 days after seeding of single cells"
@@ -281,8 +268,7 @@
             "SRA": "SRX7639830",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639830",
             "SRR": {
-                "SRR10975289": {},
-                "srr_acc": {}
+                "SRR10975289": {}
             },
             "Sample_description": [
                 "scRNA sampling of six selected single-cell-derived HCT116 clones (selected based on distributions after 10 and 18 days) as well as a control polyclonal population at different time-points (since seeding of clone founder cells)"
@@ -301,8 +287,7 @@
             "SRA": "SRX7639831",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639831",
             "SRR": {
-                "SRR10975290": {},
-                "srr_acc": {}
+                "SRR10975290": {}
             },
             "Sample_description": [
                 "scRNA sampling of six selected single-cell-derived HCT116 clones (selected based on distributions after 10 and 18 days) as well as a control polyclonal population at different time-points (since seeding of clone founder cells)"
@@ -321,8 +306,7 @@
             "SRA": "SRX7639832",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639832",
             "SRR": {
-                "SRR10975291": {},
-                "srr_acc": {}
+                "SRR10975291": {}
             },
             "Sample_description": [
                 "scRNA sampling of six selected single-cell-derived HCT116 clones (selected based on distributions after 10 and 18 days) as well as a control polyclonal population at different time-points (since seeding of clone founder cells)"
@@ -341,8 +325,7 @@
             "SRA": "SRX7639833",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7639833",
             "SRR": {
-                "SRR10975292": {},
-                "srr_acc": {}
+                "SRR10975292": {}
             },
             "Sample_description": [
                 "scRNA sampling of six selected single-cell-derived HCT116 clones (selected based on distributions after 10 and 18 days) as well as a control polyclonal population at different time-points (since seeding of clone founder cells)"
@@ -1480,8 +1463,7 @@
                 "SRR10977013": {},
                 "SRR10977014": {},
                 "SRR10977015": {},
-                "SRR10977016": {},
-                "srr_acc": {}
+                "SRR10977016": {}
             },
             "Sample_description": [
                 "whole-genome DNA methylation profiling (using Post Busulfilte Adaptor Tagging, PBAT) of single HCT116 cells"
@@ -2605,8 +2587,7 @@
                 "SRR10976730": {},
                 "SRR10976731": {},
                 "SRR10976732": {},
-                "SRR10976733": {},
-                "srr_acc": {}
+                "SRR10976733": {}
             },
             "Sample_description": [
                 "whole-genome DNA methylation profiling (using Post Busulfilte Adaptor Tagging, PBAT) of single HCT116 DKO cells"

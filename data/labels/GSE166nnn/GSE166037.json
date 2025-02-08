@@ -18,11 +18,30 @@
             "SRA": "SRX10008475",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008475",
             "SRR": {
-                "SRR13615078": {},
-                "SRR13615079": {},
-                "SRR13615080": {},
-                "SRR13615081": {},
-                "srr_acc": {}
+                "SRR13615078": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/078/SRR13615078/SRR13615078_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/078/SRR13615078/SRR13615078_2.fastq.gz"
+                    ]
+                },
+                "SRR13615079": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/079/SRR13615079/SRR13615079_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/079/SRR13615079/SRR13615079_2.fastq.gz"
+                    ]
+                },
+                "SRR13615080": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/080/SRR13615080/SRR13615080_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/080/SRR13615080/SRR13615080_2.fastq.gz"
+                    ]
+                },
+                "SRR13615081": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/081/SRR13615081/SRR13615081_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/081/SRR13615081/SRR13615081_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_type": "EPCAM+",

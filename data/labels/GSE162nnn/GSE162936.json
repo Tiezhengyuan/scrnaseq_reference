@@ -19,8 +19,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9661289",
             "SRR": {
                 "SRR13228929": {},
-                "SRR13228930": {},
-                "srr_acc": {}
+                "SRR13228930": {}
             },
             "characteristics": {
                 "cell_line": "RUES2 human embryonic stem cell",

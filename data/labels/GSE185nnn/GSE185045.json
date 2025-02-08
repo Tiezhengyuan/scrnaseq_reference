@@ -21,8 +21,7 @@
                 "SRR16119766": {},
                 "SRR16119767": {},
                 "SRR16119768": {},
-                "SRR16119769": {},
-                "srr_acc": {}
+                "SRR16119769": {}
             },
             "Sample_description": [
                 "GEX for three WT replicates: W3, W4, W5"
@@ -46,8 +45,7 @@
                 "SRR16119762": {},
                 "SRR16119763": {},
                 "SRR16119764": {},
-                "SRR16119765": {},
-                "srr_acc": {}
+                "SRR16119765": {}
             },
             "Sample_description": [
                 "HTO for three WT replicates: W3, W4, W5"
@@ -70,8 +68,7 @@
             "SRR": {
                 "SRR16119759": {},
                 "SRR16119760": {},
-                "SRR16119761": {},
-                "srr_acc": {}
+                "SRR16119761": {}
             },
             "Sample_description": [
                 "GEX for three KO replicates: K6, K7, K8"
@@ -95,8 +92,7 @@
                 "SRR16119754": {},
                 "SRR16119755": {},
                 "SRR16119756": {},
-                "SRR16119757": {},
-                "srr_acc": {}
+                "SRR16119757": {}
             },
             "Sample_description": [
                 "HTO for three KO replicates: K6, K7, K8"
@@ -117,8 +113,7 @@
             "SRA": "SRX12405303",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405303",
             "SRR": {
-                "SRR16119834": {},
-                "srr_acc": {}
+                "SRR16119834": {}
             },
             "characteristics": {
                 "cell_type": "Microglia",
@@ -136,8 +131,7 @@
             "SRA": "SRX12405304",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405304",
             "SRR": {
-                "SRR16119833": {},
-                "srr_acc": {}
+                "SRR16119833": {}
             },
             "characteristics": {
                 "cell_type": "Microglia",
@@ -155,8 +149,7 @@
             "SRA": "SRX12405305",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405305",
             "SRR": {
-                "SRR16119832": {},
-                "srr_acc": {}
+                "SRR16119832": {}
             },
             "characteristics": {
                 "cell_type": "Microglia",
@@ -174,8 +167,7 @@
             "SRA": "SRX12405306",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405306",
             "SRR": {
-                "SRR16119831": {},
-                "srr_acc": {}
+                "SRR16119831": {}
             },
             "characteristics": {
                 "cell_type": "Microglia",
@@ -193,8 +185,7 @@
             "SRA": "SRX12405307",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405307",
             "SRR": {
-                "SRR16119830": {},
-                "srr_acc": {}
+                "SRR16119830": {}
             },
             "characteristics": {
                 "cell_type": "Microglia",

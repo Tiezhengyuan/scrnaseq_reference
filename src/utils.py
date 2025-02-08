@@ -59,7 +59,6 @@ class Utils:
                     line = str(line.rstrip())
                     yield line
         except Exception as e:
-            # print(infile)
             pass
 
     @staticmethod
@@ -85,6 +84,7 @@ class Utils:
                         fastq['R1'] = path
         return fastq
 
+    @staticmethod
     def json_iter(data_dir:str):
         '''
         scan all data from json
@@ -110,7 +110,7 @@ class Utils:
         return None
 
     @staticmethod
-    def from_json(infile):
+    def from_json(infile) -> dict:
         '''
         get data from json
         '''
@@ -119,8 +119,8 @@ class Utils:
                 data = json.load(f)
             return data
         except Exception as e:
-            print(f"Error: Failure in load data from json {infile}, error={e}")
-        return None
+            print(f"Warning: Failure in load data from json {infile}, error={e}")
+        return {}
 
 
     @staticmethod
@@ -136,8 +136,11 @@ class Utils:
                 _data = _data[key]
         # update value
         last = keys[-1]
-        if last in _data:
-            _data[last] += values
+        if _data.get(last) and values:
+            if isinstance(_data[last], list) and isinstance(values, list):
+                _data[last] += values
+            elif isinstance(_data[last], dict) and isinstance(values, dict):
+                _data[last].update(values)
         else:
             _data[last] = values
         return data
@@ -154,6 +157,24 @@ class Utils:
             return []
         _data = data[key]
         return Utils.key_get(_data, keys[1:])
+
+    @staticmethod
+    def depth_first_scan(data, path, pool):
+        """
+        depth-first scan of a nested dictionary.
+        return keys in list of which value is {} or []
+        Note: only retrieve 100 items at a time for memory saving
+        """
+        for key, value in data.items():
+            current_path = f"{path}/{key}"
+            if value == {} or value == []:
+                # print(f"Path: {current_path}, Value: {value}")
+                pool.append(current_path)
+                if len(pool) >= 100:
+                    return None
+            elif isinstance(value, dict):
+                Utils.depth_first_scan(value, current_path, pool)
+
 
     @staticmethod
     def rename_key(data:dict, key1:str, key2:str):

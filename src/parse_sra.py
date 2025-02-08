@@ -2,6 +2,7 @@
 parse SRA data into GEO data
 ftp.ncbi.nlm.nih.gov/sra/reports/Metadata/SRA_Accessions.tab
 '''
+import ftplib
 import re
 import os
 import subprocess
@@ -9,6 +10,7 @@ from typing import Iterable
 
 from utils import Utils
 from slicer import Slicer
+from retrieve_url import RetrieveUrl
 
 class ParseSra:
 
@@ -34,41 +36,27 @@ class ParseSra:
                 items = line.split('\t')
                 yield items
 
-    def srx_samn(self) -> tuple:
+    def acc_samn(self, prefix:str, slicer_func) -> tuple:
         '''
         SRXxxxx ~ SAMNxxxx
-        '''
-        res1, res2 = {}, {}
-        for items in self.line_iter():
-            acc, biosample = items[0], items[17]
-            if acc.startswith('SRX') and biosample.startswith('SAMN'):
-                acc_keys = Slicer.SRX(acc)
-                res1 = Utils.key_update(res1, acc_keys, [biosample,])
-                biosample_keys = Slicer.BioSample(biosample)
-                res2 = Utils.key_update(res2, biosample_keys, [acc,])
-        # export
-        file_sra = Utils.to_json(res1, self.outdir, 'srx_samn.json')
-        file_bio = Utils.to_json(res2, self.outdir, 'samn_srx.json')
-        return file_sra, file_bio
-
-    def srr_samn(self) -> tuple:
-        '''
+        SRSxxxx ~ SAMNxxxx
         SRRxxxx ~ SAMNxxxx
         '''
         res1, res2 = {}, {}
         for items in self.line_iter():
             acc, biosample = items[0], items[17]
-            if acc.startswith('SRR') and biosample.startswith('SAMN'):
-                acc_keys = Slicer.SRR(acc)
+            if acc.startswith(prefix) and biosample.startswith('SAMN'):
+                acc_keys = slicer_func(acc)
                 res1 = Utils.key_update(res1, acc_keys, [biosample,])
                 biosample_keys = Slicer.BioSample(biosample)
                 res2 = Utils.key_update(res2, biosample_keys, [acc,])
         # export
-        file_sra = Utils.to_json(res1, self.outdir, 'srr_samn.json')
-        file_bio = Utils.to_json(res2, self.outdir, 'samn_srr.json')
-        return file_sra, file_bio           
+        file_sra = Utils.to_json(res1, self.outdir, f'{prefix.lower()}_samn.json')
+        file_bio = Utils.to_json(res2, self.outdir, f'samn_{prefix.lower()}.json')
+        return file_sra, file_bio
 
-    def search(self, ix:int, val:str):
+
+    def search(self, key:str, val:str):
         header = [
             'Accession', 'Submission', 'Status', 'Updated', 'Published',
             'Received', 'Type', 'Center', 'Visibility', 'Alias', 'Experiment',
@@ -76,12 +64,12 @@ class ParseSra:
             'BioSample', 'BioProject', 'ReplacedBy',
         ]
         for items in self.line_iter():
-            if val in items[ix]:
-                rec = {k:v for k,v in zip(header, items)}
+            rec = {k:v for k,v in zip(header, items)}
+            if val in rec.get(key):
                 print(rec)
     
     @staticmethod
-    def parse_srr(enriched_data:dict, samn_srr:dict, fastq_dir:str=None):
+    def parse_srr(enriched_data:dict, samn_srr:dict):
         '''
         parse SRR given biosample accession
         '''
@@ -97,6 +85,38 @@ class ParseSra:
                     if srr_acc not in sample['SRR']:
                         sample['SRR'][srr_acc] = {}
         return enriched_data
+    
+    @staticmethod
+    def parse_ftp_fastq(data:dict, srr_fastq:dict, overwrite=False):
+        '''
+        parse urls of *.fastq.gz with biosamples and bioruns
+        '''
+        url = 'ftp.sra.ebi.ac.uk'
+        print(f"Start {data['GEO']}...", end='\t')
+        n = m = 0
+        samples = data['samples']
+        for sample_id, sample in samples.items():
+            SRR = sample.get('SRR', {})
+            for srr_acc in list(SRR):
+                n += 1
+                # force overwrrite or the key url doesn't exists
+                if overwrite == True or url not in SRR[srr_acc]:
+                    SRR[srr_acc][url] = []
+                    # firstly, check if srr_acc exists in srr_fastq
+                    keys = Utils.SRR(srr_acc)
+                    values = Utils.keys_get(srr_fastq, keys)
+                    if values:
+                        SRR[srr_acc][url] = values
+                        m += 1
+                    #try to retrieve fastq urls in FTP
+                    else:
+                        fastq_url = RetrieveUrl.ftp_sra_ebi(srr_acc)
+                        if fastq_url:
+                            SRR[srr_acc][url] = fastq_url
+                            m += 1
+        print(f"{m} out of {n} SRR are updated.")
+        return data
+
 
     #TODO
     @staticmethod

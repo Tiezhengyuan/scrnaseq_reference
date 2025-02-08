@@ -21,9 +21,16 @@
             "SRA": "SRX26455615",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455615",
             "SRR": {
-                "SRR31072153": {},
-                "SRR31072154": {},
-                "srr_acc": {}
+                "SRR31072153": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/053/SRR31072153/SRR31072153_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072154": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/054/SRR31072154/SRR31072154_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A2058",
@@ -38,9 +45,16 @@
             "SRA": "SRX26455616",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455616",
             "SRR": {
-                "SRR31072151": {},
-                "SRR31072152": {},
-                "srr_acc": {}
+                "SRR31072151": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/051/SRR31072151/SRR31072151_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072152": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/052/SRR31072152/SRR31072152_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A2058",
@@ -55,9 +69,16 @@
             "SRA": "SRX26455617",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455617",
             "SRR": {
-                "SRR31072149": {},
-                "SRR31072150": {},
-                "srr_acc": {}
+                "SRR31072149": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/049/SRR31072149/SRR31072149_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072150": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/050/SRR31072150/SRR31072150_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A375",
@@ -72,9 +93,16 @@
             "SRA": "SRX26455618",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455618",
             "SRR": {
-                "SRR31072147": {},
-                "SRR31072148": {},
-                "srr_acc": {}
+                "SRR31072147": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/047/SRR31072147/SRR31072147_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072148": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/048/SRR31072148/SRR31072148_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A375",
@@ -89,9 +117,16 @@
             "SRA": "SRX26455619",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455619",
             "SRR": {
-                "SRR31072144": {},
-                "SRR31072145": {},
-                "srr_acc": {}
+                "SRR31072144": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/044/SRR31072144/SRR31072144_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072145": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/045/SRR31072145/SRR31072145_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A549",
@@ -106,9 +141,16 @@
             "SRA": "SRX26455620",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455620",
             "SRR": {
-                "SRR31072142": {},
-                "SRR31072143": {},
-                "srr_acc": {}
+                "SRR31072142": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/042/SRR31072142/SRR31072142_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072143": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/043/SRR31072143/SRR31072143_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A549",
@@ -123,9 +165,16 @@
             "SRA": "SRX26455621",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455621",
             "SRR": {
-                "SRR31072141": {},
-                "SRR31072146": {},
-                "srr_acc": {}
+                "SRR31072141": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/041/SRR31072141/SRR31072141_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072146": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/046/SRR31072146/SRR31072146_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "C4-2B",
@@ -140,9 +189,16 @@
             "SRA": "SRX26455622",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455622",
             "SRR": {
-                "SRR31072139": {},
-                "SRR31072140": {},
-                "srr_acc": {}
+                "SRR31072139": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/039/SRR31072139/SRR31072139_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072140": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/040/SRR31072140/SRR31072140_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "C4-2B",
@@ -157,9 +213,16 @@
             "SRA": "SRX26455623",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455623",
             "SRR": {
-                "SRR31072137": {},
-                "SRR31072138": {},
-                "srr_acc": {}
+                "SRR31072137": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/037/SRR31072137/SRR31072137_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072138": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/038/SRR31072138/SRR31072138_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEK-293",
@@ -174,9 +237,16 @@
             "SRA": "SRX26455624",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455624",
             "SRR": {
-                "SRR31072135": {},
-                "SRR31072136": {},
-                "srr_acc": {}
+                "SRR31072135": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/035/SRR31072135/SRR31072135_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072136": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/036/SRR31072136/SRR31072136_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEK-293",
@@ -191,9 +261,16 @@
             "SRA": "SRX26455625",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455625",
             "SRR": {
-                "SRR31072133": {},
-                "SRR31072134": {},
-                "srr_acc": {}
+                "SRR31072133": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/033/SRR31072133/SRR31072133_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072134": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/034/SRR31072134/SRR31072134_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Hs 707(A).T",
@@ -208,9 +285,16 @@
             "SRA": "SRX26455626",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455626",
             "SRR": {
-                "SRR31072130": {},
-                "SRR31072131": {},
-                "srr_acc": {}
+                "SRR31072130": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/030/SRR31072130/SRR31072130_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072131": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/031/SRR31072131/SRR31072131_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Hs 707(A).T",
@@ -225,9 +309,16 @@
             "SRA": "SRX26455627",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455627",
             "SRR": {
-                "SRR31072128": {},
-                "SRR31072129": {},
-                "srr_acc": {}
+                "SRR31072128": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/028/SRR31072128/SRR31072128_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072129": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/029/SRR31072129/SRR31072129_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LS 174T",
@@ -242,9 +333,16 @@
             "SRA": "SRX26455628",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455628",
             "SRR": {
-                "SRR31072127": {},
-                "SRR31072132": {},
-                "srr_acc": {}
+                "SRR31072127": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/027/SRR31072127/SRR31072127_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072132": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/032/SRR31072132/SRR31072132_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LS 174T",
@@ -259,9 +357,16 @@
             "SRA": "SRX26455674",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455674",
             "SRR": {
-                "SRR31072065": {},
-                "SRR31072066": {},
-                "srr_acc": {}
+                "SRR31072065": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/065/SRR31072065/SRR31072065_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072066": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/066/SRR31072066/SRR31072066_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MCF7",
@@ -276,9 +381,16 @@
             "SRA": "SRX26455675",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455675",
             "SRR": {
-                "SRR31072063": {},
-                "SRR31072064": {},
-                "srr_acc": {}
+                "SRR31072063": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/063/SRR31072063/SRR31072063_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072064": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/064/SRR31072064/SRR31072064_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MCF7",
@@ -293,9 +405,14 @@
             "SRA": "SRX26455676",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455676",
             "SRR": {
-                "SRR31072061": {},
-                "SRR31072062": {},
-                "srr_acc": {}
+                "SRR31072061": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/061/SRR31072061/SRR31072061_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072062": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-231",
@@ -310,9 +427,16 @@
             "SRA": "SRX26455678",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455678",
             "SRR": {
-                "SRR31072056": {},
-                "SRR31072057": {},
-                "srr_acc": {}
+                "SRR31072056": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/056/SRR31072056/SRR31072056_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072057": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/057/SRR31072057/SRR31072057_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-231",
@@ -327,9 +451,16 @@
             "SRA": "SRX26455677",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455677",
             "SRR": {
-                "SRR31072058": {},
-                "SRR31072059": {},
-                "srr_acc": {}
+                "SRR31072058": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/058/SRR31072058/SRR31072058_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072059": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/059/SRR31072059/SRR31072059_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-453",
@@ -344,9 +475,16 @@
             "SRA": "SRX26455679",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455679",
             "SRR": {
-                "SRR31072054": {},
-                "SRR31072055": {},
-                "srr_acc": {}
+                "SRR31072054": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/054/SRR31072054/SRR31072054_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072055": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/055/SRR31072055/SRR31072055_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-453",
@@ -361,9 +499,16 @@
             "SRA": "SRX26455680",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455680",
             "SRR": {
-                "SRR31072053": {},
-                "SRR31072060": {},
-                "srr_acc": {}
+                "SRR31072053": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/053/SRR31072053/SRR31072053_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072060": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/060/SRR31072060/SRR31072060_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PANC-1",
@@ -378,9 +523,16 @@
             "SRA": "SRX26455681",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455681",
             "SRR": {
-                "SRR31072051": {},
-                "SRR31072052": {},
-                "srr_acc": {}
+                "SRR31072051": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/051/SRR31072051/SRR31072051_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072052": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/052/SRR31072052/SRR31072052_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PANC-1",
@@ -395,9 +547,16 @@
             "SRA": "SRX26455682",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455682",
             "SRR": {
-                "SRR31072049": {},
-                "SRR31072050": {},
-                "srr_acc": {}
+                "SRR31072049": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/049/SRR31072049/SRR31072049_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072050": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/050/SRR31072050/SRR31072050_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PC-3",
@@ -412,9 +571,16 @@
             "SRA": "SRX26455683",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455683",
             "SRR": {
-                "SRR31072047": {},
-                "SRR31072048": {},
-                "srr_acc": {}
+                "SRR31072047": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/047/SRR31072047/SRR31072047_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072048": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/048/SRR31072048/SRR31072048_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PC-3",
@@ -429,9 +595,16 @@
             "SRA": "SRX26455685",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455685",
             "SRR": {
-                "SRR31072042": {},
-                "SRR31072043": {},
-                "srr_acc": {}
+                "SRR31072042": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/042/SRR31072042/SRR31072042_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072043": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/043/SRR31072043/SRR31072043_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "BxPC-3",
@@ -446,9 +619,16 @@
             "SRA": "SRX26455684",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455684",
             "SRR": {
-                "SRR31072044": {},
-                "SRR31072045": {},
-                "srr_acc": {}
+                "SRR31072044": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/044/SRR31072044/SRR31072044_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072045": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/045/SRR31072045/SRR31072045_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "BxPC-3",
@@ -463,9 +643,16 @@
             "SRA": "SRX26455686",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455686",
             "SRR": {
-                "SRR31072040": {},
-                "SRR31072041": {},
-                "srr_acc": {}
+                "SRR31072040": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/040/SRR31072040/SRR31072040_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072041": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/041/SRR31072041/SRR31072041_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Colo320",
@@ -480,9 +667,16 @@
             "SRA": "SRX26455687",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455687",
             "SRR": {
-                "SRR31072039": {},
-                "SRR31072046": {},
-                "srr_acc": {}
+                "SRR31072039": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/039/SRR31072039/SRR31072039_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072046": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/046/SRR31072046/SRR31072046_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Colo320",
@@ -497,9 +691,16 @@
             "SRA": "SRX26455629",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455629",
             "SRR": {
-                "SRR31072125": {},
-                "SRR31072126": {},
-                "srr_acc": {}
+                "SRR31072125": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/025/SRR31072125/SRR31072125_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072126": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/026/SRR31072126/SRR31072126_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H1299",
@@ -514,9 +715,16 @@
             "SRA": "SRX26455630",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455630",
             "SRR": {
-                "SRR31072123": {},
-                "SRR31072124": {},
-                "srr_acc": {}
+                "SRR31072123": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/023/SRR31072123/SRR31072123_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072124": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/024/SRR31072124/SRR31072124_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H1299",
@@ -531,9 +739,16 @@
             "SRA": "SRX26455631",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455631",
             "SRR": {
-                "SRR31072121": {},
-                "SRR31072122": {},
-                "srr_acc": {}
+                "SRR31072121": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/021/SRR31072121/SRR31072121_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072122": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/022/SRR31072122/SRR31072122_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H23",
@@ -548,9 +763,16 @@
             "SRA": "SRX26455632",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455632",
             "SRR": {
-                "SRR31072119": {},
-                "SRR31072120": {},
-                "srr_acc": {}
+                "SRR31072119": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/019/SRR31072119/SRR31072119_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072120": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/020/SRR31072120/SRR31072120_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H23",
@@ -565,9 +787,16 @@
             "SRA": "SRX26455633",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455633",
             "SRR": {
-                "SRR31072116": {},
-                "SRR31072117": {},
-                "srr_acc": {}
+                "SRR31072116": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/016/SRR31072116/SRR31072116_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072117": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/017/SRR31072117/SRR31072117_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H358",
@@ -582,9 +811,16 @@
             "SRA": "SRX26455634",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455634",
             "SRR": {
-                "SRR31072114": {},
-                "SRR31072115": {},
-                "srr_acc": {}
+                "SRR31072114": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/014/SRR31072114/SRR31072114_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072115": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/015/SRR31072115/SRR31072115_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H358",
@@ -599,9 +835,16 @@
             "SRA": "SRX26455635",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455635",
             "SRR": {
-                "SRR31072113": {},
-                "SRR31072118": {},
-                "srr_acc": {}
+                "SRR31072113": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/013/SRR31072113/SRR31072113_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072118": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/018/SRR31072118/SRR31072118_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCC44",
@@ -616,9 +859,16 @@
             "SRA": "SRX26455636",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455636",
             "SRR": {
-                "SRR31072111": {},
-                "SRR31072112": {},
-                "srr_acc": {}
+                "SRR31072111": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/011/SRR31072111/SRR31072111_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072112": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/012/SRR31072112/SRR31072112_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCC44",
@@ -633,9 +883,16 @@
             "SRA": "SRX26455637",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455637",
             "SRR": {
-                "SRR31072109": {},
-                "SRR31072110": {},
-                "srr_acc": {}
+                "SRR31072109": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/009/SRR31072109/SRR31072109_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072110": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/010/SRR31072110/SRR31072110_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCT116",
@@ -650,9 +907,16 @@
             "SRA": "SRX26455638",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455638",
             "SRR": {
-                "SRR31072107": {},
-                "SRR31072108": {},
-                "srr_acc": {}
+                "SRR31072107": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/007/SRR31072107/SRR31072107_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072108": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/008/SRR31072108/SRR31072108_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCT116",
@@ -667,9 +931,16 @@
             "SRA": "SRX26455639",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455639",
             "SRR": {
-                "SRR31072105": {},
-                "SRR31072106": {},
-                "srr_acc": {}
+                "SRR31072105": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/005/SRR31072105/SRR31072105_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072106": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/006/SRR31072106/SRR31072106_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEPG2",
@@ -684,9 +955,16 @@
             "SRA": "SRX26455640",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455640",
             "SRR": {
-                "SRR31072102": {},
-                "SRR31072103": {},
-                "srr_acc": {}
+                "SRR31072102": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/002/SRR31072102/SRR31072102_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072103": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/003/SRR31072103/SRR31072103_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEPG2",
@@ -701,9 +979,16 @@
             "SRA": "SRX26455641",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455641",
             "SRR": {
-                "SRR31072100": {},
-                "SRR31072101": {},
-                "srr_acc": {}
+                "SRR31072100": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/000/SRR31072100/SRR31072100_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072101": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/001/SRR31072101/SRR31072101_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "K562",
@@ -718,9 +1003,16 @@
             "SRA": "SRX26455642",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455642",
             "SRR": {
-                "SRR31072098": {},
-                "SRR31072104": {},
-                "srr_acc": {}
+                "SRR31072098": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/098/SRR31072098/SRR31072098_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072104": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/004/SRR31072104/SRR31072104_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "K562",
@@ -735,9 +1027,16 @@
             "SRA": "SRX26455688",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455688",
             "SRR": {
-                "SRR31072037": {},
-                "SRR31072038": {},
-                "srr_acc": {}
+                "SRR31072037": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/037/SRR31072037/SRR31072037_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072038": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/038/SRR31072038/SRR31072038_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LNCaP",
@@ -752,9 +1051,16 @@
             "SRA": "SRX26455689",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455689",
             "SRR": {
-                "SRR31072035": {},
-                "SRR31072036": {},
-                "srr_acc": {}
+                "SRR31072035": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/035/SRR31072035/SRR31072035_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072036": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/036/SRR31072036/SRR31072036_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LNCaP",
@@ -769,9 +1075,16 @@
             "SRA": "SRX26455690",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455690",
             "SRR": {
-                "SRR31072033": {},
-                "SRR31072034": {},
-                "srr_acc": {}
+                "SRR31072033": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/033/SRR31072033/SRR31072033_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072034": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/034/SRR31072034/SRR31072034_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MIA PaCa-2",
@@ -786,9 +1099,16 @@
             "SRA": "SRX26455692",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455692",
             "SRR": {
-                "SRR31072028": {},
-                "SRR31072029": {},
-                "srr_acc": {}
+                "SRR31072028": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/028/SRR31072028/SRR31072028_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072029": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/029/SRR31072029/SRR31072029_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MIA PaCa-2",
@@ -803,9 +1123,16 @@
             "SRA": "SRX26455691",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455691",
             "SRR": {
-                "SRR31072030": {},
-                "SRR31072031": {},
-                "srr_acc": {}
+                "SRR31072030": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/030/SRR31072030/SRR31072030_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072031": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/031/SRR31072031/SRR31072031_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW480",
@@ -820,9 +1147,16 @@
             "SRA": "SRX26455693",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455693",
             "SRR": {
-                "SRR31072026": {},
-                "SRR31072027": {},
-                "srr_acc": {}
+                "SRR31072026": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/026/SRR31072026/SRR31072026_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072027": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/027/SRR31072027/SRR31072027_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW480",
@@ -837,9 +1171,16 @@
             "SRA": "SRX26455694",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455694",
             "SRR": {
-                "SRR31072025": {},
-                "SRR31072032": {},
-                "srr_acc": {}
+                "SRR31072025": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/025/SRR31072025/SRR31072025_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072032": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/032/SRR31072032/SRR31072032_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW620",
@@ -854,9 +1195,16 @@
             "SRA": "SRX26455695",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455695",
             "SRR": {
-                "SRR31072023": {},
-                "SRR31072024": {},
-                "srr_acc": {}
+                "SRR31072023": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/023/SRR31072023/SRR31072023_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072024": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/024/SRR31072024/SRR31072024_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW620",
@@ -871,9 +1219,16 @@
             "SRA": "SRX26455696",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455696",
             "SRR": {
-                "SRR31072021": {},
-                "SRR31072022": {},
-                "srr_acc": {}
+                "SRR31072021": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/021/SRR31072021/SRR31072021_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072022": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/022/SRR31072022/SRR31072022_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "ZR-75-1",
@@ -888,9 +1243,16 @@
             "SRA": "SRX26455697",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455697",
             "SRR": {
-                "SRR31072019": {},
-                "SRR31072020": {},
-                "srr_acc": {}
+                "SRR31072019": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/019/SRR31072019/SRR31072019_subreads.fastq.gz"
+                    ]
+                },
+                "SRR31072020": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/020/SRR31072020/SRR31072020_subreads.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "ZR-75-1",
@@ -905,8 +1267,12 @@
             "SRA": "SRX26455698",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455698",
             "SRR": {
-                "SRR31072018": {},
-                "srr_acc": {}
+                "SRR31072018": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/018/SRR31072018/SRR31072018_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/018/SRR31072018/SRR31072018_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A2058",
@@ -921,8 +1287,12 @@
             "SRA": "SRX26455699",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455699",
             "SRR": {
-                "SRR31072017": {},
-                "srr_acc": {}
+                "SRR31072017": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/017/SRR31072017/SRR31072017_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/017/SRR31072017/SRR31072017_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A2058",
@@ -937,8 +1307,12 @@
             "SRA": "SRX26455700",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455700",
             "SRR": {
-                "SRR31072016": {},
-                "srr_acc": {}
+                "SRR31072016": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/016/SRR31072016/SRR31072016_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/016/SRR31072016/SRR31072016_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A375",
@@ -953,8 +1327,12 @@
             "SRA": "SRX26455701",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455701",
             "SRR": {
-                "SRR31072015": {},
-                "srr_acc": {}
+                "SRR31072015": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/015/SRR31072015/SRR31072015_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/015/SRR31072015/SRR31072015_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A375",
@@ -969,8 +1347,12 @@
             "SRA": "SRX26455702",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455702",
             "SRR": {
-                "SRR31072099": {},
-                "srr_acc": {}
+                "SRR31072099": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/099/SRR31072099/SRR31072099_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/099/SRR31072099/SRR31072099_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A549",
@@ -985,8 +1367,12 @@
             "SRA": "SRX26455643",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455643",
             "SRR": {
-                "SRR31072097": {},
-                "srr_acc": {}
+                "SRR31072097": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/097/SRR31072097/SRR31072097_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/097/SRR31072097/SRR31072097_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "A549",
@@ -1001,8 +1387,12 @@
             "SRA": "SRX26455644",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455644",
             "SRR": {
-                "SRR31072096": {},
-                "srr_acc": {}
+                "SRR31072096": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/096/SRR31072096/SRR31072096_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/096/SRR31072096/SRR31072096_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "C4-2B",
@@ -1017,8 +1407,12 @@
             "SRA": "SRX26455645",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455645",
             "SRR": {
-                "SRR31072095": {},
-                "srr_acc": {}
+                "SRR31072095": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/095/SRR31072095/SRR31072095_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/095/SRR31072095/SRR31072095_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "C4-2B",
@@ -1033,8 +1427,12 @@
             "SRA": "SRX26455646",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455646",
             "SRR": {
-                "SRR31072094": {},
-                "srr_acc": {}
+                "SRR31072094": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/094/SRR31072094/SRR31072094_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/094/SRR31072094/SRR31072094_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEK-293",
@@ -1049,8 +1447,12 @@
             "SRA": "SRX26455647",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455647",
             "SRR": {
-                "SRR31072093": {},
-                "srr_acc": {}
+                "SRR31072093": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/093/SRR31072093/SRR31072093_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/093/SRR31072093/SRR31072093_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEK-293",
@@ -1065,8 +1467,12 @@
             "SRA": "SRX26455648",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455648",
             "SRR": {
-                "SRR31072092": {},
-                "srr_acc": {}
+                "SRR31072092": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/092/SRR31072092/SRR31072092_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/092/SRR31072092/SRR31072092_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Hs 707(A).T",
@@ -1081,8 +1487,12 @@
             "SRA": "SRX26455649",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455649",
             "SRR": {
-                "SRR31072091": {},
-                "srr_acc": {}
+                "SRR31072091": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/091/SRR31072091/SRR31072091_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/091/SRR31072091/SRR31072091_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Hs 707(A).T",
@@ -1097,8 +1507,12 @@
             "SRA": "SRX26455650",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455650",
             "SRR": {
-                "SRR31072090": {},
-                "srr_acc": {}
+                "SRR31072090": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/090/SRR31072090/SRR31072090_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/090/SRR31072090/SRR31072090_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LS 174T",
@@ -1113,8 +1527,12 @@
             "SRA": "SRX26455651",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455651",
             "SRR": {
-                "SRR31072089": {},
-                "srr_acc": {}
+                "SRR31072089": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/089/SRR31072089/SRR31072089_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/089/SRR31072089/SRR31072089_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LS 174T",
@@ -1129,8 +1547,12 @@
             "SRA": "SRX26455652",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455652",
             "SRR": {
-                "SRR31072088": {},
-                "srr_acc": {}
+                "SRR31072088": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/088/SRR31072088/SRR31072088_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/088/SRR31072088/SRR31072088_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MCF7",
@@ -1145,8 +1567,12 @@
             "SRA": "SRX26455653",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455653",
             "SRR": {
-                "SRR31072087": {},
-                "srr_acc": {}
+                "SRR31072087": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/087/SRR31072087/SRR31072087_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/087/SRR31072087/SRR31072087_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MCF7",
@@ -1161,8 +1587,12 @@
             "SRA": "SRX26455654",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455654",
             "SRR": {
-                "SRR31072086": {},
-                "srr_acc": {}
+                "SRR31072086": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/086/SRR31072086/SRR31072086_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/086/SRR31072086/SRR31072086_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-231",
@@ -1177,8 +1607,12 @@
             "SRA": "SRX26455655",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455655",
             "SRR": {
-                "SRR31072085": {},
-                "srr_acc": {}
+                "SRR31072085": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/085/SRR31072085/SRR31072085_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/085/SRR31072085/SRR31072085_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-231",
@@ -1193,8 +1627,12 @@
             "SRA": "SRX26455656",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455656",
             "SRR": {
-                "SRR31072084": {},
-                "srr_acc": {}
+                "SRR31072084": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/084/SRR31072084/SRR31072084_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/084/SRR31072084/SRR31072084_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-453",
@@ -1209,8 +1647,12 @@
             "SRA": "SRX26455657",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455657",
             "SRR": {
-                "SRR31072083": {},
-                "srr_acc": {}
+                "SRR31072083": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/083/SRR31072083/SRR31072083_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/083/SRR31072083/SRR31072083_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MDA-MB-453",
@@ -1225,8 +1667,12 @@
             "SRA": "SRX26455658",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455658",
             "SRR": {
-                "SRR31072014": {},
-                "srr_acc": {}
+                "SRR31072014": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/014/SRR31072014/SRR31072014_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/014/SRR31072014/SRR31072014_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PANC-1",
@@ -1241,8 +1687,12 @@
             "SRA": "SRX26455703",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455703",
             "SRR": {
-                "SRR31072013": {},
-                "srr_acc": {}
+                "SRR31072013": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/013/SRR31072013/SRR31072013_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/013/SRR31072013/SRR31072013_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PANC-1",
@@ -1257,8 +1707,12 @@
             "SRA": "SRX26455704",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455704",
             "SRR": {
-                "SRR31072012": {},
-                "srr_acc": {}
+                "SRR31072012": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/012/SRR31072012/SRR31072012_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/012/SRR31072012/SRR31072012_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PC-3",
@@ -1273,8 +1727,12 @@
             "SRA": "SRX26455705",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455705",
             "SRR": {
-                "SRR31072011": {},
-                "srr_acc": {}
+                "SRR31072011": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/011/SRR31072011/SRR31072011_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/011/SRR31072011/SRR31072011_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "PC-3",
@@ -1289,8 +1747,12 @@
             "SRA": "SRX26455706",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455706",
             "SRR": {
-                "SRR31072010": {},
-                "srr_acc": {}
+                "SRR31072010": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/010/SRR31072010/SRR31072010_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/010/SRR31072010/SRR31072010_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "BxPC-3",
@@ -1305,8 +1767,12 @@
             "SRA": "SRX26455707",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455707",
             "SRR": {
-                "SRR31072009": {},
-                "srr_acc": {}
+                "SRR31072009": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/009/SRR31072009/SRR31072009_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/009/SRR31072009/SRR31072009_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "BxPC-3",
@@ -1321,8 +1787,12 @@
             "SRA": "SRX26455708",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455708",
             "SRR": {
-                "SRR31072008": {},
-                "srr_acc": {}
+                "SRR31072008": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/008/SRR31072008/SRR31072008_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/008/SRR31072008/SRR31072008_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Colo320",
@@ -1337,8 +1807,12 @@
             "SRA": "SRX26455709",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455709",
             "SRR": {
-                "SRR31072007": {},
-                "srr_acc": {}
+                "SRR31072007": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/007/SRR31072007/SRR31072007_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/007/SRR31072007/SRR31072007_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "Colo320",
@@ -1353,8 +1827,12 @@
             "SRA": "SRX26455710",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455710",
             "SRR": {
-                "SRR31072006": {},
-                "srr_acc": {}
+                "SRR31072006": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/006/SRR31072006/SRR31072006_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/006/SRR31072006/SRR31072006_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H1299",
@@ -1369,8 +1847,12 @@
             "SRA": "SRX26455711",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455711",
             "SRR": {
-                "SRR31072005": {},
-                "srr_acc": {}
+                "SRR31072005": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/005/SRR31072005/SRR31072005_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/005/SRR31072005/SRR31072005_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H1299",
@@ -1385,8 +1867,12 @@
             "SRA": "SRX26455712",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455712",
             "SRR": {
-                "SRR31072004": {},
-                "srr_acc": {}
+                "SRR31072004": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/004/SRR31072004/SRR31072004_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/004/SRR31072004/SRR31072004_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H23",
@@ -1401,8 +1887,12 @@
             "SRA": "SRX26455713",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455713",
             "SRR": {
-                "SRR31072003": {},
-                "srr_acc": {}
+                "SRR31072003": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/003/SRR31072003/SRR31072003_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/003/SRR31072003/SRR31072003_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H23",
@@ -1417,8 +1907,12 @@
             "SRA": "SRX26455714",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455714",
             "SRR": {
-                "SRR31072002": {},
-                "srr_acc": {}
+                "SRR31072002": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/002/SRR31072002/SRR31072002_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/002/SRR31072002/SRR31072002_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H358",
@@ -1433,8 +1927,12 @@
             "SRA": "SRX26455715",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455715",
             "SRR": {
-                "SRR31072001": {},
-                "srr_acc": {}
+                "SRR31072001": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/001/SRR31072001/SRR31072001_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/001/SRR31072001/SRR31072001_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "H358",
@@ -1449,8 +1947,12 @@
             "SRA": "SRX26455716",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455716",
             "SRR": {
-                "SRR31072000": {},
-                "srr_acc": {}
+                "SRR31072000": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/000/SRR31072000/SRR31072000_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/000/SRR31072000/SRR31072000_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCC44",
@@ -1465,8 +1967,12 @@
             "SRA": "SRX26455717",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455717",
             "SRR": {
-                "SRR31071999": {},
-                "srr_acc": {}
+                "SRR31071999": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/099/SRR31071999/SRR31071999_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/099/SRR31071999/SRR31071999_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCC44",
@@ -1481,8 +1987,12 @@
             "SRA": "SRX26455718",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455718",
             "SRR": {
-                "SRR31072082": {},
-                "srr_acc": {}
+                "SRR31072082": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/082/SRR31072082/SRR31072082_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/082/SRR31072082/SRR31072082_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCT116",
@@ -1497,8 +2007,12 @@
             "SRA": "SRX26455659",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455659",
             "SRR": {
-                "SRR31072081": {},
-                "srr_acc": {}
+                "SRR31072081": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/081/SRR31072081/SRR31072081_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/081/SRR31072081/SRR31072081_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HCT116",
@@ -1513,8 +2027,12 @@
             "SRA": "SRX26455660",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455660",
             "SRR": {
-                "SRR31072080": {},
-                "srr_acc": {}
+                "SRR31072080": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/080/SRR31072080/SRR31072080_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/080/SRR31072080/SRR31072080_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEPG2",
@@ -1529,8 +2047,12 @@
             "SRA": "SRX26455661",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455661",
             "SRR": {
-                "SRR31072079": {},
-                "srr_acc": {}
+                "SRR31072079": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/079/SRR31072079/SRR31072079_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/079/SRR31072079/SRR31072079_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "HEPG2",
@@ -1545,8 +2067,12 @@
             "SRA": "SRX26455662",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455662",
             "SRR": {
-                "SRR31072078": {},
-                "srr_acc": {}
+                "SRR31072078": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/078/SRR31072078/SRR31072078_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/078/SRR31072078/SRR31072078_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "K562",
@@ -1561,8 +2087,12 @@
             "SRA": "SRX26455663",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455663",
             "SRR": {
-                "SRR31072077": {},
-                "srr_acc": {}
+                "SRR31072077": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/077/SRR31072077/SRR31072077_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/077/SRR31072077/SRR31072077_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "K562",
@@ -1577,8 +2107,12 @@
             "SRA": "SRX26455664",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455664",
             "SRR": {
-                "SRR31072076": {},
-                "srr_acc": {}
+                "SRR31072076": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/076/SRR31072076/SRR31072076_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/076/SRR31072076/SRR31072076_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LNCaP",
@@ -1593,8 +2127,12 @@
             "SRA": "SRX26455665",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455665",
             "SRR": {
-                "SRR31072075": {},
-                "srr_acc": {}
+                "SRR31072075": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/075/SRR31072075/SRR31072075_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/075/SRR31072075/SRR31072075_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "LNCaP",
@@ -1609,8 +2147,12 @@
             "SRA": "SRX26455666",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455666",
             "SRR": {
-                "SRR31072074": {},
-                "srr_acc": {}
+                "SRR31072074": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/074/SRR31072074/SRR31072074_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/074/SRR31072074/SRR31072074_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MIA PaCa-2",
@@ -1625,8 +2167,12 @@
             "SRA": "SRX26455667",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455667",
             "SRR": {
-                "SRR31072073": {},
-                "srr_acc": {}
+                "SRR31072073": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/073/SRR31072073/SRR31072073_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/073/SRR31072073/SRR31072073_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "MIA PaCa-2",
@@ -1641,8 +2187,12 @@
             "SRA": "SRX26455668",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455668",
             "SRR": {
-                "SRR31072072": {},
-                "srr_acc": {}
+                "SRR31072072": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/072/SRR31072072/SRR31072072_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/072/SRR31072072/SRR31072072_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW480",
@@ -1657,8 +2207,12 @@
             "SRA": "SRX26455669",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455669",
             "SRR": {
-                "SRR31072071": {},
-                "srr_acc": {}
+                "SRR31072071": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/071/SRR31072071/SRR31072071_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/071/SRR31072071/SRR31072071_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW480",
@@ -1673,8 +2227,12 @@
             "SRA": "SRX26455670",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455670",
             "SRR": {
-                "SRR31072070": {},
-                "srr_acc": {}
+                "SRR31072070": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/070/SRR31072070/SRR31072070_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/070/SRR31072070/SRR31072070_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW620",
@@ -1689,8 +2247,12 @@
             "SRA": "SRX26455671",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455671",
             "SRR": {
-                "SRR31072069": {},
-                "srr_acc": {}
+                "SRR31072069": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/069/SRR31072069/SRR31072069_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/069/SRR31072069/SRR31072069_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "SW620",
@@ -1705,8 +2267,12 @@
             "SRA": "SRX26455672",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX26455672",
             "SRR": {
-                "SRR31072068": {},
-                "srr_acc": {}
+                "SRR31072068": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/068/SRR31072068/SRR31072068_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR310/068/SRR31072068/SRR31072068_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "cell_line": "ZR-75-1",

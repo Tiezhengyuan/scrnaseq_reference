@@ -19,8 +19,7 @@
             "SRA": "SRX9461573",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9461573",
             "SRR": {
-                "SRR13010451": {},
-                "srr_acc": {}
+                "SRR13010451": {}
             },
             "characteristics": {
                 "cell_type": "airway basal stem cells",
@@ -36,8 +35,7 @@
             "SRA": "SRX9461574",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9461574",
             "SRR": {
-                "SRR13010452": {},
-                "srr_acc": {}
+                "SRR13010452": {}
             },
             "characteristics": {
                 "cell_type": "airway basal stem cells",
@@ -53,8 +51,7 @@
             "SRA": "SRX9461575",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9461575",
             "SRR": {
-                "SRR13010453": {},
-                "srr_acc": {}
+                "SRR13010453": {}
             },
             "characteristics": {
                 "cell_type": "airway basal stem cells",

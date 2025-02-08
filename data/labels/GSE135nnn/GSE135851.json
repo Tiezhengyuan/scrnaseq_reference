@@ -23,8 +23,9 @@
             "SRA": "SRX6717372",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717372",
             "SRR": {
-                "SRR9970044": {},
-                "srr_acc": {}
+                "SRR9970044": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "scRNA-seq"
@@ -42,8 +43,9 @@
             "SRA": "SRX6717373",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717373",
             "SRR": {
-                "SRR9970045": {},
-                "srr_acc": {}
+                "SRR9970045": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "scRNA-seq"
@@ -61,8 +63,9 @@
             "SRA": "SRX6717374",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717374",
             "SRR": {
-                "SRR9970046": {},
-                "srr_acc": {}
+                "SRR9970046": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "scRNA-seq"
@@ -80,8 +83,9 @@
             "SRA": "SRX6717375",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717375",
             "SRR": {
-                "SRR9970047": {},
-                "srr_acc": {}
+                "SRR9970047": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "snRNA-seq"
@@ -99,8 +103,9 @@
             "SRA": "SRX6717376",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717376",
             "SRR": {
-                "SRR9970048": {},
-                "srr_acc": {}
+                "SRR9970048": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "scRNA-seq"
@@ -118,8 +123,9 @@
             "SRA": "SRX6717377",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717377",
             "SRR": {
-                "SRR9970049": {},
-                "srr_acc": {}
+                "SRR9970049": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "snRNA-seq"
@@ -137,8 +143,9 @@
             "SRA": "SRX6717378",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6717378",
             "SRR": {
-                "SRR9970050": {},
-                "srr_acc": {}
+                "SRR9970050": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "snRNA-seq"

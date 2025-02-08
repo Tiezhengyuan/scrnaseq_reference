@@ -18,8 +18,11 @@
             "SRA": "SRX10008426",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008426",
             "SRR": {
-                "SRR13615029": {},
-                "srr_acc": {}
+                "SRR13615029": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/029/SRR13615029/SRR13615029.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -34,8 +37,11 @@
             "SRA": "SRX10008427",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008427",
             "SRR": {
-                "SRR13615030": {},
-                "srr_acc": {}
+                "SRR13615030": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/030/SRR13615030/SRR13615030.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -50,8 +56,11 @@
             "SRA": "SRX10008428",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008428",
             "SRR": {
-                "SRR13615031": {},
-                "srr_acc": {}
+                "SRR13615031": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/031/SRR13615031/SRR13615031.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -66,8 +75,11 @@
             "SRA": "SRX10008429",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008429",
             "SRR": {
-                "SRR13615032": {},
-                "srr_acc": {}
+                "SRR13615032": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/032/SRR13615032/SRR13615032.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -82,8 +94,11 @@
             "SRA": "SRX10008430",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008430",
             "SRR": {
-                "SRR13615033": {},
-                "srr_acc": {}
+                "SRR13615033": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/033/SRR13615033/SRR13615033.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -98,8 +113,11 @@
             "SRA": "SRX10008431",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008431",
             "SRR": {
-                "SRR13615034": {},
-                "srr_acc": {}
+                "SRR13615034": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/034/SRR13615034/SRR13615034.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -114,8 +132,11 @@
             "SRA": "SRX10008432",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008432",
             "SRR": {
-                "SRR13615035": {},
-                "srr_acc": {}
+                "SRR13615035": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/035/SRR13615035/SRR13615035.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -130,8 +151,11 @@
             "SRA": "SRX10008433",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008433",
             "SRR": {
-                "SRR13615036": {},
-                "srr_acc": {}
+                "SRR13615036": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/036/SRR13615036/SRR13615036.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -146,8 +170,11 @@
             "SRA": "SRX10008434",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008434",
             "SRR": {
-                "SRR13615037": {},
-                "srr_acc": {}
+                "SRR13615037": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/037/SRR13615037/SRR13615037.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -162,8 +189,11 @@
             "SRA": "SRX10008435",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008435",
             "SRR": {
-                "SRR13615038": {},
-                "srr_acc": {}
+                "SRR13615038": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/038/SRR13615038/SRR13615038.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -178,8 +208,11 @@
             "SRA": "SRX10008436",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008436",
             "SRR": {
-                "SRR13615039": {},
-                "srr_acc": {}
+                "SRR13615039": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/039/SRR13615039/SRR13615039.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -194,8 +227,11 @@
             "SRA": "SRX10008437",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008437",
             "SRR": {
-                "SRR13615040": {},
-                "srr_acc": {}
+                "SRR13615040": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/040/SRR13615040/SRR13615040.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -210,8 +246,11 @@
             "SRA": "SRX10008438",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008438",
             "SRR": {
-                "SRR13615041": {},
-                "srr_acc": {}
+                "SRR13615041": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/041/SRR13615041/SRR13615041.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -226,8 +265,11 @@
             "SRA": "SRX10008439",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008439",
             "SRR": {
-                "SRR13615042": {},
-                "srr_acc": {}
+                "SRR13615042": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/042/SRR13615042/SRR13615042.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -242,8 +284,11 @@
             "SRA": "SRX10008440",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008440",
             "SRR": {
-                "SRR13615043": {},
-                "srr_acc": {}
+                "SRR13615043": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/043/SRR13615043/SRR13615043.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -258,8 +303,11 @@
             "SRA": "SRX10008441",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008441",
             "SRR": {
-                "SRR13615044": {},
-                "srr_acc": {}
+                "SRR13615044": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/044/SRR13615044/SRR13615044.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -274,8 +322,11 @@
             "SRA": "SRX10008442",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008442",
             "SRR": {
-                "SRR13615045": {},
-                "srr_acc": {}
+                "SRR13615045": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/045/SRR13615045/SRR13615045.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -290,8 +341,11 @@
             "SRA": "SRX10008443",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008443",
             "SRR": {
-                "SRR13615046": {},
-                "srr_acc": {}
+                "SRR13615046": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/046/SRR13615046/SRR13615046.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -306,8 +360,11 @@
             "SRA": "SRX10008444",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008444",
             "SRR": {
-                "SRR13615047": {},
-                "srr_acc": {}
+                "SRR13615047": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/047/SRR13615047/SRR13615047.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -322,8 +379,11 @@
             "SRA": "SRX10008445",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008445",
             "SRR": {
-                "SRR13615048": {},
-                "srr_acc": {}
+                "SRR13615048": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/048/SRR13615048/SRR13615048.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -338,8 +398,11 @@
             "SRA": "SRX10008446",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008446",
             "SRR": {
-                "SRR13615049": {},
-                "srr_acc": {}
+                "SRR13615049": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/049/SRR13615049/SRR13615049.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -354,8 +417,11 @@
             "SRA": "SRX10008447",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008447",
             "SRR": {
-                "SRR13615050": {},
-                "srr_acc": {}
+                "SRR13615050": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/050/SRR13615050/SRR13615050.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -370,8 +436,11 @@
             "SRA": "SRX10008448",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008448",
             "SRR": {
-                "SRR13615051": {},
-                "srr_acc": {}
+                "SRR13615051": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/051/SRR13615051/SRR13615051.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -386,8 +455,11 @@
             "SRA": "SRX10008449",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008449",
             "SRR": {
-                "SRR13615052": {},
-                "srr_acc": {}
+                "SRR13615052": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/052/SRR13615052/SRR13615052.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -402,8 +474,11 @@
             "SRA": "SRX10008450",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008450",
             "SRR": {
-                "SRR13615053": {},
-                "srr_acc": {}
+                "SRR13615053": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/053/SRR13615053/SRR13615053.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -418,8 +493,11 @@
             "SRA": "SRX10008451",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008451",
             "SRR": {
-                "SRR13615054": {},
-                "srr_acc": {}
+                "SRR13615054": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/054/SRR13615054/SRR13615054.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -434,8 +512,11 @@
             "SRA": "SRX10008452",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008452",
             "SRR": {
-                "SRR13615055": {},
-                "srr_acc": {}
+                "SRR13615055": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/055/SRR13615055/SRR13615055.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -450,8 +531,11 @@
             "SRA": "SRX10008453",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008453",
             "SRR": {
-                "SRR13615056": {},
-                "srr_acc": {}
+                "SRR13615056": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/056/SRR13615056/SRR13615056.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "IPF",
@@ -466,8 +550,11 @@
             "SRA": "SRX10008454",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008454",
             "SRR": {
-                "SRR13615057": {},
-                "srr_acc": {}
+                "SRR13615057": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/057/SRR13615057/SRR13615057.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -482,8 +569,11 @@
             "SRA": "SRX10008455",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008455",
             "SRR": {
-                "SRR13615058": {},
-                "srr_acc": {}
+                "SRR13615058": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/058/SRR13615058/SRR13615058.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -498,8 +588,11 @@
             "SRA": "SRX10008456",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008456",
             "SRR": {
-                "SRR13615059": {},
-                "srr_acc": {}
+                "SRR13615059": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/059/SRR13615059/SRR13615059.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -514,8 +607,11 @@
             "SRA": "SRX10008457",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008457",
             "SRR": {
-                "SRR13615060": {},
-                "srr_acc": {}
+                "SRR13615060": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/060/SRR13615060/SRR13615060.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -530,8 +626,11 @@
             "SRA": "SRX10008458",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008458",
             "SRR": {
-                "SRR13615061": {},
-                "srr_acc": {}
+                "SRR13615061": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/061/SRR13615061/SRR13615061.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -546,8 +645,11 @@
             "SRA": "SRX10008459",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008459",
             "SRR": {
-                "SRR13615062": {},
-                "srr_acc": {}
+                "SRR13615062": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/062/SRR13615062/SRR13615062.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -562,8 +664,11 @@
             "SRA": "SRX10008460",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008460",
             "SRR": {
-                "SRR13615063": {},
-                "srr_acc": {}
+                "SRR13615063": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/063/SRR13615063/SRR13615063.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -578,8 +683,11 @@
             "SRA": "SRX10008461",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008461",
             "SRR": {
-                "SRR13615064": {},
-                "srr_acc": {}
+                "SRR13615064": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/064/SRR13615064/SRR13615064.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -594,8 +702,11 @@
             "SRA": "SRX10008462",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008462",
             "SRR": {
-                "SRR13615065": {},
-                "srr_acc": {}
+                "SRR13615065": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/065/SRR13615065/SRR13615065.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -610,8 +721,11 @@
             "SRA": "SRX10008463",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008463",
             "SRR": {
-                "SRR13615066": {},
-                "srr_acc": {}
+                "SRR13615066": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/066/SRR13615066/SRR13615066.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -626,8 +740,11 @@
             "SRA": "SRX10008464",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008464",
             "SRR": {
-                "SRR13615067": {},
-                "srr_acc": {}
+                "SRR13615067": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/067/SRR13615067/SRR13615067.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -642,8 +759,11 @@
             "SRA": "SRX10008465",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008465",
             "SRR": {
-                "SRR13615068": {},
-                "srr_acc": {}
+                "SRR13615068": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/068/SRR13615068/SRR13615068.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -658,8 +778,11 @@
             "SRA": "SRX10008466",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008466",
             "SRR": {
-                "SRR13615069": {},
-                "srr_acc": {}
+                "SRR13615069": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/069/SRR13615069/SRR13615069.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "Normal",
@@ -674,8 +797,11 @@
             "SRA": "SRX10008467",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008467",
             "SRR": {
-                "SRR13615070": {},
-                "srr_acc": {}
+                "SRR13615070": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/070/SRR13615070/SRR13615070.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",
@@ -690,8 +816,11 @@
             "SRA": "SRX10008468",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008468",
             "SRR": {
-                "SRR13615071": {},
-                "srr_acc": {}
+                "SRR13615071": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/071/SRR13615071/SRR13615071.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",
@@ -706,8 +835,11 @@
             "SRA": "SRX10008469",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008469",
             "SRR": {
-                "SRR13615072": {},
-                "srr_acc": {}
+                "SRR13615072": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/072/SRR13615072/SRR13615072.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",
@@ -722,8 +854,11 @@
             "SRA": "SRX10008470",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008470",
             "SRR": {
-                "SRR13615073": {},
-                "srr_acc": {}
+                "SRR13615073": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/073/SRR13615073/SRR13615073.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",
@@ -738,8 +873,11 @@
             "SRA": "SRX10008471",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008471",
             "SRR": {
-                "SRR13615074": {},
-                "srr_acc": {}
+                "SRR13615074": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/074/SRR13615074/SRR13615074.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",
@@ -754,8 +892,11 @@
             "SRA": "SRX10008472",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008472",
             "SRR": {
-                "SRR13615075": {},
-                "srr_acc": {}
+                "SRR13615075": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/075/SRR13615075/SRR13615075.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",
@@ -770,8 +911,11 @@
             "SRA": "SRX10008473",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008473",
             "SRR": {
-                "SRR13615076": {},
-                "srr_acc": {}
+                "SRR13615076": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/076/SRR13615076/SRR13615076.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "disease_state": "SSc-ILD",

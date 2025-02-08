@@ -20,8 +20,7 @@
             "SRA": "SRX17412777",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412777",
             "SRR": {
-                "SRR21407770": {},
-                "srr_acc": {}
+                "SRR21407770": {}
             },
             "characteristics": {
                 "age": "32",
@@ -39,8 +38,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412778",
             "SRR": {
                 "SRR21407771": {},
-                "SRR21407772": {},
-                "srr_acc": {}
+                "SRR21407772": {}
             },
             "characteristics": {
                 "age": "21",
@@ -57,8 +55,7 @@
             "SRA": "SRX17412779",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412779",
             "SRR": {
-                "SRR21407773": {},
-                "srr_acc": {}
+                "SRR21407773": {}
             },
             "characteristics": {
                 "age": "49",
@@ -78,8 +75,7 @@
                 "SRR21407774": {},
                 "SRR21407775": {},
                 "SRR21407776": {},
-                "SRR21407777": {},
-                "srr_acc": {}
+                "SRR21407777": {}
             },
             "characteristics": {
                 "age": "29",
@@ -97,8 +93,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412781",
             "SRR": {
                 "SRR21407778": {},
-                "SRR21407779": {},
-                "srr_acc": {}
+                "SRR21407779": {}
             },
             "characteristics": {
                 "age": "32",
@@ -115,8 +110,7 @@
             "SRA": "SRX17412782",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412782",
             "SRR": {
-                "SRR21407780": {},
-                "srr_acc": {}
+                "SRR21407780": {}
             },
             "characteristics": {
                 "age": "50",
@@ -134,8 +128,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412783",
             "SRR": {
                 "SRR21407781": {},
-                "SRR21407782": {},
-                "srr_acc": {}
+                "SRR21407782": {}
             },
             "characteristics": {
                 "age": "41",
@@ -152,8 +145,7 @@
             "SRA": "SRX17412784",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412784",
             "SRR": {
-                "SRR21407783": {},
-                "srr_acc": {}
+                "SRR21407783": {}
             },
             "characteristics": {
                 "age": "56",
@@ -170,8 +162,7 @@
             "SRA": "SRX17412785",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412785",
             "SRR": {
-                "SRR21407784": {},
-                "srr_acc": {}
+                "SRR21407784": {}
             },
             "characteristics": {
                 "age": "37",
@@ -188,8 +179,7 @@
             "SRA": "SRX17412786",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412786",
             "SRR": {
-                "SRR21407785": {},
-                "srr_acc": {}
+                "SRR21407785": {}
             },
             "characteristics": {
                 "age": "80",
@@ -206,8 +196,7 @@
             "SRA": "SRX17412787",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412787",
             "SRR": {
-                "SRR21407786": {},
-                "srr_acc": {}
+                "SRR21407786": {}
             },
             "characteristics": {
                 "age": "23",
@@ -226,8 +215,7 @@
             "SRR": {
                 "SRR21407787": {},
                 "SRR21407788": {},
-                "SRR21407789": {},
-                "srr_acc": {}
+                "SRR21407789": {}
             },
             "characteristics": {
                 "age": "65",
@@ -244,8 +232,7 @@
             "SRA": "SRX17412789",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412789",
             "SRR": {
-                "SRR21407790": {},
-                "srr_acc": {}
+                "SRR21407790": {}
             },
             "characteristics": {
                 "age": "64",
@@ -262,8 +249,7 @@
             "SRA": "SRX17412790",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412790",
             "SRR": {
-                "SRR21407791": {},
-                "srr_acc": {}
+                "SRR21407791": {}
             },
             "characteristics": {
                 "age": "29",
@@ -281,8 +267,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412791",
             "SRR": {
                 "SRR21407792": {},
-                "SRR21407793": {},
-                "srr_acc": {}
+                "SRR21407793": {}
             },
             "characteristics": {
                 "age": "66",
@@ -299,8 +284,7 @@
             "SRA": "SRX17412792",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412792",
             "SRR": {
-                "SRR21407794": {},
-                "srr_acc": {}
+                "SRR21407794": {}
             },
             "characteristics": {
                 "age": "66",
@@ -317,8 +301,7 @@
             "SRA": "SRX17412793",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412793",
             "SRR": {
-                "SRR21407795": {},
-                "srr_acc": {}
+                "SRR21407795": {}
             },
             "characteristics": {
                 "age": "61",
@@ -336,8 +319,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412794",
             "SRR": {
                 "SRR21407796": {},
-                "SRR21407797": {},
-                "srr_acc": {}
+                "SRR21407797": {}
             },
             "characteristics": {
                 "age": "62",
@@ -354,8 +336,7 @@
             "SRA": "SRX17412795",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412795",
             "SRR": {
-                "SRR21407798": {},
-                "srr_acc": {}
+                "SRR21407798": {}
             },
             "characteristics": {
                 "age": "35",
@@ -372,8 +353,7 @@
             "SRA": "SRX17412796",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412796",
             "SRR": {
-                "SRR21407799": {},
-                "srr_acc": {}
+                "SRR21407799": {}
             },
             "characteristics": {
                 "age": "22",
@@ -390,8 +370,7 @@
             "SRA": "SRX17412797",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412797",
             "SRR": {
-                "SRR21407800": {},
-                "srr_acc": {}
+                "SRR21407800": {}
             },
             "characteristics": {
                 "age": "25",
@@ -408,8 +387,7 @@
             "SRA": "SRX17412798",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412798",
             "SRR": {
-                "SRR21407801": {},
-                "srr_acc": {}
+                "SRR21407801": {}
             },
             "characteristics": {
                 "age": "67",
@@ -426,8 +404,7 @@
             "SRA": "SRX17412799",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412799",
             "SRR": {
-                "SRR21407802": {},
-                "srr_acc": {}
+                "SRR21407802": {}
             },
             "characteristics": {
                 "age": "48",
@@ -444,8 +421,7 @@
             "SRA": "SRX17412800",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412800",
             "SRR": {
-                "SRR21407803": {},
-                "srr_acc": {}
+                "SRR21407803": {}
             },
             "characteristics": {
                 "age": "66",
@@ -462,8 +438,7 @@
             "SRA": "SRX17412801",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412801",
             "SRR": {
-                "SRR21407804": {},
-                "srr_acc": {}
+                "SRR21407804": {}
             },
             "characteristics": {
                 "age": "31",
@@ -480,8 +455,7 @@
             "SRA": "SRX17412802",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412802",
             "SRR": {
-                "SRR21407805": {},
-                "srr_acc": {}
+                "SRR21407805": {}
             },
             "characteristics": {
                 "age": "20",
@@ -498,8 +472,7 @@
             "SRA": "SRX17412803",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412803",
             "SRR": {
-                "SRR21407806": {},
-                "srr_acc": {}
+                "SRR21407806": {}
             },
             "characteristics": {
                 "age": "54",
@@ -516,8 +489,7 @@
             "SRA": "SRX17412804",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412804",
             "SRR": {
-                "SRR21407807": {},
-                "srr_acc": {}
+                "SRR21407807": {}
             },
             "characteristics": {
                 "age": "46",
@@ -535,8 +507,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412805",
             "SRR": {
                 "SRR21407808": {},
-                "SRR21407809": {},
-                "srr_acc": {}
+                "SRR21407809": {}
             },
             "characteristics": {
                 "age": "57",
@@ -554,8 +525,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412806",
             "SRR": {
                 "SRR21407810": {},
-                "SRR21407811": {},
-                "srr_acc": {}
+                "SRR21407811": {}
             },
             "characteristics": {
                 "age": "62",
@@ -572,8 +542,7 @@
             "SRA": "SRX17412807",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412807",
             "SRR": {
-                "SRR21407812": {},
-                "srr_acc": {}
+                "SRR21407812": {}
             },
             "characteristics": {
                 "age": "58",
@@ -591,8 +560,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412808",
             "SRR": {
                 "SRR21407813": {},
-                "SRR21407814": {},
-                "srr_acc": {}
+                "SRR21407814": {}
             },
             "characteristics": {
                 "age": "55",
@@ -609,8 +577,7 @@
             "SRA": "SRX17412809",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412809",
             "SRR": {
-                "SRR21407815": {},
-                "srr_acc": {}
+                "SRR21407815": {}
             },
             "characteristics": {
                 "age": "66",
@@ -629,8 +596,7 @@
             "SRR": {
                 "SRR21407816": {},
                 "SRR21407817": {},
-                "SRR21407818": {},
-                "srr_acc": {}
+                "SRR21407818": {}
             },
             "characteristics": {
                 "age": "66",
@@ -648,8 +614,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412811",
             "SRR": {
                 "SRR21407819": {},
-                "SRR21407820": {},
-                "srr_acc": {}
+                "SRR21407820": {}
             },
             "characteristics": {
                 "age": "63",
@@ -666,8 +631,7 @@
             "SRA": "SRX17412812",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412812",
             "SRR": {
-                "SRR21407821": {},
-                "srr_acc": {}
+                "SRR21407821": {}
             },
             "characteristics": {
                 "age": "59",
@@ -684,8 +648,7 @@
             "SRA": "SRX17412813",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412813",
             "SRR": {
-                "SRR21407822": {},
-                "srr_acc": {}
+                "SRR21407822": {}
             },
             "characteristics": {
                 "age": "60",
@@ -702,8 +665,7 @@
             "SRA": "SRX17412814",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412814",
             "SRR": {
-                "SRR21407823": {},
-                "srr_acc": {}
+                "SRR21407823": {}
             },
             "characteristics": {
                 "age": "70",
@@ -720,8 +682,7 @@
             "SRA": "SRX17412815",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412815",
             "SRR": {
-                "SRR21407824": {},
-                "srr_acc": {}
+                "SRR21407824": {}
             },
             "characteristics": {
                 "age": "66",
@@ -738,8 +699,7 @@
             "SRA": "SRX17412816",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412816",
             "SRR": {
-                "SRR21407825": {},
-                "srr_acc": {}
+                "SRR21407825": {}
             },
             "characteristics": {
                 "age": "61",
@@ -756,8 +716,7 @@
             "SRA": "SRX17412817",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412817",
             "SRR": {
-                "SRR21407826": {},
-                "srr_acc": {}
+                "SRR21407826": {}
             },
             "characteristics": {
                 "age": "57",
@@ -774,8 +733,7 @@
             "SRA": "SRX17412818",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412818",
             "SRR": {
-                "SRR21407827": {},
-                "srr_acc": {}
+                "SRR21407827": {}
             },
             "characteristics": {
                 "age": "66",
@@ -792,8 +750,7 @@
             "SRA": "SRX17412819",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412819",
             "SRR": {
-                "SRR21407828": {},
-                "srr_acc": {}
+                "SRR21407828": {}
             },
             "characteristics": {
                 "age": "65",
@@ -810,8 +767,7 @@
             "SRA": "SRX17412820",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412820",
             "SRR": {
-                "SRR21407829": {},
-                "srr_acc": {}
+                "SRR21407829": {}
             },
             "characteristics": {
                 "age": "62",
@@ -828,8 +784,7 @@
             "SRA": "SRX17412821",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412821",
             "SRR": {
-                "SRR21407830": {},
-                "srr_acc": {}
+                "SRR21407830": {}
             },
             "characteristics": {
                 "age": "57",
@@ -846,8 +801,7 @@
             "SRA": "SRX17412822",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412822",
             "SRR": {
-                "SRR21407831": {},
-                "srr_acc": {}
+                "SRR21407831": {}
             },
             "characteristics": {
                 "age": "73",
@@ -864,8 +818,7 @@
             "SRA": "SRX17412823",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412823",
             "SRR": {
-                "SRR21407832": {},
-                "srr_acc": {}
+                "SRR21407832": {}
             },
             "characteristics": {
                 "age": "68",
@@ -883,8 +836,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412824",
             "SRR": {
                 "SRR21407833": {},
-                "SRR21407834": {},
-                "srr_acc": {}
+                "SRR21407834": {}
             },
             "characteristics": {
                 "age": "59",
@@ -902,8 +854,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412825",
             "SRR": {
                 "SRR21407835": {},
-                "SRR21407836": {},
-                "srr_acc": {}
+                "SRR21407836": {}
             },
             "characteristics": {
                 "age": "56",
@@ -920,8 +871,7 @@
             "SRA": "SRX17412826",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412826",
             "SRR": {
-                "SRR21407837": {},
-                "srr_acc": {}
+                "SRR21407837": {}
             },
             "characteristics": {
                 "age": "67",
@@ -940,8 +890,7 @@
             "SRR": {
                 "SRR21407838": {},
                 "SRR21407839": {},
-                "SRR21407840": {},
-                "srr_acc": {}
+                "SRR21407840": {}
             },
             "characteristics": {
                 "age": "66",
@@ -958,8 +907,7 @@
             "SRA": "SRX17412828",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412828",
             "SRR": {
-                "SRR21407841": {},
-                "srr_acc": {}
+                "SRR21407841": {}
             },
             "characteristics": {
                 "age": "63",
@@ -976,8 +924,7 @@
             "SRA": "SRX17412829",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412829",
             "SRR": {
-                "SRR21407842": {},
-                "srr_acc": {}
+                "SRR21407842": {}
             },
             "characteristics": {
                 "age": "67",
@@ -994,8 +941,7 @@
             "SRA": "SRX17412830",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412830",
             "SRR": {
-                "SRR21407843": {},
-                "srr_acc": {}
+                "SRR21407843": {}
             },
             "characteristics": {
                 "age": "70",
@@ -1012,8 +958,7 @@
             "SRA": "SRX17412831",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412831",
             "SRR": {
-                "SRR21407844": {},
-                "srr_acc": {}
+                "SRR21407844": {}
             },
             "characteristics": {
                 "age": "65",
@@ -1030,8 +975,7 @@
             "SRA": "SRX17412832",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412832",
             "SRR": {
-                "SRR21407845": {},
-                "srr_acc": {}
+                "SRR21407845": {}
             },
             "characteristics": {
                 "age": "71",
@@ -1048,8 +992,7 @@
             "SRA": "SRX17412833",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412833",
             "SRR": {
-                "SRR21407846": {},
-                "srr_acc": {}
+                "SRR21407846": {}
             },
             "characteristics": {
                 "age": "69",
@@ -1066,8 +1009,7 @@
             "SRA": "SRX17412834",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412834",
             "SRR": {
-                "SRR21407847": {},
-                "srr_acc": {}
+                "SRR21407847": {}
             },
             "characteristics": {
                 "age": "67",
@@ -1085,8 +1027,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412835",
             "SRR": {
                 "SRR21407848": {},
-                "SRR21407849": {},
-                "srr_acc": {}
+                "SRR21407849": {}
             },
             "characteristics": {
                 "age": "59",
@@ -1104,8 +1045,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412836",
             "SRR": {
                 "SRR21407850": {},
-                "SRR21407851": {},
-                "srr_acc": {}
+                "SRR21407851": {}
             },
             "characteristics": {
                 "age": "70",
@@ -1123,8 +1063,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412837",
             "SRR": {
                 "SRR21407852": {},
-                "SRR21407853": {},
-                "srr_acc": {}
+                "SRR21407853": {}
             },
             "characteristics": {
                 "age": "56",
@@ -1141,8 +1080,7 @@
             "SRA": "SRX17412838",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412838",
             "SRR": {
-                "SRR21407854": {},
-                "srr_acc": {}
+                "SRR21407854": {}
             },
             "characteristics": {
                 "age": "61",
@@ -1160,8 +1098,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412839",
             "SRR": {
                 "SRR21407855": {},
-                "SRR21407856": {},
-                "srr_acc": {}
+                "SRR21407856": {}
             },
             "characteristics": {
                 "age": "62",
@@ -1178,8 +1115,7 @@
             "SRA": "SRX17412840",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412840",
             "SRR": {
-                "SRR21407857": {},
-                "srr_acc": {}
+                "SRR21407857": {}
             },
             "characteristics": {
                 "age": "65",
@@ -1196,8 +1132,7 @@
             "SRA": "SRX17412841",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412841",
             "SRR": {
-                "SRR21407858": {},
-                "srr_acc": {}
+                "SRR21407858": {}
             },
             "characteristics": {
                 "age": "78",
@@ -1214,8 +1149,7 @@
             "SRA": "SRX17412842",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412842",
             "SRR": {
-                "SRR21407859": {},
-                "srr_acc": {}
+                "SRR21407859": {}
             },
             "characteristics": {
                 "age": "69",
@@ -1232,8 +1166,7 @@
             "SRA": "SRX17412843",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412843",
             "SRR": {
-                "SRR21407860": {},
-                "srr_acc": {}
+                "SRR21407860": {}
             },
             "characteristics": {
                 "age": "67",
@@ -1250,8 +1183,7 @@
             "SRA": "SRX17412844",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412844",
             "SRR": {
-                "SRR21407861": {},
-                "srr_acc": {}
+                "SRR21407861": {}
             },
             "characteristics": {
                 "age": "59",
@@ -1269,8 +1201,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412845",
             "SRR": {
                 "SRR21407862": {},
-                "SRR21407863": {},
-                "srr_acc": {}
+                "SRR21407863": {}
             },
             "characteristics": {
                 "age": "70",
@@ -1288,8 +1219,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412846",
             "SRR": {
                 "SRR21407864": {},
-                "SRR21407865": {},
-                "srr_acc": {}
+                "SRR21407865": {}
             },
             "characteristics": {
                 "age": "64",
@@ -1307,8 +1237,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412847",
             "SRR": {
                 "SRR21407866": {},
-                "SRR21407867": {},
-                "srr_acc": {}
+                "SRR21407867": {}
             },
             "characteristics": {
                 "age": "66",
@@ -1327,8 +1256,7 @@
             "SRR": {
                 "SRR21407868": {},
                 "SRR21407869": {},
-                "SRR21407870": {},
-                "srr_acc": {}
+                "SRR21407870": {}
             },
             "characteristics": {
                 "age": "60",
@@ -1345,8 +1273,7 @@
             "SRA": "SRX17412849",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412849",
             "SRR": {
-                "SRR21407871": {},
-                "srr_acc": {}
+                "SRR21407871": {}
             },
             "characteristics": {
                 "age": "66",
@@ -1363,8 +1290,7 @@
             "SRA": "SRX17412850",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412850",
             "SRR": {
-                "SRR21407872": {},
-                "srr_acc": {}
+                "SRR21407872": {}
             },
             "characteristics": {
                 "age": "68",
@@ -1381,8 +1307,7 @@
             "SRA": "SRX17412851",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412851",
             "SRR": {
-                "SRR21407873": {},
-                "srr_acc": {}
+                "SRR21407873": {}
             },
             "characteristics": {
                 "age": "54",
@@ -1399,8 +1324,7 @@
             "SRA": "SRX17412852",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412852",
             "SRR": {
-                "SRR21407874": {},
-                "srr_acc": {}
+                "SRR21407874": {}
             },
             "characteristics": {
                 "age": "74",
@@ -1417,8 +1341,7 @@
             "SRA": "SRX17412853",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412853",
             "SRR": {
-                "SRR21407875": {},
-                "srr_acc": {}
+                "SRR21407875": {}
             },
             "characteristics": {
                 "age": "68",

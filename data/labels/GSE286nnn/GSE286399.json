@@ -16,8 +16,9 @@
             "SRA": "SRX27313887",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313887",
             "SRR": {
-                "SRR31958404": {},
-                "srr_acc": {}
+                "SRR31958404": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "Library name: sample1"
@@ -37,8 +38,9 @@
             "SRA": "SRX27313888",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313888",
             "SRR": {
-                "SRR31958403": {},
-                "srr_acc": {}
+                "SRR31958403": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "Library name: sample2"
@@ -58,8 +60,9 @@
             "SRA": "SRX27313889",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313889",
             "SRR": {
-                "SRR31958402": {},
-                "srr_acc": {}
+                "SRR31958402": {
+                    "ftp.sra.ebi.ac.uk": ""
+                }
             },
             "Sample_description": [
                 "Library name: sample3"

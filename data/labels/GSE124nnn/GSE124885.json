@@ -19,8 +19,7 @@
             "SRA": "SRX5236578",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5236578",
             "SRR": {
-                "SRR8428755": {},
-                "srr_acc": {}
+                "SRR8428755": {}
             },
             "Sample_description": [
                 "Single cell 5' expression library"
@@ -37,8 +36,7 @@
             "SRA": "SRX5236579",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5236579",
             "SRR": {
-                "SRR8428756": {},
-                "srr_acc": {}
+                "SRR8428756": {}
             },
             "Sample_description": [
                 "Single cell 5' expression library"
@@ -55,8 +53,7 @@
             "SRA": "SRX5236580",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5236580",
             "SRR": {
-                "SRR8428757": {},
-                "srr_acc": {}
+                "SRR8428757": {}
             },
             "Sample_description": [
                 "Single cell 5' expression library"

@@ -84,8 +84,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9849883",
             "SRR": {
                 "SRR13436369": {},
-                "SRR13436370": {},
-                "srr_acc": {}
+                "SRR13436370": {}
             },
             "Sample_description": [
                 "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx",
@@ -106,8 +105,7 @@
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9849884",
             "SRR": {
                 "SRR13436371": {},
-                "SRR13436372": {},
-                "srr_acc": {}
+                "SRR13436372": {}
             },
             "Sample_description": [
                 "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx",

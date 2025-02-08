@@ -18,11 +18,30 @@
             "SRA": "SRX13356880",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356880",
             "SRR": {
-                "SRR17173457": {},
-                "SRR17173458": {},
-                "SRR17173459": {},
-                "SRR17173460": {},
-                "srr_acc": {}
+                "SRR17173457": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/057/SRR17173457/SRR17173457_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/057/SRR17173457/SRR17173457_2.fastq.gz"
+                    ]
+                },
+                "SRR17173458": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/058/SRR17173458/SRR17173458_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/058/SRR17173458/SRR17173458_2.fastq.gz"
+                    ]
+                },
+                "SRR17173459": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/059/SRR17173459/SRR17173459_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/059/SRR17173459/SRR17173459_2.fastq.gz"
+                    ]
+                },
+                "SRR17173460": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/060/SRR17173460/SRR17173460_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/060/SRR17173460/SRR17173460_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "44",
@@ -39,11 +58,30 @@
             "SRA": "SRX13356881",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356881",
             "SRR": {
-                "SRR17173453": {},
-                "SRR17173454": {},
-                "SRR17173455": {},
-                "SRR17173456": {},
-                "srr_acc": {}
+                "SRR17173453": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/053/SRR17173453/SRR17173453_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/053/SRR17173453/SRR17173453_2.fastq.gz"
+                    ]
+                },
+                "SRR17173454": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/054/SRR17173454/SRR17173454_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/054/SRR17173454/SRR17173454_2.fastq.gz"
+                    ]
+                },
+                "SRR17173455": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/055/SRR17173455/SRR17173455_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/055/SRR17173455/SRR17173455_2.fastq.gz"
+                    ]
+                },
+                "SRR17173456": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/056/SRR17173456/SRR17173456_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/056/SRR17173456/SRR17173456_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "54",
@@ -60,11 +98,30 @@
             "SRA": "SRX13356882",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356882",
             "SRR": {
-                "SRR17173449": {},
-                "SRR17173450": {},
-                "SRR17173451": {},
-                "SRR17173452": {},
-                "srr_acc": {}
+                "SRR17173449": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/049/SRR17173449/SRR17173449_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/049/SRR17173449/SRR17173449_2.fastq.gz"
+                    ]
+                },
+                "SRR17173450": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/050/SRR17173450/SRR17173450_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/050/SRR17173450/SRR17173450_2.fastq.gz"
+                    ]
+                },
+                "SRR17173451": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/051/SRR17173451/SRR17173451_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/051/SRR17173451/SRR17173451_2.fastq.gz"
+                    ]
+                },
+                "SRR17173452": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/052/SRR17173452/SRR17173452_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/052/SRR17173452/SRR17173452_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "56",
@@ -81,11 +138,30 @@
             "SRA": "SRX13356883",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356883",
             "SRR": {
-                "SRR17173445": {},
-                "SRR17173446": {},
-                "SRR17173447": {},
-                "SRR17173448": {},
-                "srr_acc": {}
+                "SRR17173445": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/045/SRR17173445/SRR17173445_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/045/SRR17173445/SRR17173445_2.fastq.gz"
+                    ]
+                },
+                "SRR17173446": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/046/SRR17173446/SRR17173446_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/046/SRR17173446/SRR17173446_2.fastq.gz"
+                    ]
+                },
+                "SRR17173447": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/047/SRR17173447/SRR17173447_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/047/SRR17173447/SRR17173447_2.fastq.gz"
+                    ]
+                },
+                "SRR17173448": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/048/SRR17173448/SRR17173448_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/048/SRR17173448/SRR17173448_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "70",
@@ -102,11 +178,30 @@
             "SRA": "SRX13356884",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356884",
             "SRR": {
-                "SRR17173441": {},
-                "SRR17173442": {},
-                "SRR17173443": {},
-                "SRR17173444": {},
-                "srr_acc": {}
+                "SRR17173441": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/041/SRR17173441/SRR17173441_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/041/SRR17173441/SRR17173441_2.fastq.gz"
+                    ]
+                },
+                "SRR17173442": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/042/SRR17173442/SRR17173442_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/042/SRR17173442/SRR17173442_2.fastq.gz"
+                    ]
+                },
+                "SRR17173443": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/043/SRR17173443/SRR17173443_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/043/SRR17173443/SRR17173443_2.fastq.gz"
+                    ]
+                },
+                "SRR17173444": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/044/SRR17173444/SRR17173444_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/044/SRR17173444/SRR17173444_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "57",
@@ -123,11 +218,30 @@
             "SRA": "SRX13356885",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356885",
             "SRR": {
-                "SRR17173437": {},
-                "SRR17173438": {},
-                "SRR17173439": {},
-                "SRR17173440": {},
-                "srr_acc": {}
+                "SRR17173437": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/037/SRR17173437/SRR17173437_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/037/SRR17173437/SRR17173437_2.fastq.gz"
+                    ]
+                },
+                "SRR17173438": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/038/SRR17173438/SRR17173438_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/038/SRR17173438/SRR17173438_2.fastq.gz"
+                    ]
+                },
+                "SRR17173439": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/039/SRR17173439/SRR17173439_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/039/SRR17173439/SRR17173439_2.fastq.gz"
+                    ]
+                },
+                "SRR17173440": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/040/SRR17173440/SRR17173440_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/040/SRR17173440/SRR17173440_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "49",
@@ -144,11 +258,30 @@
             "SRA": "SRX13356886",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356886",
             "SRR": {
-                "SRR17173433": {},
-                "SRR17173434": {},
-                "SRR17173435": {},
-                "SRR17173436": {},
-                "srr_acc": {}
+                "SRR17173433": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/033/SRR17173433/SRR17173433_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/033/SRR17173433/SRR17173433_2.fastq.gz"
+                    ]
+                },
+                "SRR17173434": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/034/SRR17173434/SRR17173434_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/034/SRR17173434/SRR17173434_2.fastq.gz"
+                    ]
+                },
+                "SRR17173435": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/035/SRR17173435/SRR17173435_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/035/SRR17173435/SRR17173435_2.fastq.gz"
+                    ]
+                },
+                "SRR17173436": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/036/SRR17173436/SRR17173436_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/036/SRR17173436/SRR17173436_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "56",

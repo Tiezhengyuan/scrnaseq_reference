@@ -33,8 +33,14 @@
             "SRA": "SRX6399241",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399241",
             "SRR": {
-                "SRR9637289": {},
-                "srr_acc": {}
+                "SRR9637289": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/009/SRR9637289/SRR9637289.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/009/SRR9637289/SRR9637289.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -52,8 +58,14 @@
             "SRA": "SRX6399242",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399242",
             "SRR": {
-                "SRR9637290": {},
-                "srr_acc": {}
+                "SRR9637290": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/000/SRR9637290/SRR9637290.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/000/SRR9637290/SRR9637290.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -71,8 +83,14 @@
             "SRA": "SRX6399243",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399243",
             "SRR": {
-                "SRR9637291": {},
-                "srr_acc": {}
+                "SRR9637291": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/001/SRR9637291/SRR9637291.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/001/SRR9637291/SRR9637291.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -90,8 +108,14 @@
             "SRA": "SRX6399244",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399244",
             "SRR": {
-                "SRR9637292": {},
-                "srr_acc": {}
+                "SRR9637292": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/002/SRR9637292/SRR9637292.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/002/SRR9637292/SRR9637292.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -109,8 +133,14 @@
             "SRA": "SRX6399245",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399245",
             "SRR": {
-                "SRR9637293": {},
-                "srr_acc": {}
+                "SRR9637293": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/003/SRR9637293/SRR9637293.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/003/SRR9637293/SRR9637293.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -128,8 +158,14 @@
             "SRA": "SRX6399246",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399246",
             "SRR": {
-                "SRR9637294": {},
-                "srr_acc": {}
+                "SRR9637294": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/004/SRR9637294/SRR9637294.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/004/SRR9637294/SRR9637294.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -147,8 +183,14 @@
             "SRA": "SRX6399247",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399247",
             "SRR": {
-                "SRR9637295": {},
-                "srr_acc": {}
+                "SRR9637295": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/005/SRR9637295/SRR9637295.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR963/005/SRR9637295/SRR9637295.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"
@@ -166,8 +208,14 @@
             "SRA": "SRX6399248",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399248",
             "SRR": {
-                "SRR9835575": {},
-                "srr_acc": {}
+                "SRR9835575": {
+                    "fastq_url": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR983/005/SRR9835575/SRR9835575.fastq.gz"
+                    ],
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR983/005/SRR9835575/SRR9835575.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "10x Genomics"

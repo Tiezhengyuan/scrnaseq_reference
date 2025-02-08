@@ -18,8 +18,12 @@
             "SRA": "SRX5255152",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255152",
             "SRR": {
-                "SRR8448139": {},
-                "srr_acc": {}
+                "SRR8448139": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/009/SRR8448139/SRR8448139_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/009/SRR8448139/SRR8448139_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -37,8 +41,12 @@
             "SRA": "SRX5255153",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255153",
             "SRR": {
-                "SRR8448140": {},
-                "srr_acc": {}
+                "SRR8448140": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/000/SRR8448140/SRR8448140_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/000/SRR8448140/SRR8448140_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -56,8 +64,12 @@
             "SRA": "SRX5255154",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255154",
             "SRR": {
-                "SRR8448141": {},
-                "srr_acc": {}
+                "SRR8448141": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/001/SRR8448141/SRR8448141_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/001/SRR8448141/SRR8448141_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -75,8 +87,12 @@
             "SRA": "SRX5255155",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255155",
             "SRR": {
-                "SRR8448142": {},
-                "srr_acc": {}
+                "SRR8448142": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/002/SRR8448142/SRR8448142_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/002/SRR8448142/SRR8448142_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -94,8 +110,12 @@
             "SRA": "SRX5255156",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255156",
             "SRR": {
-                "SRR8448143": {},
-                "srr_acc": {}
+                "SRR8448143": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/003/SRR8448143/SRR8448143_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/003/SRR8448143/SRR8448143_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -113,8 +133,12 @@
             "SRA": "SRX5255157",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255157",
             "SRR": {
-                "SRR8448144": {},
-                "srr_acc": {}
+                "SRR8448144": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/004/SRR8448144/SRR8448144_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/004/SRR8448144/SRR8448144_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -132,8 +156,12 @@
             "SRA": "SRX5255158",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255158",
             "SRR": {
-                "SRR8448145": {},
-                "srr_acc": {}
+                "SRR8448145": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/005/SRR8448145/SRR8448145_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/005/SRR8448145/SRR8448145_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
@@ -151,8 +179,12 @@
             "SRA": "SRX5255159",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255159",
             "SRR": {
-                "SRR8448146": {},
-                "srr_acc": {}
+                "SRR8448146": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/006/SRR8448146/SRR8448146_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR844/006/SRR8448146/SRR8448146_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": [
                 "Single-cell RNAseq data"
