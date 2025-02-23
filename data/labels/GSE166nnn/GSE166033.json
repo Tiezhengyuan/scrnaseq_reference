@@ -4,6 +4,7 @@
         "33705361"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166033",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE166nnn/GSE166033/soft/GSE166033_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20301",
@@ -20,17 +21,34 @@
             "SRR": {
                 "SRR13614990": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/090/SRR13614990/SRR13614990.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/090/SRR13614990/SRR13614990.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008387_SRR13614990.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336918",
                 "tissue": "lung",
-                "treatment": "DMSO"
+                "treatment": "dmso"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060466",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DMSO_918"
         },
         "GSM5060467": {
             "BioSample": "SAMN17764638",
@@ -40,17 +58,34 @@
             "SRR": {
                 "SRR13614991": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/091/SRR13614991/SRR13614991.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/091/SRR13614991/SRR13614991.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008388_SRR13614991.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336920",
                 "tissue": "lung",
-                "treatment": "DMSO"
+                "treatment": "dmso"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060467",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DMSO_920"
         },
         "GSM5060468": {
             "BioSample": "SAMN17764637",
@@ -60,17 +95,34 @@
             "SRR": {
                 "SRR13614992": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/092/SRR13614992/SRR13614992.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/092/SRR13614992/SRR13614992.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008389_SRR13614992.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336922",
                 "tissue": "lung",
-                "treatment": "DMSO"
+                "treatment": "dmso"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060468",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DMSO_922"
         },
         "GSM5060469": {
             "BioSample": "SAMN17764636",
@@ -80,17 +132,34 @@
             "SRR": {
                 "SRR13614993": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/093/SRR13614993/SRR13614993.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/093/SRR13614993/SRR13614993.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008390_SRR13614993.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336924",
                 "tissue": "lung",
-                "treatment": "DMSO"
+                "treatment": "dmso"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060469",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DMSO_924"
         },
         "GSM5060470": {
             "BioSample": "SAMN17764635",
@@ -100,17 +169,34 @@
             "SRR": {
                 "SRR13614994": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/094/SRR13614994/SRR13614994.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/094/SRR13614994/SRR13614994.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008391_SRR13614994.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336926",
                 "tissue": "lung",
-                "treatment": "DMSO"
+                "treatment": "dmso"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060470",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DMSO_926"
         },
         "GSM5060471": {
             "BioSample": "SAMN17764634",
@@ -120,17 +206,34 @@
             "SRR": {
                 "SRR13614995": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/095/SRR13614995/SRR13614995.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/095/SRR13614995/SRR13614995.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008392_SRR13614995.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336919",
                 "tissue": "lung",
-                "treatment": "Doxorubicin 500 nM"
+                "treatment": "doxorubicin 500 nm"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "doxorubicin 500 nm"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060471",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Doxorubicin_919"
         },
         "GSM5060472": {
             "BioSample": "SAMN17764633",
@@ -140,17 +243,34 @@
             "SRR": {
                 "SRR13614996": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/096/SRR13614996/SRR13614996.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/096/SRR13614996/SRR13614996.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008393_SRR13614996.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336921",
                 "tissue": "lung",
-                "treatment": "Doxorubicin 500 nM"
+                "treatment": "doxorubicin 500 nm"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "doxorubicin 500 nm"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060472",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Doxorubicin_921"
         },
         "GSM5060473": {
             "BioSample": "SAMN17764632",
@@ -160,17 +280,34 @@
             "SRR": {
                 "SRR13614997": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/097/SRR13614997/SRR13614997.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/097/SRR13614997/SRR13614997.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008394_SRR13614997.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336923",
                 "tissue": "lung",
-                "treatment": "Doxorubicin 500 nM"
+                "treatment": "doxorubicin 500 nm"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "doxorubicin 500 nm"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060473",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Doxorubicin_923"
         },
         "GSM5060474": {
             "BioSample": "SAMN17764631",
@@ -180,19 +317,76 @@
             "SRR": {
                 "SRR13614998": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/098/SRR13614998/SRR13614998.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/098/SRR13614998/SRR13614998.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRX10008395_SRR13614998.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "cell_type": "NHBE",
+                "cell_type": "nhbe",
+                "sample_id": "sam24336925",
                 "tissue": "lung",
-                "treatment": "Doxorubicin 500 nM"
+                "treatment": "doxorubicin 500 nm"
             },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "doxorubicin 500 nm"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060474",
-            "scrnaseq": false
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Doxorubicin_925"
+        },
+        "GSM5060475": {
+            "BioSample": "SAMN17764630",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764630",
+            "SRA": "SRX10008396",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008396",
+            "SRR": {
+                "SRR13614999": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/099/SRR13614999/SRR13614999.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166033/fastq/SRR13614999.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "nhbe",
+                "sample_id": "sam24336927",
+                "tissue": "lung",
+                "treatment": "doxorubicin 500 nm"
+            },
+            "labels": {
+                "cell_type": "nhbe",
+                "tissue": "lung",
+                "treatment": "doxorubicin 500 nm"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
+            "sample_id": "GSM5060475",
+            "sample_source": [
+                "Normal human bronchial epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Doxorubicin_927"
         }
     },
-    "taxid": "9606",
+    "summary": "Epithelial senescence, specifically in the bronchiolized regions of the fibrotic lung, is apparent in IPF but not control tissue. In order to better understand the phenotype of these senescent cells we generated a in vitro culture model of senescence utillizing primary normal human bronchial epithelial cells. Cultures were treated with doxorubicin to induce senescence and the transcriptional phenotype of the senescent cultures was compared to DMSO-treated control cultures.",
+    "taxid": [
+        "9606"
+    ],
     "title": "RNA-seq for primary human bronchial epithelial cells, proliferating versus doxorubicin-induced senescence."
 }

@@ -4,6 +4,7 @@
         "32317643"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132771",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE132nnn/GSE132771/soft/GSE132771_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL21103",
@@ -25,33 +26,62 @@
             "SRR": {
                 "SRR9304738": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304738/SRR9304738.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304738/SRR9304738.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304738.fastq.gz"
                     ]
                 },
                 "SRR9304739": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304739/SRR9304739.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304739/SRR9304739.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304739.fastq.gz"
                     ]
                 },
                 "SRR9304740": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304740/SRR9304740.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304740/SRR9304740.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304740.fastq.gz"
                     ]
                 },
                 "SRR9304741": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304741/SRR9304741.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304741/SRR9304741.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304741.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Bleomycin1",
-                "sorted_cell_type": "GFP+",
-                "treatment": "Bleomycin"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "bleomycin1",
+                "sorted_cell_type": "gfp+",
+                "tissue": "lung",
+                "treatment": "bleomycin"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "bleomycin"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891612",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Bleo1_GFPp"
         },
         "GSM3891613": {
             "BioSample": "SAMN12060041",
@@ -61,33 +91,62 @@
             "SRR": {
                 "SRR9304742": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304742/SRR9304742.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304742/SRR9304742.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304742.fastq.gz"
                     ]
                 },
                 "SRR9304743": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304743/SRR9304743.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304743/SRR9304743.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073180_SRR9304743.fastq.gz"
                     ]
                 },
                 "SRR9304744": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304744/SRR9304744.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304744/SRR9304744.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073180_SRR9304744.fastq.gz"
                     ]
                 },
                 "SRR9304745": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304745/SRR9304745.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304745/SRR9304745.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073180_SRR9304745.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Bleomycin2",
-                "sorted_cell_type": "GFP+",
-                "treatment": "Bleomycin"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "bleomycin2",
+                "sorted_cell_type": "gfp+",
+                "tissue": "lung",
+                "treatment": "bleomycin"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "bleomycin"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891613",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Bleo2_GFPp"
         },
         "GSM3891614": {
             "BioSample": "SAMN12060040",
@@ -97,33 +156,62 @@
             "SRR": {
                 "SRR9304746": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304746/SRR9304746.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304746/SRR9304746.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304746.fastq.gz"
                     ]
                 },
                 "SRR9304747": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304747/SRR9304747.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304747/SRR9304747.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304747.fastq.gz"
                     ]
                 },
                 "SRR9304748": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304748/SRR9304748.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304748/SRR9304748.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304748.fastq.gz"
                     ]
                 },
                 "SRR9304749": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304749/SRR9304749.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304749/SRR9304749.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304749.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Bleomycin1",
-                "sorted_cell_type": "GFP-",
-                "treatment": "Bleomycin"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "bleomycin1",
+                "sorted_cell_type": "gfp-",
+                "tissue": "lung",
+                "treatment": "bleomycin"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "bleomycin"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891614",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Bleo1_GFPn"
         },
         "GSM3891615": {
             "BioSample": "SAMN12060043",
@@ -133,33 +221,62 @@
             "SRR": {
                 "SRR9304750": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304750/SRR9304750.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304750/SRR9304750.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304750.fastq.gz"
                     ]
                 },
                 "SRR9304751": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304751/SRR9304751.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304751/SRR9304751.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304751.fastq.gz"
                     ]
                 },
                 "SRR9304752": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304752/SRR9304752.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304752/SRR9304752.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304752.fastq.gz"
                     ]
                 },
                 "SRR9304753": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304753/SRR9304753.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304753/SRR9304753.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304753.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Bleomycin2",
-                "sorted_cell_type": "GFP-",
-                "treatment": "Bleomycin"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "bleomycin2",
+                "sorted_cell_type": "gfp-",
+                "tissue": "lung",
+                "treatment": "bleomycin"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "bleomycin"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891615",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Bleo2_GFPn"
         },
         "GSM3891616": {
             "BioSample": "SAMN12060039",
@@ -169,18 +286,38 @@
             "SRR": {
                 "SRR9304754": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304754/SRR9304754.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304754/SRR9304754.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304754.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Untreted1",
-                "sorted_cell_type": "GFP+",
-                "treatment": "Untreated"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "untreted1",
+                "sorted_cell_type": "gfp+",
+                "tissue": "lung",
+                "treatment": "untreated"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891616",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "UT1_GFPp"
         },
         "GSM3891617": {
             "BioSample": "SAMN12060038",
@@ -190,18 +327,38 @@
             "SRR": {
                 "SRR9304755": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304755/SRR9304755.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304755/SRR9304755.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304755.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Untreted2",
-                "sorted_cell_type": "GFP+",
-                "treatment": "Untreated"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "untreted2",
+                "sorted_cell_type": "gfp+",
+                "tissue": "lung",
+                "treatment": "untreated"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891617",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "UT2_GFPp"
         },
         "GSM3891618": {
             "BioSample": "SAMN12060037",
@@ -211,18 +368,38 @@
             "SRR": {
                 "SRR9304756": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304756/SRR9304756.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304756/SRR9304756.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304756.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Untreted1",
-                "sorted_cell_type": "GFP-",
-                "treatment": "Untreated"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "untreted1",
+                "sorted_cell_type": "gfp-",
+                "tissue": "lung",
+                "treatment": "untreated"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891618",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "UT1_GFPn"
         },
         "GSM3891619": {
             "BioSample": "SAMN12060036",
@@ -232,18 +409,38 @@
             "SRR": {
                 "SRR9304757": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304757/SRR9304757.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304757/SRR9304757.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304757.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "genotype/variation": "Col1a1-GFP reporter",
-                "individual_identifier": "Untreted2",
-                "sorted_cell_type": "GFP-",
-                "treatment": "Untreated"
+                "genotype/variation": "col1a1-gfp reporter",
+                "individual_identifier": "untreted2",
+                "sorted_cell_type": "gfp-",
+                "tissue": "lung",
+                "treatment": "untreated"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891619",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "UT2_GFPn"
         },
         "GSM3891620": {
             "BioSample": "SAMN12060035",
@@ -253,22 +450,44 @@
             "SRR": {
                 "SRR9304758": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304758/SRR9304758.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304758/SRR9304758.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304758.fastq.gz"
                     ]
                 },
                 "SRR9304759": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304759/SRR9304759.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304759/SRR9304759.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304759.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Normal",
-                "individual_identifier": "Normal1",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "normal",
+                "individual_identifier": "normal1",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891620",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NML1_Lin"
         },
         "GSM3891621": {
             "BioSample": "SAMN12060034",
@@ -278,22 +497,44 @@
             "SRR": {
                 "SRR9304760": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304760/SRR9304760.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304760/SRR9304760.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304760.fastq.gz"
                     ]
                 },
                 "SRR9304761": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304761/SRR9304761.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304761/SRR9304761.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304761.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Normal",
-                "individual_identifier": "Normal1",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "normal",
+                "individual_identifier": "normal1",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891621",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NML1_All"
         },
         "GSM3891622": {
             "BioSample": "SAMN12060033",
@@ -303,22 +544,44 @@
             "SRR": {
                 "SRR9304762": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304762/SRR9304762.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304762/SRR9304762.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304762.fastq.gz"
                     ]
                 },
                 "SRR9304763": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304763/SRR9304763.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304763/SRR9304763.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304763.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Normal",
-                "individual_identifier": "Normal2",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "normal",
+                "individual_identifier": "normal2",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891622",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NML2_Lin"
         },
         "GSM3891623": {
             "BioSample": "SAMN12060032",
@@ -328,22 +591,44 @@
             "SRR": {
                 "SRR9304764": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304764/SRR9304764.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304764/SRR9304764.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304764.fastq.gz"
                     ]
                 },
                 "SRR9304765": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304765/SRR9304765.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304765/SRR9304765.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304765.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Normal",
-                "individual_identifier": "Normal2",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "normal",
+                "individual_identifier": "normal2",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891623",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NML2_All"
         },
         "GSM3891624": {
             "BioSample": "SAMN12060031",
@@ -353,32 +638,60 @@
             "SRR": {
                 "SRR9304766": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304766/SRR9304766.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304766/SRR9304766.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073191_SRR9304766.fastq.gz"
                     ]
                 },
                 "SRR9304767": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304767/SRR9304767.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304767/SRR9304767.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304767.fastq.gz"
                     ]
                 },
                 "SRR9304768": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304768/SRR9304768.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304768/SRR9304768.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304768.fastq.gz"
                     ]
                 },
                 "SRR9304769": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304769/SRR9304769.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304769/SRR9304769.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073191_SRR9304769.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Normal",
-                "individual_identifier": "Normal3",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "normal",
+                "individual_identifier": "normal3",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891624",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NML3_Lin"
         },
         "GSM3891625": {
             "BioSample": "SAMN12060030",
@@ -388,32 +701,60 @@
             "SRR": {
                 "SRR9304770": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304770/SRR9304770.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304770/SRR9304770.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073192_SRR9304770.fastq.gz"
                     ]
                 },
                 "SRR9304771": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304771/SRR9304771.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304771/SRR9304771.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304771.fastq.gz"
                     ]
                 },
                 "SRR9304772": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304772/SRR9304772.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304772/SRR9304772.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304772.fastq.gz"
                     ]
                 },
                 "SRR9304773": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304773/SRR9304773.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304773/SRR9304773.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304773.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Normal",
-                "individual_identifier": "Normal3",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "normal",
+                "individual_identifier": "normal3",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891625",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NML3_All"
         },
         "GSM3891626": {
             "BioSample": "SAMN12060029",
@@ -423,32 +764,61 @@
             "SRR": {
                 "SRR9304774": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304774/SRR9304774.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304774/SRR9304774.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304774.fastq.gz"
                     ]
                 },
                 "SRR9304775": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304775/SRR9304775.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304775/SRR9304775.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304775.fastq.gz"
                     ]
                 },
                 "SRR9304776": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304776/SRR9304776.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304776/SRR9304776.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304776.fastq.gz"
                     ]
                 },
                 "SRR9304777": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304777/SRR9304777.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304777/SRR9304777.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304777.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
-                "individual_identifier": "IPF1",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "idiopathic pulmonary fibrosis (ipf)",
+                "individual_identifier": "ipf1",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891626",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF1_Lin"
         },
         "GSM3891627": {
             "BioSample": "SAMN12060028",
@@ -458,32 +828,61 @@
             "SRR": {
                 "SRR9304778": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304778/SRR9304778.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304778/SRR9304778.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304778.fastq.gz"
                     ]
                 },
                 "SRR9304779": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304779/SRR9304779.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304779/SRR9304779.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304779.fastq.gz"
                     ]
                 },
                 "SRR9304780": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304780/SRR9304780.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304780/SRR9304780.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304780.fastq.gz"
                     ]
                 },
                 "SRR9304781": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304781/SRR9304781.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304781/SRR9304781.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304781.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
-                "individual_identifier": "IPF1",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "idiopathic pulmonary fibrosis (ipf)",
+                "individual_identifier": "ipf1",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891627",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF1_All"
         },
         "GSM3891628": {
             "BioSample": "SAMN12060027",
@@ -493,22 +892,45 @@
             "SRR": {
                 "SRR9304782": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304782/SRR9304782.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304782/SRR9304782.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304782.fastq.gz"
                     ]
                 },
                 "SRR9304783": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304783/SRR9304783.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304783/SRR9304783.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304783.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
-                "individual_identifier": "IPF2",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "idiopathic pulmonary fibrosis (ipf)",
+                "individual_identifier": "ipf2",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891628",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF2_Lin"
         },
         "GSM3891629": {
             "BioSample": "SAMN12060026",
@@ -518,22 +940,45 @@
             "SRR": {
                 "SRR9304784": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304784/SRR9304784.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304784/SRR9304784.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304784.fastq.gz"
                     ]
                 },
                 "SRR9304785": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304785/SRR9304785.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304785/SRR9304785.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073196_SRR9304785.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
-                "individual_identifier": "IPF2",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "idiopathic pulmonary fibrosis (ipf)",
+                "individual_identifier": "ipf2",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891629",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF2_All"
         },
         "GSM3891630": {
             "BioSample": "SAMN12060025",
@@ -543,32 +988,61 @@
             "SRR": {
                 "SRR9304786": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304786/SRR9304786.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304786/SRR9304786.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304786.fastq.gz"
                     ]
                 },
                 "SRR9304787": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304787/SRR9304787.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304787/SRR9304787.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304787.fastq.gz"
                     ]
                 },
                 "SRR9304788": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304788/SRR9304788.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304788/SRR9304788.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073197_SRR9304788.fastq.gz"
                     ]
                 },
                 "SRR9304789": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304789/SRR9304789.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304789/SRR9304789.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304789.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
-                "individual_identifier": "IPF3",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "idiopathic pulmonary fibrosis (ipf)",
+                "individual_identifier": "ipf3",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891630",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF3_Lin"
         },
         "GSM3891631": {
             "BioSample": "SAMN12060024",
@@ -578,32 +1052,61 @@
             "SRR": {
                 "SRR9304790": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304790/SRR9304790.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304790/SRR9304790.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304790.fastq.gz"
                     ]
                 },
                 "SRR9304791": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304791/SRR9304791.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304791/SRR9304791.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073198_SRR9304791.fastq.gz"
                     ]
                 },
                 "SRR9304792": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304792/SRR9304792.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304792/SRR9304792.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073198_SRR9304792.fastq.gz"
                     ]
                 },
                 "SRR9304793": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304793/SRR9304793.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304793/SRR9304793.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304793.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Idiopathic pulmonary fibrosis (IPF)",
-                "individual_identifier": "IPF3",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "idiopathic pulmonary fibrosis (ipf)",
+                "individual_identifier": "ipf3",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891631",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF3_All"
         },
         "GSM3891632": {
             "BioSample": "SAMN12060023",
@@ -613,32 +1116,61 @@
             "SRR": {
                 "SRR9304794": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304794/SRR9304794.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304794/SRR9304794.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304794.fastq.gz"
                     ]
                 },
                 "SRR9304795": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304795/SRR9304795.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304795/SRR9304795.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304795.fastq.gz"
                     ]
                 },
                 "SRR9304796": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/006/SRR9304796/SRR9304796.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304796/SRR9304796.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304796.fastq.gz"
                     ]
                 },
                 "SRR9304797": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/007/SRR9304797/SRR9304797.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304797/SRR9304797.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304797.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Scleroderma",
-                "individual_identifier": "Scleroderma1",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "scleroderma",
+                "individual_identifier": "scleroderma1",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891632",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SCD1_Lin"
         },
         "GSM3891633": {
             "BioSample": "SAMN12060069",
@@ -648,32 +1180,61 @@
             "SRR": {
                 "SRR9304798": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/008/SRR9304798/SRR9304798.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304798/SRR9304798.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304798.fastq.gz"
                     ]
                 },
                 "SRR9304799": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/009/SRR9304799/SRR9304799.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304799/SRR9304799.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304799.fastq.gz"
                     ]
                 },
                 "SRR9304800": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/000/SRR9304800/SRR9304800.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/000/SRR9304800/SRR9304800.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304800.fastq.gz"
                     ]
                 },
                 "SRR9304801": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/001/SRR9304801/SRR9304801.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/001/SRR9304801/SRR9304801.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304801.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Scleroderma",
-                "individual_identifier": "Scleroderma1",
-                "sorted_cell_type": "All cells"
+                "disease_diagnosis": "scleroderma",
+                "individual_identifier": "scleroderma1",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891633",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SCD1_All"
         },
         "GSM3891634": {
             "BioSample": "SAMN12060068",
@@ -683,34 +1244,131 @@
             "SRR": {
                 "SRR9304802": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/002/SRR9304802/SRR9304802.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/002/SRR9304802/SRR9304802.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304802.fastq.gz"
                     ]
                 },
                 "SRR9304803": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/003/SRR9304803/SRR9304803.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/003/SRR9304803/SRR9304803.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073201_SRR9304803.fastq.gz"
                     ]
                 },
                 "SRR9304804": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/004/SRR9304804/SRR9304804.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/004/SRR9304804/SRR9304804.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304804.fastq.gz"
                     ]
                 },
                 "SRR9304805": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR930/005/SRR9304805/SRR9304805.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/005/SRR9304805/SRR9304805.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073201_SRR9304805.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_diagnosis": "Scleroderma",
-                "individual_identifier": "Scleroderma2",
-                "sorted_cell_type": "Lineage-"
+                "disease_diagnosis": "scleroderma",
+                "individual_identifier": "scleroderma2",
+                "sorted_cell_type": "lineage-",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
             "sample_id": "GSM3891634",
-            "scrnaseq": false
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SCD2_Lin"
+        },
+        "GSM3891635": {
+            "BioSample": "SAMN12060067",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12060067",
+            "SRA": "SRX6073202",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6073202",
+            "SRR": {
+                "SRR9304806": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/006/SRR9304806/SRR9304806.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304806.fastq.gz"
+                    ]
+                },
+                "SRR9304807": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/007/SRR9304807/SRR9304807.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304807.fastq.gz"
+                    ]
+                },
+                "SRR9304808": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/008/SRR9304808/SRR9304808.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304808.fastq.gz"
+                    ]
+                },
+                "SRR9304809": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR930/009/SRR9304809/SRR9304809.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304809.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "disease_diagnosis": "scleroderma",
+                "individual_identifier": "scleroderma2",
+                "sorted_cell_type": "all cells",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing",
+                "scrna-seq"
+            ],
+            "sample_id": "GSM3891635",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SCD2_All"
         }
     },
-    "taxid": "9606",
+    "summary": "We performed scRNA-seq of cells obtained with a protocol designed to capture all of the collagen-producing cells from normal and fibrotic mouse and human lungs.",
+    "taxid": [
+        "9606",
+        "10090"
+    ],
     "title": "Single cell RNA-sequencing of normal and fibrotic lungs in mouse and human"
 }

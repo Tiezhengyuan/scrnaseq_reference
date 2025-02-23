@@ -4,6 +4,7 @@
         "33953163"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148071",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE148nnn/GSE148071/soft/GSE148071_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20795",
@@ -18,10 +19,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "71",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453576",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P1"
         },
         "GSM4453577": {
             "BioSample": "SAMN14534702",
@@ -29,10 +46,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "62",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453577",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P2"
         },
         "GSM4453578": {
             "BioSample": "SAMN14534701",
@@ -40,10 +73,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453578",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P3"
         },
         "GSM4453579": {
             "BioSample": "SAMN14534699",
@@ -51,10 +100,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "58",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453579",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P4"
         },
         "GSM4453580": {
             "BioSample": "SAMN14534697",
@@ -62,10 +127,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "62",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453580",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P5"
         },
         "GSM4453581": {
             "BioSample": "SAMN14534695",
@@ -73,10 +154,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "59",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453581",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P6"
         },
         "GSM4453582": {
             "BioSample": "SAMN14534694",
@@ -84,10 +181,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "71",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453582",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P7"
         },
         "GSM4453583": {
             "BioSample": "SAMN14534692",
@@ -95,10 +208,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "35",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453583",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P8"
         },
         "GSM4453584": {
             "BioSample": "SAMN14534691",
@@ -106,10 +235,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "40",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453584",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P9"
         },
         "GSM4453585": {
             "BioSample": "SAMN14534689",
@@ -117,10 +262,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "65",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453585",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P10"
         },
         "GSM4453586": {
             "BioSample": "SAMN14534687",
@@ -128,10 +289,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "58",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453586",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P11"
         },
         "GSM4453587": {
             "BioSample": "SAMN14534686",
@@ -139,10 +316,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "62",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453587",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P12"
         },
         "GSM4453588": {
             "BioSample": "SAMN14534684",
@@ -150,10 +343,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "50",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453588",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P13"
         },
         "GSM4453589": {
             "BioSample": "SAMN14534682",
@@ -161,10 +370,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "60",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453589",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P14"
         },
         "GSM4453590": {
             "BioSample": "SAMN14534680",
@@ -172,10 +397,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "64",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453590",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P15"
         },
         "GSM4453591": {
             "BioSample": "SAMN14534678",
@@ -183,10 +424,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "49",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453591",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P16"
         },
         "GSM4453592": {
             "BioSample": "SAMN14534676",
@@ -194,10 +451,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "71",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453592",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P17"
         },
         "GSM4453593": {
             "BioSample": "SAMN14534675",
@@ -205,10 +478,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453593",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P18"
         },
         "GSM4453594": {
             "BioSample": "SAMN14534673",
@@ -216,10 +505,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "55",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453594",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P19"
         },
         "GSM4453595": {
             "BioSample": "SAMN14534672",
@@ -227,10 +532,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "59",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453595",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P20"
         },
         "GSM4453596": {
             "BioSample": "SAMN14534728",
@@ -238,10 +559,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "65",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453596",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P21"
         },
         "GSM4453597": {
             "BioSample": "SAMN14534727",
@@ -249,10 +586,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453597",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P22"
         },
         "GSM4453598": {
             "BioSample": "SAMN14534726",
@@ -260,10 +613,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "77",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453598",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P23"
         },
         "GSM4453599": {
             "BioSample": "SAMN14534725",
@@ -271,10 +640,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "52",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453599",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P24"
         },
         "GSM4453600": {
             "BioSample": "SAMN14534722",
@@ -282,10 +667,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "75",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453600",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P25"
         },
         "GSM4453601": {
             "BioSample": "SAMN14534721",
@@ -293,10 +694,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "53",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453601",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P26"
         },
         "GSM4453602": {
             "BioSample": "SAMN14534720",
@@ -304,10 +721,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "68",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453602",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P27"
         },
         "GSM4453603": {
             "BioSample": "SAMN14534719",
@@ -315,10 +748,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "64",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453603",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P28"
         },
         "GSM4453604": {
             "BioSample": "SAMN14534718",
@@ -326,10 +775,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "48",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453604",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P29"
         },
         "GSM4453605": {
             "BioSample": "SAMN14534724",
@@ -337,10 +802,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "73",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453605",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P30"
         },
         "GSM4453606": {
             "BioSample": "SAMN14534723",
@@ -348,10 +829,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "53",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453606",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P31"
         },
         "GSM4453607": {
             "BioSample": "SAMN14534717",
@@ -359,10 +856,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "71",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453607",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P32"
         },
         "GSM4453608": {
             "BioSample": "SAMN14534716",
@@ -370,10 +883,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "42",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453608",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P33"
         },
         "GSM4453609": {
             "BioSample": "SAMN14534715",
@@ -381,10 +910,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "72",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453609",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P34"
         },
         "GSM4453610": {
             "BioSample": "SAMN14534714",
@@ -392,10 +937,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "63",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453610",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P35"
         },
         "GSM4453611": {
             "BioSample": "SAMN14534713",
@@ -403,10 +964,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "42",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453611",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P36"
         },
         "GSM4453612": {
             "BioSample": "SAMN14534712",
@@ -414,10 +991,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "73",
-                "gender": "female"
+                "gender": "female",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453612",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P37"
         },
         "GSM4453613": {
             "BioSample": "SAMN14534711",
@@ -425,10 +1018,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "55",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453613",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P38"
         },
         "GSM4453614": {
             "BioSample": "SAMN14534710",
@@ -436,10 +1045,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "49",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453614",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P39"
         },
         "GSM4453615": {
             "BioSample": "SAMN14534709",
@@ -447,10 +1072,26 @@
             "SRR": {},
             "characteristics": {
                 "age": "62",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453615",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P40"
         },
         "GSM4453616": {
             "BioSample": "SAMN14534708",
@@ -458,12 +1099,58 @@
             "SRR": {},
             "characteristics": {
                 "age": "60",
-                "gender": "male"
+                "gender": "male",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4453616",
-            "scrnaseq": true
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P41"
+        },
+        "GSM4453617": {
+            "BioSample": "SAMN14534707",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14534707",
+            "SRR": {},
+            "characteristics": {
+                "age": "64",
+                "gender": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
+            "sample_id": "GSM4453617",
+            "sample_source": [
+                "lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P42"
         }
     },
-    "taxid": "9606",
+    "summary": "Using single-cell RNA sequencing (scRNA-seq) profiles gene expression pattern of each individual cell to characterize of the entire tumor ecosystem",
+    "taxid": [
+        "9606"
+    ],
     "title": "Comprehensive Profiling of Cancer Cells and Their Microenvironment in Advanced NSCLC"
 }

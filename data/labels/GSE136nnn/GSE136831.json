@@ -6,6 +6,7 @@
         "35930670"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136831",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE136nnn/GSE136831/soft/GSE136831_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20301",
@@ -20,16 +21,39 @@
             "SRA": "SRX17412777",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412777",
             "SRR": {
-                "SRR21407770": {}
+                "SRR21407770": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/070/SRR21407770/SRR21407770_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/070/SRR21407770/SRR21407770_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407770_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407770_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "32",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058900",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "133C scRNAseq"
         },
         "GSM4058901": {
             "BioSample": "SAMN12688821",
@@ -37,17 +61,49 @@
             "SRA": "SRX17412778",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412778",
             "SRR": {
-                "SRR21407771": {},
-                "SRR21407772": {}
+                "SRR21407771": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/071/SRR21407771/SRR21407771_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/071/SRR21407771/SRR21407771_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407771_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407771_2.fastq.gz"
+                    ]
+                },
+                "SRR21407772": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/072/SRR21407772/SRR21407772_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/072/SRR21407772/SRR21407772_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407772_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407772_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "21",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058901",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "1372C scRNAseq"
         },
         "GSM4058902": {
             "BioSample": "SAMN12688820",
@@ -55,16 +111,39 @@
             "SRA": "SRX17412779",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412779",
             "SRR": {
-                "SRR21407773": {}
+                "SRR21407773": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/073/SRR21407773/SRR21407773_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/073/SRR21407773/SRR21407773_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407773_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407773_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "49",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058902",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "034C scRNAseq"
         },
         "GSM4058903": {
             "BioSample": "SAMN12688759",
@@ -72,19 +151,69 @@
             "SRA": "SRX17412780",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412780",
             "SRR": {
-                "SRR21407774": {},
-                "SRR21407775": {},
-                "SRR21407776": {},
-                "SRR21407777": {}
+                "SRR21407774": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/074/SRR21407774/SRR21407774_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/074/SRR21407774/SRR21407774_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407774_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407774_1.fastq.gz"
+                    ]
+                },
+                "SRR21407775": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/075/SRR21407775/SRR21407775_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/075/SRR21407775/SRR21407775_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407775_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407775_1.fastq.gz"
+                    ]
+                },
+                "SRR21407776": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/076/SRR21407776/SRR21407776_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/076/SRR21407776/SRR21407776_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407776_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407776_1.fastq.gz"
+                    ]
+                },
+                "SRR21407777": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/077/SRR21407777/SRR21407777_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/077/SRR21407777/SRR21407777_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407777_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407777_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "29",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058903",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "218C scRNAseq"
         },
         "GSM4058904": {
             "BioSample": "SAMN12688758",
@@ -92,17 +221,49 @@
             "SRA": "SRX17412781",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412781",
             "SRR": {
-                "SRR21407778": {},
-                "SRR21407779": {}
+                "SRR21407778": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/078/SRR21407778/SRR21407778_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/078/SRR21407778/SRR21407778_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407778_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407778_1.fastq.gz"
+                    ]
+                },
+                "SRR21407779": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/079/SRR21407779/SRR21407779_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/079/SRR21407779/SRR21407779_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407779_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407779_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "32",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058904",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "226C scRNAseq"
         },
         "GSM4058905": {
             "BioSample": "SAMN12688757",
@@ -110,16 +271,39 @@
             "SRA": "SRX17412782",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412782",
             "SRR": {
-                "SRR21407780": {}
+                "SRR21407780": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/080/SRR21407780/SRR21407780_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/080/SRR21407780/SRR21407780_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407780_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407780_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "50",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058905",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "244C scRNAseq"
         },
         "GSM4058906": {
             "BioSample": "SAMN12688756",
@@ -127,17 +311,49 @@
             "SRA": "SRX17412783",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412783",
             "SRR": {
-                "SRR21407781": {},
-                "SRR21407782": {}
+                "SRR21407781": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/081/SRR21407781/SRR21407781_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/081/SRR21407781/SRR21407781_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407781_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407781_2.fastq.gz"
+                    ]
+                },
+                "SRR21407782": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/082/SRR21407782/SRR21407782_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/082/SRR21407782/SRR21407782_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407782_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407782_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "41",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058906",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "098C scRNAseq"
         },
         "GSM4058907": {
             "BioSample": "SAMN12688755",
@@ -145,16 +361,39 @@
             "SRA": "SRX17412784",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412784",
             "SRR": {
-                "SRR21407783": {}
+                "SRR21407783": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/083/SRR21407783/SRR21407783_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/083/SRR21407783/SRR21407783_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407783_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407783_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "56",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058907",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "465C scRNAseq"
         },
         "GSM4058908": {
             "BioSample": "SAMN12688754",
@@ -162,16 +401,39 @@
             "SRA": "SRX17412785",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412785",
             "SRR": {
-                "SRR21407784": {}
+                "SRR21407784": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/084/SRR21407784/SRR21407784_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/084/SRR21407784/SRR21407784_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407784_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407784_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "37",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058908",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "396C scRNAseq"
         },
         "GSM4058909": {
             "BioSample": "SAMN12688769",
@@ -179,16 +441,39 @@
             "SRA": "SRX17412786",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412786",
             "SRR": {
-                "SRR21407785": {}
+                "SRR21407785": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/085/SRR21407785/SRR21407785_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/085/SRR21407785/SRR21407785_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407785_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407785_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "80",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058909",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "296C scRNAseq"
         },
         "GSM4058910": {
             "BioSample": "SAMN12688768",
@@ -196,16 +481,39 @@
             "SRA": "SRX17412787",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412787",
             "SRR": {
-                "SRR21407786": {}
+                "SRR21407786": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/086/SRR21407786/SRR21407786_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/086/SRR21407786/SRR21407786_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407786_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407786_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "23",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058910",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "208C scRNAseq"
         },
         "GSM4058911": {
             "BioSample": "SAMN12688767",
@@ -213,18 +521,59 @@
             "SRA": "SRX17412788",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412788",
             "SRR": {
-                "SRR21407787": {},
-                "SRR21407788": {},
-                "SRR21407789": {}
+                "SRR21407787": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/087/SRR21407787/SRR21407787_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/087/SRR21407787/SRR21407787_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407787_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407787_1.fastq.gz"
+                    ]
+                },
+                "SRR21407788": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/088/SRR21407788/SRR21407788_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/088/SRR21407788/SRR21407788_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407788_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407788_1.fastq.gz"
+                    ]
+                },
+                "SRR21407789": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/089/SRR21407789/SRR21407789_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/089/SRR21407789/SRR21407789_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407789_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407789_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "65",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058911",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "222C scRNAseq"
         },
         "GSM4058912": {
             "BioSample": "SAMN12688766",
@@ -232,16 +581,39 @@
             "SRA": "SRX17412789",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412789",
             "SRR": {
-                "SRR21407790": {}
+                "SRR21407790": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/090/SRR21407790/SRR21407790_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/090/SRR21407790/SRR21407790_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407790_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407790_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "64",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058912",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "160C scRNAseq"
         },
         "GSM4058913": {
             "BioSample": "SAMN12688765",
@@ -249,16 +621,39 @@
             "SRA": "SRX17412790",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412790",
             "SRR": {
-                "SRR21407791": {}
+                "SRR21407791": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/091/SRR21407791/SRR21407791_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/091/SRR21407791/SRR21407791_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407791_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407791_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "29",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058913",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "092C scRNAseq"
         },
         "GSM4058914": {
             "BioSample": "SAMN12688764",
@@ -266,17 +661,49 @@
             "SRA": "SRX17412791",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412791",
             "SRR": {
-                "SRR21407792": {},
-                "SRR21407793": {}
+                "SRR21407792": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/092/SRR21407792/SRR21407792_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/092/SRR21407792/SRR21407792_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407792_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407792_2.fastq.gz"
+                    ]
+                },
+                "SRR21407793": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/093/SRR21407793/SRR21407793_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/093/SRR21407793/SRR21407793_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407793_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407793_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058914",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "439C scRNAseq"
         },
         "GSM4058915": {
             "BioSample": "SAMN12688760",
@@ -284,16 +711,39 @@
             "SRA": "SRX17412792",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412792",
             "SRR": {
-                "SRR21407794": {}
+                "SRR21407794": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/094/SRR21407794/SRR21407794_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/094/SRR21407794/SRR21407794_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407794_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407794_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058915",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "065C scRNAseq"
         },
         "GSM4058916": {
             "BioSample": "SAMN12688805",
@@ -301,16 +751,39 @@
             "SRA": "SRX17412793",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412793",
             "SRR": {
-                "SRR21407795": {}
+                "SRR21407795": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/095/SRR21407795/SRR21407795_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/095/SRR21407795/SRR21407795_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407795_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407795_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "61",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058916",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "388C scRNAseq"
         },
         "GSM4058917": {
             "BioSample": "SAMN12688804",
@@ -318,17 +791,49 @@
             "SRA": "SRX17412794",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412794",
             "SRR": {
-                "SRR21407796": {},
-                "SRR21407797": {}
+                "SRR21407796": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/096/SRR21407796/SRR21407796_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/096/SRR21407796/SRR21407796_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407796_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407796_2.fastq.gz"
+                    ]
+                },
+                "SRR21407797": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/097/SRR21407797/SRR21407797_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/097/SRR21407797/SRR21407797_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407797_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407797_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "62",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058917",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "192C scRNAseq"
         },
         "GSM4058918": {
             "BioSample": "SAMN12688763",
@@ -336,16 +841,39 @@
             "SRA": "SRX17412795",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412795",
             "SRR": {
-                "SRR21407798": {}
+                "SRR21407798": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/098/SRR21407798/SRR21407798_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/098/SRR21407798/SRR21407798_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407798_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407798_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "35",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058918",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "483C scRNAseq"
         },
         "GSM4058919": {
             "BioSample": "SAMN12688762",
@@ -353,16 +881,39 @@
             "SRA": "SRX17412796",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412796",
             "SRR": {
-                "SRR21407799": {}
+                "SRR21407799": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/099/SRR21407799/SRR21407799_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/099/SRR21407799/SRR21407799_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407799_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407799_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "22",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058919",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "001C scRNAseq"
         },
         "GSM4058920": {
             "BioSample": "SAMN12688761",
@@ -370,16 +921,39 @@
             "SRA": "SRX17412797",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412797",
             "SRR": {
-                "SRR21407800": {}
+                "SRR21407800": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/000/SRR21407800/SRR21407800_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/000/SRR21407800/SRR21407800_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407800_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407800_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "25",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058920",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "002C scRNAseq"
         },
         "GSM4058921": {
             "BioSample": "SAMN12688803",
@@ -387,16 +961,39 @@
             "SRA": "SRX17412798",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412798",
             "SRR": {
-                "SRR21407801": {}
+                "SRR21407801": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/001/SRR21407801/SRR21407801_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/001/SRR21407801/SRR21407801_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407801_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407801_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "67",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058921",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "003C scRNAseq"
         },
         "GSM4058922": {
             "BioSample": "SAMN12688802",
@@ -404,16 +1001,39 @@
             "SRA": "SRX17412799",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412799",
             "SRR": {
-                "SRR21407802": {}
+                "SRR21407802": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/002/SRR21407802/SRR21407802_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/002/SRR21407802/SRR21407802_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407802_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407802_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "48",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058922",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "454C scRNAseq"
         },
         "GSM4058923": {
             "BioSample": "SAMN12688801",
@@ -421,16 +1041,39 @@
             "SRA": "SRX17412800",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412800",
             "SRR": {
-                "SRR21407803": {}
+                "SRR21407803": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/003/SRR21407803/SRR21407803_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/003/SRR21407803/SRR21407803_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407803_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407803_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "Control",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058923",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "253C scRNAseq"
         },
         "GSM4058924": {
             "BioSample": "SAMN12688800",
@@ -438,16 +1081,39 @@
             "SRA": "SRX17412801",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412801",
             "SRR": {
-                "SRR21407804": {}
+                "SRR21407804": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/004/SRR21407804/SRR21407804_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/004/SRR21407804/SRR21407804_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407804_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407804_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "31",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058924",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "484C scRNAseq"
         },
         "GSM4058925": {
             "BioSample": "SAMN12688799",
@@ -455,16 +1121,39 @@
             "SRA": "SRX17412802",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412802",
             "SRR": {
-                "SRR21407805": {}
+                "SRR21407805": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/005/SRR21407805/SRR21407805_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/005/SRR21407805/SRR21407805_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407805_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407805_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "20",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058925",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "081C scRNAseq"
         },
         "GSM4058926": {
             "BioSample": "SAMN12688798",
@@ -472,16 +1161,39 @@
             "SRA": "SRX17412803",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412803",
             "SRR": {
-                "SRR21407806": {}
+                "SRR21407806": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/006/SRR21407806/SRR21407806_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/006/SRR21407806/SRR21407806_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407806_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407806_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "54",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058926",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "137C scRNAseq"
         },
         "GSM4058927": {
             "BioSample": "SAMN12688797",
@@ -489,16 +1201,39 @@
             "SRA": "SRX17412804",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412804",
             "SRR": {
-                "SRR21407807": {}
+                "SRR21407807": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/007/SRR21407807/SRR21407807_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/007/SRR21407807/SRR21407807_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407807_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407807_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "46",
-                "disease_state": "Control",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058927",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "084C scRNAseq"
         },
         "GSM4058928": {
             "BioSample": "SAMN12688796",
@@ -506,17 +1241,49 @@
             "SRA": "SRX17412805",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412805",
             "SRR": {
-                "SRR21407808": {},
-                "SRR21407809": {}
+                "SRR21407808": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/008/SRR21407808/SRR21407808_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/008/SRR21407808/SRR21407808_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407808_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407808_2.fastq.gz"
+                    ]
+                },
+                "SRR21407809": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/009/SRR21407809/SRR21407809_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/009/SRR21407809/SRR21407809_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407809_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407809_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "57",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058928",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "152CO scRNAseq"
         },
         "GSM4058929": {
             "BioSample": "SAMN12688795",
@@ -524,17 +1291,49 @@
             "SRA": "SRX17412806",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412806",
             "SRR": {
-                "SRR21407810": {},
-                "SRR21407811": {}
+                "SRR21407810": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/010/SRR21407810/SRR21407810_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/010/SRR21407810/SRR21407810_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407810_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407810_2.fastq.gz"
+                    ]
+                },
+                "SRR21407811": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/011/SRR21407811/SRR21407811_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/011/SRR21407811/SRR21407811_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407811_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407811_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "62",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058929",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "153CO scRNAseq"
         },
         "GSM4058930": {
             "BioSample": "SAMN12688794",
@@ -542,16 +1341,39 @@
             "SRA": "SRX17412807",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412807",
             "SRR": {
-                "SRR21407812": {}
+                "SRR21407812": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/012/SRR21407812/SRR21407812_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/012/SRR21407812/SRR21407812_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407812_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407812_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "58",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058930",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "178CO scRNAseq"
         },
         "GSM4058931": {
             "BioSample": "SAMN12688793",
@@ -559,17 +1381,49 @@
             "SRA": "SRX17412808",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412808",
             "SRR": {
-                "SRR21407813": {},
-                "SRR21407814": {}
+                "SRR21407813": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/013/SRR21407813/SRR21407813_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/013/SRR21407813/SRR21407813_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407813_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407813_2.fastq.gz"
+                    ]
+                },
+                "SRR21407814": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/014/SRR21407814/SRR21407814_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/014/SRR21407814/SRR21407814_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407814_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407814_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "55",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058931",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "184CO scRNAseq"
         },
         "GSM4058932": {
             "BioSample": "SAMN12688819",
@@ -577,16 +1431,39 @@
             "SRA": "SRX17412809",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412809",
             "SRR": {
-                "SRR21407815": {}
+                "SRR21407815": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/015/SRR21407815/SRR21407815_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/015/SRR21407815/SRR21407815_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407815_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407815_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058932",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "186CO scRNAseq"
         },
         "GSM4058933": {
             "BioSample": "SAMN12688818",
@@ -594,18 +1471,59 @@
             "SRA": "SRX17412810",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412810",
             "SRR": {
-                "SRR21407816": {},
-                "SRR21407817": {},
-                "SRR21407818": {}
+                "SRR21407816": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/016/SRR21407816/SRR21407816_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/016/SRR21407816/SRR21407816_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407816_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407816_2.fastq.gz"
+                    ]
+                },
+                "SRR21407817": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/017/SRR21407817/SRR21407817_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/017/SRR21407817/SRR21407817_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407817_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407817_1.fastq.gz"
+                    ]
+                },
+                "SRR21407818": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/018/SRR21407818/SRR21407818_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/018/SRR21407818/SRR21407818_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407818_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407818_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058933",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "192CO scRNAseq"
         },
         "GSM4058934": {
             "BioSample": "SAMN12688817",
@@ -613,17 +1531,49 @@
             "SRA": "SRX17412811",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412811",
             "SRR": {
-                "SRR21407819": {},
-                "SRR21407820": {}
+                "SRR21407819": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/019/SRR21407819/SRR21407819_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/019/SRR21407819/SRR21407819_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407819_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407819_2.fastq.gz"
+                    ]
+                },
+                "SRR21407820": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/020/SRR21407820/SRR21407820_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/020/SRR21407820/SRR21407820_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407820_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407820_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "63",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058934",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "193CO scRNAseq"
         },
         "GSM4058935": {
             "BioSample": "SAMN12688816",
@@ -631,16 +1581,39 @@
             "SRA": "SRX17412812",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412812",
             "SRR": {
-                "SRR21407821": {}
+                "SRR21407821": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/021/SRR21407821/SRR21407821_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/021/SRR21407821/SRR21407821_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407821_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407821_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "59",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058935",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "194CO scRNAseq"
         },
         "GSM4058936": {
             "BioSample": "SAMN12688815",
@@ -648,16 +1621,39 @@
             "SRA": "SRX17412813",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412813",
             "SRR": {
-                "SRR21407822": {}
+                "SRR21407822": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/022/SRR21407822/SRR21407822_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/022/SRR21407822/SRR21407822_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407822_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407822_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "60",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058936",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "207CO scRNAseq"
         },
         "GSM4058937": {
             "BioSample": "SAMN12688814",
@@ -665,16 +1661,39 @@
             "SRA": "SRX17412814",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412814",
             "SRR": {
-                "SRR21407823": {}
+                "SRR21407823": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/023/SRR21407823/SRR21407823_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/023/SRR21407823/SRR21407823_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407823_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407823_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "70",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058937",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "217CO scRNAseq"
         },
         "GSM4058938": {
             "BioSample": "SAMN12688813",
@@ -682,16 +1701,39 @@
             "SRA": "SRX17412815",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412815",
             "SRR": {
-                "SRR21407824": {}
+                "SRR21407824": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/024/SRR21407824/SRR21407824_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/024/SRR21407824/SRR21407824_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407824_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407824_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058938",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "23CO scRNAseq"
         },
         "GSM4058939": {
             "BioSample": "SAMN12688812",
@@ -699,16 +1741,39 @@
             "SRA": "SRX17412816",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412816",
             "SRR": {
-                "SRR21407825": {}
+                "SRR21407825": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/025/SRR21407825/SRR21407825_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/025/SRR21407825/SRR21407825_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407825_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407825_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "61",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058939",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "235CO scRNAseq"
         },
         "GSM4058940": {
             "BioSample": "SAMN12688811",
@@ -716,16 +1781,39 @@
             "SRA": "SRX17412817",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412817",
             "SRR": {
-                "SRR21407826": {}
+                "SRR21407826": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/026/SRR21407826/SRR21407826_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/026/SRR21407826/SRR21407826_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407826_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407826_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "57",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058940",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "237CO scRNAseq"
         },
         "GSM4058941": {
             "BioSample": "SAMN12688810",
@@ -733,16 +1821,39 @@
             "SRA": "SRX17412818",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412818",
             "SRR": {
-                "SRR21407827": {}
+                "SRR21407827": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/027/SRR21407827/SRR21407827_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/027/SRR21407827/SRR21407827_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407827_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407827_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058941",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "238CO scRNAseq"
         },
         "GSM4058942": {
             "BioSample": "SAMN12688809",
@@ -750,16 +1861,39 @@
             "SRA": "SRX17412819",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412819",
             "SRR": {
-                "SRR21407828": {}
+                "SRR21407828": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/028/SRR21407828/SRR21407828_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/028/SRR21407828/SRR21407828_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407828_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407828_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "65",
-                "disease_state": "COPD",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058942",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "8CO scRNAseq"
         },
         "GSM4058943": {
             "BioSample": "SAMN12688808",
@@ -767,16 +1901,39 @@
             "SRA": "SRX17412820",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412820",
             "SRR": {
-                "SRR21407829": {}
+                "SRR21407829": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/029/SRR21407829/SRR21407829_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/029/SRR21407829/SRR21407829_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407829_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407829_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "62",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058943",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "052CO scRNAseq"
         },
         "GSM4058944": {
             "BioSample": "SAMN12688807",
@@ -784,16 +1941,39 @@
             "SRA": "SRX17412821",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412821",
             "SRR": {
-                "SRR21407830": {}
+                "SRR21407830": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/030/SRR21407830/SRR21407830_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/030/SRR21407830/SRR21407830_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407830_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407830_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "57",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058944",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "056CO scRNAseq"
         },
         "GSM4058945": {
             "BioSample": "SAMN12688806",
@@ -801,16 +1981,39 @@
             "SRA": "SRX17412822",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412822",
             "SRR": {
-                "SRR21407831": {}
+                "SRR21407831": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/031/SRR21407831/SRR21407831_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/031/SRR21407831/SRR21407831_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407831_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407831_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "73",
-                "disease_state": "COPD",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "copd",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058945",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "137CO scRNAseq"
         },
         "GSM4058946": {
             "BioSample": "SAMN12688839",
@@ -818,16 +2021,39 @@
             "SRA": "SRX17412823",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412823",
             "SRR": {
-                "SRR21407832": {}
+                "SRR21407832": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/032/SRR21407832/SRR21407832_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/032/SRR21407832/SRR21407832_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407832_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407832_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "68",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058946",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "210I scRNAseq"
         },
         "GSM4058947": {
             "BioSample": "SAMN12688830",
@@ -835,17 +2061,49 @@
             "SRA": "SRX17412824",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412824",
             "SRR": {
-                "SRR21407833": {},
-                "SRR21407834": {}
+                "SRR21407833": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/033/SRR21407833/SRR21407833_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/033/SRR21407833/SRR21407833_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407833_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407833_2.fastq.gz"
+                    ]
+                },
+                "SRR21407834": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/034/SRR21407834/SRR21407834_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/034/SRR21407834/SRR21407834_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407834_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407834_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "59",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058947",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "135I scRNAseq"
         },
         "GSM4058948": {
             "BioSample": "SAMN12688829",
@@ -853,17 +2111,49 @@
             "SRA": "SRX17412825",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412825",
             "SRR": {
-                "SRR21407835": {},
-                "SRR21407836": {}
+                "SRR21407835": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/035/SRR21407835/SRR21407835_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/035/SRR21407835/SRR21407835_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407835_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407835_1.fastq.gz"
+                    ]
+                },
+                "SRR21407836": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/036/SRR21407836/SRR21407836_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/036/SRR21407836/SRR21407836_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407836_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407836_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "56",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058948",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "138I scRNAseq"
         },
         "GSM4058949": {
             "BioSample": "SAMN12688828",
@@ -871,16 +2161,39 @@
             "SRA": "SRX17412826",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412826",
             "SRR": {
-                "SRR21407837": {}
+                "SRR21407837": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/037/SRR21407837/SRR21407837_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/037/SRR21407837/SRR21407837_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407837_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407837_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058949",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "145I scRNAseq"
         },
         "GSM4058950": {
             "BioSample": "SAMN12688827",
@@ -888,18 +2201,59 @@
             "SRA": "SRX17412827",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412827",
             "SRR": {
-                "SRR21407838": {},
-                "SRR21407839": {},
-                "SRR21407840": {}
+                "SRR21407838": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/038/SRR21407838/SRR21407838_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/038/SRR21407838/SRR21407838_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407838_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407838_2.fastq.gz"
+                    ]
+                },
+                "SRR21407839": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/039/SRR21407839/SRR21407839_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/039/SRR21407839/SRR21407839_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407839_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407839_2.fastq.gz"
+                    ]
+                },
+                "SRR21407840": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/040/SRR21407840/SRR21407840_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/040/SRR21407840/SRR21407840_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407840_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407840_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "IPF",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058950",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "157I scRNAseq"
         },
         "GSM4058951": {
             "BioSample": "SAMN12688826",
@@ -907,16 +2261,39 @@
             "SRA": "SRX17412828",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412828",
             "SRR": {
-                "SRR21407841": {}
+                "SRR21407841": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/041/SRR21407841/SRR21407841_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/041/SRR21407841/SRR21407841_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407841_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407841_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "63",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058951",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "166I scRNAseq"
         },
         "GSM4058952": {
             "BioSample": "SAMN12688825",
@@ -924,16 +2301,39 @@
             "SRA": "SRX17412829",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412829",
             "SRR": {
-                "SRR21407842": {}
+                "SRR21407842": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/042/SRR21407842/SRR21407842_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/042/SRR21407842/SRR21407842_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407842_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407842_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058952",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "174I scRNAseq"
         },
         "GSM4058953": {
             "BioSample": "SAMN12688848",
@@ -941,16 +2341,39 @@
             "SRA": "SRX17412830",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412830",
             "SRR": {
-                "SRR21407843": {}
+                "SRR21407843": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/043/SRR21407843/SRR21407843_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/043/SRR21407843/SRR21407843_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407843_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407843_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "70",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058953",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "179I scRNAseq"
         },
         "GSM4058954": {
             "BioSample": "SAMN12688847",
@@ -958,16 +2381,39 @@
             "SRA": "SRX17412831",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412831",
             "SRR": {
-                "SRR21407844": {}
+                "SRR21407844": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/044/SRR21407844/SRR21407844_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/044/SRR21407844/SRR21407844_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407844_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407844_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "65",
-                "disease_state": "IPF",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058954",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "209I scRNAseq"
         },
         "GSM4058955": {
             "BioSample": "SAMN12688846",
@@ -975,16 +2421,39 @@
             "SRA": "SRX17412832",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412832",
             "SRR": {
-                "SRR21407845": {}
+                "SRR21407845": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/045/SRR21407845/SRR21407845_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/045/SRR21407845/SRR21407845_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407845_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407845_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "71",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058955",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "212I scRNAseq"
         },
         "GSM4058956": {
             "BioSample": "SAMN12688822",
@@ -992,16 +2461,39 @@
             "SRA": "SRX17412833",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412833",
             "SRR": {
-                "SRR21407846": {}
+                "SRR21407846": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/046/SRR21407846/SRR21407846_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/046/SRR21407846/SRR21407846_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407846_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407846_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "69",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058956",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "214I scRNAseq"
         },
         "GSM4058957": {
             "BioSample": "SAMN12688849",
@@ -1009,16 +2501,39 @@
             "SRA": "SRX17412834",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412834",
             "SRR": {
-                "SRR21407847": {}
+                "SRR21407847": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/047/SRR21407847/SRR21407847_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/047/SRR21407847/SRR21407847_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407847_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407847_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058957",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "221I scRNAseq"
         },
         "GSM4058958": {
             "BioSample": "SAMN12688824",
@@ -1026,17 +2541,49 @@
             "SRA": "SRX17412835",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412835",
             "SRR": {
-                "SRR21407848": {},
-                "SRR21407849": {}
+                "SRR21407848": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/048/SRR21407848/SRR21407848_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/048/SRR21407848/SRR21407848_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407848_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407848_2.fastq.gz"
+                    ]
+                },
+                "SRR21407849": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/049/SRR21407849/SRR21407849_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/049/SRR21407849/SRR21407849_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407849_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407849_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "59",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058958",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "222I scRNAseq"
         },
         "GSM4058959": {
             "BioSample": "SAMN12688823",
@@ -1044,17 +2591,49 @@
             "SRA": "SRX17412836",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412836",
             "SRR": {
-                "SRR21407850": {},
-                "SRR21407851": {}
+                "SRR21407850": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/050/SRR21407850/SRR21407850_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/050/SRR21407850/SRR21407850_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407850_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407850_2.fastq.gz"
+                    ]
+                },
+                "SRR21407851": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/051/SRR21407851/SRR21407851_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/051/SRR21407851/SRR21407851_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407851_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407851_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "70",
-                "disease_state": "IPF",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058959",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "225I scRNAseq"
         },
         "GSM4058960": {
             "BioSample": "SAMN12688845",
@@ -1062,17 +2641,49 @@
             "SRA": "SRX17412837",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412837",
             "SRR": {
-                "SRR21407852": {},
-                "SRR21407853": {}
+                "SRR21407852": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/052/SRR21407852/SRR21407852_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/052/SRR21407852/SRR21407852_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407852_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407852_2.fastq.gz"
+                    ]
+                },
+                "SRR21407853": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/053/SRR21407853/SRR21407853_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/053/SRR21407853/SRR21407853_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407853_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407853_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "56",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058960",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "228I scRNAseq"
         },
         "GSM4058961": {
             "BioSample": "SAMN12688844",
@@ -1080,16 +2691,39 @@
             "SRA": "SRX17412838",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412838",
             "SRR": {
-                "SRR21407854": {}
+                "SRR21407854": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/054/SRR21407854/SRR21407854_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/054/SRR21407854/SRR21407854_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407854_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407854_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "61",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058961",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "29I scRNAseq"
         },
         "GSM4058962": {
             "BioSample": "SAMN12688843",
@@ -1097,17 +2731,49 @@
             "SRA": "SRX17412839",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412839",
             "SRR": {
-                "SRR21407855": {},
-                "SRR21407856": {}
+                "SRR21407855": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/055/SRR21407855/SRR21407855_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/055/SRR21407855/SRR21407855_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407855_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407855_1.fastq.gz"
+                    ]
+                },
+                "SRR21407856": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/056/SRR21407856/SRR21407856_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/056/SRR21407856/SRR21407856_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407856_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407856_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "62",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058962",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "051I scRNAseq"
         },
         "GSM4058963": {
             "BioSample": "SAMN12688842",
@@ -1115,16 +2781,39 @@
             "SRA": "SRX17412840",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412840",
             "SRR": {
-                "SRR21407857": {}
+                "SRR21407857": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/057/SRR21407857/SRR21407857_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/057/SRR21407857/SRR21407857_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407857_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407857_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "65",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058963",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "025I scRNAseq"
         },
         "GSM4058964": {
             "BioSample": "SAMN12688841",
@@ -1132,16 +2821,39 @@
             "SRA": "SRX17412841",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412841",
             "SRR": {
-                "SRR21407858": {}
+                "SRR21407858": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/058/SRR21407858/SRR21407858_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/058/SRR21407858/SRR21407858_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407858_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407858_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "78",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058964",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "010I scRNAseq"
         },
         "GSM4058965": {
             "BioSample": "SAMN12688840",
@@ -1149,16 +2861,39 @@
             "SRA": "SRX17412842",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412842",
             "SRR": {
-                "SRR21407859": {}
+                "SRR21407859": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/059/SRR21407859/SRR21407859_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/059/SRR21407859/SRR21407859_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407859_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407859_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "69",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058965",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "021I scRNAseq"
         },
         "GSM4058966": {
             "BioSample": "SAMN12688861",
@@ -1166,16 +2901,39 @@
             "SRA": "SRX17412843",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412843",
             "SRR": {
-                "SRR21407860": {}
+                "SRR21407860": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/060/SRR21407860/SRR21407860_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/060/SRR21407860/SRR21407860_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407860_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407860_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058966",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "022I scRNAseq"
         },
         "GSM4058967": {
             "BioSample": "SAMN12688860",
@@ -1183,16 +2941,39 @@
             "SRA": "SRX17412844",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412844",
             "SRR": {
-                "SRR21407861": {}
+                "SRR21407861": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/061/SRR21407861/SRR21407861_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/061/SRR21407861/SRR21407861_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407861_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407861_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "59",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058967",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "041I scRNAseq"
         },
         "GSM4058968": {
             "BioSample": "SAMN12688859",
@@ -1200,17 +2981,49 @@
             "SRA": "SRX17412845",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412845",
             "SRR": {
-                "SRR21407862": {},
-                "SRR21407863": {}
+                "SRR21407862": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/062/SRR21407862/SRR21407862_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/062/SRR21407862/SRR21407862_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407862_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407862_1.fastq.gz"
+                    ]
+                },
+                "SRR21407863": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/063/SRR21407863/SRR21407863_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/063/SRR21407863/SRR21407863_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407863_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407863_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "70",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058968",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "040I scRNAseq"
         },
         "GSM4058969": {
             "BioSample": "SAMN12688858",
@@ -1218,17 +3031,49 @@
             "SRA": "SRX17412846",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412846",
             "SRR": {
-                "SRR21407864": {},
-                "SRR21407865": {}
+                "SRR21407864": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/064/SRR21407864/SRR21407864_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/064/SRR21407864/SRR21407864_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407864_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407864_1.fastq.gz"
+                    ]
+                },
+                "SRR21407865": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/065/SRR21407865/SRR21407865_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/065/SRR21407865/SRR21407865_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407865_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407865_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "64",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058969",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "47I scRNAseq"
         },
         "GSM4058970": {
             "BioSample": "SAMN12688857",
@@ -1236,17 +3081,49 @@
             "SRA": "SRX17412847",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412847",
             "SRR": {
-                "SRR21407866": {},
-                "SRR21407867": {}
+                "SRR21407866": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/066/SRR21407866/SRR21407866_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/066/SRR21407866/SRR21407866_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407866_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407866_1.fastq.gz"
+                    ]
+                },
+                "SRR21407867": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/067/SRR21407867/SRR21407867_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/067/SRR21407867/SRR21407867_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407867_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407867_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058970",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "49I scRNAseq"
         },
         "GSM4058971": {
             "BioSample": "SAMN12688856",
@@ -1254,18 +3131,59 @@
             "SRA": "SRX17412848",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412848",
             "SRR": {
-                "SRR21407868": {},
-                "SRR21407869": {},
-                "SRR21407870": {}
+                "SRR21407868": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/068/SRR21407868/SRR21407868_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/068/SRR21407868/SRR21407868_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407868_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407868_1.fastq.gz"
+                    ]
+                },
+                "SRR21407869": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/069/SRR21407869/SRR21407869_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/069/SRR21407869/SRR21407869_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407869_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407869_1.fastq.gz"
+                    ]
+                },
+                "SRR21407870": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/070/SRR21407870/SRR21407870_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/070/SRR21407870/SRR21407870_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407870_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407870_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "60",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058971",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "053I scRNAseq"
         },
         "GSM4058972": {
             "BioSample": "SAMN12688855",
@@ -1273,16 +3191,39 @@
             "SRA": "SRX17412849",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412849",
             "SRR": {
-                "SRR21407871": {}
+                "SRR21407871": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/071/SRR21407871/SRR21407871_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/071/SRR21407871/SRR21407871_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407871_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407871_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "66",
-                "disease_state": "IPF",
-                "sex": "F",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058972",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "59I scRNAseq"
         },
         "GSM4058973": {
             "BioSample": "SAMN12688854",
@@ -1290,16 +3231,39 @@
             "SRA": "SRX17412850",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412850",
             "SRR": {
-                "SRR21407872": {}
+                "SRR21407872": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/072/SRR21407872/SRR21407872_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/072/SRR21407872/SRR21407872_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407872_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407872_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "68",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058973",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "063I scRNAseq"
         },
         "GSM4058974": {
             "BioSample": "SAMN12688853",
@@ -1307,16 +3271,39 @@
             "SRA": "SRX17412851",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412851",
             "SRR": {
-                "SRR21407873": {}
+                "SRR21407873": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/073/SRR21407873/SRR21407873_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/073/SRR21407873/SRR21407873_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407873_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407873_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "54",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058974",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "034I scRNAseq"
         },
         "GSM4058975": {
             "BioSample": "SAMN12688852",
@@ -1324,16 +3311,39 @@
             "SRA": "SRX17412852",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412852",
             "SRR": {
-                "SRR21407874": {}
+                "SRR21407874": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/074/SRR21407874/SRR21407874_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/074/SRR21407874/SRR21407874_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407874_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407874_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "74",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058975",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "123I scRNAseq"
         },
         "GSM4058976": {
             "BioSample": "SAMN12688851",
@@ -1341,18 +3351,84 @@
             "SRA": "SRX17412853",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412853",
             "SRR": {
-                "SRR21407875": {}
+                "SRR21407875": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/075/SRR21407875/SRR21407875_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/075/SRR21407875/SRR21407875_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407875_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407875_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
                 "age": "68",
-                "disease_state": "IPF",
-                "sex": "M",
-                "tissue": "Whole Lung Dissociate"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM4058976",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "158I scRNAseq"
+        },
+        "GSM4058977": {
+            "BioSample": "SAMN12688850",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12688850",
+            "SRA": "SRX17412854",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX17412854",
+            "SRR": {
+                "SRR21407876": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/076/SRR21407876/SRR21407876_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR214/076/SRR21407876/SRR21407876_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407876_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407876_2.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "69",
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate"
+            },
+            "labels": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "technology": "10x3v2",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna"
+            ],
+            "sample_id": "GSM4058977",
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "177I scRNAseq"
         }
     },
-    "taxid": "9606",
+    "summary": "Single Cell RNAseq of Whole Lung Dissociates from IPF, COPD and control lungs",
+    "taxid": [
+        "9606"
+    ],
     "title": "IPF Cell Atlas"
 }

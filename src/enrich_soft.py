@@ -9,6 +9,7 @@ import requests
 
 from typing import Iterable
 from utils import Utils
+from label_sample import LabelSample
 
 
 class EnrichSoft:
@@ -16,22 +17,24 @@ class EnrichSoft:
 
     def __init__(self, data:dict):
         self.data = data
+        self.GEO()    
     
     def __call__(self):
-        geo = self.GEO()
-        enriched = {
-            'GEO': geo,
-            'geo_http': f"{self.http}/query/acc.cgi?acc={geo}",
+        return {
+            'GEO': self.geo,
+            'local_soft_file': self.data['local_soft_file'],
+            'geo_http': f"{self.http}/query/acc.cgi?acc={self.geo}",
             'title': ' '.join(self.title()),
+            'summary': self.summary(),
             'PMID': self.PMID(),
             'taxid': self.taxid(),
             'platform': self.platform(),
             'samples': self.samples(),
         }
-        return enriched
+
     
     def GEO(self):
-        return self.data['GEO']
+        self.geo = self.data['GEO']
     
     def PMID(self):
         return self.data['SERIES'][0].get('Series_pubmed_id')
@@ -43,7 +46,12 @@ class EnrichSoft:
         return self.data['SERIES'][0].get('Series_sample_id')
 
     def taxid(self):
-        return self.data['SERIES'][0].get('Series_platform_taxid')[0]
+        taxid = [i.get('Series_platform_taxid', []) for i in self.data['SERIES']]
+        return sum(taxid, [])
+    
+    def summary(self):
+        series_summary = self.data['SERIES'][0].get('Series_summary', [])
+        return ' '.join(series_summary)
 
     def platform(self):
         res = []
@@ -59,13 +67,18 @@ class EnrichSoft:
         res = {}
         for sample in self.data.get('SAMPLE', []):
             sample_id = sample['SAMPLE']
-            res[sample_id] = {
+            _sample = {
                 'sample_id': sample_id,
+                'sample_title': sample['Sample_title'][0] if sample.get('Sample_title') else None,
+                'protocol': [],
+                'characteristics': {},
+                'labels': {},
             }
-            _sample = {}
             for k,v in sample.items():
-                if k.startswith('Sample_characteristics'):
-                    _sample['characteristics'] = self.sample_characteristics(v)
+                if k.startswith('Sample_taxid'):
+                    _sample['sample_taxid'] = v[0]
+                elif k.startswith('Sample_characteristics'):
+                    self.sample_characteristics(_sample['characteristics'], v)
                 elif k.startswith('Sample_relation'):
                     sub = dict([tuple(i.split(': ', 1)) for i in v])
                     if 'SRA' in sub:
@@ -76,42 +89,105 @@ class EnrichSoft:
                         sub['BioSample'] = re.findall(r'SAMN\d*', sub['BioSample'])[0]
                     _sample.update(sub)
                 elif k.startswith('Sample_description'):
-                    _sample[k] = v
-                elif '_protocol' in k:
-                    v = ' '.join(v).lower()
-                    _sample['scrnaseq'] = True if 'single-cell' in v else False
-            res[sample_id].update(_sample)
+                    _sample[k] = ' '.join(v)
+                elif k.startswith('Sample_source'):
+                    _sample['sample_source'] = v
+                    if v:
+                        _sample['characteristics']['tissue'] = v[0].lower()
+                elif '_protocol' in k or '_data_processing' in k:
+                    self.sample_protocol(_sample['protocol'], v)
+            # retrieve protocol from sample_title
+            self.sample_protocol(_sample['protocol'], sample.get('Sample_title', []))
+            _sample['protocol'] = list(set(_sample['protocol']))
+
+            # add 'labels' into _sample
+            self.sample_labels(_sample)
+            LabelSample(self.geo, _sample)()
+
+            res[sample_id] = _sample
+
+            # print(_sample['sample_title'], _sample['labels'])
+            # break
         return res
 
-    def sample_characteristics(self, values:list):
+
+    def sample_labels(self, sample):
+        '''
+        data labels used for ML
+        most labels are defined in sample['characteristics']
+        '''
+        cht = sample['characteristics']
+        lb = sample['labels']
+        # combine keys
+        pool = {
+            'disease_state': ('disease_state', 'disease_condition', \
+                'infectious_agent', 'subject_status', \
+                'diagnosis', 'disease_diagnosis', 'infection'),
+            'tissue': ('tissue', 'organ', 'engraftment'),
+            'disease': ('disease', ),
+            'cell_line': ('cell_line',),
+            'treatment': ('treatment', 'treated'),
+            'cell_type': ('cell_type', 'cell_subsets'),
+            'group': ('group', 'patient_group', 'tissue_type'),
+        }
+        for key, keywords in pool.items():
+            for k in keywords:
+                if cht.get(k):
+                    lb[key] = cht[k].lower()
+                    break
+
+        '''
+        label values
+        disease: healthy, <disease name>
+        disease_state: 
+        group: control, patient, <other names>
+        '''
+        # healthy control
+        healthy_alias = ["healthy donor", "health donors", \
+            "normal/healthy donor", "healthy control"]
+        if lb.get('disease_state') in healthy_alias:
+            lb['disease'] = 'healthy'
+            lb['group'] = 'control'
+            del lb['disease_state']
+        elif lb.get('disease_state') == 'control':
+            lb['group'] = 'control'
+            del lb['disease_state']
+
+    def sample_protocol(self, protocol:list, values:list):
+        '''
+        protocol = _sample['protocol']
+        standardize keywords
+        '''
+        v = ' '.join(values).lower().replace('  ', ' ')
+
+        # detect scRNA-seq
+        pattern = ['single-cell rna-seq', 'single cell rna-seq', \
+            'single cell rnaseq', 'scrna-seq', 'scrnaseq']
+        if re.findall('|'.join(pattern), v):
+            # print(self.geo, re.findall('|'.join(pattern), v))
+            protocol.append('scrna-seq')
+        if re.findall(r'single-cell|single cell|single cells', v):
+            protocol.append('single cell')
+
+        # retrieve keywords
+        pattern = ['cdna', 'sequencing', 'gdna', 'rna-seq', \
+            'total rna', 'rna', 'genomic dna',]
+        pattern = '|'.join(pattern)
+        res = re.findall(pattern, v)
+        [protocol.append(i) for i in res if i not in protocol]
+
+    def sample_characteristics(self, cht:dict, values:list):
         '''
         stanadardize terminology of Sample_characteristics
+        arggs: cht: _sample['characteristics']
+        Note: cht is updated inplace
         '''
-        cht = {}
         for val in values:
-            k, v = val.split(': ', 1)
-            k = k.lower().replace(' ', '_')
-            if v in ('N/A', 'n/a'):
+            k, v = val.lower().split(': ', 1)
+            k = k.replace(' ', '_')
+            if v == 'n/a':
                 v = None
             cht[k] = v
-
-        # combine keys
-        cht = Utils.rename_key(cht, 'cell_type', 'cell_subsets')
-        cht = Utils.rename_key(cht, 'tissue', 'organ')
-        cht = Utils.rename_key(cht, 'tissue', 'engraftment')
-        cht = Utils.rename_key(cht, 'disease_state', 'disease')
-        cht = Utils.rename_key(cht, 'disease_state', 'infection')
-        cht = Utils.rename_key(cht, 'disease_state', 'infectious_agent')
-        cht = Utils.rename_key(cht, 'disease_state', 'subject_status')
-        cht = Utils.rename_key(cht, 'time_point', 'time')
-        cht = Utils.rename_key(cht, 'time_point', 'time_point_post_infection')
-        cht = Utils.rename_key(cht, 'technology', '10x_chromium_encapsulation_kit')
-        cht = Utils.rename_key(cht, 'group', 'patient_group')
-        # delete some keys
-        for k in ('patient_origin', 'sample_id', 'passage'):
-            if k in cht:
-                del cht[k]
-        return cht
 
     def SRR(self, SRA_url):
         '''

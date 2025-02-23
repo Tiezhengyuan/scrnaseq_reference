@@ -4,6 +4,7 @@
         "35262195"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196303",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE196nnn/GSE196303/soft/GSE196303_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL24676",
@@ -16,183 +17,305 @@
             "BioSample": "SAMN25737244",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737244",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.1 (lung, upper lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.1 (lung, upper lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870246",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.1 (Lung, upper lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient4_Normal [p018n]"
         },
         "GSM5870247": {
             "BioSample": "SAMN25737245",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737245",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.1 (lung, upper lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.1 (lung, upper lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870247",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.1 (Lung, upper lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient5_Normal [p019n]"
         },
         "GSM5870248": {
             "BioSample": "SAMN25737246",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737246",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.1 (lung, upper lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.1 (lung, upper lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870248",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.1 (Lung, upper lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient6_Normal [p027n]"
         },
         "GSM5870249": {
             "BioSample": "SAMN25737247",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737247",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.1 (lung, upper lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.1 (lung, upper lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870249",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.1 (Lung, upper lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2_Normal [p028n]"
         },
         "GSM5870250": {
             "BioSample": "SAMN25737248",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737248",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
-                "histological_subtype": "Atypical carcinoid",
-                "tissue_type": "Lung Carcinoid Tumor",
-                "tnm_stage": "pT2b pN2 (2/16) G2 R0 L0 V0 Pn1"
+                "histological_subtype": "atypical carcinoid",
+                "tissue": "c34.1 (lung, upper lobe)",
+                "tissue_type": "lung carcinoid tumor",
+                "tnm_stage": "pt2b pn2 (2/16) g2 r0 l0 v0 pn1"
             },
+            "labels": {
+                "group": "lung carcinoid tumor",
+                "tissue": "c34.1 (lung, upper lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870250",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.1 (Lung, upper lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2_Tumor [p028t]"
         },
         "GSM5870251": {
             "BioSample": "SAMN25737249",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737249",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.2 (lung, middle lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.2 (lung, middle lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870251",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.2 (Lung, middle lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient7_Normal [p029n]"
         },
         "GSM5870252": {
             "BioSample": "SAMN25737250",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737250",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870252",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient8_Normal [p030n]"
         },
         "GSM5870253": {
             "BioSample": "SAMN25737251",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737251",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870253",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient9_Normal [p031n]"
         },
         "GSM5870254": {
             "BioSample": "SAMN25737252",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737252",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870254",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient10_Normal [p033n]"
         },
         "GSM5870255": {
             "BioSample": "SAMN25737210",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737210",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870255",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1_Normal [p039n]"
         },
         "GSM5870256": {
             "BioSample": "SAMN25737211",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737211",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
-                "histological_subtype": "Typical carcinoid",
-                "tissue_type": "Lung Carcinoid Tumor",
-                "tnm_stage": "pT1b pN0 (0/30) G1 R0 L0 V0 Pn0"
+                "histological_subtype": "typical carcinoid",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "lung carcinoid tumor",
+                "tnm_stage": "pt1b pn0 (0/30) g1 r0 l0 v0 pn0"
             },
+            "labels": {
+                "group": "lung carcinoid tumor",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870256",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1_Tumor [p039t]"
         },
         "GSM5870257": {
             "BioSample": "SAMN25737212",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737212",
             "SRR": {},
-            "Sample_description": [
-                "single-cell RNA sequencing"
-            ],
+            "Sample_description": "single-cell RNA sequencing",
             "characteristics": {
                 "histological_subtype": "na",
-                "tissue_type": "Normal Lung",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "normal lung",
                 "tnm_stage": "na"
             },
+            "labels": {
+                "group": "normal lung",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
             "sample_id": "GSM5870257",
-            "scrnaseq": false
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient3_Normal [p044n]"
+        },
+        "GSM5870258": {
+            "BioSample": "SAMN25737213",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN25737213",
+            "SRR": {},
+            "Sample_description": "single-cell RNA sequencing",
+            "characteristics": {
+                "histological_subtype": "atypical carcinoid",
+                "tissue": "c34.3 (lung, lower lobe)",
+                "tissue_type": "lung carcinoid tumor",
+                "tnm_stage": "pt1b pn1b (5/20) g2 r0 l0 v0 pn0 pl0"
+            },
+            "labels": {
+                "group": "lung carcinoid tumor",
+                "tissue": "c34.3 (lung, lower lobe)"
+            },
+            "protocol": [],
+            "sample_id": "GSM5870258",
+            "sample_source": [
+                "C34.3 (Lung, lower lobe)"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient3_Tumor [p044t]"
         }
     },
-    "taxid": "9606",
+    "summary": "Tumor tissue of lung carcinoid tumors (pulmonary neuroendocrine tumors) and adjacent normal lung tissue was profiled using scRNA-seq",
+    "taxid": [
+        "9606"
+    ],
     "title": "Single cell profiling of lung carcinoid tumors"
 }

@@ -4,6 +4,7 @@
         "32004478"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137799",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137799/soft/GSE137799_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL18573",
@@ -11,7 +12,71 @@
             "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
         }
     ],
-    "samples": {},
-    "taxid": "9606",
+    "samples": {
+        "GSM4088735": {
+            "BioSample": "SAMN12799175",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12799175",
+            "SRA": "SRX6881599",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6881599",
+            "SRR": {
+                "SRR10156183": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR101/083/SRR10156183/SRR10156183.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE137799/fastq/SRR10156183.fastq.gz"
+                    ]
+                },
+                "SRR10156184": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR101/084/SRR10156184/SRR10156184.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE137799/fastq/SRR10156184.fastq.gz"
+                    ]
+                },
+                "SRR10156185": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR101/085/SRR10156185/SRR10156185.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE137799/fastq/SRR10156185.fastq.gz"
+                    ]
+                },
+                "SRR10156186": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR101/086/SRR10156186/SRR10156186.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE137799/fastq/SRR10156186.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "iAEC2, SFTPC Tomato positive",
+            "characteristics": {
+                "culture_media": "3d conditions in ck+dci media",
+                "developmental_stage": "day 115",
+                "isolation_method": "chromium 10x",
+                "tissue": "ipsc derived"
+            },
+            "labels": {
+                "tissue": "ipsc derived"
+            },
+            "protocol": [
+                "single cell",
+                "sequencing"
+            ],
+            "sample_id": "GSM4088735",
+            "sample_source": [
+                "iPSC derived"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "iAEC2 alveolospheres"
+        }
+    },
+    "summary": "iPSC derived AEC2 cells for independent validation of stable SFTPCtdTomato+ outgrowth by scRNA-seq using iPSCs",
+    "taxid": [
+        "9606"
+    ],
     "title": "Long-term culture of alveolospheres"
 }

@@ -4,6 +4,7 @@
         "30554520"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122960",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE122nnn/GSE122960/soft/GSE122960_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20301",
@@ -17,162 +18,439 @@
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477942",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489182",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_01"
         },
         "GSM3489183": {
             "BioSample": "SAMN10477941",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477941",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Idiopathic pulmonary fibrosis"
+                "disease_condition": "idiopathic pulmonary fibrosis",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489183",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_01"
         },
         "GSM3489184": {
             "BioSample": "SAMN10477940",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477940",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Idiopathic pulmonary fibrosis"
+                "disease_condition": "idiopathic pulmonary fibrosis",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489184",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_02"
         },
         "GSM3489185": {
             "BioSample": "SAMN10477939",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477939",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489185",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_02"
         },
         "GSM3489186": {
             "BioSample": "SAMN10477938",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477938",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Idiopathic pulmonary fibrosis"
+                "disease_condition": "idiopathic pulmonary fibrosis",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489186",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Cryobiopsy"
         },
         "GSM3489187": {
             "BioSample": "SAMN10477937",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477937",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489187",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_03"
         },
         "GSM3489188": {
             "BioSample": "SAMN10477936",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477936",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Idiopathic pulmonary fibrosis"
+                "disease_condition": "idiopathic pulmonary fibrosis",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489188",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_03"
         },
         "GSM3489189": {
             "BioSample": "SAMN10477935",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477935",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489189",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_04"
         },
         "GSM3489190": {
             "BioSample": "SAMN10477934",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477934",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Idiopathic pulmonary fibrosis"
+                "disease_condition": "idiopathic pulmonary fibrosis",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489190",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_04"
         },
         "GSM3489191": {
             "BioSample": "SAMN10477933",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477933",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489191",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_05"
         },
         "GSM3489192": {
             "BioSample": "SAMN10477932",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477932",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Hypersensitivity pneumonitis"
+                "disease_condition": "hypersensitivity pneumonitis",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "hypersensitivity pneumonitis",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489192",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HP_01"
         },
         "GSM3489193": {
             "BioSample": "SAMN10477931",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477931",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489193",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_06"
         },
         "GSM3489194": {
             "BioSample": "SAMN10477930",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477930",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Systemic slcerosis-associated interstitial lung disease"
+                "disease_condition": "systemic slcerosis-associated interstitial lung disease",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "systemic slcerosis-associated interstitial lung disease",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489194",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc-ILD_01"
         },
         "GSM3489195": {
             "BioSample": "SAMN10477929",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477929",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489195",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_07"
         },
         "GSM3489196": {
             "BioSample": "SAMN10477928",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477928",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Myositis-associated interstitial lng disease"
+                "disease_condition": "myositis-associated interstitial lng disease",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "myositis-associated interstitial lng disease",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489196",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Myositis_ILD_01"
         },
         "GSM3489197": {
             "BioSample": "SAMN10477927",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477927",
             "SRR": {},
             "characteristics": {
-                "disease_condition": "Donor"
+                "disease_condition": "donor",
+                "tissue": "lung"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM3489197",
-            "scrnaseq": true
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor_08"
+        },
+        "GSM3489198": {
+            "BioSample": "SAMN10477926",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10477926",
+            "SRR": {},
+            "characteristics": {
+                "disease_condition": "systemic slcerosis-associated interstitial lung disease",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "systemic slcerosis-associated interstitial lung disease",
+                "group": "patient",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
+            "sample_id": "GSM3489198",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc-ILD_02"
         }
     },
-    "taxid": "9606",
+    "summary": "Pulmonary fibrosis is a heterogeneous syndrome in which fibrotic scar replaces normal lung tissue. We performed massively parallel single-cell RNA-Seq on lung tissue from eight lung transplant donors and eight patients with pulmonary fibrosis. Combined with in situ RNA hybridization, with amplification, these data provide a molecular atlas of disease pathobiology. We identified a distinct, novel population of profibrotic alveolar macrophages exclusively in patients with fibrosis. Within epithelial cells, the expression of genes involved in Wnt secretion and response was restricted to non-overlapping cells. We identified rare cell populations including airway stem cells and senescent cells emerging during pulmonary fibrosis. Analysis of a cryobiopsy specimen from a patient with early disease supports the clinical application of single-cell RNA-Seq to develop personalized approaches to therapy.",
+    "taxid": [
+        "9606"
+    ],
     "title": "Single-Cell Transcriptomic Analysis of Human Lung Reveals Complex Multicellular Changes During Pulmonary Fibrosis II"
 }

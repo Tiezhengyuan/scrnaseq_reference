@@ -4,6 +4,7 @@
         "33514641"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162500",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162500/soft/GSE162500_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL15520",
@@ -30,18 +31,31 @@
             "SRR": {
                 "SRR13181483": {}
             },
-            "Sample_description": [
-                "3' RNA"
-            ],
+            "Sample_description": "3' RNA",
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2bN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2bn0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952953",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P34_Tumor"
         },
         "GSM4952954": {
             "BioSample": "SAMN16979877",
@@ -51,18 +65,31 @@
             "SRR": {
                 "SRR13181484": {}
             },
-            "Sample_description": [
-                "3' RNA"
-            ],
+            "Sample_description": "3' RNA",
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "non smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952954",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P35_Tumor"
         },
         "GSM4952955": {
             "BioSample": "SAMN16979876",
@@ -72,18 +99,31 @@
             "SRR": {
                 "SRR13181485": {}
             },
-            "Sample_description": [
-                "3' RNA"
-            ],
+            "Sample_description": "3' RNA",
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "non smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952955",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P42_Tumor"
         },
         "GSM4952956": {
             "BioSample": "SAMN16979882",
@@ -93,18 +133,31 @@
             "SRR": {
                 "SRR13181486": {}
             },
-            "Sample_description": [
-                "3' RNA"
-            ],
+            "Sample_description": "3' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN2",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an2",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952956",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P43_Tumor"
         },
         "GSM4952957": {
             "BioSample": "SAMN16979881",
@@ -114,18 +167,31 @@
             "SRR": {
                 "SRR13181487": {}
             },
-            "Sample_description": [
-                "3' RNA"
-            ],
+            "Sample_description": "3' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952957",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P46_Tumor"
         },
         "GSM4952958": {
             "BioSample": "SAMN16979880",
@@ -135,18 +201,31 @@
             "SRR": {
                 "SRR13181488": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "non smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952958",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P47_Tumor"
         },
         "GSM4952959": {
             "BioSample": "SAMN16979879",
@@ -156,18 +235,31 @@
             "SRR": {
                 "SRR13181489": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2b N0",
-                "tumor_type": "CE"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2b n0",
+                "tumor_type": "ce"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952959",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P55_Tumor"
         },
         "GSM4952960": {
             "BioSample": "SAMN16979875",
@@ -177,18 +269,31 @@
             "SRR": {
                 "SRR13181490": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT3 N0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt3 n0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952960",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P57_Tumor"
         },
         "GSM4952961": {
             "BioSample": "SAMN16979874",
@@ -198,18 +303,31 @@
             "SRR": {
                 "SRR13181491": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT3 N0",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt3 n0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952961",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P57_Blood"
         },
         "GSM4952962": {
             "BioSample": "SAMN16979873",
@@ -219,18 +337,31 @@
             "SRR": {
                 "SRR13181492": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT1cNO",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt1cno",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952962",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P58_Tumor"
         },
         "GSM4952963": {
             "BioSample": "SAMN16979872",
@@ -240,18 +371,31 @@
             "SRR": {
                 "SRR13181493": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT1cNO",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt1cno",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952963",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P58_Blood"
         },
         "GSM4952964": {
             "BioSample": "SAMN16979871",
@@ -261,18 +405,31 @@
             "SRR": {
                 "SRR13181494": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952964",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60_Tumor"
         },
         "GSM4952965": {
             "BioSample": "SAMN16979896",
@@ -282,18 +439,31 @@
             "SRR": {
                 "SRR13181495": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC juxta tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc juxta tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc juxta tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952965",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC juxta tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60_Juxta"
         },
         "GSM4952966": {
             "BioSample": "SAMN16979894",
@@ -303,18 +473,31 @@
             "SRR": {
                 "SRR13181496": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952966",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60_Blood"
         },
         "GSM4952967": {
             "BioSample": "SAMN16979893",
@@ -324,18 +507,31 @@
             "SRR": {
                 "SRR13181497": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952967",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61_Tumor"
         },
         "GSM4952968": {
             "BioSample": "SAMN16979891",
@@ -345,18 +541,31 @@
             "SRR": {
                 "SRR13181498": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "NSCLC juxta tissue",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "nsclc juxta tissue",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc juxta tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952968",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC juxta tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61_Juxta"
         },
         "GSM4952969": {
             "BioSample": "SAMN16979890",
@@ -366,18 +575,31 @@
             "SRR": {
                 "SRR13181499": {}
             },
-            "Sample_description": [
-                "5' RNA"
-            ],
+            "Sample_description": "5' RNA",
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "Blood sample",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "blood sample",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna",
+                "rna-seq"
+            ],
             "sample_id": "GSM4952969",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61_Blood"
         },
         "GSM4952970": {
             "BioSample": "SAMN16979784",
@@ -388,14 +610,27 @@
                 "SRR13181467": {}
             },
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "non smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952970",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P47 Tumor"
         },
         "GSM4952971": {
             "BioSample": "SAMN16979783",
@@ -406,14 +641,27 @@
                 "SRR13181468": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2b N0",
-                "tumor_type": "CE"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2b n0",
+                "tumor_type": "ce"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952971",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P55 Tumor"
         },
         "GSM4952972": {
             "BioSample": "SAMN16979782",
@@ -424,14 +672,27 @@
                 "SRR13181469": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT3 N0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt3 n0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952972",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P57 Tumor"
         },
         "GSM4952973": {
             "BioSample": "SAMN16979781",
@@ -442,14 +703,27 @@
                 "SRR13181470": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT3 N0",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt3 n0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952973",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P57 Blood"
         },
         "GSM4952974": {
             "BioSample": "SAMN16979780",
@@ -460,14 +734,27 @@
                 "SRR13181471": {}
             },
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT1cNO",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt1cno",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952974",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P58 Tumor"
         },
         "GSM4952975": {
             "BioSample": "SAMN16979779",
@@ -478,14 +765,27 @@
                 "SRR13181472": {}
             },
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT1cNO",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt1cno",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952975",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P58 Blood"
         },
         "GSM4952976": {
             "BioSample": "SAMN16979777",
@@ -496,14 +796,27 @@
                 "SRR13181473": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952976",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60 Tumor"
         },
         "GSM4952977": {
             "BioSample": "SAMN16979776",
@@ -514,14 +827,27 @@
                 "SRR13181474": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC juxta tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc juxta tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc juxta tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952977",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC juxta tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60 Juxta"
         },
         "GSM4952978": {
             "BioSample": "SAMN16979774",
@@ -532,14 +858,27 @@
                 "SRR13181475": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952978",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60 Blood"
         },
         "GSM4952979": {
             "BioSample": "SAMN16979773",
@@ -550,14 +889,27 @@
                 "SRR13181476": {}
             },
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952979",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61 Tumor"
         },
         "GSM4952980": {
             "BioSample": "SAMN16979802",
@@ -568,16 +920,63 @@
                 "SRR13181477": {}
             },
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "NSCLC juxta tissue",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "nsclc juxta tissue",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "nsclc juxta tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952980",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC juxta tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61 Juxta"
+        },
+        "GSM4952981": {
+            "BioSample": "SAMN16979801",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979801",
+            "SRA": "SRX9619524",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619524",
+            "SRR": {
+                "SRR13181478": {}
+            },
+            "characteristics": {
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "blood sample",
+                "tumor_stage": "na",
+                "tumor_type": "na"
+            },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
+            "sample_id": "GSM4952981",
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61 Blood"
         }
     },
-    "taxid": "9606",
+    "summary": "This SuperSeries is composed of the SubSeries listed below.",
+    "taxid": [
+        "9606"
+    ],
     "title": "Contribution of resident and circulating precursors to tumor-infiltrating CD8+ T cell populations in lung cancer"
 }

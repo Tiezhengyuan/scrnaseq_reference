@@ -4,6 +4,7 @@
         "35250976"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190510",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190510/soft/GSE190510_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL24676",
@@ -20,37 +21,70 @@
             "SRR": {
                 "SRR17173457": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/057/SRR17173457/SRR17173457_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/057/SRR17173457/SRR17173457_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/057/SRR17173457/SRR17173457_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/057/SRR17173457/SRR17173457_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173457_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173457_2.fastq.gz"
                     ]
                 },
                 "SRR17173458": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/058/SRR17173458/SRR17173458_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/058/SRR17173458/SRR17173458_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/058/SRR17173458/SRR17173458_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/058/SRR17173458/SRR17173458_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356880_SRR17173458_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356880_SRR17173458_2.fastq.gz"
                     ]
                 },
                 "SRR17173459": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/059/SRR17173459/SRR17173459_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/059/SRR17173459/SRR17173459_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/059/SRR17173459/SRR17173459_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/059/SRR17173459/SRR17173459_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173459_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173459_1.fastq.gz"
                     ]
                 },
                 "SRR17173460": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/060/SRR17173460/SRR17173460_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/060/SRR17173460/SRR17173460_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/060/SRR17173460/SRR17173460_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/060/SRR17173460/SRR17173460_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173460_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173460_2.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "44",
-                "disease_state": "Patient with ASS-ILD",
+                "disease_state": "patient with ass-ild",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "anti-synthetase syndrome-interstitial lung disease ",
+                "disease_state": "patient with ass-ild",
+                "group": "patient",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725044",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ASS-ILD1"
         },
         "GSM5725045": {
             "BioSample": "SAMN23798115",
@@ -60,37 +94,70 @@
             "SRR": {
                 "SRR17173453": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/053/SRR17173453/SRR17173453_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/053/SRR17173453/SRR17173453_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/053/SRR17173453/SRR17173453_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/053/SRR17173453/SRR17173453_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173453_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173453_1.fastq.gz"
                     ]
                 },
                 "SRR17173454": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/054/SRR17173454/SRR17173454_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/054/SRR17173454/SRR17173454_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/054/SRR17173454/SRR17173454_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/054/SRR17173454/SRR17173454_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356881_SRR17173454_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356881_SRR17173454_1.fastq.gz"
                     ]
                 },
                 "SRR17173455": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/055/SRR17173455/SRR17173455_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/055/SRR17173455/SRR17173455_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/055/SRR17173455/SRR17173455_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/055/SRR17173455/SRR17173455_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356881_SRR17173455_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356881_SRR17173455_1.fastq.gz"
                     ]
                 },
                 "SRR17173456": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/056/SRR17173456/SRR17173456_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/056/SRR17173456/SRR17173456_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/056/SRR17173456/SRR17173456_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/056/SRR17173456/SRR17173456_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173456_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173456_1.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "54",
-                "disease_state": "Patient with ASS-ILD",
+                "disease_state": "patient with ass-ild",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "anti-synthetase syndrome-interstitial lung disease ",
+                "disease_state": "patient with ass-ild",
+                "group": "patient",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725045",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ASS-ILD2"
         },
         "GSM5725046": {
             "BioSample": "SAMN23798114",
@@ -100,37 +167,70 @@
             "SRR": {
                 "SRR17173449": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/049/SRR17173449/SRR17173449_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/049/SRR17173449/SRR17173449_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/049/SRR17173449/SRR17173449_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/049/SRR17173449/SRR17173449_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173449_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173449_1.fastq.gz"
                     ]
                 },
                 "SRR17173450": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/050/SRR17173450/SRR17173450_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/050/SRR17173450/SRR17173450_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/050/SRR17173450/SRR17173450_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/050/SRR17173450/SRR17173450_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173450_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173450_2.fastq.gz"
                     ]
                 },
                 "SRR17173451": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/051/SRR17173451/SRR17173451_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/051/SRR17173451/SRR17173451_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/051/SRR17173451/SRR17173451_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/051/SRR17173451/SRR17173451_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173451_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173451_2.fastq.gz"
                     ]
                 },
                 "SRR17173452": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/052/SRR17173452/SRR17173452_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/052/SRR17173452/SRR17173452_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/052/SRR17173452/SRR17173452_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/052/SRR17173452/SRR17173452_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356882_SRR17173452_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356882_SRR17173452_1.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "56",
-                "disease_state": "Patient with ASS-ILD",
+                "disease_state": "patient with ass-ild",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "anti-synthetase syndrome-interstitial lung disease ",
+                "disease_state": "patient with ass-ild",
+                "group": "patient",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725046",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ASS-ILD3"
         },
         "GSM5725047": {
             "BioSample": "SAMN23798113",
@@ -140,37 +240,70 @@
             "SRR": {
                 "SRR17173445": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/045/SRR17173445/SRR17173445_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/045/SRR17173445/SRR17173445_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/045/SRR17173445/SRR17173445_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/045/SRR17173445/SRR17173445_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173445_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173445_1.fastq.gz"
                     ]
                 },
                 "SRR17173446": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/046/SRR17173446/SRR17173446_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/046/SRR17173446/SRR17173446_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/046/SRR17173446/SRR17173446_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/046/SRR17173446/SRR17173446_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356883_SRR17173446_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356883_SRR17173446_1.fastq.gz"
                     ]
                 },
                 "SRR17173447": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/047/SRR17173447/SRR17173447_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/047/SRR17173447/SRR17173447_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/047/SRR17173447/SRR17173447_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/047/SRR17173447/SRR17173447_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173447_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173447_1.fastq.gz"
                     ]
                 },
                 "SRR17173448": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/048/SRR17173448/SRR17173448_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/048/SRR17173448/SRR17173448_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/048/SRR17173448/SRR17173448_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/048/SRR17173448/SRR17173448_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173448_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173448_1.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "70",
-                "disease_state": "Patient with ASS-ILD",
+                "disease_state": "patient with ass-ild",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "anti-synthetase syndrome-interstitial lung disease ",
+                "disease_state": "patient with ass-ild",
+                "group": "patient",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725047",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ASS-ILD4"
         },
         "GSM5725048": {
             "BioSample": "SAMN23798112",
@@ -180,37 +313,70 @@
             "SRR": {
                 "SRR17173441": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/041/SRR17173441/SRR17173441_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/041/SRR17173441/SRR17173441_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/041/SRR17173441/SRR17173441_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/041/SRR17173441/SRR17173441_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356884_SRR17173441_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356884_SRR17173441_2.fastq.gz"
                     ]
                 },
                 "SRR17173442": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/042/SRR17173442/SRR17173442_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/042/SRR17173442/SRR17173442_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/042/SRR17173442/SRR17173442_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/042/SRR17173442/SRR17173442_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173442_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173442_2.fastq.gz"
                     ]
                 },
                 "SRR17173443": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/043/SRR17173443/SRR17173443_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/043/SRR17173443/SRR17173443_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/043/SRR17173443/SRR17173443_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/043/SRR17173443/SRR17173443_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356884_SRR17173443_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356884_SRR17173443_2.fastq.gz"
                     ]
                 },
                 "SRR17173444": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/044/SRR17173444/SRR17173444_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/044/SRR17173444/SRR17173444_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/044/SRR17173444/SRR17173444_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/044/SRR17173444/SRR17173444_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356884_SRR17173444_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356884_SRR17173444_1.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "57",
-                "disease_state": "Patient with ASS-ILD",
+                "disease_state": "patient with ass-ild",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "anti-synthetase syndrome-interstitial lung disease ",
+                "disease_state": "patient with ass-ild",
+                "group": "patient",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725048",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ASS-ILD5"
         },
         "GSM5725049": {
             "BioSample": "SAMN23798111",
@@ -220,37 +386,69 @@
             "SRR": {
                 "SRR17173437": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/037/SRR17173437/SRR17173437_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/037/SRR17173437/SRR17173437_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/037/SRR17173437/SRR17173437_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/037/SRR17173437/SRR17173437_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356885_SRR17173437_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356885_SRR17173437_2.fastq.gz"
                     ]
                 },
                 "SRR17173438": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/038/SRR17173438/SRR17173438_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/038/SRR17173438/SRR17173438_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/038/SRR17173438/SRR17173438_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/038/SRR17173438/SRR17173438_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356885_SRR17173438_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356885_SRR17173438_2.fastq.gz"
                     ]
                 },
                 "SRR17173439": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/039/SRR17173439/SRR17173439_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/039/SRR17173439/SRR17173439_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/039/SRR17173439/SRR17173439_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/039/SRR17173439/SRR17173439_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356885_SRR17173439_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356885_SRR17173439_2.fastq.gz"
                     ]
                 },
                 "SRR17173440": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/040/SRR17173440/SRR17173440_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/040/SRR17173440/SRR17173440_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/040/SRR17173440/SRR17173440_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/040/SRR17173440/SRR17173440_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173440_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173440_2.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "49",
-                "disease_state": "Health donors",
+                "disease_state": "health donors",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725049",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HD1"
         },
         "GSM5725050": {
             "BioSample": "SAMN23798110",
@@ -260,39 +458,146 @@
             "SRR": {
                 "SRR17173433": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/033/SRR17173433/SRR17173433_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/033/SRR17173433/SRR17173433_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/033/SRR17173433/SRR17173433_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/033/SRR17173433/SRR17173433_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356886_SRR17173433_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356886_SRR17173433_2.fastq.gz"
                     ]
                 },
                 "SRR17173434": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/034/SRR17173434/SRR17173434_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/034/SRR17173434/SRR17173434_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/034/SRR17173434/SRR17173434_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/034/SRR17173434/SRR17173434_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356886_SRR17173434_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356886_SRR17173434_2.fastq.gz"
                     ]
                 },
                 "SRR17173435": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/035/SRR17173435/SRR17173435_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/035/SRR17173435/SRR17173435_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/035/SRR17173435/SRR17173435_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/035/SRR17173435/SRR17173435_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356886_SRR17173435_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRX13356886_SRR17173435_1.fastq.gz"
                     ]
                 },
                 "SRR17173436": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/036/SRR17173436/SRR17173436_1.fastq.gz",
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR171/036/SRR17173436/SRR17173436_2.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/036/SRR17173436/SRR17173436_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/036/SRR17173436/SRR17173436_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173436_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173436_2.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
                 "age": "56",
-                "disease_state": "Health donors",
+                "disease_state": "health donors",
                 "sex": "female",
-                "tissue": "Peripheral blood mononuclear cell"
+                "tissue": "peripheral blood mononuclear cell"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
             "sample_id": "GSM5725050",
-            "scrnaseq": true
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HD2"
+        },
+        "GSM5725051": {
+            "BioSample": "SAMN23798109",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23798109",
+            "SRA": "SRX13356887",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13356887",
+            "SRR": {
+                "SRR17173429": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/029/SRR17173429/SRR17173429_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/029/SRR17173429/SRR17173429_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173429_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173429_2.fastq.gz"
+                    ]
+                },
+                "SRR17173430": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/030/SRR17173430/SRR17173430_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/030/SRR17173430/SRR17173430_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173430_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173430_1.fastq.gz"
+                    ]
+                },
+                "SRR17173431": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/031/SRR17173431/SRR17173431_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/031/SRR17173431/SRR17173431_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173431_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173431_1.fastq.gz"
+                    ]
+                },
+                "SRR17173432": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/032/SRR17173432/SRR17173432_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR171/032/SRR17173432/SRR17173432_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173432_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190510/fastq/SRR17173432_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "51",
+                "disease_state": "health donors",
+                "sex": "female",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "peripheral blood mononuclear cell"
+            },
+            "protocol": [
+                "scrna-seq",
+                "rna-seq",
+                "single cell",
+                "sequencing",
+                "rna"
+            ],
+            "sample_id": "GSM5725051",
+            "sample_source": [
+                "Peripheral blood mononuclear cell"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HD3"
         }
     },
-    "taxid": "9606",
+    "summary": "Objective: Interstitial lung diseases (ILDs) secondary to anti-synthetase syndrome (ASS) greatly influence the prognoses of patients with ASS. Here we aimed to investigate the peripheral immune responses to understand the pathogenesis of this condition. Methods: We performed single-cell RNA sequencing (scRNA-seq) of peripheral blood mononuclear cells (PBMCs) from 5 patients with ASS-ILD and 3 healthy donors (HDs). Flow cytometry of PBMCs was performed to replenish the results of scRNA-seq. Results: We used scRNA-seq to depict a high-resolution visualization of cellular landscape in PBMCs from patients with ASS-ILD. Patients showed upregulated interferon responses among all cell types. And the ratio of effector memory CD8 T cells to na\u00efve CD8 T cells was significantly higher than that in HDs. Additionally, Th1, Th2, and Th17 cell differentiation signaling pathways were enriched in T cells, and antigen processing and presentation was enhanced in NK cells. Flow cytometry analyses showed increased proportions of Th17 cells and Th2 cells, and decreased proportion of Th1 cells in patients with ASS-ILD when compared with HDs. Conclusions: Our study reveals that ASS-ILD is characterized by upregulated interferon responses, altered CD8 T cell homeostasis, involvement of differentiation signaling pathways of CD4 T cells, and enhanced antigen processing and presentation ability in NK cells by scRNA-seq data. And the proportions of Th17 cells and Th2 cells are higher in patients with ASS-ILD than those in HDs using flow cytometry, while the proportion of Th1 cells is lower. These findings may provide foundations of novel therapeutic targets for patients with this condition.",
+    "taxid": [
+        "9606"
+    ],
     "title": "Single-cell transcriptomics reveals peripheral immune responses in anti-synthetase syndrome-associated interstitial lung disease"
 }

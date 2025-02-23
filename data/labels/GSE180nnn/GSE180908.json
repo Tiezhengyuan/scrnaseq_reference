@@ -4,6 +4,7 @@
         "35421379"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180908",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE180nnn/GSE180908/soft/GSE180908_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL30440",
@@ -20,24 +21,39 @@
             "SRR": {
                 "SRR15264217": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/017/SRR15264217/SRR15264217.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/017/SRR15264217/SRR15264217.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264217.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample01"
-            ],
+            "Sample_description": "sample01",
             "characteristics": {
-                "group": "Naive",
+                "group": "naive",
                 "harvest_dpi": "0",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "0.00E+00",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "0.00e+00",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "None"
+                "xenograft_pair": "none"
             },
+            "labels": {
+                "group": "naive",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474858",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse302-graftR1-naive"
         },
         "GSM5474859": {
             "BioSample": "SAMN20434240",
@@ -47,24 +63,39 @@
             "SRR": {
                 "SRR15264218": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/018/SRR15264218/SRR15264218.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/018/SRR15264218/SRR15264218.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264218.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample02"
-            ],
+            "Sample_description": "sample02",
             "characteristics": {
-                "group": "Naive",
+                "group": "naive",
                 "harvest_dpi": "0",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "0.00E+00",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "0.00e+00",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "None"
+                "xenograft_pair": "none"
             },
+            "labels": {
+                "group": "naive",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474859",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse302-graftR2-naive"
         },
         "GSM5474860": {
             "BioSample": "SAMN20434241",
@@ -74,24 +105,39 @@
             "SRR": {
                 "SRR15264219": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/019/SRR15264219/SRR15264219.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/019/SRR15264219/SRR15264219.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264219.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample03"
-            ],
+            "Sample_description": "sample03",
             "characteristics": {
-                "group": "Naive",
+                "group": "naive",
                 "harvest_dpi": "0",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "0.00E+00",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "0.00e+00",
                 "xenograft_donor_id": "6538",
-                "xenograft_pair": "None"
+                "xenograft_pair": "none"
             },
+            "labels": {
+                "group": "naive",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474860",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse713-graftR1-naive"
         },
         "GSM5474861": {
             "BioSample": "SAMN20434242",
@@ -101,24 +147,39 @@
             "SRR": {
                 "SRR15264220": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/020/SRR15264220/SRR15264220.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/020/SRR15264220/SRR15264220.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264220.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample04"
-            ],
+            "Sample_description": "sample04",
             "characteristics": {
-                "group": "Naive",
+                "group": "naive",
                 "harvest_dpi": "0",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "0.00E+00",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "0.00e+00",
                 "xenograft_donor_id": "6538",
-                "xenograft_pair": "None"
+                "xenograft_pair": "none"
             },
+            "labels": {
+                "group": "naive",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474861",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse713-graftR2-naive"
         },
         "GSM5474862": {
             "BioSample": "SAMN20434243",
@@ -128,24 +189,39 @@
             "SRR": {
                 "SRR15264221": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/021/SRR15264221/SRR15264221.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/021/SRR15264221/SRR15264221.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264221.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample05"
-            ],
+            "Sample_description": "sample05",
             "characteristics": {
-                "group": "Naive",
+                "group": "naive",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "1.77E+04",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "1.77e+04",
                 "xenograft_donor_id": "6497",
-                "xenograft_pair": "None"
+                "xenograft_pair": "none"
             },
+            "labels": {
+                "group": "naive",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474862",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse654-graftL-pbs"
         },
         "GSM5474863": {
             "BioSample": "SAMN20434244",
@@ -155,25 +231,40 @@
             "SRR": {
                 "SRR15264222": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/022/SRR15264222/SRR15264222.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/022/SRR15264222/SRR15264222.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264222.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample06"
-            ],
+            "Sample_description": "sample06",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "2DPI",
+                "agent": "sars-cov-2",
+                "group": "2dpi",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "++",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "2.36E+08",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "2.36e+08",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Single"
+                "xenograft_pair": "single"
             },
+            "labels": {
+                "group": "2dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474863",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse061-graftR-dpi2"
         },
         "GSM5474864": {
             "BioSample": "SAMN20434245",
@@ -183,26 +274,40 @@
             "SRR": {
                 "SRR15264223": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/023/SRR15264223/SRR15264223.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/023/SRR15264223/SRR15264223.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264223.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "Severe coagulative necrosis attributed to thrombosis of large vessels",
-                "sample07"
-            ],
+            "Sample_description": "Severe coagulative necrosis attributed to thrombosis of large vessels sample07",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "2DPI",
+                "agent": "sars-cov-2",
+                "group": "2dpi",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "++",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "1.01E+09",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "1.01e+09",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "Discordant"
+                "xenograft_pair": "discordant"
             },
+            "labels": {
+                "group": "2dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474864",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse059-graftR-dpi2"
         },
         "GSM5474865": {
             "BioSample": "SAMN20434246",
@@ -212,25 +317,40 @@
             "SRR": {
                 "SRR15264224": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/024/SRR15264224/SRR15264224.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/024/SRR15264224/SRR15264224.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264224.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample08"
-            ],
+            "Sample_description": "sample08",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "2DPI",
+                "agent": "sars-cov-2",
+                "group": "2dpi",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "++",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "1.30E+09",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "1.30e+09",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Discordant"
+                "xenograft_pair": "discordant"
             },
+            "labels": {
+                "group": "2dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474865",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse062-graftL-dpi2"
         },
         "GSM5474866": {
             "BioSample": "SAMN20434350",
@@ -240,25 +360,40 @@
             "SRR": {
                 "SRR15264225": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/025/SRR15264225/SRR15264225.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/025/SRR15264225/SRR15264225.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264225.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample09"
-            ],
+            "Sample_description": "sample09",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "2DPI",
+                "agent": "sars-cov-2",
+                "group": "2dpi",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "+++",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "8.30E+07",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "8.30e+07",
                 "xenograft_donor_id": "6538",
-                "xenograft_pair": "Discordant"
+                "xenograft_pair": "discordant"
             },
+            "labels": {
+                "group": "2dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474866",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse514-graftR-dpi2"
         },
         "GSM5474867": {
             "BioSample": "SAMN20434351",
@@ -268,26 +403,40 @@
             "SRR": {
                 "SRR15264226": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/026/SRR15264226/SRR15264226.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/026/SRR15264226/SRR15264226.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264226.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "Severe edema and fibrin thrombosis",
-                "sample10"
-            ],
+            "Sample_description": "Severe edema and fibrin thrombosis sample10",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "4.38E+07",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "4.38e+07",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Paired"
+                "xenograft_pair": "paired"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474867",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse052-graftL-dpi7"
         },
         "GSM5474868": {
             "BioSample": "SAMN20434352",
@@ -297,26 +446,40 @@
             "SRR": {
                 "SRR15264227": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/027/SRR15264227/SRR15264227.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/027/SRR15264227/SRR15264227.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264227.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "Severe edema and fibrin thrombosis",
-                "sample11"
-            ],
+            "Sample_description": "Severe edema and fibrin thrombosis sample11",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "4.38E+07",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "4.38e+07",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Paired"
+                "xenograft_pair": "paired"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474868",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse052-graftR-dpi7"
         },
         "GSM5474869": {
             "BioSample": "SAMN20434353",
@@ -326,26 +489,40 @@
             "SRR": {
                 "SRR15264228": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/028/SRR15264228/SRR15264228.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/028/SRR15264228/SRR15264228.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264228.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "Severe coagulative necrosis attributed to thrombosis of large vessels",
-                "sample12"
-            ],
+            "Sample_description": "Severe coagulative necrosis attributed to thrombosis of large vessels sample12",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "++",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "8.53E+07",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "8.53e+07",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Paired"
+                "xenograft_pair": "paired"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474869",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse054-graftL-dpi7"
         },
         "GSM5474870": {
             "BioSample": "SAMN20434354",
@@ -355,26 +532,40 @@
             "SRR": {
                 "SRR15264229": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/029/SRR15264229/SRR15264229.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/029/SRR15264229/SRR15264229.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264229.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "Severe coagulative necrosis attributed to thrombosis of large vessels",
-                "sample13"
-            ],
+            "Sample_description": "Severe coagulative necrosis attributed to thrombosis of large vessels sample13",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+++",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "2.58E+08",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "2.58e+08",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "Paired"
+                "xenograft_pair": "paired"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474870",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse054-graftR-dpi7"
         },
         "GSM5474871": {
             "BioSample": "SAMN20434355",
@@ -384,26 +575,40 @@
             "SRR": {
                 "SRR15264230": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/030/SRR15264230/SRR15264230.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/030/SRR15264230/SRR15264230.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264230.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung",
-                "sample14"
-            ],
+            "Sample_description": "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung sample14",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "1.07E+08",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "1.07e+08",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Paired"
+                "xenograft_pair": "paired"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474871",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse042-graftR-dpi7"
         },
         "GSM5474872": {
             "BioSample": "SAMN20434356",
@@ -413,26 +618,40 @@
             "SRR": {
                 "SRR15264231": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/031/SRR15264231/SRR15264231.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/031/SRR15264231/SRR15264231.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264231.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung",
-                "sample15"
-            ],
+            "Sample_description": "IHC-rare individual epithelial cells in both; thrombosis on periphery  lung sample15",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "1.54E+06",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "1.54e+06",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "Paired"
+                "xenograft_pair": "paired"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474872",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse042-graftL-dpi7"
         },
         "GSM5474873": {
             "BioSample": "SAMN20434357",
@@ -442,26 +661,40 @@
             "SRR": {
                 "SRR15264232": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/032/SRR15264232/SRR15264232.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/032/SRR15264232/SRR15264232.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264232.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "focal area of immunoreactivity; thrombosis with inflammation and hemorrhage",
-                "sample16"
-            ],
+            "Sample_description": "focal area of immunoreactivity; thrombosis with inflammation and hemorrhage sample16",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "1.05E+08",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "1.05e+08",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "Single"
+                "xenograft_pair": "single"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474873",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse063-graftR-dpi7"
         },
         "GSM5474874": {
             "BioSample": "SAMN20434358",
@@ -471,26 +704,40 @@
             "SRR": {
                 "SRR15264233": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/033/SRR15264233/SRR15264233.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/033/SRR15264233/SRR15264233.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264233.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "Rare pneumocyte; mild rare thromobisis edema hemorrhage and inflammation",
-                "sample17"
-            ],
+            "Sample_description": "Rare pneumocyte; mild rare thromobisis edema hemorrhage and inflammation sample17",
             "characteristics": {
-                "agent": "SARS-CoV-2",
-                "group": "7DPI",
+                "agent": "sars-cov-2",
+                "group": "7dpi",
                 "harvest_dpi": "7",
                 "sars-cov-2_ihc": "+",
-                "sars-cov-2_innoculation_dose": "1x10^6 PFU",
-                "viral_copies/mg_tissue": "8.46E+06",
+                "sars-cov-2_innoculation_dose": "1x10^6 pfu",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "8.46e+06",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "Single"
+                "xenograft_pair": "single"
             },
+            "labels": {
+                "group": "7dpi",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474874",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse316-graftR-dpi7"
         },
         "GSM5474875": {
             "BioSample": "SAMN20434359",
@@ -500,24 +747,39 @@
             "SRR": {
                 "SRR15264234": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/034/SRR15264234/SRR15264234.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/034/SRR15264234/SRR15264234.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264234.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample18"
-            ],
+            "Sample_description": "sample18",
             "characteristics": {
-                "group": "Contralateral",
+                "group": "contralateral",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "6.64E+05",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "6.64e+05",
                 "xenograft_donor_id": "6522",
-                "xenograft_pair": "Discordant"
+                "xenograft_pair": "discordant"
             },
+            "labels": {
+                "group": "contralateral",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474875",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse059-graftL-contralateral"
         },
         "GSM5474876": {
             "BioSample": "SAMN20434360",
@@ -527,26 +789,87 @@
             "SRR": {
                 "SRR15264235": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR152/035/SRR15264235/SRR15264235.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/035/SRR15264235/SRR15264235.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264235.fastq.gz"
                     ]
                 }
             },
-            "Sample_description": [
-                "sample19"
-            ],
+            "Sample_description": "sample19",
             "characteristics": {
-                "group": "Contralateral",
+                "group": "contralateral",
                 "harvest_dpi": "2",
                 "sars-cov-2_ihc": "-",
-                "sars-cov-2_innoculation_dose": "None",
-                "viral_copies/mg_tissue": "9.24E+05",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "9.24e+05",
                 "xenograft_donor_id": "6588",
-                "xenograft_pair": "Discordant"
+                "xenograft_pair": "discordant"
             },
+            "labels": {
+                "group": "contralateral",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
             "sample_id": "GSM5474876",
-            "scrnaseq": false
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse062-graftR-contralateral"
+        },
+        "GSM5474877": {
+            "BioSample": "SAMN20434361",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20434361",
+            "SRA": "SRX11569497",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11569497",
+            "SRR": {
+                "SRR15264236": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR152/036/SRR15264236/SRR15264236.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180908/fastq/SRR15264236.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "sample20",
+            "characteristics": {
+                "group": "contralateral",
+                "harvest_dpi": "2",
+                "sars-cov-2_ihc": "-",
+                "sars-cov-2_innoculation_dose": "none",
+                "tissue": "fetal lung xenograft",
+                "viral_copies/mg_tissue": "0.00e+00",
+                "xenograft_donor_id": "6538",
+                "xenograft_pair": "discordant"
+            },
+            "labels": {
+                "group": "contralateral",
+                "tissue": "fetal lung xenograft"
+            },
+            "protocol": [
+                "sequencing",
+                "rna",
+                "total rna"
+            ],
+            "sample_id": "GSM5474877",
+            "sample_source": [
+                "Fetal lung xenograft"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "mouse514-graftL-contralateral"
         }
     },
-    "taxid": "9606",
+    "summary": "The majority of SARS-CoV-2 infections among healthy individuals result in asymptomatic to mild disease. However, the immunological mechanisms defining effective lung tissue protection from SARS-CoV-2 infection remain elusive. Unlike mice solely engrafted with human fetal lung xenograft (fLX), mice co-engrafted with fLX and a myeloid-enhanced human immune system (HNFL mice) are resistant to SARS-CoV-2 infection, severe inflammation, and histopathology. Effective control of viral infection in HNFL mice associated with significant macrophage infiltration, and the induction of a potent macrophage-mediated interferon response. The strong upregulation of the USP18-ISG15 axis, a negative regulator of IFN responses, by macrophages was unique to HNFL mice and represented a prominent correlate of reduced inflammation and histopathology. Altogether, our work shed lights on unique cellular and molecular correlate of lung tissue protection during SARS-CoV-2 infection, and underscores macrophage IFN responses as prime targets for developing immunotherapies against coronavirus respiratory diseases.",
+    "taxid": [
+        "9606",
+        "10090"
+    ],
     "title": "Macrophages govern antiviral responses in human lung tissues protected from SARS-CoV-2 infection"
 }

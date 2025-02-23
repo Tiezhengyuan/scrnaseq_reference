@@ -4,6 +4,7 @@
         "32317643"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147066",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE147nnn/GSE147066/soft/GSE147066_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20301",
@@ -18,11 +19,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "32",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414021",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "133C"
         },
         "GSM4414022": {
             "BioSample": "SAMN14384624",
@@ -30,11 +41,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "21",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414022",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "1372C"
         },
         "GSM4414023": {
             "BioSample": "SAMN14384635",
@@ -42,11 +63,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "49",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414023",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "034C"
         },
         "GSM4414024": {
             "BioSample": "SAMN14384634",
@@ -54,11 +85,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "29",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414024",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "218C"
         },
         "GSM4414025": {
             "BioSample": "SAMN14384633",
@@ -66,11 +107,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "32",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414025",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "226C"
         },
         "GSM4414026": {
             "BioSample": "SAMN14384632",
@@ -78,11 +129,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "50",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414026",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "244C"
         },
         "GSM4414027": {
             "BioSample": "SAMN14384631",
@@ -90,11 +151,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "41",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414027",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "098C"
         },
         "GSM4414028": {
             "BioSample": "SAMN14384630",
@@ -102,11 +173,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "56",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414028",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "465C"
         },
         "GSM4414029": {
             "BioSample": "SAMN14384629",
@@ -114,11 +195,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "37",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414029",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "396C"
         },
         "GSM4414030": {
             "BioSample": "SAMN14384628",
@@ -126,11 +217,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "80",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414030",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "296C"
         },
         "GSM4414031": {
             "BioSample": "SAMN14384627",
@@ -138,11 +239,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "23",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414031",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "208C"
         },
         "GSM4414032": {
             "BioSample": "SAMN14384626",
@@ -150,11 +261,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "65",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414032",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "222C"
         },
         "GSM4414033": {
             "BioSample": "SAMN14384625",
@@ -162,11 +283,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "64",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414033",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "160C"
         },
         "GSM4414034": {
             "BioSample": "SAMN14384659",
@@ -174,11 +305,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414034",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "439C"
         },
         "GSM4414035": {
             "BioSample": "SAMN14384658",
@@ -186,11 +327,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414035",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "065C"
         },
         "GSM4414036": {
             "BioSample": "SAMN14384657",
@@ -198,11 +349,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "61",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414036",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "388C"
         },
         "GSM4414037": {
             "BioSample": "SAMN14384656",
@@ -210,11 +371,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "62",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414037",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "192C"
         },
         "GSM4414038": {
             "BioSample": "SAMN14384653",
@@ -222,11 +393,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "35",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414038",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "483C"
         },
         "GSM4414039": {
             "BioSample": "SAMN14384655",
@@ -234,11 +415,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "22",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414039",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "001C"
         },
         "GSM4414040": {
             "BioSample": "SAMN14384654",
@@ -246,11 +437,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414040",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "003C"
         },
         "GSM4414041": {
             "BioSample": "SAMN14384652",
@@ -258,11 +459,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "48",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414041",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "454C"
         },
         "GSM4414042": {
             "BioSample": "SAMN14389236",
@@ -270,11 +481,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "disease_state": "Control",
-                "sex": "F"
+                "disease": "control",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414042",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "253C"
         },
         "GSM4414043": {
             "BioSample": "SAMN14384650",
@@ -282,11 +503,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "31",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414043",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "484C"
         },
         "GSM4414044": {
             "BioSample": "SAMN14384649",
@@ -294,11 +525,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "20",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414044",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "081C"
         },
         "GSM4414045": {
             "BioSample": "SAMN14384648",
@@ -306,11 +547,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "54",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414045",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "137C"
         },
         "GSM4414046": {
             "BioSample": "SAMN14384647",
@@ -318,11 +569,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "46",
-                "disease_state": "Control",
-                "sex": "M"
+                "disease": "control",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "control",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414046",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "084C"
         },
         "GSM4414047": {
             "BioSample": "SAMN14384646",
@@ -330,11 +591,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "68",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414047",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "210I"
         },
         "GSM4414048": {
             "BioSample": "SAMN14384645",
@@ -342,11 +613,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "59",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414048",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "135I"
         },
         "GSM4414049": {
             "BioSample": "SAMN14384644",
@@ -354,11 +635,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "56",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414049",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "138I"
         },
         "GSM4414050": {
             "BioSample": "SAMN14384643",
@@ -366,11 +657,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414050",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "145I"
         },
         "GSM4414051": {
             "BioSample": "SAMN14384642",
@@ -378,11 +679,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "disease_state": "IPF",
-                "sex": "F"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414051",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "157I"
         },
         "GSM4414052": {
             "BioSample": "SAMN14384641",
@@ -390,11 +701,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "63",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414052",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "166I"
         },
         "GSM4414053": {
             "BioSample": "SAMN14384640",
@@ -402,11 +723,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "F"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414053",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "174I"
         },
         "GSM4414054": {
             "BioSample": "SAMN14384639",
@@ -414,11 +745,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "70",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414054",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "179I"
         },
         "GSM4414055": {
             "BioSample": "SAMN14384638",
@@ -426,11 +767,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "65",
-                "disease_state": "IPF",
-                "sex": "F"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414055",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "209I"
         },
         "GSM4414056": {
             "BioSample": "SAMN14384637",
@@ -438,11 +789,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "71",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414056",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "212I"
         },
         "GSM4414057": {
             "BioSample": "SAMN14384682",
@@ -450,11 +811,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "69",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414057",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "214I"
         },
         "GSM4414058": {
             "BioSample": "SAMN14384681",
@@ -462,11 +833,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "F"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414058",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "221I"
         },
         "GSM4414059": {
             "BioSample": "SAMN14384680",
@@ -474,11 +855,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "59",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414059",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "222I"
         },
         "GSM4414060": {
             "BioSample": "SAMN14384679",
@@ -486,11 +877,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "70",
-                "disease_state": "IPF",
-                "sex": "F"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414060",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "225I"
         },
         "GSM4414061": {
             "BioSample": "SAMN14384678",
@@ -498,11 +899,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "56",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414061",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "228I"
         },
         "GSM4414062": {
             "BioSample": "SAMN14384677",
@@ -510,11 +921,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "61",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414062",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "29I"
         },
         "GSM4414063": {
             "BioSample": "SAMN14384676",
@@ -522,11 +943,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "62",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414063",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "051I"
         },
         "GSM4414064": {
             "BioSample": "SAMN14384675",
@@ -534,11 +965,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "65",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414064",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "025I"
         },
         "GSM4414065": {
             "BioSample": "SAMN14384674",
@@ -546,11 +987,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "78",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414065",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "010I"
         },
         "GSM4414066": {
             "BioSample": "SAMN14384673",
@@ -558,11 +1009,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "69",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414066",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "021I"
         },
         "GSM4414067": {
             "BioSample": "SAMN14384672",
@@ -570,11 +1031,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "67",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414067",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "022I"
         },
         "GSM4414068": {
             "BioSample": "SAMN14384671",
@@ -582,11 +1053,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "59",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414068",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "041I"
         },
         "GSM4414069": {
             "BioSample": "SAMN14384670",
@@ -594,11 +1075,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "70",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414069",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "040I"
         },
         "GSM4414070": {
             "BioSample": "SAMN14384668",
@@ -606,11 +1097,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "64",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414070",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "47I"
         },
         "GSM4414071": {
             "BioSample": "SAMN14384664",
@@ -618,11 +1119,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414071",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "49I"
         },
         "GSM4414072": {
             "BioSample": "SAMN14384665",
@@ -630,11 +1141,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "60",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414072",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "053I"
         },
         "GSM4414073": {
             "BioSample": "SAMN14384663",
@@ -642,11 +1163,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "66",
-                "disease_state": "IPF",
-                "sex": "F"
+                "disease": "ipf",
+                "sex": "f",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414073",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "59I"
         },
         "GSM4414074": {
             "BioSample": "SAMN14384660",
@@ -654,11 +1185,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "68",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414074",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "063I"
         },
         "GSM4414075": {
             "BioSample": "SAMN14384661",
@@ -666,11 +1207,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "54",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414075",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "034I"
         },
         "GSM4414076": {
             "BioSample": "SAMN14384685",
@@ -678,11 +1229,21 @@
             "SRR": {},
             "characteristics": {
                 "age": "74",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414076",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "123I"
         },
         "GSM4414077": {
             "BioSample": "SAMN14384684",
@@ -690,13 +1251,48 @@
             "SRR": {},
             "characteristics": {
                 "age": "68",
-                "disease_state": "IPF",
-                "sex": "M"
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
             "sample_id": "GSM4414077",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "158I"
+        },
+        "GSM4414078": {
+            "BioSample": "SAMN14384683",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14384683",
+            "SRR": {},
+            "characteristics": {
+                "age": "69",
+                "disease": "ipf",
+                "sex": "m",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "whole lung dissociate; collagen expressing mesenchymal cells only"
+            },
+            "protocol": [],
+            "sample_id": "GSM4414078",
+            "sample_source": [
+                "Whole Lung Dissociate; Collagen expressing mesenchymal cells only"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "177I"
         }
     },
-    "taxid": "9606",
+    "summary": "Single Cell RNAseq of lung mesenchymal cells in fibrotic and control lung",
+    "taxid": [
+        "9606"
+    ],
     "title": "Mesenchyme Subset from IPF Cell Atlas"
 }

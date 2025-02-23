@@ -1,0 +1,3091 @@
+{
+    "lung": {
+        "GSE132771": {
+            "SRX6073187": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304758.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073187_SRR9304758"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304759.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073187_SRR9304759"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073188": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304760.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073188_SRR9304760"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304761.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073188_SRR9304761"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073189": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304762.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073189_SRR9304762"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304763.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073189_SRR9304763"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073190": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304764.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073190_SRR9304764"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304765.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073190_SRR9304765"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073191": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073191_SRR9304766.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073191_SRR9304766"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304767.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073191_SRR9304767"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304768.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073191_SRR9304768"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073191_SRR9304769.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073191_SRR9304769"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073192": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073192_SRR9304770.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073192_SRR9304770"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304771.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073192_SRR9304771"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304772.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073192_SRR9304772"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304773.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073192_SRR9304773"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073193": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304774.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073193_SRR9304774"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304775.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073193_SRR9304775"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304776.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073193_SRR9304776"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304777.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073193_SRR9304777"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073194": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304778.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073194_SRR9304778"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304779.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073194_SRR9304779"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304780.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073194_SRR9304780"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304781.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073194_SRR9304781"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073195": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304782.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073195_SRR9304782"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304783.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073195_SRR9304783"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073196": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304784.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073196_SRR9304784"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073196_SRR9304785.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073196_SRR9304785"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073197": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304786.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073197_SRR9304786"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304787.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073197_SRR9304787"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073197_SRR9304788.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073197_SRR9304788"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304789.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073197_SRR9304789"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073198": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "idiopathic pulmonary fibrosis (ipf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304790.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073198_SRR9304790"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073198_SRR9304791.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073198_SRR9304791"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073198_SRR9304792.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073198_SRR9304792"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304793.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073198_SRR9304793"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073199": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304794.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073199_SRR9304794"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304795.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073199_SRR9304795"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304796.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073199_SRR9304796"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304797.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073199_SRR9304797"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073200": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304798.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073200_SRR9304798"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304799.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073200_SRR9304799"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304800.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073200_SRR9304800"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304801.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073200_SRR9304801"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073201": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304802.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073201_SRR9304802"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073201_SRR9304803.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073201_SRR9304803"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304804.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073201_SRR9304804"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073201_SRR9304805.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073201_SRR9304805"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX6073202": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "scleroderma",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304806.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073202_SRR9304806"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304807.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073202_SRR9304807"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304808.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073202_SRR9304808"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304809.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX6073202_SRR9304809"
+                    }
+                ],
+                "tissue": "lung"
+            }
+        },
+        "GSE145926": {
+            "SRX7802546": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "mild",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181954_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181954_2.fastq.gz",
+                        "sample": "SRX7802546_SRR11181954"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX7802547": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "mild",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181955_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181955_2.fastq.gz",
+                        "sample": "SRX7802547_SRR11181955"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX7802548": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "severe",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181956_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181956_2.fastq.gz",
+                        "sample": "SRX7802548_SRR11181956"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX7802549": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "mild",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181957_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181957_2.fastq.gz",
+                        "sample": "SRX7802549_SRR11181957"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX7802550": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "severe",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181958_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181958_2.fastq.gz",
+                        "sample": "SRX7802550_SRR11181958"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX7802551": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "severe",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11181959_1.fastq.gz",
+                        "fastq_2": "",
+                        "sample": "SRX7802551_SRR11181959"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX8108996": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "severe",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11537950_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11537950_2.fastq.gz",
+                        "sample": "SRX8108996_SRR11537950"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX8108997": {
+                "cell_type": "total cell",
+                "disease": "covid-19 infection",
+                "disease_state": "severe",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11537951_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE145926/fastq/SRR11537951_2.fastq.gz",
+                        "sample": "SRX8108997_SRR11537951"
+                    }
+                ],
+                "tissue": "lung"
+            }
+        },
+        "GSE166037": {
+            "SRX10008475": {
+                "cell_type": "epcam+",
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615078_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615078_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615078"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615079_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615079_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615079"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615080_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615080_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615080"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615081_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615081_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615081"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX10008476": {
+                "cell_type": "cd90+",
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615082_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615082_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615082"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615083_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615083_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615083"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615084_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615084_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615084"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615085_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615085_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615085"
+                    }
+                ],
+                "tissue": "lung"
+            }
+        },
+        "GSE166059": {
+            "SRX10008475": {
+                "cell_type": "epcam+",
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615078_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615078_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615078"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615079_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615079_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615079"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615080_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615080_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615080"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615081_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615081_2.fastq.gz",
+                        "sample": "SRX10008475_SRR13615081"
+                    }
+                ],
+                "tissue": "lung"
+            },
+            "SRX10008476": {
+                "cell_type": "cd90+",
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615082_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615082_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615082"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615083_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615083_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615083"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615085_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615085_2.fastq.gz",
+                        "sample": "SRX10008476_SRR13615085"
+                    }
+                ],
+                "tissue": "lung"
+            }
+        }
+    },
+    "lung biopsy": {
+        "GSE135893": {
+            "SRX6726365": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985297_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985297_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985297"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985298_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985298_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985298"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985299_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985299_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985299"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985300_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985300_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985300"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985301_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985301_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985301"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985302_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985302_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985302"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985303_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985303_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985303"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985304_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985304_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985304"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985305_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985305_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985305"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985306_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985306_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985306"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985307_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985307_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985307"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985308_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985308_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985308"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985309_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985309_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985309"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985310_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985310_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985310"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985311_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985311_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985311"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985312_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985312_2.fastq.gz",
+                        "sample": "SRX6726365_SRR9985312"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726366": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985313_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985313_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985313"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985314_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985314_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985314"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985315_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985315_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985315"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985316_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985316_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985316"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985317_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985317_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985317"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985318_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985318_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985318"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985319_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985319_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985319"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985320_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985320_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985320"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985321_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985321_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985321"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985322_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985322_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985322"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985323_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985323_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985323"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985324_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985324_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985324"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985325_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985325_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985325"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985326_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985326_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985326"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985327_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985327_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985327"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985328_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985328_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985328"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985329_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985329_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985329"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985330_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985330_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985330"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985331_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985331_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985331"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985332_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985332_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985332"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985333_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985333_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985333"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985334_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985334_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985334"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985335_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985335_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985335"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985336_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985336_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985336"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985337_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985337_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985337"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985338_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985338_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985338"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985339_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985339_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985339"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985340_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985340_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985340"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985341_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985341_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985341"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985342_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985342_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985342"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985343_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985343_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985343"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985344_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985344_2.fastq.gz",
+                        "sample": "SRX6726366_SRR9985344"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726367": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985345_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985345_2.fastq.gz",
+                        "sample": "SRX6726367_SRR9985345"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726368": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985346_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985346_2.fastq.gz",
+                        "sample": "SRX6726368_SRR9985346"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726369": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985347_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985347_2.fastq.gz",
+                        "sample": "SRX6726369_SRR9985347"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726370": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368214_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368214_2.fastq.gz",
+                        "sample": "SRX6726370_SRR10368214"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985349_1.fastq.gz,/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985349.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985349_2.fastq.gz",
+                        "sample": "SRX6726370_SRR9985349"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726371": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985350_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985350_2.fastq.gz",
+                        "sample": "SRX6726371_SRR9985350"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726372": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985351_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985351_2.fastq.gz",
+                        "sample": "SRX6726372_SRR9985351"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726373": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985352_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985352_2.fastq.gz",
+                        "sample": "SRX6726373_SRR9985352"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726374": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985353_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985353_2.fastq.gz",
+                        "sample": "SRX6726374_SRR9985353"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726375": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985354_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985354_2.fastq.gz",
+                        "sample": "SRX6726375_SRR9985354"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726376": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985355_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985355_2.fastq.gz",
+                        "sample": "SRX6726376_SRR9985355"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726377": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985356_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985356_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985356"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985357_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985357_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985357"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985358_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985358_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985358"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985359_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985359_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985359"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985360_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985360_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985360"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985361_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985361_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985361"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985362_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985362_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985362"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985363_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985363_2.fastq.gz",
+                        "sample": "SRX6726377_SRR9985363"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726378": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985364_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985364_2.fastq.gz",
+                        "sample": "SRX6726378_SRR9985364"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726379": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985365_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985365_2.fastq.gz",
+                        "sample": "SRX6726379_SRR9985365"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726380": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985366_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985366_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985366"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985367_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985367_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985367"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985368_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985368_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985368"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985369_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985369_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985369"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985370_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985370_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985370"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985371_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985371_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985371"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985372_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985372_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985372"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985373_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726380_SRR9985373_2.fastq.gz",
+                        "sample": "SRX6726380_SRR9985373"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726381": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985374_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985374_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985374"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726381_SRR9985375_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726381_SRR9985375_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985375"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985376_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985376_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985376"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985377_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985377_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985377"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985378_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985378_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985378"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985379_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985379_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985379"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985380_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985380_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985380"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985381_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985381_2.fastq.gz",
+                        "sample": "SRX6726381_SRR9985381"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726382": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985382_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985382_2.fastq.gz",
+                        "sample": "SRX6726382_SRR9985382"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726383": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985383_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985383_2.fastq.gz",
+                        "sample": "SRX6726383_SRR9985383"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726384": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368215_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368215_2.fastq.gz",
+                        "sample": "SRX6726384_SRR10368215"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726385": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985385_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985385_2.fastq.gz",
+                        "sample": "SRX6726385_SRR9985385"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726386": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985386_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985386_2.fastq.gz",
+                        "sample": "SRX6726386_SRR9985386"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726387": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985387_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985387_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985387"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985388_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985388_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985388"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985389_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985389_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985389"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985390_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985390_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985390"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985391_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985391_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985391"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985392_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985392_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985392"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985396_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985396_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985396"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985397_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985397_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985397"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985398_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985398_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985398"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985399_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985399_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985399"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985400_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985400_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985400"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985401_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985401_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985401"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985402_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985402_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985402"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985403_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985403_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985403"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985404_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985404_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985404"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985405_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726387_SRR9985405_2.fastq.gz",
+                        "sample": "SRX6726387_SRR9985405"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726388": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985406_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985406_2.fastq.gz",
+                        "sample": "SRX6726388_SRR9985406"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726389": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985407_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985407_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985407"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985408_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985408_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985408"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985409_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985409_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985409"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985410_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985410_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985410"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985411_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985411_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985411"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985412_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985412_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985412"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985413_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985413_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985413"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985414_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985414_2.fastq.gz",
+                        "sample": "SRX6726389_SRR9985414"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726390": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985415_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985415_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985415"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985416_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985416_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985416"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985417_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985417_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985417"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985418_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985418_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985418"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985419_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985419_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985419"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985420_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985420_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985420"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985421_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985421_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985421"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985422_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985422_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985422"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985423_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985423_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985423"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985424_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985424_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985424"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985425_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985425_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985425"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985426_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985426_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985426"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985427_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985427_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985427"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985428_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985428_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985428"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985429_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985429_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985429"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985430_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985430_2.fastq.gz",
+                        "sample": "SRX6726390_SRR9985430"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726391": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985431_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985431_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985431"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985432_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985432_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985432"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985433_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985433_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985433"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985434_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985434_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985434"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985435_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985435_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985435"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985436_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985436_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985436"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985437_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985437_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985437"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985438_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985438_2.fastq.gz",
+                        "sample": "SRX6726391_SRR9985438"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726392": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985439_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985439_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985439"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985440_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985440_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985440"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985441_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985441_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985441"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985442_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985442_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985442"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985443_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985443_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985443"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985492_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985492_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985492"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985493_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985493_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985493"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985494_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985494_2.fastq.gz",
+                        "sample": "SRX6726392_SRR9985494"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726393": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985495_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985495_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985495"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985496_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985496_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985496"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985497_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985497_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985497"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985498_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985498_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985498"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985499_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985499_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985499"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985500_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985500_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985500"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985501_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985501_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985501"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985502_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985502_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985502"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985503_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985503_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985503"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985504_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985504_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985504"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985505_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985505_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985505"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985506_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985506_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985506"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985507_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985507_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985507"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985508_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985508_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985508"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985509_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985509_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985509"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985510_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985510_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985510"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985511_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985511_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985511"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985512_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985512_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985512"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985513_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985513_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985513"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985514_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985514_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985514"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985515_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985515_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985515"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985516_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985516_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985516"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985517_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985517_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985517"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985518_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985518_2.fastq.gz",
+                        "sample": "SRX6726393_SRR9985518"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726394": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985519_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985519_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985519"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985520_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985520_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985520"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985521_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985521_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985521"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985522_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985522_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985522"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985523_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985523_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985523"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985524_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985524_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985524"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985525_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985525_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985525"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985526_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985526_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985526"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985527_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985527_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985527"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985528_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985528_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985528"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985529_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985529_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985529"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985530_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985530_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985530"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985531_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985531_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985531"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985532_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985532_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985532"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985533_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985533_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985533"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985534_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985534_2.fastq.gz",
+                        "sample": "SRX6726394_SRR9985534"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726395": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985444_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985444_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985444"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985445_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985445_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985445"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985446_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985446_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985446"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985535_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985535_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985535"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985536_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985536_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985536"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985537_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985537_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985537"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985538_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985538_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985538"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985539_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985539_2.fastq.gz",
+                        "sample": "SRX6726395_SRR9985539"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726396": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985447_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985447_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985447"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985448_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985448_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985448"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985449_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985449_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985449"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985450_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985450_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985450"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985451_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985451_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985451"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985452_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985452_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985452"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985453_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985453_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985453"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985454_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985454_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985454"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985455_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985455_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985455"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985456_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985456_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985456"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985457_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985457_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985457"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985458_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985458_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985458"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985459_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985459_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985459"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985460_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985460_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985460"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985461_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985461_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985461"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985462_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985462_2.fastq.gz",
+                        "sample": "SRX6726396_SRR9985462"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726397": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985463_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985463_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985463"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985464_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985464_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985464"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985465_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985465_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985465"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985466_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985466_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985466"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985467_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985467_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985467"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985468_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985468_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985468"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985469_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985469_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985469"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985470_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985470_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985470"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985471_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985471_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985471"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985472_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985472_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985472"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985473_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985473_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985473"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985474_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985474_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985474"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985475_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985475_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985475"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985476_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985476_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985476"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985477_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985477_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985477"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985478_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985478_2.fastq.gz",
+                        "sample": "SRX6726397_SRR9985478"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            },
+            "SRX6726398": {
+                "disease": "pulmonary fibrosis lung disease",
+                "disease_state": "pulmonary fibrosis (pf)",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985483_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985483_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985483"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985484_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985484_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985484"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985485_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985485_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985485"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985486_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985486_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985486"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985487_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985487_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985487"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985488_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985488_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985488"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985489_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985489_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985489"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985490_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985490_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985490"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985491_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985491_2.fastq.gz",
+                        "sample": "SRX6726398_SRR9985491"
+                    }
+                ],
+                "tissue": "lung biopsy"
+            }
+        }
+    },
+    "whole lung dissociate": {
+        "GSE136831": {
+            "SRX17412777": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407770_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407770_2.fastq.gz",
+                        "sample": "SRX17412777_SRR21407770"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412778": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407771_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407771_2.fastq.gz",
+                        "sample": "SRX17412778_SRR21407771"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407772_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407772_2.fastq.gz",
+                        "sample": "SRX17412778_SRR21407772"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412779": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407773_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407773_2.fastq.gz",
+                        "sample": "SRX17412779_SRR21407773"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412780": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407774_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407774_2.fastq.gz",
+                        "sample": "SRX17412780_SRR21407774"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407775_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407775_2.fastq.gz",
+                        "sample": "SRX17412780_SRR21407775"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407776_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407776_2.fastq.gz",
+                        "sample": "SRX17412780_SRR21407776"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407777_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407777_2.fastq.gz",
+                        "sample": "SRX17412780_SRR21407777"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412781": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407778_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407778_2.fastq.gz",
+                        "sample": "SRX17412781_SRR21407778"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407779_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407779_2.fastq.gz",
+                        "sample": "SRX17412781_SRR21407779"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412782": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407780_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407780_2.fastq.gz",
+                        "sample": "SRX17412782_SRR21407780"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412783": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407781_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407781_2.fastq.gz",
+                        "sample": "SRX17412783_SRR21407781"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407782_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407782_2.fastq.gz",
+                        "sample": "SRX17412783_SRR21407782"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412784": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407783_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407783_2.fastq.gz",
+                        "sample": "SRX17412784_SRR21407783"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412785": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407784_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407784_2.fastq.gz",
+                        "sample": "SRX17412785_SRR21407784"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412786": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407785_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407785_2.fastq.gz",
+                        "sample": "SRX17412786_SRR21407785"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412787": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407786_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407786_2.fastq.gz",
+                        "sample": "SRX17412787_SRR21407786"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412788": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407787_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407787_2.fastq.gz",
+                        "sample": "SRX17412788_SRR21407787"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407788_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407788_2.fastq.gz",
+                        "sample": "SRX17412788_SRR21407788"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407789_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407789_2.fastq.gz",
+                        "sample": "SRX17412788_SRR21407789"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412789": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407790_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407790_2.fastq.gz",
+                        "sample": "SRX17412789_SRR21407790"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412790": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407791_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407791_2.fastq.gz",
+                        "sample": "SRX17412790_SRR21407791"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412791": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407792_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407792_2.fastq.gz",
+                        "sample": "SRX17412791_SRR21407792"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407793_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407793_2.fastq.gz",
+                        "sample": "SRX17412791_SRR21407793"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412792": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407794_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407794_2.fastq.gz",
+                        "sample": "SRX17412792_SRR21407794"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412793": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407795_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407795_2.fastq.gz",
+                        "sample": "SRX17412793_SRR21407795"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412794": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407796_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407796_2.fastq.gz",
+                        "sample": "SRX17412794_SRR21407796"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407797_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407797_2.fastq.gz",
+                        "sample": "SRX17412794_SRR21407797"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412795": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407798_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407798_2.fastq.gz",
+                        "sample": "SRX17412795_SRR21407798"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412796": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407799_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407799_2.fastq.gz",
+                        "sample": "SRX17412796_SRR21407799"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412797": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407800_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407800_2.fastq.gz",
+                        "sample": "SRX17412797_SRR21407800"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412798": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407801_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407801_2.fastq.gz",
+                        "sample": "SRX17412798_SRR21407801"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412799": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407802_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407802_2.fastq.gz",
+                        "sample": "SRX17412799_SRR21407802"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412800": {
+                "disease": "healthy",
+                "group": "control",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407803_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407803_2.fastq.gz",
+                        "sample": "SRX17412800_SRR21407803"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412805": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407809_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407809_2.fastq.gz",
+                        "sample": "SRX17412805_SRR21407809"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412806": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407810_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407810_2.fastq.gz",
+                        "sample": "SRX17412806_SRR21407810"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407811_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407811_2.fastq.gz",
+                        "sample": "SRX17412806_SRR21407811"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412807": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407812_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407812_2.fastq.gz",
+                        "sample": "SRX17412807_SRR21407812"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412808": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407813_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407813_2.fastq.gz",
+                        "sample": "SRX17412808_SRR21407813"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407814_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407814_2.fastq.gz",
+                        "sample": "SRX17412808_SRR21407814"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412809": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407815_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407815_2.fastq.gz",
+                        "sample": "SRX17412809_SRR21407815"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412810": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407816_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407816_2.fastq.gz",
+                        "sample": "SRX17412810_SRR21407816"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407817_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407817_2.fastq.gz",
+                        "sample": "SRX17412810_SRR21407817"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407818_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407818_2.fastq.gz",
+                        "sample": "SRX17412810_SRR21407818"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412811": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407819_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407819_2.fastq.gz",
+                        "sample": "SRX17412811_SRR21407819"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407820_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407820_2.fastq.gz",
+                        "sample": "SRX17412811_SRR21407820"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412812": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407821_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407821_2.fastq.gz",
+                        "sample": "SRX17412812_SRR21407821"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412813": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407822_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407822_2.fastq.gz",
+                        "sample": "SRX17412813_SRR21407822"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412814": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407823_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407823_2.fastq.gz",
+                        "sample": "SRX17412814_SRR21407823"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412815": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407824_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407824_2.fastq.gz",
+                        "sample": "SRX17412815_SRR21407824"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412816": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407825_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407825_2.fastq.gz",
+                        "sample": "SRX17412816_SRR21407825"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412817": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407826_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407826_2.fastq.gz",
+                        "sample": "SRX17412817_SRR21407826"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412818": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407827_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407827_2.fastq.gz",
+                        "sample": "SRX17412818_SRR21407827"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412819": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407828_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407828_2.fastq.gz",
+                        "sample": "SRX17412819_SRR21407828"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412820": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407829_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407829_2.fastq.gz",
+                        "sample": "SRX17412820_SRR21407829"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412821": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407830_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407830_2.fastq.gz",
+                        "sample": "SRX17412821_SRR21407830"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412822": {
+                "disease": "chronic obstructive pulmonary lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407831_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407831_2.fastq.gz",
+                        "sample": "SRX17412822_SRR21407831"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412823": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407832_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407832_2.fastq.gz",
+                        "sample": "SRX17412823_SRR21407832"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412824": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407833_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407833_2.fastq.gz",
+                        "sample": "SRX17412824_SRR21407833"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407834_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407834_2.fastq.gz",
+                        "sample": "SRX17412824_SRR21407834"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412825": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407835_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407835_2.fastq.gz",
+                        "sample": "SRX17412825_SRR21407835"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407836_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407836_2.fastq.gz",
+                        "sample": "SRX17412825_SRR21407836"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412826": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407837_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407837_2.fastq.gz",
+                        "sample": "SRX17412826_SRR21407837"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412827": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407838_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407838_2.fastq.gz",
+                        "sample": "SRX17412827_SRR21407838"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407839_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407839_2.fastq.gz",
+                        "sample": "SRX17412827_SRR21407839"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407840_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407840_2.fastq.gz",
+                        "sample": "SRX17412827_SRR21407840"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412828": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407841_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407841_2.fastq.gz",
+                        "sample": "SRX17412828_SRR21407841"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412829": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407842_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407842_2.fastq.gz",
+                        "sample": "SRX17412829_SRR21407842"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412830": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407843_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407843_2.fastq.gz",
+                        "sample": "SRX17412830_SRR21407843"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412831": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407844_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407844_2.fastq.gz",
+                        "sample": "SRX17412831_SRR21407844"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412832": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407845_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407845_2.fastq.gz",
+                        "sample": "SRX17412832_SRR21407845"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412833": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407846_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407846_2.fastq.gz",
+                        "sample": "SRX17412833_SRR21407846"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412834": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407847_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407847_2.fastq.gz",
+                        "sample": "SRX17412834_SRR21407847"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412835": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407848_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407848_2.fastq.gz",
+                        "sample": "SRX17412835_SRR21407848"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407849_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407849_2.fastq.gz",
+                        "sample": "SRX17412835_SRR21407849"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412836": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407850_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407850_2.fastq.gz",
+                        "sample": "SRX17412836_SRR21407850"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407851_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407851_2.fastq.gz",
+                        "sample": "SRX17412836_SRR21407851"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412837": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407852_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407852_2.fastq.gz",
+                        "sample": "SRX17412837_SRR21407852"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407853_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407853_2.fastq.gz",
+                        "sample": "SRX17412837_SRR21407853"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412838": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407854_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407854_2.fastq.gz",
+                        "sample": "SRX17412838_SRR21407854"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412839": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407855_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407855_2.fastq.gz",
+                        "sample": "SRX17412839_SRR21407855"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407856_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407856_2.fastq.gz",
+                        "sample": "SRX17412839_SRR21407856"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412840": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407857_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407857_2.fastq.gz",
+                        "sample": "SRX17412840_SRR21407857"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412841": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407858_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407858_2.fastq.gz",
+                        "sample": "SRX17412841_SRR21407858"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412842": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407859_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407859_2.fastq.gz",
+                        "sample": "SRX17412842_SRR21407859"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412843": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407860_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407860_2.fastq.gz",
+                        "sample": "SRX17412843_SRR21407860"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412844": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407861_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407861_2.fastq.gz",
+                        "sample": "SRX17412844_SRR21407861"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412845": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407862_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407862_2.fastq.gz",
+                        "sample": "SRX17412845_SRR21407862"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407863_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407863_2.fastq.gz",
+                        "sample": "SRX17412845_SRR21407863"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412846": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407864_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407864_2.fastq.gz",
+                        "sample": "SRX17412846_SRR21407864"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407865_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407865_2.fastq.gz",
+                        "sample": "SRX17412846_SRR21407865"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412847": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407866_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407866_2.fastq.gz",
+                        "sample": "SRX17412847_SRR21407866"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407867_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407867_2.fastq.gz",
+                        "sample": "SRX17412847_SRR21407867"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412848": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407868_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407868_2.fastq.gz",
+                        "sample": "SRX17412848_SRR21407868"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407869_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407869_2.fastq.gz",
+                        "sample": "SRX17412848_SRR21407869"
+                    },
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407870_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407870_2.fastq.gz",
+                        "sample": "SRX17412848_SRR21407870"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412849": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407871_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407871_2.fastq.gz",
+                        "sample": "SRX17412849_SRR21407871"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412850": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407872_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407872_2.fastq.gz",
+                        "sample": "SRX17412850_SRR21407872"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412851": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407873_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407873_2.fastq.gz",
+                        "sample": "SRX17412851_SRR21407873"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412852": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407874_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407874_2.fastq.gz",
+                        "sample": "SRX17412852_SRR21407874"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412853": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407875_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407875_2.fastq.gz",
+                        "sample": "SRX17412853_SRR21407875"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            },
+            "SRX17412854": {
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "sample_sheet": [
+                    {
+                        "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407876_1.fastq.gz",
+                        "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407876_2.fastq.gz",
+                        "sample": "SRX17412854_SRR21407876"
+                    }
+                ],
+                "tissue": "whole lung dissociate"
+            }
+        }
+    }
+}

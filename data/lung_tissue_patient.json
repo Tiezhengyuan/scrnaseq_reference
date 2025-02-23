@@ -1,0 +1,848 @@
+{
+    "GSE132771": {
+        "SRX6073187": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304758.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073187_SRR9304758"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304759.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073187_SRR9304759"
+                }
+            ],
+            "tissue": "lung"
+        },
+        "SRX6073188": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304760.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073188_SRR9304760"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304761.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073188_SRR9304761"
+                }
+            ],
+            "tissue": "lung"
+        },
+        "SRX6073189": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304762.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073189_SRR9304762"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304763.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073189_SRR9304763"
+                }
+            ],
+            "tissue": "lung"
+        },
+        "SRX6073190": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304764.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073190_SRR9304764"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304765.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073190_SRR9304765"
+                }
+            ],
+            "tissue": "lung"
+        },
+        "SRX6073191": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073191_SRR9304766.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073191_SRR9304766"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304767.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073191_SRR9304767"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304768.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073191_SRR9304768"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073191_SRR9304769.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073191_SRR9304769"
+                }
+            ],
+            "tissue": "lung"
+        },
+        "SRX6073192": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRX6073192_SRR9304770.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073192_SRR9304770"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304771.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073192_SRR9304771"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304772.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073192_SRR9304772"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE132771/fastq/SRR9304773.fastq.gz",
+                    "fastq_2": "",
+                    "sample": "SRX6073192_SRR9304773"
+                }
+            ],
+            "tissue": "lung"
+        }
+    },
+    "GSE135893": {
+        "SRX6726369": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985347_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985347_2.fastq.gz",
+                    "sample": "SRX6726369_SRR9985347"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726370": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368214_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368214_2.fastq.gz",
+                    "sample": "SRX6726370_SRR10368214"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985349_1.fastq.gz,/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985349.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985349_2.fastq.gz",
+                    "sample": "SRX6726370_SRR9985349"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726373": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985352_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985352_2.fastq.gz",
+                    "sample": "SRX6726373_SRR9985352"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726374": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985353_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985353_2.fastq.gz",
+                    "sample": "SRX6726374_SRR9985353"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726377": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985356_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985356_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985356"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985357_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985357_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985357"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985358_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985358_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985358"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985359_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985359_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985359"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985360_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985360_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985360"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985361_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985361_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985361"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985362_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985362_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985362"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985363_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726377_SRR9985363_2.fastq.gz",
+                    "sample": "SRX6726377_SRR9985363"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726381": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985374_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985374_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985374"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726381_SRR9985375_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRX6726381_SRR9985375_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985375"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985376_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985376_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985376"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985377_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985377_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985377"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985378_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985378_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985378"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985379_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985379_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985379"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985380_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985380_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985380"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985381_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985381_2.fastq.gz",
+                    "sample": "SRX6726381_SRR9985381"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726384": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368215_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR10368215_2.fastq.gz",
+                    "sample": "SRX6726384_SRR10368215"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726391": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985431_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985431_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985431"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985432_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985432_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985432"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985433_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985433_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985433"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985434_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985434_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985434"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985435_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985435_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985435"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985436_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985436_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985436"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985437_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985437_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985437"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985438_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985438_2.fastq.gz",
+                    "sample": "SRX6726391_SRR9985438"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726392": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985439_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985439_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985439"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985440_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985440_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985440"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985441_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985441_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985441"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985442_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985442_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985442"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985443_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985443_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985443"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985492_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985492_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985492"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985493_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985493_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985493"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985494_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985494_2.fastq.gz",
+                    "sample": "SRX6726392_SRR9985494"
+                }
+            ],
+            "tissue": "lung biopsy"
+        },
+        "SRX6726393": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985495_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985495_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985495"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985496_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985496_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985496"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985497_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985497_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985497"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985498_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985498_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985498"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985499_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985499_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985499"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985500_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985500_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985500"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985501_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985501_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985501"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985502_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985502_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985502"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985503_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985503_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985503"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985504_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985504_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985504"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985505_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985505_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985505"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985506_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985506_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985506"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985507_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985507_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985507"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985508_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985508_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985508"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985509_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985509_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985509"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985510_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985510_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985510"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985511_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985511_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985511"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985512_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985512_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985512"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985513_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985513_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985513"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985514_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985514_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985514"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985515_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985515_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985515"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985516_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985516_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985516"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985517_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985517_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985517"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985518_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE135893/fastq/SRR9985518_2.fastq.gz",
+                    "sample": "SRX6726393_SRR9985518"
+                }
+            ],
+            "tissue": "lung biopsy"
+        }
+    },
+    "GSE136831": {
+        "SRX17412777": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407770_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407770_2.fastq.gz",
+                    "sample": "SRX17412777_SRR21407770"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412778": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407771_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407771_2.fastq.gz",
+                    "sample": "SRX17412778_SRR21407771"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407772_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407772_2.fastq.gz",
+                    "sample": "SRX17412778_SRR21407772"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412779": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407773_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407773_2.fastq.gz",
+                    "sample": "SRX17412779_SRR21407773"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412780": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407774_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407774_2.fastq.gz",
+                    "sample": "SRX17412780_SRR21407774"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407775_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407775_2.fastq.gz",
+                    "sample": "SRX17412780_SRR21407775"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407776_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407776_2.fastq.gz",
+                    "sample": "SRX17412780_SRR21407776"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407777_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407777_2.fastq.gz",
+                    "sample": "SRX17412780_SRR21407777"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412781": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407778_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407778_2.fastq.gz",
+                    "sample": "SRX17412781_SRR21407778"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407779_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407779_2.fastq.gz",
+                    "sample": "SRX17412781_SRR21407779"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412782": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407780_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407780_2.fastq.gz",
+                    "sample": "SRX17412782_SRR21407780"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412783": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407781_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407781_2.fastq.gz",
+                    "sample": "SRX17412783_SRR21407781"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407782_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407782_2.fastq.gz",
+                    "sample": "SRX17412783_SRR21407782"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412784": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407783_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407783_2.fastq.gz",
+                    "sample": "SRX17412784_SRR21407783"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412785": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407784_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407784_2.fastq.gz",
+                    "sample": "SRX17412785_SRR21407784"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412786": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407785_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407785_2.fastq.gz",
+                    "sample": "SRX17412786_SRR21407785"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412787": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407786_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407786_2.fastq.gz",
+                    "sample": "SRX17412787_SRR21407786"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412788": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407787_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407787_2.fastq.gz",
+                    "sample": "SRX17412788_SRR21407787"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407788_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407788_2.fastq.gz",
+                    "sample": "SRX17412788_SRR21407788"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407789_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407789_2.fastq.gz",
+                    "sample": "SRX17412788_SRR21407789"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412789": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407790_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407790_2.fastq.gz",
+                    "sample": "SRX17412789_SRR21407790"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412790": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407791_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407791_2.fastq.gz",
+                    "sample": "SRX17412790_SRR21407791"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412791": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407792_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407792_2.fastq.gz",
+                    "sample": "SRX17412791_SRR21407792"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407793_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407793_2.fastq.gz",
+                    "sample": "SRX17412791_SRR21407793"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412792": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407794_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407794_2.fastq.gz",
+                    "sample": "SRX17412792_SRR21407794"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412793": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407795_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407795_2.fastq.gz",
+                    "sample": "SRX17412793_SRR21407795"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412794": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407796_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407796_2.fastq.gz",
+                    "sample": "SRX17412794_SRR21407796"
+                },
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407797_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407797_2.fastq.gz",
+                    "sample": "SRX17412794_SRR21407797"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412795": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407798_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407798_2.fastq.gz",
+                    "sample": "SRX17412795_SRR21407798"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412796": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407799_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407799_2.fastq.gz",
+                    "sample": "SRX17412796_SRR21407799"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412797": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407800_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407800_2.fastq.gz",
+                    "sample": "SRX17412797_SRR21407800"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412798": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407801_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407801_2.fastq.gz",
+                    "sample": "SRX17412798_SRR21407801"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412799": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407802_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407802_2.fastq.gz",
+                    "sample": "SRX17412799_SRR21407802"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        },
+        "SRX17412800": {
+            "disease": "healthy",
+            "group": "control",
+            "sample_sheet": [
+                {
+                    "fastq_1": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407803_1.fastq.gz",
+                    "fastq_2": "/home/yuan/rawdata/SRR/GSE136831/fastq/SRR21407803_2.fastq.gz",
+                    "sample": "SRX17412800_SRR21407803"
+                }
+            ],
+            "tissue": "whole lung dissociate"
+        }
+    }
+}

@@ -4,6 +4,7 @@
         "33705361"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166036",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE166nnn/GSE166036/soft/GSE166036_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20301",
@@ -20,16 +21,32 @@
             "SRR": {
                 "SRR13615029": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/029/SRR13615029/SRR13615029.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/029/SRR13615029/SRR13615029.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008426_SRR13615029.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348037",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060505",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_037"
         },
         "GSM5060506": {
             "BioSample": "SAMN17764695",
@@ -39,16 +56,32 @@
             "SRR": {
                 "SRR13615030": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/030/SRR13615030/SRR13615030.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/030/SRR13615030/SRR13615030.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615030.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348043",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060506",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_043"
         },
         "GSM5060507": {
             "BioSample": "SAMN17764694",
@@ -58,16 +91,32 @@
             "SRR": {
                 "SRR13615031": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/031/SRR13615031/SRR13615031.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/031/SRR13615031/SRR13615031.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615031.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348049",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060507",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_049"
         },
         "GSM5060508": {
             "BioSample": "SAMN17764693",
@@ -77,16 +126,32 @@
             "SRR": {
                 "SRR13615032": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/032/SRR13615032/SRR13615032.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/032/SRR13615032/SRR13615032.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008429_SRR13615032.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348055",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060508",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_055"
         },
         "GSM5060509": {
             "BioSample": "SAMN17764692",
@@ -96,16 +161,32 @@
             "SRR": {
                 "SRR13615033": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/033/SRR13615033/SRR13615033.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/033/SRR13615033/SRR13615033.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008430_SRR13615033.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348058",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060509",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_058"
         },
         "GSM5060510": {
             "BioSample": "SAMN17764691",
@@ -115,16 +196,32 @@
             "SRR": {
                 "SRR13615034": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/034/SRR13615034/SRR13615034.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/034/SRR13615034/SRR13615034.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008431_SRR13615034.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348070",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060510",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_070"
         },
         "GSM5060511": {
             "BioSample": "SAMN17764690",
@@ -134,16 +231,32 @@
             "SRR": {
                 "SRR13615035": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/035/SRR13615035/SRR13615035.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/035/SRR13615035/SRR13615035.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008432_SRR13615035.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348075",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060511",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_075"
         },
         "GSM5060512": {
             "BioSample": "SAMN17764689",
@@ -153,16 +266,32 @@
             "SRR": {
                 "SRR13615036": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/036/SRR13615036/SRR13615036.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/036/SRR13615036/SRR13615036.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008433_SRR13615036.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348192",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060512",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_BAL_192"
         },
         "GSM5060513": {
             "BioSample": "SAMN17764688",
@@ -172,16 +301,32 @@
             "SRR": {
                 "SRR13615037": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/037/SRR13615037/SRR13615037.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/037/SRR13615037/SRR13615037.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008434_SRR13615037.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348035",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060513",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_035"
         },
         "GSM5060514": {
             "BioSample": "SAMN17764687",
@@ -191,16 +336,32 @@
             "SRR": {
                 "SRR13615038": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/038/SRR13615038/SRR13615038.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/038/SRR13615038/SRR13615038.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008435_SRR13615038.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348041",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060514",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_041"
         },
         "GSM5060515": {
             "BioSample": "SAMN17764686",
@@ -210,16 +371,32 @@
             "SRR": {
                 "SRR13615039": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/039/SRR13615039/SRR13615039.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/039/SRR13615039/SRR13615039.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008436_SRR13615039.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348047",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060515",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_047"
         },
         "GSM5060516": {
             "BioSample": "SAMN17764685",
@@ -229,16 +406,32 @@
             "SRR": {
                 "SRR13615040": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/040/SRR13615040/SRR13615040.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/040/SRR13615040/SRR13615040.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008437_SRR13615040.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348053",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060516",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_053"
         },
         "GSM5060517": {
             "BioSample": "SAMN17764684",
@@ -248,16 +441,32 @@
             "SRR": {
                 "SRR13615041": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/041/SRR13615041/SRR13615041.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/041/SRR13615041/SRR13615041.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615041.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348056",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060517",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_056"
         },
         "GSM5060518": {
             "BioSample": "SAMN17764683",
@@ -267,16 +476,32 @@
             "SRR": {
                 "SRR13615042": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/042/SRR13615042/SRR13615042.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/042/SRR13615042/SRR13615042.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615042.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348068",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060518",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_068"
         },
         "GSM5060519": {
             "BioSample": "SAMN17764682",
@@ -286,16 +511,32 @@
             "SRR": {
                 "SRR13615043": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/043/SRR13615043/SRR13615043.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/043/SRR13615043/SRR13615043.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615043.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348071",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060519",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_071"
         },
         "GSM5060520": {
             "BioSample": "SAMN17764681",
@@ -305,16 +546,32 @@
             "SRR": {
                 "SRR13615044": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/044/SRR13615044/SRR13615044.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/044/SRR13615044/SRR13615044.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008441_SRR13615044.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348073",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060520",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_073"
         },
         "GSM5060521": {
             "BioSample": "SAMN17764680",
@@ -324,16 +581,32 @@
             "SRR": {
                 "SRR13615045": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/045/SRR13615045/SRR13615045.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/045/SRR13615045/SRR13615045.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008442_SRR13615045.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348076",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060521",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_076"
         },
         "GSM5060522": {
             "BioSample": "SAMN17764679",
@@ -343,16 +616,32 @@
             "SRR": {
                 "SRR13615046": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/046/SRR13615046/SRR13615046.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/046/SRR13615046/SRR13615046.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008443_SRR13615046.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348190",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060522",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Biopsy_190"
         },
         "GSM5060523": {
             "BioSample": "SAMN17764678",
@@ -362,16 +651,32 @@
             "SRR": {
                 "SRR13615047": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/047/SRR13615047/SRR13615047.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/047/SRR13615047/SRR13615047.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008444_SRR13615047.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348036",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060523",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_036"
         },
         "GSM5060524": {
             "BioSample": "SAMN17764677",
@@ -381,16 +686,32 @@
             "SRR": {
                 "SRR13615048": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/048/SRR13615048/SRR13615048.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/048/SRR13615048/SRR13615048.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008445_SRR13615048.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348042",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060524",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_042"
         },
         "GSM5060525": {
             "BioSample": "SAMN17764712",
@@ -400,16 +721,32 @@
             "SRR": {
                 "SRR13615049": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/049/SRR13615049/SRR13615049.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/049/SRR13615049/SRR13615049.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008446_SRR13615049.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348048",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060525",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_048"
         },
         "GSM5060526": {
             "BioSample": "SAMN17764711",
@@ -419,16 +756,32 @@
             "SRR": {
                 "SRR13615050": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/050/SRR13615050/SRR13615050.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/050/SRR13615050/SRR13615050.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008447_SRR13615050.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348054",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060526",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_054"
         },
         "GSM5060527": {
             "BioSample": "SAMN17764710",
@@ -438,16 +791,32 @@
             "SRR": {
                 "SRR13615051": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/051/SRR13615051/SRR13615051.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/051/SRR13615051/SRR13615051.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008448_SRR13615051.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348057",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060527",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_057"
         },
         "GSM5060528": {
             "BioSample": "SAMN17764709",
@@ -457,16 +826,32 @@
             "SRR": {
                 "SRR13615052": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/052/SRR13615052/SRR13615052.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/052/SRR13615052/SRR13615052.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008449_SRR13615052.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348069",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060528",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_069"
         },
         "GSM5060529": {
             "BioSample": "SAMN17764708",
@@ -476,16 +861,32 @@
             "SRR": {
                 "SRR13615053": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/053/SRR13615053/SRR13615053.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/053/SRR13615053/SRR13615053.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615053.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348072",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060529",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_072"
         },
         "GSM5060530": {
             "BioSample": "SAMN17764707",
@@ -495,16 +896,32 @@
             "SRR": {
                 "SRR13615054": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/054/SRR13615054/SRR13615054.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/054/SRR13615054/SRR13615054.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008451_SRR13615054.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348074",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060530",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_074"
         },
         "GSM5060531": {
             "BioSample": "SAMN17764706",
@@ -514,16 +931,32 @@
             "SRR": {
                 "SRR13615055": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/055/SRR13615055/SRR13615055.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/055/SRR13615055/SRR13615055.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008452_SRR13615055.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348077",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060531",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_077"
         },
         "GSM5060532": {
             "BioSample": "SAMN17764705",
@@ -533,16 +966,32 @@
             "SRR": {
                 "SRR13615056": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/056/SRR13615056/SRR13615056.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/056/SRR13615056/SRR13615056.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615056.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "IPF",
+                "disease": "ipf",
+                "sample_id": "sam24348191",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ipf",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060532",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IPF_Digest_191"
         },
         "GSM5060533": {
             "BioSample": "SAMN17764704",
@@ -552,16 +1001,32 @@
             "SRR": {
                 "SRR13615057": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/057/SRR13615057/SRR13615057.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/057/SRR13615057/SRR13615057.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008454_SRR13615057.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348034",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060533",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_BAL_034"
         },
         "GSM5060534": {
             "BioSample": "SAMN17764703",
@@ -571,16 +1036,32 @@
             "SRR": {
                 "SRR13615058": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/058/SRR13615058/SRR13615058.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/058/SRR13615058/SRR13615058.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008455_SRR13615058.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348046",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060534",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_BAL_046"
         },
         "GSM5060535": {
             "BioSample": "SAMN17764702",
@@ -590,16 +1071,32 @@
             "SRR": {
                 "SRR13615059": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/059/SRR13615059/SRR13615059.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/059/SRR13615059/SRR13615059.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008456_SRR13615059.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348064",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060535",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_BAL_064"
         },
         "GSM5060536": {
             "BioSample": "SAMN17764701",
@@ -609,16 +1106,32 @@
             "SRR": {
                 "SRR13615060": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/060/SRR13615060/SRR13615060.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/060/SRR13615060/SRR13615060.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615060.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348067",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060536",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_BAL_067"
         },
         "GSM5060537": {
             "BioSample": "SAMN17764700",
@@ -628,16 +1141,32 @@
             "SRR": {
                 "SRR13615061": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/061/SRR13615061/SRR13615061.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/061/SRR13615061/SRR13615061.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008458_SRR13615061.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348044",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060537",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Biopsy_044"
         },
         "GSM5060538": {
             "BioSample": "SAMN17764699",
@@ -647,16 +1176,32 @@
             "SRR": {
                 "SRR13615062": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/062/SRR13615062/SRR13615062.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/062/SRR13615062/SRR13615062.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008459_SRR13615062.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348062",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060538",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Biopsy_062"
         },
         "GSM5060539": {
             "BioSample": "SAMN17764698",
@@ -666,16 +1211,32 @@
             "SRR": {
                 "SRR13615063": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/063/SRR13615063/SRR13615063.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/063/SRR13615063/SRR13615063.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615063.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348065",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060539",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Biopsy_065"
         },
         "GSM5060540": {
             "BioSample": "SAMN17764697",
@@ -685,16 +1246,32 @@
             "SRR": {
                 "SRR13615064": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/064/SRR13615064/SRR13615064.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/064/SRR13615064/SRR13615064.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615064.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348078",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060540",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Biopsy_078"
         },
         "GSM5060541": {
             "BioSample": "SAMN17764696",
@@ -704,16 +1281,32 @@
             "SRR": {
                 "SRR13615065": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/065/SRR13615065/SRR13615065.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/065/SRR13615065/SRR13615065.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615065.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348033",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060541",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Digest_033"
         },
         "GSM5060542": {
             "BioSample": "SAMN17764648",
@@ -723,16 +1316,32 @@
             "SRR": {
                 "SRR13615066": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/066/SRR13615066/SRR13615066.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/066/SRR13615066/SRR13615066.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615066.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348045",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060542",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Digest_045"
         },
         "GSM5060543": {
             "BioSample": "SAMN17764647",
@@ -742,16 +1351,32 @@
             "SRR": {
                 "SRR13615067": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/067/SRR13615067/SRR13615067.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/067/SRR13615067/SRR13615067.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615067.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348063",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060543",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Digest_063"
         },
         "GSM5060544": {
             "BioSample": "SAMN17764646",
@@ -761,16 +1386,32 @@
             "SRR": {
                 "SRR13615068": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/068/SRR13615068/SRR13615068.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/068/SRR13615068/SRR13615068.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008465_SRR13615068.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348066",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060544",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Digest_066"
         },
         "GSM5060545": {
             "BioSample": "SAMN17764645",
@@ -780,16 +1421,32 @@
             "SRR": {
                 "SRR13615069": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/069/SRR13615069/SRR13615069.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/069/SRR13615069/SRR13615069.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615069.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "Normal",
+                "disease": "normal",
+                "sample_id": "sam24348079",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "normal",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060545",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal_Digest_079"
         },
         "GSM5060546": {
             "BioSample": "SAMN17764644",
@@ -799,16 +1456,32 @@
             "SRR": {
                 "SRR13615070": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/070/SRR13615070/SRR13615070.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/070/SRR13615070/SRR13615070.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008467_SRR13615070.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348052",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060546",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_BAL_052"
         },
         "GSM5060547": {
             "BioSample": "SAMN17764643",
@@ -818,16 +1491,32 @@
             "SRR": {
                 "SRR13615071": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/071/SRR13615071/SRR13615071.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/071/SRR13615071/SRR13615071.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615071.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348061",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060547",
-            "scrnaseq": false
+            "sample_source": [
+                "Bronchoalveolar lavage"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_BAL_061"
         },
         "GSM5060548": {
             "BioSample": "SAMN17764642",
@@ -837,16 +1526,32 @@
             "SRR": {
                 "SRR13615072": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/072/SRR13615072/SRR13615072.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/072/SRR13615072/SRR13615072.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRX10008469_SRR13615072.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348038",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060548",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_Biopsy_038"
         },
         "GSM5060549": {
             "BioSample": "SAMN17764641",
@@ -856,16 +1561,32 @@
             "SRR": {
                 "SRR13615073": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/073/SRR13615073/SRR13615073.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/073/SRR13615073/SRR13615073.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615073.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348050",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060549",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_Biopsy_050"
         },
         "GSM5060550": {
             "BioSample": "SAMN17764676",
@@ -875,16 +1596,32 @@
             "SRR": {
                 "SRR13615074": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/074/SRR13615074/SRR13615074.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/074/SRR13615074/SRR13615074.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615074.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348059",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060550",
-            "scrnaseq": false
+            "sample_source": [
+                "Biopsy"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_Biopsy_059"
         },
         "GSM5060551": {
             "BioSample": "SAMN17764675",
@@ -894,16 +1631,32 @@
             "SRR": {
                 "SRR13615075": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/075/SRR13615075/SRR13615075.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/075/SRR13615075/SRR13615075.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615075.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348039",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060551",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_Digest_039"
         },
         "GSM5060552": {
             "BioSample": "SAMN17764674",
@@ -913,18 +1666,72 @@
             "SRR": {
                 "SRR13615076": {
                     "ftp.sra.ebi.ac.uk": [
-                        "ftp.sra.ebi.ac.uk//vol1/fastq/SRR136/076/SRR13615076/SRR13615076.fastq.gz"
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/076/SRR13615076/SRR13615076.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615076.fastq.gz"
                     ]
                 }
             },
             "characteristics": {
-                "disease_state": "SSc-ILD",
+                "disease": "ssc-ild",
+                "sample_id": "sam24348051",
                 "tissue": "lung"
             },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
             "sample_id": "GSM5060552",
-            "scrnaseq": false
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_Digest_051"
+        },
+        "GSM5060553": {
+            "BioSample": "SAMN17764673",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764673",
+            "SRA": "SRX10008474",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008474",
+            "SRR": {
+                "SRR13615077": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/077/SRR13615077/SRR13615077.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166036/fastq/SRR13615077.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "disease": "ssc-ild",
+                "sample_id": "sam24348060",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "ssc-ild",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "sequencing",
+                "total rna"
+            ],
+            "sample_id": "GSM5060553",
+            "sample_source": [
+                "Digest"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SSc_Digest_060"
         }
     },
-    "taxid": "9606",
+    "summary": "Gene expression of human lung tissue bronchoalveolar lavage (BAL), whole tissue biopsy, and digested single cell suspension of lung tissue from control and ILD samples.",
+    "taxid": [
+        "9606"
+    ],
     "title": "Examining gene expression profile from varying preparations of fibrotic lung tissue"
 }

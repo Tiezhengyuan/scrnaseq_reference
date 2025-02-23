@@ -4,6 +4,7 @@
         "32405060"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140819",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140819/soft/GSE140819_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20795",
@@ -16,549 +17,966 @@
             "BioSample": "SAMN13348380",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348380",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "NSCLC14 fresh-C4"
+                "sample_type": "nsclc14 fresh-c4",
+                "tissue": "lung cancer"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung cancer"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186956",
-            "scrnaseq": false
+            "sample_source": [
+                "lung cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NSCLC14_fresh-C4_channel1"
         },
         "GSM4186957": {
             "BioSample": "SAMN13348379",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348379",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "NSCLC14 fresh-PDEC"
+                "sample_type": "nsclc14 fresh-pdec",
+                "tissue": "lung cancer"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung cancer"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186957",
-            "scrnaseq": false
+            "sample_source": [
+                "lung cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NSCLC14_fresh-PDEC_channel1"
         },
         "GSM4186958": {
             "BioSample": "SAMN13348378",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348378",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "NSCLC14 fresh-LE"
+                "sample_type": "nsclc14 fresh-le",
+                "tissue": "lung cancer"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung cancer"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186958",
-            "scrnaseq": false
+            "sample_source": [
+                "lung cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NSCLC14_fresh-LE_channel1"
         },
         "GSM4186959": {
             "BioSample": "SAMN13348377",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348377",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "NSCLC17 fresh-PDEC"
+                "sample_type": "nsclc17 fresh-pdec",
+                "tissue": "lung cancer"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung cancer"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186959",
-            "scrnaseq": false
+            "sample_source": [
+                "lung cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NSCLC17_fresh-PDEC_channel1"
         },
         "GSM4186960": {
             "BioSample": "SAMN13348376",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348376",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "NSCLC17 fresh-cd45n"
+                "sample_type": "nsclc17 fresh-cd45n",
+                "tissue": "lung cancer"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "group": "patient",
+                "tissue": "lung cancer"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186960",
-            "scrnaseq": false
+            "sample_source": [
+                "lung cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NSCLC17_fresh-cd45n_channel1"
         },
         "GSM4186961": {
             "BioSample": "SAMN13348375",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348375",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-312-SMP-901 fresh-T1"
+                "sample_type": "htapp-312-smp-901 fresh-t1",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186961",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-312-SMP-901_fresh-T1_channel1"
         },
         "GSM4186962": {
             "BioSample": "SAMN13348374",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348374",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-312-SMP-902 fresh-C4-T2"
+                "sample_type": "htapp-312-smp-902 fresh-c4-t2",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186962",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-312-SMP-902_fresh-C4-T2_channel1"
         },
         "GSM4186963": {
             "BioSample": "SAMN13348373",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348373",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-656-SMP-3481 fresh-T1"
+                "sample_type": "htapp-656-smp-3481 fresh-t1",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186963",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-656-SMP-3481_fresh-T1_channel1"
         },
         "GSM4186964": {
             "BioSample": "SAMN13348372",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348372",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-StJude-SMP-PDX1 cell"
+                "sample_type": "htapp-stjude-smp-pdx1 cell",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186964",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-StJude-SMP-PDX1_cell_channel1"
         },
         "GSM4186965": {
             "BioSample": "SAMN13348371",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348371",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-244-SMP-451 CST"
+                "sample_type": "htapp-244-smp-451 cst",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186965",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-244-SMP-451_CST_channel1"
         },
         "GSM4186966": {
             "BioSample": "SAMN13348370",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348370",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-244-SMP-451 EZ"
+                "sample_type": "htapp-244-smp-451 ez",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186966",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-244-SMP-451_EZ_channel1"
         },
         "GSM4186967": {
             "BioSample": "SAMN13348416",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348416",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-244-SMP-451 NST"
+                "sample_type": "htapp-244-smp-451 nst",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186967",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-244-SMP-451_NST_channel1"
         },
         "GSM4186968": {
             "BioSample": "SAMN13348415",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348415",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-244-SMP-451 TST"
+                "sample_type": "htapp-244-smp-451 tst",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186968",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-244-SMP-451_TST_channel1"
         },
         "GSM4186969": {
             "BioSample": "SAMN13348414",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348414",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-656-SMP-3481 TST"
+                "sample_type": "htapp-656-smp-3481 tst",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186969",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-656-SMP-3481_TST_channel1"
         },
         "GSM4186970": {
             "BioSample": "SAMN13348413",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348413",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-StJude-SMP-PDX1 nuclei"
+                "sample_type": "htapp-stjude-smp-pdx1 nuclei",
+                "tissue": "neuroblastoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "neuroblastoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186970",
-            "scrnaseq": false
+            "sample_source": [
+                "neuroblastoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-StJude-SMP-PDX1_nuclei_channel1"
         },
         "GSM4186971": {
             "BioSample": "SAMN13348412",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348412",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-254-SMP-571 LD"
+                "sample_type": "htapp-254-smp-571 ld",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186971",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-254-SMP-571_LD_channel1"
         },
         "GSM4186972": {
             "BioSample": "SAMN13348411",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348411",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-735-SMP-3841 fresh"
+                "sample_type": "htapp-735-smp-3841 fresh",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186972",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-735-SMP-3841_fresh_channel2"
         },
         "GSM4186973": {
             "BioSample": "SAMN13348410",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348410",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-285-SMP-751 fresh"
+                "sample_type": "htapp-285-smp-751 fresh",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186973",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-285-SMP-751_fresh_channel1"
         },
         "GSM4186974": {
             "BioSample": "SAMN13348409",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348409",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-963-SMP-4741 fresh"
+                "sample_type": "htapp-963-smp-4741 fresh",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186974",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-963-SMP-4741_fresh_channel1"
         },
         "GSM4186975": {
             "BioSample": "SAMN13348405",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348405",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-394-SMP-1561 CST"
+                "sample_type": "htapp-394-smp-1561 cst",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186975",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-394-SMP-1561_CST_channel1"
         },
         "GSM4186976": {
             "BioSample": "SAMN13348404",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348404",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-394-SMP-1561 NST"
+                "sample_type": "htapp-394-smp-1561 nst",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186976",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-394-SMP-1561_NST_channel2"
         },
         "GSM4186977": {
             "BioSample": "SAMN13348403",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348403",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-589-SMP-2851 CST"
+                "sample_type": "htapp-589-smp-2851 cst",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186977",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-589-SMP-2851_CST_channel1"
         },
         "GSM4186978": {
             "BioSample": "SAMN13348408",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348408",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-589-SMP-2851 TST"
+                "sample_type": "htapp-589-smp-2851 tst",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186978",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-589-SMP-2851_TST_channel2"
         },
         "GSM4186979": {
             "BioSample": "SAMN13348407",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348407",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-963-SMP-4741 CST"
+                "sample_type": "htapp-963-smp-4741 cst",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186979",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-963-SMP-4741_CST_channel2"
         },
         "GSM4186980": {
             "BioSample": "SAMN13348369",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348369",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-963-SMP-4741 TST"
+                "sample_type": "htapp-963-smp-4741 tst",
+                "tissue": "mbc"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "mbc"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186980",
-            "scrnaseq": false
+            "sample_source": [
+                "MBC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-963-SMP-4741_TST_channel1"
         },
         "GSM4186981": {
             "BioSample": "SAMN13348406",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348406",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "MGH125 fresh"
+                "sample_type": "mgh125 fresh",
+                "tissue": "glioma"
             },
+            "labels": {
+                "disease": "glioma brain cancer",
+                "group": "patient",
+                "tissue": "glioma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186981",
-            "scrnaseq": false
+            "sample_source": [
+                "glioma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "MGH125_fresh_channel1"
         },
         "GSM4186982": {
             "BioSample": "SAMN13348402",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348402",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-443-SMP-5491 CST"
+                "sample_type": "htapp-443-smp-5491 cst",
+                "tissue": "glioma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "glioma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186982",
-            "scrnaseq": false
+            "sample_source": [
+                "glioma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-443-SMP-5491_CST_channel1"
         },
         "GSM4186983": {
             "BioSample": "SAMN13348401",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348401",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "CLL-pilot1 fresh"
+                "sample_type": "cll-pilot1 fresh",
+                "tissue": "cll"
             },
+            "labels": {
+                "disease": "chronic lymphocytic leukemia blood cancer",
+                "group": "patient",
+                "tissue": "cll"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186983",
-            "scrnaseq": false
+            "sample_source": [
+                "CLL"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CLL-pilot1_fresh_channel1"
         },
         "GSM4186984": {
             "BioSample": "SAMN13348400",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348400",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "CLL-pilot1 TST"
+                "sample_type": "cll-pilot1 tst",
+                "tissue": "cll"
             },
+            "labels": {
+                "disease": "chronic lymphocytic leukemia blood cancer",
+                "group": "patient",
+                "tissue": "cll"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186984",
-            "scrnaseq": false
+            "sample_source": [
+                "CLL"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CLL-pilot1_TST_channel1"
         },
         "GSM4186985": {
             "BioSample": "SAMN13348399",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348399",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-624-SMP-3212 fresh"
+                "sample_type": "htapp-624-smp-3212 fresh",
+                "tissue": "ovarian"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "ovarian"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186985",
-            "scrnaseq": false
+            "sample_source": [
+                "ovarian"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-624-SMP-3212_fresh_channel1"
         },
         "GSM4186986": {
             "BioSample": "SAMN13348398",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348398",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-727-SMP-3781 fresh-CD45neg-T1"
+                "sample_type": "htapp-727-smp-3781 fresh-cd45neg-t1",
+                "tissue": "ovarian"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "ovarian"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186986",
-            "scrnaseq": false
+            "sample_source": [
+                "ovarian"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-727-SMP-3781_fresh-CD45neg-T1_channel1"
         },
         "GSM4186987": {
             "BioSample": "SAMN13348397",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348397",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-316-SMP-991 CST"
+                "sample_type": "htapp-316-smp-991 cst",
+                "tissue": "ovarian"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "ovarian"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186987",
-            "scrnaseq": false
+            "sample_source": [
+                "ovarian"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-316-SMP-991_CST_channel1"
         },
         "GSM4186988": {
             "BioSample": "SAMN13348396",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348396",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-316-SMP-991 NST"
+                "sample_type": "htapp-316-smp-991 nst",
+                "tissue": "ovarian"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "ovarian"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186988",
-            "scrnaseq": false
+            "sample_source": [
+                "ovarian"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-316-SMP-991_NST_channel1"
         },
         "GSM4186989": {
             "BioSample": "SAMN13348395",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348395",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-316-SMP-991 TST"
+                "sample_type": "htapp-316-smp-991 tst",
+                "tissue": "ovarian"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "ovarian"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186989",
-            "scrnaseq": false
+            "sample_source": [
+                "ovarian"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-316-SMP-991_TST_channel1"
         },
         "GSM4186990": {
             "BioSample": "SAMN13348394",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348394",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "CY128 nuclei"
+                "sample_type": "cy128 nuclei",
+                "tissue": "melanoma"
             },
+            "labels": {
+                "disease": "melanoma skin cancer",
+                "group": "patient",
+                "tissue": "melanoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186990",
-            "scrnaseq": false
+            "sample_source": [
+                "melanoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CY128_nuclei_channel1"
         },
         "GSM4186991": {
             "BioSample": "SAMN13348393",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348393",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "CY112 nuclei"
+                "sample_type": "cy112 nuclei",
+                "tissue": "melanoma"
             },
+            "labels": {
+                "disease": "melanoma skin cancer",
+                "group": "patient",
+                "tissue": "melanoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186991",
-            "scrnaseq": false
+            "sample_source": [
+                "melanoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CY112_nuclei_channel2"
         },
         "GSM4186992": {
             "BioSample": "SAMN13348392",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348392",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-951-SMP-4652 TST-V2"
+                "sample_type": "htapp-951-smp-4652 tst-v2",
+                "tissue": "sarcoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "sarcoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186992",
-            "scrnaseq": false
+            "sample_source": [
+                "sarcoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-951-SMP-4652_TST-V2_channel1"
         },
         "GSM4186993": {
             "BioSample": "SAMN13348391",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348391",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-951-SMP-4652 TST-V3"
+                "sample_type": "htapp-951-smp-4652 tst-v3",
+                "tissue": "sarcoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "sarcoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186993",
-            "scrnaseq": false
+            "sample_source": [
+                "sarcoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-951-SMP-4652_TST-V3_channel1"
         },
         "GSM4186994": {
             "BioSample": "SAMN13348390",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348390",
             "SRR": {},
-            "Sample_description": [
-                "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file.",
-                "For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets."
-            ],
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
             "characteristics": {
-                "sample_type": "HTAPP-951-SMP-4652 CST-V3"
+                "sample_type": "htapp-951-smp-4652 cst-v3",
+                "tissue": "sarcoma"
             },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "sarcoma"
+            },
+            "protocol": [
+                "rna"
+            ],
             "sample_id": "GSM4186994",
-            "scrnaseq": false
+            "sample_source": [
+                "sarcoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-951-SMP-4652_CST-V3_channel1"
+        },
+        "GSM4186995": {
+            "BioSample": "SAMN13348389",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13348389",
+            "SRR": {},
+            "Sample_description": "Single-cell or single nucleus RNA-Seq (10X). The count matrix is stored as an HDF5 file. For each cell or nucleus (row): cell name, annotation, median number of reads per cell, median number of UMIs per cell, median number of genes per cell, median fraction of UMIs mapping to mitochondrial genes, fraction of cells called as empty droplets, and fraction of cells called as doublets.",
+            "characteristics": {
+                "sample_type": "htapp-975-smp-4771 tst-v3",
+                "tissue": "sarcoma"
+            },
+            "labels": {
+                "disease": "neuroblastoma",
+                "group": "patient",
+                "tissue": "sarcoma"
+            },
+            "protocol": [
+                "rna"
+            ],
+            "sample_id": "GSM4186995",
+            "sample_source": [
+                "sarcoma"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HTAPP-975-SMP-4771_TST-V3_channel1"
         }
     },
-    "taxid": "9606",
+    "summary": "Single cell genomics is essential to chart tumor ecosystems. While single cell RNA-Seq (scRNA-Seq) profiles RNA from cells dissociated from fresh tumors, single nucleus RNA-Seq (snRNA-Seq) is needed to profile frozen or hard-to-dissociate tumors. Each requires customization to different tissue and tumor types, posing a barrier to adoption. Here, we developed a systematic toolbox for profiling fresh and frozen clinical tumor samples using scRNA-Seq and snRNA-Seq, respectively. We analyzed 212,498 cells and nuclei from 39 samples across 23 specimens spanning eight tumor types of varying tissue and sample characteristics. We evaluated protocols by cell and nucleus quality, recovery rate, and cellular composition. scRNA-Seq and snRNA-Seq from matched samples recovered the same cell types, but at different proportions. Our work provides guidance for studies in a broad range of tumors, including criteria for testing and selecting methods from the toolbox for other tumors, thus paving the way for charting tumor atlases.",
+    "taxid": [
+        "9606"
+    ],
     "title": "A single-cell and single-nucleus RNA-Seq toolbox for fresh and frozen human tumors"
 }

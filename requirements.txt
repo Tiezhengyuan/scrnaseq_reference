@@ -5,3 +5,5 @@ scikit-learn
 torch
 biopython
 snakemake==8.27.1
+scanpy==1.11.0
+pyroe==0.9.3

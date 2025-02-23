@@ -5,6 +5,7 @@
         "34869270"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164829",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE164nnn/GSE164829/soft/GSE164829_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL20301",
@@ -17,65 +18,105 @@
             "BioSample": "SAMN17315479",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17315479",
             "SRR": {},
-            "Sample_description": [
-                "WholeLungeDissociates.raw.counts.processed.mtx",
-                "WholeLungeDissociates.processed.genes.tsv",
-                "WholeLungeDissociates.processed.barcodes.tsv"
-            ],
+            "Sample_description": "WholeLungeDissociates.raw.counts.processed.mtx WholeLungeDissociates.processed.genes.tsv WholeLungeDissociates.processed.barcodes.tsv",
             "characteristics": {
-                "disease_state": "Control",
-                "tissue": "Whole Lung Dissociate"
+                "disease_state": "control",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM5020379",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "115C"
         },
         "GSM5020380": {
             "BioSample": "SAMN17315478",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17315478",
             "SRR": {},
-            "Sample_description": [
-                "WholeLungeDissociates.raw.counts.processed.mtx",
-                "WholeLungeDissociates.processed.genes.tsv",
-                "WholeLungeDissociates.processed.barcodes.tsv"
-            ],
+            "Sample_description": "WholeLungeDissociates.raw.counts.processed.mtx WholeLungeDissociates.processed.genes.tsv WholeLungeDissociates.processed.barcodes.tsv",
             "characteristics": {
-                "disease_state": "Control",
-                "tissue": "Whole Lung Dissociate"
+                "disease_state": "control",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM5020380",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "1931C"
         },
         "GSM5020381": {
             "BioSample": "SAMN17315477",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17315477",
             "SRR": {},
-            "Sample_description": [
-                "WholeLungeDissociates.raw.counts.processed.mtx",
-                "WholeLungeDissociates.processed.genes.tsv",
-                "WholeLungeDissociates.processed.barcodes.tsv"
-            ],
+            "Sample_description": "WholeLungeDissociates.raw.counts.processed.mtx WholeLungeDissociates.processed.genes.tsv WholeLungeDissociates.processed.barcodes.tsv",
             "characteristics": {
-                "disease_state": "Control",
-                "tissue": "Whole Lung Dissociate"
+                "disease_state": "control",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM5020381",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "026C"
         },
         "GSM5020382": {
             "BioSample": "SAMN17315476",
             "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17315476",
             "SRR": {},
-            "Sample_description": [
-                "WholeLungeDissociates.raw.counts.processed.mtx",
-                "WholeLungeDissociates.processed.genes.tsv",
-                "WholeLungeDissociates.processed.barcodes.tsv"
-            ],
+            "Sample_description": "WholeLungeDissociates.raw.counts.processed.mtx WholeLungeDissociates.processed.genes.tsv WholeLungeDissociates.processed.barcodes.tsv",
             "characteristics": {
-                "disease_state": "Control",
-                "tissue": "Whole Lung Dissociate"
+                "disease_state": "control",
+                "tissue": "whole lung dissociate"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole lung dissociate"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM5020382",
-            "scrnaseq": false
+            "sample_source": [
+                "Whole Lung Dissociate"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NDRI3"
         },
         "GSM5020383": {
             "BioSample": "SAMN17315475",
@@ -83,20 +124,48 @@
             "SRA": "SRX9849883",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9849883",
             "SRR": {
-                "SRR13436369": {},
-                "SRR13436370": {}
+                "SRR13436369": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/069/SRR13436369/SRR13436369_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/069/SRR13436369/SRR13436369_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436369_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436369_2.fastq.gz"
+                    ]
+                },
+                "SRR13436370": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/070/SRR13436370/SRR13436370_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/070/SRR13436370/SRR13436370_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436370_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436370_1.fastq.gz"
+                    ]
+                }
             },
-            "Sample_description": [
-                "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx",
-                "PrimaryPulmonaryEndothelialCells.processed.genes.tsv",
-                "PrimaryPulmonaryEndothelialCells.processed.barcodes.tsv"
-            ],
+            "Sample_description": "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx PrimaryPulmonaryEndothelialCells.processed.genes.tsv PrimaryPulmonaryEndothelialCells.processed.barcodes.tsv",
             "characteristics": {
-                "disease_state": "Control",
+                "disease_state": "control",
                 "tissue": "primary pulmonary arterial cells"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "primary pulmonary arterial cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM5020383",
-            "scrnaseq": false
+            "sample_source": [
+                "primary pulmonary arterial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HPAEC0"
         },
         "GSM5020384": {
             "BioSample": "SAMN17315474",
@@ -104,22 +173,102 @@
             "SRA": "SRX9849884",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9849884",
             "SRR": {
-                "SRR13436371": {},
-                "SRR13436372": {}
+                "SRR13436371": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/071/SRR13436371/SRR13436371_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/071/SRR13436371/SRR13436371_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436371_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436371_1.fastq.gz"
+                    ]
+                },
+                "SRR13436372": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/072/SRR13436372/SRR13436372_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/072/SRR13436372/SRR13436372_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436372_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436372_2.fastq.gz"
+                    ]
+                }
             },
-            "Sample_description": [
-                "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx",
-                "PrimaryPulmonaryEndothelialCells.processed.genes.tsv",
-                "PrimaryPulmonaryEndothelialCells.processed.barcodes.tsv"
-            ],
+            "Sample_description": "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx PrimaryPulmonaryEndothelialCells.processed.genes.tsv PrimaryPulmonaryEndothelialCells.processed.barcodes.tsv",
             "characteristics": {
-                "disease_state": "Control",
+                "disease_state": "control",
                 "tissue": "primary pulmonary venous cells"
             },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "primary pulmonary venous cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
             "sample_id": "GSM5020384",
-            "scrnaseq": false
+            "sample_source": [
+                "primary pulmonary venous cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HPMEC0"
+        },
+        "GSM5020385": {
+            "BioSample": "SAMN17315473",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17315473",
+            "SRA": "SRX9849885",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9849885",
+            "SRR": {
+                "SRR13436373": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/073/SRR13436373/SRR13436373_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/073/SRR13436373/SRR13436373_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436373_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436373_2.fastq.gz"
+                    ]
+                },
+                "SRR13436374": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/074/SRR13436374/SRR13436374_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR134/074/SRR13436374/SRR13436374_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436374_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE164829/fastq/SRR13436374_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "PrimaryPulmonaryEndothelialCells.raw.counts.processed.mtx PrimaryPulmonaryEndothelialCells.processed.genes.tsv PrimaryPulmonaryEndothelialCells.processed.barcodes.tsv",
+            "characteristics": {
+                "disease_state": "control",
+                "tissue": "primary pulmonary microvascular cells"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "primary pulmonary microvascular cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "single cell",
+                "rna-seq"
+            ],
+            "sample_id": "GSM5020385",
+            "sample_source": [
+                "primary pulmonary microvascular cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HPVEC0"
         }
     },
-    "taxid": "9606",
+    "summary": "Single Cell RNAseq of Whole Lung Dissociates from control lungs and primary pulmonary endothelial cells",
+    "taxid": [
+        "9606"
+    ],
     "title": "Lung and primary pulmonary endothelial single cell RNA seq data"
 }

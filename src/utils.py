@@ -101,10 +101,10 @@ class Utils:
         try:
             if not os.path.isdir(outdir):
                 os.mkdir(outdir)
-            outfile = os.path.join(outdir, file_name)
+            outfile = os.path.join(outdir, file_name + '.json')
             with open(outfile, 'w') as f:
                 json.dump(data, f, indent=4, sort_keys=True)
-            return outfile
+            return os.path.abspath(outfile)
         except Exception as e:
             print(f"Error: Failure in export data to json {outfile}, error={e}")
         return None
@@ -122,6 +122,14 @@ class Utils:
             print(f"Warning: Failure in load data from json {infile}, error={e}")
         return {}
 
+    @staticmethod
+    def to_bash(cmd:list, outdir:str, file_name:str):
+        outfile = os.path.join(outdir, file_name)
+        with open(outfile, 'w') as f:
+            f.write("#!/bin/bash\n")
+            f.write(''.join(cmd))
+        run_cmd = f"cd {os.path.abspath(outdir)} && bash {file_name}"
+        return run_cmd
 
     @staticmethod
     def key_update(data:dict, keys:list, values:list) -> dict:
@@ -163,15 +171,15 @@ class Utils:
         """
         depth-first scan of a nested dictionary.
         return keys in list of which value is {} or []
-        Note: only retrieve 100 items at a time for memory saving
+        Note: only retrieve 0 items at a time for memory saving
         """
         for key, value in data.items():
             current_path = f"{path}/{key}"
             if value == {} or value == []:
                 # print(f"Path: {current_path}, Value: {value}")
                 pool.append(current_path)
-                if len(pool) >= 100:
-                    return None
+                if len(pool) >= 10:
+                    return None        
             elif isinstance(value, dict):
                 Utils.depth_first_scan(value, current_path, pool)
 

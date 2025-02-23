@@ -4,6 +4,7 @@
         "33382972"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217722",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE217nnn/GSE217722/soft/GSE217722_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL21697",
@@ -13,90 +14,184 @@
     ],
     "samples": {
         "GSM6725460": {
-            "Sample_description": [
-                "10x Genomics",
-                "Raw data not provided due to General Data Protection Regulation"
-            ],
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
             "characteristics": {
                 "age": "21 days",
-                "cell_type": "Immune cells",
-                "host_strain": "MISTRG mice",
-                "tissue": "Lung tissue"
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
             },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM6725460",
-            "scrnaseq": false
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 21, sample 1, scRNAseq"
         },
         "GSM6725461": {
-            "Sample_description": [
-                "10x Genomics",
-                "Raw data not provided due to General Data Protection Regulation"
-            ],
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
             "characteristics": {
                 "age": "21 days",
-                "cell_type": "Immune cells",
-                "host_strain": "MISTRG mice",
-                "tissue": "Lung tissue"
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
             },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM6725461",
-            "scrnaseq": false
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 21, sample 2, scRNAseq"
         },
         "GSM6725462": {
-            "Sample_description": [
-                "10x Genomics",
-                "Raw data not provided due to General Data Protection Regulation"
-            ],
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
             "characteristics": {
                 "age": "21 days",
-                "cell_type": "Immune cells",
-                "host_strain": "MISTRG mice",
-                "tissue": "Lung tissue"
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
             },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM6725462",
-            "scrnaseq": false
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 21, sample 3, scRNAseq"
         },
         "GSM6725463": {
-            "Sample_description": [
-                "10x Genomics",
-                "Raw data not provided due to General Data Protection Regulation"
-            ],
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
             "characteristics": {
-                "age": "36 Days",
-                "cell_type": "Immune cells",
-                "host_strain": "MISTRG mice",
-                "tissue": "Lung tissue"
+                "age": "36 days",
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
             },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM6725463",
-            "scrnaseq": false
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 36, sample 4, scRNAseq"
         },
         "GSM6725464": {
-            "Sample_description": [
-                "10x Genomics",
-                "Raw data not provided due to General Data Protection Regulation"
-            ],
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
             "characteristics": {
-                "age": "36 Days",
-                "cell_type": "Immune cells",
-                "host_strain": "MISTRG mice",
-                "tissue": "Lung tissue"
+                "age": "36 days",
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
             },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM6725464",
-            "scrnaseq": false
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 36, sample 5, scRNAseq"
         },
         "GSM6725465": {
-            "Sample_description": [
-                "10x Genomics",
-                "Raw data not provided due to General Data Protection Regulation"
-            ],
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
             "characteristics": {
-                "age": "36 Days",
-                "cell_type": "Immune cells",
-                "host_strain": "MISTRG mice",
-                "tissue": "Lung tissue"
+                "age": "36 days",
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
             },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
             "sample_id": "GSM6725465",
-            "scrnaseq": false
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 36, sample 6, scRNAseq"
+        },
+        "GSM6725466": {
+            "Sample_description": "10x Genomics Raw data not provided due to General Data Protection Regulation",
+            "characteristics": {
+                "age": "36 days",
+                "cell_type": "immune cells",
+                "host_strain": "mistrg mice",
+                "tissue": "lung tissue"
+            },
+            "labels": {
+                "cell_type": "immune cells",
+                "tissue": "lung tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell",
+                "scrna-seq",
+                "rna"
+            ],
+            "sample_id": "GSM6725466",
+            "sample_source": [
+                "Human immune cells from MISTRG humanized mouse"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "day 36, sample 7, scRNAseq"
         }
     },
-    "taxid": "9606",
+    "summary": "The ontogeny of human lung macrophages derived from blood monocytes is poorly understood. In this study, we employed single-cell RNA-sequencing to investigate the heterogeneity of HSPC-derived human lung monocytes and macrophages in the MISTRG humanized mouse model.",
+    "taxid": [
+        "9606"
+    ],
     "title": "Single-cell RNA-sequencing of human lung monocytes and macrophages from MISTRG mice on day 21 or day 36 post-transplantation with human CD34+\u00a0hematopoietic stem and progenitor cells (HSPCs)"
 }

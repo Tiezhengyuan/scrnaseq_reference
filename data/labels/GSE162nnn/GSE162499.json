@@ -4,6 +4,7 @@
         "33514641"
     ],
     "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162499",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162499/soft/GSE162499_family.soft.gz",
     "platform": [
         {
             "platform_id": "GPL15520",
@@ -23,17 +24,36 @@
             "SRA": "SRX9619513",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619513",
             "SRR": {
-                "SRR13181467": {}
+                "SRR13181467": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619513_SRR13181467_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619513_SRR13181467_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "non smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952970",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P47 Tumor"
         },
         "GSM4952971": {
             "BioSample": "SAMN16979783",
@@ -41,17 +61,36 @@
             "SRA": "SRX9619514",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619514",
             "SRR": {
-                "SRR13181468": {}
+                "SRR13181468": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619514_SRR13181468_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619514_SRR13181468_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2b N0",
-                "tumor_type": "CE"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2b n0",
+                "tumor_type": "ce"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952971",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P55 Tumor"
         },
         "GSM4952972": {
             "BioSample": "SAMN16979782",
@@ -59,17 +98,36 @@
             "SRA": "SRX9619515",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619515",
             "SRR": {
-                "SRR13181469": {}
+                "SRR13181469": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619515_SRR13181469_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619515_SRR13181469_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT3 N0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt3 n0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952972",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P57 Tumor"
         },
         "GSM4952973": {
             "BioSample": "SAMN16979781",
@@ -77,17 +135,36 @@
             "SRA": "SRX9619516",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619516",
             "SRR": {
-                "SRR13181470": {}
+                "SRR13181470": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619516_SRR13181470_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619516_SRR13181470_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT3 N0",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt3 n0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952973",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P57 Blood"
         },
         "GSM4952974": {
             "BioSample": "SAMN16979780",
@@ -95,17 +172,36 @@
             "SRA": "SRX9619517",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619517",
             "SRR": {
-                "SRR13181471": {}
+                "SRR13181471": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619517_SRR13181471_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619517_SRR13181471_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT1cNO",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt1cno",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952974",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P58 Tumor"
         },
         "GSM4952975": {
             "BioSample": "SAMN16979779",
@@ -113,17 +209,36 @@
             "SRA": "SRX9619518",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619518",
             "SRR": {
-                "SRR13181472": {}
+                "SRR13181472": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619518_SRR13181472_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619518_SRR13181472_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "F",
+                "sex": "f",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT1cNO",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt1cno",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952975",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P58 Blood"
         },
         "GSM4952976": {
             "BioSample": "SAMN16979777",
@@ -131,17 +246,36 @@
             "SRA": "SRX9619519",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619519",
             "SRR": {
-                "SRR13181473": {}
+                "SRR13181473": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619519_SRR13181473_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619519_SRR13181473_2.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952976",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60 Tumor"
         },
         "GSM4952977": {
             "BioSample": "SAMN16979776",
@@ -149,17 +283,36 @@
             "SRA": "SRX9619520",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619520",
             "SRR": {
-                "SRR13181474": {}
+                "SRR13181474": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619520_SRR13181474_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619520_SRR13181474_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "NSCLC juxta tissue",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "nsclc juxta tissue",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc juxta tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952977",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC juxta tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60 Juxta"
         },
         "GSM4952978": {
             "BioSample": "SAMN16979774",
@@ -170,14 +323,28 @@
                 "SRR13181475": {}
             },
             "characteristics": {
-                "sex": "M",
+                "sex": "m",
                 "smoking_status": "smoker",
-                "tissue": "Blood sample",
-                "tumor_stage": "pT2aN0",
-                "tumor_type": "ADK"
+                "tissue": "blood sample",
+                "tumor_stage": "pt2an0",
+                "tumor_type": "adk"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952978",
-            "scrnaseq": false
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P60 Blood"
         },
         "GSM4952979": {
             "BioSample": "SAMN16979773",
@@ -185,17 +352,36 @@
             "SRA": "SRX9619522",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619522",
             "SRR": {
-                "SRR13181476": {}
+                "SRR13181476": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619522_SRR13181476_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619522_SRR13181476_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "NSCLC tumor tissue",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "nsclc tumor tissue",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc tumor tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952979",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC tumor tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61 Tumor"
         },
         "GSM4952980": {
             "BioSample": "SAMN16979802",
@@ -203,19 +389,73 @@
             "SRA": "SRX9619523",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619523",
             "SRR": {
-                "SRR13181477": {}
+                "SRR13181477": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619523_SRR13181477_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE162499/fastq/SRX9619523_SRR13181477_1.fastq.gz"
+                    ]
+                }
             },
             "characteristics": {
-                "sex": "M",
-                "smoking_status": "NA",
-                "tissue": "NSCLC juxta tissue",
-                "tumor_stage": "NA",
-                "tumor_type": "NA"
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "nsclc juxta tissue",
+                "tumor_stage": "na",
+                "tumor_type": "na"
             },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "nsclc juxta tissue"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
             "sample_id": "GSM4952980",
-            "scrnaseq": false
+            "sample_source": [
+                "NSCLC juxta tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61 Juxta"
+        },
+        "GSM4952981": {
+            "BioSample": "SAMN16979801",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16979801",
+            "SRA": "SRX9619524",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9619524",
+            "SRR": {
+                "SRR13181478": {}
+            },
+            "characteristics": {
+                "sex": "m",
+                "smoking_status": "na",
+                "tissue": "blood sample",
+                "tumor_stage": "na",
+                "tumor_type": "na"
+            },
+            "labels": {
+                "disease": "non-small cell lung cancer",
+                "disease_state": "early",
+                "group": "patient",
+                "tissue": "blood sample"
+            },
+            "protocol": [
+                "cdna",
+                "single cell"
+            ],
+            "sample_id": "GSM4952981",
+            "sample_source": [
+                "Blood sample"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P61 Blood"
         }
     },
-    "taxid": "9606",
+    "summary": "Purpose: The goal of this study is to delineate the processes of CD8+ T cell differentiation in primary NSCLC by integrating transcriptomic and tcr profiles. Methods: A combination of single cell RNA and TCR sequencing (scRNA-seq and scTCR- seq) was used, in tumors, normal tissues adjacent to the tumor (juxta-tumor), and circulating blood derived from 11 patients with untreated, primary NSCLC. Results: We show that precursor, memory-like CD8+ TILs include 2 main populations: one is also present in the blood (circulating precursors); the other is also present in juxta-tumor tissue and bears markers of memory resident T cells (resident precursors). Both precursor subtypes differentiate into a main population of terminal effectors through a similar \u201ctransitional\u201d stage. Terminal effectors are not observed in blood or juxta-tumor tissue, are more clonally expanded, and express signatures of exhaustion. A significant proportion of transitional and terminal effectors also express cell cycle signatures and Ki67, suggesting that clonal expansion occurs in situ is part of the terminal differentiation process.",
+    "taxid": [
+        "9606"
+    ],
     "title": "Contribution of resident and circulating precursors to tumor-infiltrating CD8+ T cell populations in lung cancer [scTCR-seq]"
 }

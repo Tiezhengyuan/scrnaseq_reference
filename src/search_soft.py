@@ -182,11 +182,12 @@ class SearchSoft:
         key, rec = '', {}
         # names = ['DATABASE', 'SERIES', 'PLATFORM']
         for line in self.line_iter():
-            if line.startswith('^') or line.startswith('#'):
+            if line.startswith('^'):
                 # push rec to data before 
-                if key not in data:
-                    data[key] = []
-                data[key].append(rec)
+                if key:
+                    if key not in data:
+                        data[key] = []
+                    data[key].append(rec)
                 # get new rec
                 item = self.split_row(line)
                 key = item[0]
@@ -196,6 +197,11 @@ class SearchSoft:
                 if item[0] not in rec:
                     rec[item[0]] = []
                 rec[item[0]].append(item[1])
+        else:
+            if key:
+                if key not in data:
+                    data[key] = []
+                data[key].append(rec)
         return data
 
     def split_row(self, line) -> tuple:

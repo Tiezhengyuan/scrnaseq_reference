@@ -21,28 +21,29 @@ class RetrieveUrl:
         parse SRRxxxx ~ URLs of fastq files
         retrun URLs of *.fastq.gz files
         '''
-        ftp = ftplib.FTP(
-            host=RetrieveUrl.url,
-            user='anonymous',
-            passwd='anonymous',
-            encoding='utf-8'
-        )
-
-        gz = []
         keys = Slicer.SRR(srr_acc)
         path = ['vol1', 'fastq'] + keys
         try:
+            ftp = ftplib.FTP(
+                host=RetrieveUrl.url,
+                user='anonymous',
+                passwd='anonymous',
+                encoding='utf-8'
+            )
             # change directory
             ftp.cwd('/'.join(path))
             # retrieve gz names
             gz = ftp.nlst()
             endpoint = RetrieveUrl.url + str(ftp.pwd())
             gz = [os.path.join(endpoint, i) for i in gz]
+            ftp.quit()
+            print(srr_acc, end=',')
+            return gz
         except Exception as e:
-            print(e)
-        
-        ftp.quit()
-        return gz
+            # print(srr_acc, e)
+            if 'Failed to change directory' in str(e):
+                return None
+        return []
 
     @staticmethod
     def get_gz(ftp, srr_acc) -> list:
@@ -92,7 +93,7 @@ class RetrieveUrl:
         '''
         retrieve endpoints given its path in FTP
         '''
-        res = []
+        curr_path, res = None, []
         try:
             ftp = ftplib.FTP(
                 host=RetrieveUrl.url,
@@ -101,12 +102,13 @@ class RetrieveUrl:
                 passwd='anonymous'
             )
             for path in endpoints_pool:
+                curr_path = path
                 ftp.cwd(path)
                 items = ftp.nlst() if pattern is None else \
                     [i for i in ftp.nlst() if i.startswith(pattern)]
                 res.append((path,items))
         except Exception as e:
-            print(f"error={e}, path={path}")
+            print(f"error={e}, path={curr_path}")
         return res
 
     @staticmethod
