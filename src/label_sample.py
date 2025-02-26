@@ -153,6 +153,7 @@ class LabelSample:
         self._disease_patient('non-small cell lung cancer')
 
     def GSE148729(self):
+        self._update('technology', "10x3v2")
         if self.lb.get('cell_line') == 'h1299':
             self._update('cell_type', "lung cancer cell line")
             self._update('tissue', "lung")
@@ -230,6 +231,7 @@ class LabelSample:
             self._update('cell_type', "melanoma cell line")
 
     def GSE286399(self):
+        self._update('technology', "10x3v2")
         if self.lb['cell_line'] == 'nci-h226':
             self._update('cell_line', 'h226')
             self._update('tissue', 'lung')

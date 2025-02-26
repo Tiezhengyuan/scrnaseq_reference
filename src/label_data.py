@@ -3,18 +3,22 @@ Prepare GEO data, which will be used for downloading and labaling
 '''
 import os
 import json
+import shutil
 from typing import Iterable
+
 from utils import Utils
 from slicer import Slicer
 
 class LabelData:
     http = 'https://www.ncbi.nlm.nih.gov/geo'
 
-    def __init__(self, data_dir, name:str=None, outdir:str=None):
+    def __init__(self, data_dir, name:str=None, outdir:str=None, is_paired:bool=True):
         self.data_dir = data_dir
         self.labels_dir = os.path.join(self.data_dir, 'labels')
         self.name = name
         self.outdir = outdir
+        self.is_paired = is_paired
+        self.cmd_pool = []
 
     def sample_iter(self) -> Iterable:
         '''
@@ -36,6 +40,7 @@ class LabelData:
             for sample_id, sample in samples.items():
                 if sample.get('SRA') and sample.get('SRR'):
                     run_acc = sample['SRA']
+                    # initialize fastq_sample
                     fastq_sample = sample['labels']
                     fastq_sample['sample_sheet'] = []
                     for srr_acc, v in sample['SRR'].items():
@@ -55,7 +60,13 @@ class LabelData:
                                 'fastq_1': ','.join(fq1),
                                 'fastq_2': ','.join(fq2),
                             }
-                            fastq_sample['sample_sheet'].append(rec)
+                            # only paried-end
+                            if self.is_paired is True:
+                                if rec.get('fastq_2'):
+                                    fastq_sample['sample_sheet'].append(rec)
+                            else:
+                                if not rec.get('fastq_2'):
+                                    fastq_sample['sample_sheet'].append(rec)
                     if fastq_sample['sample_sheet']:
                         yield sample, geo, run_acc, fastq_sample
 
@@ -109,16 +120,21 @@ class LabelData:
         print('Count metadata:', json.dumps(info, indent=4))
         return None
 
-    def to_json(self, data):
-        outfile = Utils.to_json(data, self.data_dir, self.name)
+    def save_metadata(self, data):
+        outdir = os.path.join(self.outdir, self.name)
+        prefix = 'paired' if self.is_paired else 'single'
+        file_name = prefix + '_' + self.name
+        outfile = Utils.to_json(data, outdir, file_name)
         print('metadata: ', os.path.abspath(outfile))
 
-    def to_sample_sheet(self, samples:dict):
+    def to_sample_sheet(self, samples:dict, prefix:str):
         '''
         export to samplesheet_*.csv for nf-core/scrna-seq
         '''
         for geo, sample_sheet in samples.items():
-            outdir = Utils.init_dir(self.outdir, [self.name, geo])
+            outdir = Utils.init_dir(self.outdir, [self.name, prefix + '_' + geo])
+            
+            # samplesheet.csv
             sample_sheet = sorted(sample_sheet, key=lambda x: x['sample'])
             headers = ['sample', 'fastq_1', 'fastq_2']
             outfile = os.path.join(outdir, "samplesheet.csv")
@@ -128,11 +144,15 @@ class LabelData:
                     rec = [item[i] for i in headers if i in item]
                     line = ','.join(rec) + '\n'
                     f.write(line)
-            print('samplesheet: ', os.path.abspath(outfile))
+            
+            # copy params.config
+            default_config = 'constants/scrnaseq_params.config'
+            outfile = os.path.join(outdir, 'params.config')
+            shutil.copyfile(default_config, outfile)
+            cmd = f"cd {outdir} && nextflow run nf-core/scrnaseq -r 3.0.0 -c params.config"
+            self.cmd_pool.append(cmd)
 
-    # def to_bash(self):
-    #     '''
-    #     '''
-    #     cmd = [
-    #         "nextflow run nf-core/scrnaseq -r \"
-    #     ]
+    def nf_cmd(self):
+        for i in self.cmd_pool:
+            print(i)
+

@@ -326,6 +326,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/007/SRR8448147/SRR8448147_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/007/SRR8448147/SRR8448147_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448147_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448147_1.fastq.gz"
                     ]
                 }
             },

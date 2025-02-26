@@ -58222,6 +58222,9 @@
                 "SRR15741096": {
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/096/SRR15741096/SRR15741096.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE183590/fastq/SRR15741096.fastq.gz"
                     ]
                 }
             },

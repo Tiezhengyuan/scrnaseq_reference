@@ -3314,6 +3314,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/084/SRR13615084/SRR13615084_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/084/SRR13615084/SRR13615084_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615084_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166059/fastq/SRR13615084_1.fastq.gz"
                     ]
                 },
                 "SRR13615085": {

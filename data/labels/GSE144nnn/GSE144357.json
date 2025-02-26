@@ -23583,6 +23583,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/049/SRR10974649/SRR10974649_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/049/SRR10974649/SRR10974649_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974649_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974649_2.fastq.gz"
                     ]
                 },
                 "SRR10974650": {
@@ -23699,12 +23703,20 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/017/SRR10974717/SRR10974717_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/017/SRR10974717/SRR10974717_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974717_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974717_1.fastq.gz"
                     ]
                 },
                 "SRR10974718": {
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/018/SRR10974718/SRR10974718_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/018/SRR10974718/SRR10974718_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974718_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974718_1.fastq.gz"
                     ]
                 },
                 "SRR10974719": {
@@ -24041,6 +24053,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/052/SRR10974752/SRR10974752_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/052/SRR10974752/SRR10974752_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974752_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10974752_1.fastq.gz"
                     ]
                 },
                 "SRR10974753": {
@@ -24247,6 +24263,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/038/SRR10976738/SRR10976738_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/038/SRR10976738/SRR10976738_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976738_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976738_2.fastq.gz"
                     ]
                 },
                 "SRR10976739": {
@@ -24653,6 +24673,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/079/SRR10976779/SRR10976779_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/079/SRR10976779/SRR10976779_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976779_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976779_1.fastq.gz"
                     ]
                 },
                 "SRR10976780": {
@@ -24799,6 +24823,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/006/SRR10976906/SRR10976906_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/006/SRR10976906/SRR10976906_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976906_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976906_1.fastq.gz"
                     ]
                 },
                 "SRR10976907": {
@@ -25175,6 +25203,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/044/SRR10976944/SRR10976944_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/044/SRR10976944/SRR10976944_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976944_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976944_2.fastq.gz"
                     ]
                 },
                 "SRR10976945": {
@@ -25201,12 +25233,20 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/047/SRR10976947/SRR10976947_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/047/SRR10976947/SRR10976947_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976947_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976947_1.fastq.gz"
                     ]
                 },
                 "SRR10976948": {
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/048/SRR10976948/SRR10976948_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/048/SRR10976948/SRR10976948_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976948_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976948_1.fastq.gz"
                     ]
                 },
                 "SRR10976949": {
@@ -25259,6 +25299,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/054/SRR10976954/SRR10976954_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/054/SRR10976954/SRR10976954_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976954_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10976954_2.fastq.gz"
                     ]
                 },
                 "SRR10976955": {
@@ -25417,6 +25461,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/027/SRR10977027/SRR10977027_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/027/SRR10977027/SRR10977027_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10977027_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10977027_2.fastq.gz"
                     ]
                 },
                 "SRR10977028": {
@@ -25583,6 +25631,10 @@
                     "ftp.sra.ebi.ac.uk": [
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/044/SRR10977044/SRR10977044_1.fastq.gz",
                         "ftp.sra.ebi.ac.uk/vol1/fastq/SRR109/044/SRR10977044/SRR10977044_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10977044_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE144357/fastq/SRR10977044_1.fastq.gz"
                     ]
                 },
                 "SRR10977045": {
