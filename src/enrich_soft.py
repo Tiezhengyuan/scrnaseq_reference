@@ -9,7 +9,6 @@ import requests
 
 from typing import Iterable
 from utils import Utils
-from label_sample import LabelSample
 
 
 class EnrichSoft:
@@ -94,15 +93,14 @@ class EnrichSoft:
                     _sample['sample_source'] = v
                     if v:
                         _sample['characteristics']['tissue'] = v[0].lower()
-                elif '_protocol' in k or '_data_processing' in k:
-                    self.sample_protocol(_sample['protocol'], v)
-            # retrieve protocol from sample_title
-            self.sample_protocol(_sample['protocol'], sample.get('Sample_title', []))
-            _sample['protocol'] = list(set(_sample['protocol']))
+            #     elif '_protocol' in k or '_data_processing' in k:
+            #         self.sample_protocol(_sample['protocol'], v)
+            # # retrieve protocol from sample_title
+            # self.sample_protocol(_sample['protocol'], sample.get('Sample_title', []))
+            # _sample['protocol'] = list(set(_sample['protocol']))
 
             # add 'labels' into _sample
             self.sample_labels(_sample)
-            LabelSample(self.geo, _sample)()
 
             res[sample_id] = _sample
 
@@ -171,7 +169,7 @@ class EnrichSoft:
 
         # retrieve keywords
         pattern = ['cdna', 'sequencing', 'gdna', 'rna-seq', \
-            'total rna', 'rna', 'genomic dna',]
+            'total rna', 'rna', 'genomic dna', 'long-read']
         pattern = '|'.join(pattern)
         res = re.findall(pattern, v)
         [protocol.append(i) for i in res if i not in protocol]

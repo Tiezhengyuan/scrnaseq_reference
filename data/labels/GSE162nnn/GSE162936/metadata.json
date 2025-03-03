@@ -1,0 +1,114 @@
+{
+    "GEO": "GSE162936",
+    "PMID": [
+        "33500718"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162936",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162936/soft/GSE162936_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4968655": {
+            "BioSample": "SAMN17039449",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17039449",
+            "SRA": "SRX9661289",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9661289",
+            "SRR": {
+                "SRR13228929": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR132/029/SRR13228929/SRR13228929.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162936/fastq/SRX9661289_SRR13228929.fastq.gz"
+                    ]
+                },
+                "SRR13228930": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR132/030/SRR13228930/SRR13228930.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162936/fastq/SRR13228930.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_line": "rues2 human embryonic stem cell",
+                "cell_type": "rues2-derived lung cells",
+                "time": "day50",
+                "tissue": "lung cells"
+            },
+            "labels": {
+                "cell_line": "rues2",
+                "cell_type": "rues2-derived lung cells",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM4968655",
+            "sample_source": [
+                "Lung cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "hESC_lung_1"
+        },
+        "GSM4968656": {
+            "BioSample": "SAMN17039448",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17039448",
+            "SRA": "SRX9661290",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX9661290",
+            "SRR": {
+                "SRR13228931": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR132/031/SRR13228931/SRR13228931.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162936/fastq/SRR13228931.fastq.gz"
+                    ]
+                },
+                "SRR13228932": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR132/032/SRR13228932/SRR13228932.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE162936/fastq/SRR13228932.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_line": "rues2 human embryonic stem cell",
+                "cell_type": "rues2-derived lung cells",
+                "time": "day50",
+                "tissue": "lung cells"
+            },
+            "labels": {
+                "cell_line": "rues2",
+                "cell_type": "rues2-derived lung cells",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM4968656",
+            "sample_source": [
+                "Lung cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "hESC_lung_2"
+        }
+    },
+    "summary": "Study transcriptomes on the lung cells derived from hESC at day50",
+    "taxid": [
+        "9606"
+    ],
+    "title": "scRNA profiles on hESC-derived lung cells"
+}

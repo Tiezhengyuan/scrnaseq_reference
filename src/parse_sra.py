@@ -73,6 +73,7 @@ class ParseSra:
         '''
         parse SRR given biosample accession
         '''
+        m = n = 0
         samples = enriched_data['samples']
         for sample_id, sample in samples.items():
             key = sample.get('BioSample')
@@ -84,6 +85,9 @@ class ParseSra:
                 for srr_acc in values:
                     if srr_acc not in sample['SRR']:
                         sample['SRR'][srr_acc] = {}
+            n += len(sample['SRR'])
+            m += 1
+        print(f"biosamples = {m}, SRR accessions = {n}.")
         return enriched_data
     
     @staticmethod
@@ -165,6 +169,31 @@ class ParseSra:
                     if srx_acc:
                         unparsing.append(srr_acc)
         return data, unparsing
+
+    @staticmethod
+    def parse_srr_urls(data:dict, urls:dict):
+        '''
+        Integrate URLs of SRR into data
+        '''
+        stat = ['srr', 'available', 'unknown', 'updated']
+        stat = {i:0 for i in stat}
+
+        key = 'ftp.sra.ebi.ac.uk'
+        geo = data['GEO']
+        for sample in data['samples'].values():
+            stat['srr'] += 1
+            for srr_acc in sample.get('SRR', {}):
+                if key not in sample['SRR'][srr_acc]:
+                    if srr_acc in urls[geo]:
+                        sample['SRR'][srr_acc][key] = urls[geo][srr_acc]
+                        stat['updated'] += 1
+                if key in sample['SRR'][srr_acc]:
+                    stat['available'] += 1
+                else:
+                    stat['unknown'] += 1
+        print(stat)
+        return data
+
 
 
     #TODO

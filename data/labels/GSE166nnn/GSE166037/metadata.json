@@ -1,0 +1,164 @@
+{
+    "GEO": "GSE166037",
+    "PMID": [
+        "33705361"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166037",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE166nnn/GSE166037/soft/GSE166037_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5060554": {
+            "BioSample": "SAMN17764672",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764672",
+            "SRA": "SRX10008475",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008475",
+            "SRR": {
+                "SRR13615078": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/078/SRR13615078/SRR13615078_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/078/SRR13615078/SRR13615078_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615078_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615078_1.fastq.gz"
+                    ]
+                },
+                "SRR13615079": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/079/SRR13615079/SRR13615079_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/079/SRR13615079/SRR13615079_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615079_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615079_2.fastq.gz"
+                    ]
+                },
+                "SRR13615080": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/080/SRR13615080/SRR13615080_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/080/SRR13615080/SRR13615080_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615080_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615080_1.fastq.gz"
+                    ]
+                },
+                "SRR13615081": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/081/SRR13615081/SRR13615081_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/081/SRR13615081/SRR13615081_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615081_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615081_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "epcam+",
+                "disease": "ipf",
+                "sample_id": "sam24345161",
+                "tissue": "lung explant"
+            },
+            "labels": {
+                "cell_type": "epcam+",
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "tissue": "lung explant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5060554",
+            "sample_source": [
+                "lung explant"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "EPCAM"
+        },
+        "GSM5060555": {
+            "BioSample": "SAMN17764671",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764671",
+            "SRA": "SRX10008476",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008476",
+            "SRR": {
+                "SRR13615082": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/082/SRR13615082/SRR13615082_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/082/SRR13615082/SRR13615082_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615082_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615082_1.fastq.gz"
+                    ]
+                },
+                "SRR13615083": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/083/SRR13615083/SRR13615083_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/083/SRR13615083/SRR13615083_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615083_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615083_2.fastq.gz"
+                    ]
+                },
+                "SRR13615084": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/084/SRR13615084/SRR13615084_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/084/SRR13615084/SRR13615084_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615084_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615084_1.fastq.gz"
+                    ]
+                },
+                "SRR13615085": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/085/SRR13615085/SRR13615085_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/085/SRR13615085/SRR13615085_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615085_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE166037/fastq/SRR13615085_2.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "cd90+",
+                "disease": "ipf",
+                "sample_id": "sam24345162",
+                "tissue": "lung explant"
+            },
+            "labels": {
+                "cell_type": "cd90+",
+                "disease": "idiopathic pulmonary fibrosis lung disease",
+                "group": "patient",
+                "tissue": "lung explant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5060555",
+            "sample_source": [
+                "lung explant"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CD90"
+        }
+    },
+    "summary": "Recent publications have implicated senescent alveolar epithelial cells as the cause of lung remodeling and fibrosis. We sought to better understand the heterogeneity in the basal epithelial cell population, especially with regards to characterizing senescent alveolar epithelial cells. The basal cell cultures contain a portion of cells that display a senescent phenotype and stain for a marker of senescence. We also sought to understanding the heterogeneity in the fibroblast population. Primary fibroblast cultures stained with myofibroblast markers show that only a portion of the cells are positive for ACTA2, suggesting that there are at least two distinct populations in this particular cell type. The diversity in this cell type remains uncharacterized at this point.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Profiling of cultured primary stromal cells from human lung"
+}

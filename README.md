@@ -1,9 +1,9 @@
 # scrnaseq_reference
 This study builds reference data sets based on GEO public ssRNA-seq data, and create a model for cell type annotations from human lung tissues, tumors, or cell lines.
 
-Compared with bulk mRNA-seq, spatial transcriptomics requires clustering or cell type identifications before step into further bioinformatics analysis. In lab reseach or clinical cohort study, one or multiple biosamples from the tissues of healthy donors, or tumor cell lines are included as references. However, in some cases, for example, some clinical sequencing trails collect spatial lung tissues without knowning about tumor or normal. In such cases, inclusion of multiple standard biosamples as references cost much. Therefore, employ standard references is an alternative approach. Compared with biomarker approach, the input data is entire expression profile of a single cell results in higher resolution of cell type identification.
 
 ## introduction
+Compared with bulk mRNA-seq, spatial transcriptomics requires clustering or cell type identifications before step into further bioinformatics analysis. In lab reseach or clinical cohort study, one or multiple biosamples from the tissues of healthy donors, or tumor cell lines are included as references. However, in some cases, for example, some clinical sequencing trails collect spatial lung tissues without knowning about tumor or normal. In such cases, inclusion of multiple standard biosamples as references cost much. Therefore, employ standard references is an alternative approach. Compared with biomarker approach, the input data is entire expression profile of a single cell results in higher resolution of cell type identification.
 
 
 ## build reference datasets

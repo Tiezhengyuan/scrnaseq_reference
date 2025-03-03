@@ -4,12 +4,14 @@ import shutil
 from typing import Iterable
 
 from utils import Utils
+from slicer import Slicer
 
 class CreateConfig:
-    constants_dir = os.path.join(os.path.dirname(__file__), 'constants')
+    src_dir = os.path.dirname(__file__)
 
-    def __init__(self, meta_dir:str):
-        self.meta_dir = meta_dir
+    def __init__(self, outdir:str, geo:str):
+        self.outdir = Utils.init_dir(outdir, [geo,])
+        self.geo = geo
 
     @staticmethod
     def get_biosamples(meta_dir:str) -> Iterable:
@@ -27,32 +29,86 @@ class CreateConfig:
                     biosamples.append(info['BioSample'])
             if biosamples:
                 yield geo, biosamples
-    
-    @staticmethod
-    def fetch_geo(geo:str, samples:list, outdir:str) -> str:
+
+    def fetch_biosample(self, sample_iter) -> str:
         '''
+        build two files
         ids used for nf-core/fetchngs
         '''
-        outdir = os.path.join(outdir, geo)
-        if not os.path.isdir(outdir):
-            os.mkdir(outdir)
-
-        # build two files
-        # ids file
-        id_file = os.path.join(outdir, "ids.csv")
-        with open(id_file, 'w') as f1:
-            f1.write('\n'.join(samples))
+        # ids.csv
+        n, biosamples = 0, []
+        for sample in sample_iter:
+            n += 1
+            if 'SRA' in sample:
+                biosamples.append(sample['BioSample'])
+        print('Number of biosamples: ', n)
+        print('Number of biosamples with SRR: ', len(biosamples))
+        self.to_text(biosamples, 'ids.csv')
         
         # copy params.config
-        default_config = os.path.join(CreateConfig.constants_dir, "params.config")
-        shutil.copy(default_config, outdir)
+        constants_dir = os.path.join(CreateConfig.src_dir, 'constants')
+        default_config = os.path.join(constants_dir, "ids_params.config")
+        shutil.copy(default_config, self.outdir)
 
         # bash file
-        bash_file = os.path.join(outdir, "run.sh")
-        with open(bash_file, 'w') as f2:
-            cmd = [
-                'cd ' + outdir,
-                'nextflow run nf-core/fetchngs -r 1.12.0 -profile docker -c params.config',
-            ]
-            f2.write('\n'.join(cmd))
-        return bash_file
+        cmd = [
+            'cd ' + self.outdir,
+            'nextflow run nf-core/fetchngs -r 1.12.0 \\',
+            '  -profile docker -c ids_params.config',
+        ]
+        bash_file = self.to_text(cmd, 'fetch1.sh')
+        print(f"bash {bash_file}")
+
+    def fetch_ebi_srr(self, sample_iter):
+        '''
+        urls.csv for nextflow download
+        '''
+        # urls.csv
+        urls = []
+        for sample in sample_iter:
+            for srr_acc in sample.get('SRR', {}):
+                if not sample['SRR'][srr_acc].get('local_fastq'):
+                    keys = Slicer.SRR(srr_acc)
+                    url = 'ftp://ftp.sra.ebi.ac.uk/vol1/fastq/' + '/'.join(keys)
+                    urls.append(url)
+        print('Number of SRR: ', len(urls))
+        self.to_text(urls, 'urls.csv')
+        
+        # bash file
+        nf_dir = os.path.join(os.path.dirname(CreateConfig.src_dir), 'nf')
+        cmd = [
+            'cd ' + self.outdir,
+            'nextflow ' + os.path.join(nf_dir, 'wget_urls.nf'),
+        ]
+        bash_file = self.to_text(cmd, 'fetch2.sh')
+        print(f"bash {bash_file}")
+
+    def fetch_srr(self, sample_iter):
+        '''
+        srr_ids.csv for nextflow download using fastq-dump
+        '''
+        pool = []
+        for sample in sample_iter:
+            for srr_acc in sample.get('SRR', {}):
+                if not sample['SRR'][srr_acc].get('local_fastq'):
+                    pool.append(srr_acc)
+        print('Number of SRR: ', len(pool))
+        self.to_text(pool, 'srr_ids.csv')
+        
+        # bash file
+        nf_dir = os.path.join(os.path.dirname(CreateConfig.src_dir), 'nf')
+        cmd = [
+            'cd ' + self.outdir,
+            'nextflow ' + os.path.join(nf_dir, 'fastq_dump.nf'),
+        ]
+        bash_file = self.to_text(cmd, 'fetch3.sh')
+        print(f"bash {bash_file}")
+
+    def to_text(self, cmd:list, file_name:str):
+        '''
+        create a bash file
+        '''
+        outfile = os.path.join(self.outdir, file_name)
+        with open(outfile, 'w') as f:
+            f.write('\n'.join(cmd))
+        return outfile

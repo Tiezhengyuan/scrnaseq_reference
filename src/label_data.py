@@ -20,6 +20,27 @@ class LabelData:
         self.is_paired = is_paired
         self.cmd_pool = []
 
+    def get_meta(self, geo:str):
+        '''
+        retrieve data given a GEO from local json
+        '''
+        data = {}
+        keys = Slicer.GEO(geo)
+        indir = Utils.init_dir(self.labels_dir, keys)
+        infile = os.path.join(indir, "metadata.json")
+        data = Utils.from_json(infile)
+        return data
+
+    def save(self, data:dict):
+        '''
+        save save to the local path in json format
+        '''
+        geo = data['GEO']
+        keys = Slicer.GEO(geo)
+        outdir = Utils.init_dir(self.labels_dir, keys)
+        outfile = Utils.to_json(data, outdir, 'metadata')
+        print('Save meta data into json: ', outfile)
+
     def sample_iter(self) -> Iterable:
         '''
         iterate biosamples defined in GEO
@@ -30,67 +51,56 @@ class LabelData:
             for sample_id, sample in samples.items():
                 yield geo, sample
 
-    def fastq_iter(self) -> Iterable:
+    def geo_sample_iter(self, geo:str) -> Iterable:
+        '''
+        iterate biosamples defined in GEO
+        '''
+        for data in Utils.json_iter(self.labels_dir):
+            if geo == data['GEO']:
+                samples = data.get('samples', {})
+                for sample_id, sample in samples.items():
+                    yield sample
+
+    def fastq_iter(self, data:dict) -> Iterable:
         '''
         for sample_sheet
         '''
-        for data in Utils.json_iter(self.labels_dir):
-            geo = data['GEO']
-            samples = data.get('samples', {})
-            for sample_id, sample in samples.items():
-                if sample.get('SRA') and sample.get('SRR'):
-                    run_acc = sample['SRA']
-                    # initialize fastq_sample
-                    fastq_sample = sample['labels']
-                    fastq_sample['sample_sheet'] = []
-                    for srr_acc, v in sample['SRR'].items():
-                        if v.get('local_fastq'):
-                            fq1, fq2, fq3 = [], [], []
-                            for fq in v['local_fastq']:
-                                if fq.endswith('_1.fastq.gz'):
-                                    fq1.append(fq)
-                                elif fq.endswith('_2.fastq.gz'):
-                                    fq2.append(fq)
-                                else:
-                                    fq3.append(fq)
-                            if not fq1:
-                                fq1 = fq3
-                            rec = {
-                                'sample': f"{geo}_{run_acc}_{srr_acc}",
-                                'fastq_1': ','.join(fq1),
-                                'fastq_2': ','.join(fq2),
-                            }
-                            # only paried-end
-                            if self.is_paired is True:
-                                if rec.get('fastq_2'):
-                                    fastq_sample['sample_sheet'].append(rec)
-                            else:
-                                if not rec.get('fastq_2'):
-                                    fastq_sample['sample_sheet'].append(rec)
-                    if fastq_sample['sample_sheet']:
-                        yield sample, geo, run_acc, fastq_sample
-
-    def from_json(self, geo:str):
-        '''
-        retrieve data given a GEO from local json
-        '''
-        data = {}
-        geo_key = Slicer.GEO(geo)[0]
-        indir = Utils.init_dir(self.labels_dir, [geo_key,])
-        infile = os.path.join(indir, f"{geo}.json")
-        data = Utils.from_json(infile)
-        return data
-
-    def save(self, data:dict):
-        '''
-        save save to the local path in json format
-        '''
         geo = data['GEO']
-        geo_key = Slicer.GEO(geo)[0]
-        outdir = Utils.init_dir(self.labels_dir, [geo_key,])
-        outfile = Utils.to_json(data, outdir, geo)
-        return outfile
-    
+        samples = data.get('samples', {})
+        for sample_id, sample in samples.items():
+            if sample.get('SRA') and sample.get('SRR'):
+                run_acc = sample['SRA']
+                # initialize fastq_sample
+                fastq_sample = sample['labels']
+                fastq_sample['sample_sheet'] = []
+                for srr_acc, v in sample['SRR'].items():
+                    if v.get('local_fastq'):
+                        fq1, fq2, fq3 = [], [], []
+                        for fq in v['local_fastq']:
+                            if fq.endswith('_1.fastq.gz'):
+                                fq1.append(fq)
+                            elif fq.endswith('_2.fastq.gz'):
+                                fq2.append(fq)
+                            else:
+                                fq3.append(fq)
+                        if not fq1:
+                            fq1 = fq3
+                        rec = {
+                            'sample': f"{geo}_{run_acc}_{srr_acc}",
+                            'fastq_1': ','.join(fq1),
+                            'fastq_2': ','.join(fq2),
+                        }
+                        # only paried-end
+                        if self.is_paired is True:
+                            if rec.get('fastq_2'):
+                                fastq_sample['sample_sheet'].append(rec)
+                        else:
+                            if not rec.get('fastq_2'):
+                                fastq_sample['sample_sheet'].append(rec)
+                if fastq_sample['sample_sheet']:
+                    yield sample, geo, run_acc, fastq_sample
+
+
     def count_meta(self, data):
         '''
         sample_type: names of cell_line or tissue

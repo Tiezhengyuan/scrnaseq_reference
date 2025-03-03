@@ -1,0 +1,184 @@
+{
+    "GEO": "GSE286399",
+    "PMID": null,
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE286399",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE286nnn/GSE286399/soft/GSE286399_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM8726430": {
+            "BioSample": "SAMN46202173",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN46202173",
+            "SRA": "SRX27313887",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313887",
+            "SRR": {
+                "SRR31958404": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/004/SRR31958404/SRR31958404_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/004/SRR31958404/SRR31958404_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958404_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958404_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Library name: sample1",
+            "characteristics": {
+                "cell_line": "nci-h1299",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung cancer cell line",
+                "treatment": "dmso"
+            },
+            "labels": {
+                "cell_line": "h1299",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM8726430",
+            "sample_source": [
+                "Lung cancer cell line"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NCIH1299_DMSO"
+        },
+        "GSM8726431": {
+            "BioSample": "SAMN46202172",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN46202172",
+            "SRA": "SRX27313888",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313888",
+            "SRR": {
+                "SRR31958403": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/003/SRR31958403/SRR31958403_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/003/SRR31958403/SRR31958403_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958403_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958403_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Library name: sample2",
+            "characteristics": {
+                "cell_line": "nci-h1299",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung cancer cell line",
+                "treatment": "jte-607"
+            },
+            "labels": {
+                "cell_line": "h1299",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung",
+                "treatment": "jte-607"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM8726431",
+            "sample_source": [
+                "Lung cancer cell line"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NCIH1299_JTE607"
+        },
+        "GSM8726432": {
+            "BioSample": "SAMN46202171",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN46202171",
+            "SRA": "SRX27313889",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313889",
+            "SRR": {
+                "SRR31958402": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/002/SRR31958402/SRR31958402_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/002/SRR31958402/SRR31958402_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958402_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958402_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Library name: sample3",
+            "characteristics": {
+                "cell_line": "nci-h226",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung cancer cell line",
+                "treatment": "dmso"
+            },
+            "labels": {
+                "cell_line": "h226",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung",
+                "treatment": "dmso"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM8726432",
+            "sample_source": [
+                "Lung cancer cell line"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NCIH226_DMSO"
+        },
+        "GSM8726433": {
+            "BioSample": "SAMN46202170",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN46202170",
+            "SRA": "SRX27313890",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX27313890",
+            "SRR": {
+                "SRR31958401": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/001/SRR31958401/SRR31958401_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR319/001/SRR31958401/SRR31958401_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958401_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE286399/fastq/SRR31958401_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Library name: sample4",
+            "characteristics": {
+                "cell_line": "nci-h226",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung cancer cell line",
+                "treatment": "jte-607"
+            },
+            "labels": {
+                "cell_line": "h226",
+                "cell_type": "lung cancer cell line",
+                "tissue": "lung",
+                "treatment": "jte-607"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM8726433",
+            "sample_source": [
+                "Lung cancer cell line"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NCIH226_JTE607"
+        }
+    },
+    "summary": "To assess the impact of CPA inhibition by JTE-607 on intra-cell-line transcriptomic heterogeneity, we  profiled two lung cancer cell lines treated with DMSO or JTE-607 by 3' tag-based single-cell RNA-seq with 10x Chromium. For data analysis, we performed transcriptome quantification at the PAS-based transcript level to generate a PAS-by-cell count matrix, and then investigate the effect of JTE-607 treatment on PAS usage pattern and cellular states.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "single cell RNA-seq analysis of lung cancer cell lines treated with JTE-607"
+}
