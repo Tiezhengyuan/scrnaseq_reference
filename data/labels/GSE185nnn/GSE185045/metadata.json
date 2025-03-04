@@ -1,0 +1,308 @@
+{
+    "GEO": "GSE185045",
+    "PMID": [
+        "34707603"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185045",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE185nnn/GSE185045/soft/GSE185045_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL17021",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM5603823": {
+            "BioSample": "SAMN21904210",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904210",
+            "SRA": "SRX12405239",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405239",
+            "Sample_description": "GEX for three WT replicates: W3, W4, W5",
+            "characteristics": {
+                "condition": "wildtype",
+                "sex": "female",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603823",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT_female_GEX"
+        },
+        "GSM5603824": {
+            "BioSample": "SAMN21904209",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904209",
+            "SRA": "SRX12405240",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405240",
+            "Sample_description": "HTO for three WT replicates: W3, W4, W5",
+            "characteristics": {
+                "condition": "wildtype",
+                "sex": "female",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603824",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT_female_HTO"
+        },
+        "GSM5603825": {
+            "BioSample": "SAMN21904208",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904208",
+            "SRA": "SRX12405241",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405241",
+            "Sample_description": "GEX for three KO replicates: K6, K7, K8",
+            "characteristics": {
+                "condition": "conditional knock out",
+                "sex": "female",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603825",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO_female_GEX"
+        },
+        "GSM5603826": {
+            "BioSample": "SAMN21904207",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904207",
+            "SRA": "SRX12405242",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405242",
+            "Sample_description": "HTO for three KO replicates: K6, K7, K8",
+            "characteristics": {
+                "condition": "conditional knock out",
+                "sex": "female",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603826",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO_female_HTO"
+        },
+        "GSM5603827": {
+            "BioSample": "SAMN21904216",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904216",
+            "SRA": "SRX12405303",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405303",
+            "characteristics": {
+                "cell_type": "microglia",
+                "condition": "wildtype",
+                "sex": "male",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "cell_type": "microglia",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603827",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT1_male"
+        },
+        "GSM5603828": {
+            "BioSample": "SAMN21904215",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904215",
+            "SRA": "SRX12405304",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405304",
+            "characteristics": {
+                "cell_type": "microglia",
+                "condition": "wildtype",
+                "sex": "male",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "cell_type": "microglia",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603828",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT2_male"
+        },
+        "GSM5603829": {
+            "BioSample": "SAMN21904214",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904214",
+            "SRA": "SRX12405305",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405305",
+            "characteristics": {
+                "cell_type": "microglia",
+                "condition": "wildtype",
+                "sex": "male",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "cell_type": "microglia",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603829",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT3_male"
+        },
+        "GSM5603830": {
+            "BioSample": "SAMN21904213",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904213",
+            "SRA": "SRX12405306",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405306",
+            "characteristics": {
+                "cell_type": "microglia",
+                "condition": "conditional knock out",
+                "sex": "male",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "cell_type": "microglia",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603830",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO4_male"
+        },
+        "GSM5603831": {
+            "BioSample": "SAMN21904212",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904212",
+            "SRA": "SRX12405307",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405307",
+            "characteristics": {
+                "cell_type": "microglia",
+                "condition": "conditional knock out",
+                "sex": "male",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "cell_type": "microglia",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603831",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO5_male"
+        },
+        "GSM5603832": {
+            "BioSample": "SAMN21904211",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904211",
+            "SRA": "SRX12405308",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405308",
+            "characteristics": {
+                "cell_type": "microglia",
+                "condition": "conditional knock out",
+                "sex": "male",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "cell_type": "microglia",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5603832",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO6_male"
+        }
+    },
+    "summary": "This SuperSeries is composed of the SubSeries listed below.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "p38 MAP kinase signaling in microglia plays a sex-specific protective role in CNS autoimmunity and regulates microglial transcriptional states"
+}

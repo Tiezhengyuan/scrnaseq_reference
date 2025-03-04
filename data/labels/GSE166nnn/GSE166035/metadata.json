@@ -1,0 +1,562 @@
+{
+    "GEO": "GSE166035",
+    "PMID": [
+        "33705361"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166035",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE166nnn/GSE166035/soft/GSE166035_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5060490": {
+            "BioSample": "SAMN17764653",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764653",
+            "SRA": "SRX10008411",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008411",
+            "SRR": {
+                "SRR13615014": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/014/SRR13615014/SRR13615014.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008411_SRR13615014.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362317",
+                "tissue": "small airway epithelial cells",
+                "treatment": "matrigel control day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "matrigel control day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060490",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Matrigel_Control_Day5_317"
+        },
+        "GSM5060491": {
+            "BioSample": "SAMN17764652",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764652",
+            "SRA": "SRX10008412",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008412",
+            "SRR": {
+                "SRR13615015": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/015/SRR13615015/SRR13615015.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008412_SRR13615015.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362318",
+                "tissue": "small airway epithelial cells",
+                "treatment": "matrigel control day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "matrigel control day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060491",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Matrigel_Control_Day5_318"
+        },
+        "GSM5060492": {
+            "BioSample": "SAMN17764651",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764651",
+            "SRA": "SRX10008413",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008413",
+            "SRR": {
+                "SRR13615016": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/016/SRR13615016/SRR13615016.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008413_SRR13615016.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362319",
+                "tissue": "small airway epithelial cells",
+                "treatment": "matrigel control day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "matrigel control day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060492",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Matrigel_Control_Day5_319"
+        },
+        "GSM5060493": {
+            "BioSample": "SAMN17764650",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764650",
+            "SRA": "SRX10008414",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008414",
+            "SRR": {
+                "SRR13615017": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/017/SRR13615017/SRR13615017.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008414_SRR13615017.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362320",
+                "tissue": "small airway epithelial cells",
+                "treatment": "matrigel senescent day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "matrigel senescent day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060493",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Matrigel_Senescent_Day5_320"
+        },
+        "GSM5060494": {
+            "BioSample": "SAMN17764649",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764649",
+            "SRA": "SRX10008415",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008415",
+            "SRR": {
+                "SRR13615018": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/018/SRR13615018/SRR13615018.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008415_SRR13615018.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362321",
+                "tissue": "small airway epithelial cells",
+                "treatment": "matrigel senescent day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "matrigel senescent day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060494",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Matrigel_Senescent_Day5_321"
+        },
+        "GSM5060495": {
+            "BioSample": "SAMN17764670",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764670",
+            "SRA": "SRX10008416",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008416",
+            "SRR": {
+                "SRR13615019": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/019/SRR13615019/SRR13615019.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008416_SRR13615019.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362322",
+                "tissue": "small airway epithelial cells",
+                "treatment": "matrigel senescent day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "matrigel senescent day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060495",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Matrigel_Senescent_Day5_322"
+        },
+        "GSM5060496": {
+            "BioSample": "SAMN17764669",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764669",
+            "SRA": "SRX10008417",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008417",
+            "SRR": {
+                "SRR13615020": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/020/SRR13615020/SRR13615020.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008417_SRR13615020.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362323",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic control day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic control day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060496",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Control_Day5_323"
+        },
+        "GSM5060497": {
+            "BioSample": "SAMN17764668",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764668",
+            "SRA": "SRX10008418",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008418",
+            "SRR": {
+                "SRR13615021": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/021/SRR13615021/SRR13615021.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008418_SRR13615021.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362324",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic control day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic control day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060497",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Control_Day5_324"
+        },
+        "GSM5060498": {
+            "BioSample": "SAMN17764667",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764667",
+            "SRA": "SRX10008419",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008419",
+            "SRR": {
+                "SRR13615022": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/022/SRR13615022/SRR13615022.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008419_SRR13615022.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362325",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic control day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic control day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060498",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Control_Day5_325"
+        },
+        "GSM5060499": {
+            "BioSample": "SAMN17764666",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764666",
+            "SRA": "SRX10008420",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008420",
+            "SRR": {
+                "SRR13615023": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/023/SRR13615023/SRR13615023.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008420_SRR13615023.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362326",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic senescent day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic senescent day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060499",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Senescent_Day5_326"
+        },
+        "GSM5060500": {
+            "BioSample": "SAMN17764665",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764665",
+            "SRA": "SRX10008421",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008421",
+            "SRR": {
+                "SRR13615024": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/024/SRR13615024/SRR13615024.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008421_SRR13615024.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362327",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic senescent day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic senescent day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060500",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Senescent_Day5_327"
+        },
+        "GSM5060501": {
+            "BioSample": "SAMN17764664",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764664",
+            "SRA": "SRX10008422",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008422",
+            "SRR": {
+                "SRR13615025": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/025/SRR13615025/SRR13615025.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008422_SRR13615025.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362328",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic senescent day 5"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic senescent day 5"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060501",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Senescent_Day5_328"
+        },
+        "GSM5060502": {
+            "BioSample": "SAMN17764663",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764663",
+            "SRA": "SRX10008423",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008423",
+            "SRR": {
+                "SRR13615026": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/026/SRR13615026/SRR13615026.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008423_SRR13615026.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362329",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic senescent day 12"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic senescent day 12"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060502",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Senescent_Day12_329"
+        },
+        "GSM5060503": {
+            "BioSample": "SAMN17764662",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764662",
+            "SRA": "SRX10008424",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008424",
+            "SRR": {
+                "SRR13615027": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/027/SRR13615027/SRR13615027.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRX10008424_SRR13615027.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362330",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic senescent day 12"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic senescent day 12"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060503",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Senescent_Day12_330"
+        },
+        "GSM5060504": {
+            "BioSample": "SAMN17764661",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17764661",
+            "SRA": "SRX10008425",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10008425",
+            "SRR": {
+                "SRR13615028": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR136/028/SRR13615028/SRR13615028.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE166035/fastq/SRR13615028.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "cell_type": "saec",
+                "sample_id": "sam24362331",
+                "tissue": "small airway epithelial cells",
+                "treatment": "plastic senescent day 12"
+            },
+            "labels": {
+                "cell_type": "small airway epithelial cells",
+                "tissue": "lung, small airway epithelial cells",
+                "treatment": "plastic senescent day 12"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5060504",
+            "sample_source": [
+                "Small airway epithelial cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SAEC_Plastic_Senescent_Day12_331"
+        }
+    },
+    "summary": "The senescent phenotype was evaluated to observe potential changes over time and on differing culture substrates.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Assessing the plasticity of the senescent phenotype"
+}

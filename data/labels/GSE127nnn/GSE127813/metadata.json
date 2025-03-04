@@ -1,0 +1,299 @@
+{
+    "GEO": "GSE127813",
+    "PMID": [
+        "31061481",
+        "31960376"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE127813",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE127nnn/GSE127813/soft/GSE127813_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3639285": {
+            "BioSample": "SAMN11051511",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051511",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517001156",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639285",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 001156"
+        },
+        "GSM3639286": {
+            "BioSample": "SAMN11051510",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051510",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517001157",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639286",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 001157"
+        },
+        "GSM3639287": {
+            "BioSample": "SAMN11051509",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051509",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517001159",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639287",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 001159"
+        },
+        "GSM3639288": {
+            "BioSample": "SAMN11051505",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051505",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517001160",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639288",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 001160"
+        },
+        "GSM3639289": {
+            "BioSample": "SAMN11051409",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051409",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517001161",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639289",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 001161"
+        },
+        "GSM3639290": {
+            "BioSample": "SAMN11051443",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051443",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517001162",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639290",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 001162"
+        },
+        "GSM3639291": {
+            "BioSample": "SAMN11051441",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051441",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517102034",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639291",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 102034"
+        },
+        "GSM3639292": {
+            "BioSample": "SAMN11051440",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051440",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517102035",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639292",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 102035"
+        },
+        "GSM3639293": {
+            "BioSample": "SAMN11051508",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051508",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517102036",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639293",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 102036"
+        },
+        "GSM3639294": {
+            "BioSample": "SAMN11051507",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051507",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517102037",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639294",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 102037"
+        },
+        "GSM3639295": {
+            "BioSample": "SAMN11051506",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051506",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517102038",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639295",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 102038"
+        },
+        "GSM3639296": {
+            "BioSample": "SAMN11051438",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11051438",
+            "characteristics": {
+                "diagnosis": "healthy",
+                "subject_id": "w070517102051",
+                "tissue": "whole blood"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "whole blood"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM3639296",
+            "sample_source": [
+                "whole blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Whole blood sample from a healthy adult, 102051"
+        }
+    },
+    "summary": "Tissue composition is a major determinant of phenotypic variation and a key factor influencing disease outcomes. Although scRNA-Seq has emerged as a powerful technique for characterizing cellular heterogeneity, it is currently impractical for large sample cohorts and cannot be applied to fixed specimens collected as part of routine clinical care. To overcome these challenges, we extended Cell type Identification By Estimating Relative Subsets Of RNA Transcripts (CIBERSORT) into a new platform for in silico cytometry. Our approach enables the simultaneous inference of cell type abundance and cell type-specific gene expression profiles (GEPs) from bulk tissue transcriptomes. The utility of this integrated framework, called CIBERSORTx, is demonstrated in multiple tumor types, including melanoma, where single cell reference profiles are used to dissect primary clinical specimens, revealing cell type-specific signatures of driver mutations and immunotherapy response. We anticipate that digital cytometry will augment single cell profiling efforts, enabling cost-effective, high throughput tissue characterization without the need for antibodies, disaggregation, or viable cells.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "High-throughput tissue dissection and cell purification with digital cytometry [healthy adults]"
+}

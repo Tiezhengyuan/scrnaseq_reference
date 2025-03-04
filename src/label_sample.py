@@ -16,7 +16,10 @@ class LabelSample:
         self.sample['labels']['group'] = 'control'
         if 'disease_state' in self.lb:
             del self.sample['labels']['disease_state']
-    
+
+    def _disease(self, disease_name:str):
+        self.sample['labels']['disease'] = disease_name
+
     def _disease_patient(self, disease_name:str, disease_state:str=None):
         self.sample['labels']['disease'] = disease_name
         self.sample['labels']['group'] = 'patient'
@@ -32,6 +35,20 @@ class LabelSample:
         for val in args:
             if val not in self.sample['protocol']:
                 self.sample['protocol'].append(val.lower())
+
+    def _tissue(self, *args):
+        self._key('tissue', *args)
+
+    def _key(self, name, *args):
+        '''
+        args: name could be protocol or tissue etc.
+        *args: values
+        '''
+        if key not in self.sample:
+            self.sample[key] = []
+        for val in args:
+            if val not in self.sample[key]:
+                self.sample[key].append(val.lower())
 
     @property
     def desc(self):
@@ -70,8 +87,8 @@ class LabelSample:
         match name:
             case 'scrnaseq_lung_cell_line':
                 return self.filter_scrnaseq_lung_cell_line()
-            case 'scrnaseq_lung_tissue_normal':
-                return self.filter_scrnaseq_lung_tissue_normal()
+            case 'scrnaseq_lung_tissue_healthy':
+                return self.filter_scrnaseq_lung_tissue_healthy()
             case 'scrnaseq_lung_tissue_patient':
                 return self.filter_scrnaseq_lung_tissue_patient()
 
@@ -93,16 +110,16 @@ class LabelSample:
                 return True
         return False
 
-    def filter_scrnaseq_lung_tissue_normal(self) -> bool:
+    def filter_scrnaseq_lung_tissue_healthy(self) -> bool:
         if self.filter_scrnaseq() and self.filter_human():
             if 'lung' in self.tissue and ('cell_line' not in self.lb) \
-                and self.group == 'control':
+                and self.disease == 'healthy':
                     return True
         return False
 
     def filter_scrnaseq_lung_tissue_patient(self) -> bool:
         if self.filter_scrnaseq() and self.filter_human():
             if 'lung' in self.tissue and ('cell_line' not in self.lb) \
-                and self.group == 'patient':
-                    return True
+                and self.disease != 'healthy':
+                return True
         return False

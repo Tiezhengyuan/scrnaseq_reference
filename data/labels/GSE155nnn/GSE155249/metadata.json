@@ -1,0 +1,601 @@
+{
+    "GEO": "GSE155249",
+    "PMID": [
+        "33429418"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155249",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE155nnn/GSE155249/soft/GSE155249_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4698176": {
+            "BioSample": "SAMN15659778",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659778",
+            "SRR": {},
+            "Sample_description": "Sample 1 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_4",
+                "sample_type": "bal",
+                "time": "1 day after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698176",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_4"
+        },
+        "GSM4698177": {
+            "BioSample": "SAMN15659777",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659777",
+            "SRR": {},
+            "Sample_description": "Sample 2 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_5",
+                "sample_type": "bal",
+                "time": "1 day after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698177",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_5"
+        },
+        "GSM4698178": {
+            "BioSample": "SAMN15659775",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659775",
+            "SRR": {},
+            "Sample_description": "Sample 3 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_3",
+                "sample_type": "bal",
+                "time": "1 day after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698178",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_3-1"
+        },
+        "GSM4698179": {
+            "BioSample": "SAMN15659774",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659774",
+            "SRR": {},
+            "Sample_description": "Sample 4 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_3",
+                "sample_type": "bal",
+                "time": "1 day after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698179",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_3-2"
+        },
+        "GSM4698180": {
+            "BioSample": "SAMN15659773",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659773",
+            "SRR": {},
+            "Sample_description": "Sample 5 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_1",
+                "sample_type": "bal",
+                "time": "2 days after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698180",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_1-1"
+        },
+        "GSM4698181": {
+            "BioSample": "SAMN15659772",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659772",
+            "SRR": {},
+            "Sample_description": "Sample 6 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_1",
+                "sample_type": "bal",
+                "time": "2 days after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698181",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_1-2"
+        },
+        "GSM4698182": {
+            "BioSample": "SAMN15659771",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659771",
+            "SRR": {},
+            "Sample_description": "Sample 7 main.h5ad supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_2",
+                "sample_type": "bal",
+                "time": "0 days after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698182",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_2"
+        },
+        "GSM4698183": {
+            "BioSample": "SAMN15659770",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659770",
+            "SRR": {},
+            "Sample_description": "Sample 8 supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 negative",
+                "individual": "patient_6",
+                "sample_type": "bal",
+                "time": "1 day after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 negative",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698183",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_6-1"
+        },
+        "GSM4698184": {
+            "BioSample": "SAMN15659769",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15659769",
+            "SRR": {},
+            "Sample_description": "Sample 9 supplement.h5ad",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease_state": "covid-19 negative",
+                "individual": "patient_6",
+                "sample_type": "bal",
+                "time": "1 day after intubation",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 negative",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4698184",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_6-2"
+        },
+        "GSM4850111": {
+            "BioSample": "SAMN16522965",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522965",
+            "SRR": {},
+            "Sample_description": "supplement.h5ad Sample_10",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 negative",
+                "individual": "patient_c",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 negative",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850111",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_C-1"
+        },
+        "GSM4850112": {
+            "BioSample": "SAMN16522964",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522964",
+            "SRR": {},
+            "Sample_description": "supplement.h5ad Sample_11",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 negative",
+                "individual": "patient_c",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 negative",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850112",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_C-2"
+        },
+        "GSM4850113": {
+            "BioSample": "SAMN16522963",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522963",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_12",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "1",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_9",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850113",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_9-1"
+        },
+        "GSM4850114": {
+            "BioSample": "SAMN16522962",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522962",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_13",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "1",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_9",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850114",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_9-2"
+        },
+        "GSM4850115": {
+            "BioSample": "SAMN16522961",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522961",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_14",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_a",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850115",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_A"
+        },
+        "GSM4850116": {
+            "BioSample": "SAMN16522960",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522960",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_15",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_b",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850116",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_B"
+        },
+        "GSM4850117": {
+            "BioSample": "SAMN16522959",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522959",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_16",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_a+b",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850117",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_A+B"
+        },
+        "GSM4850118": {
+            "BioSample": "SAMN16522958",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522958",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_17",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_7",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850118",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_7"
+        },
+        "GSM4850119": {
+            "BioSample": "SAMN16522957",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522957",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_18",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_8",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850119",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_8-1"
+        },
+        "GSM4850120": {
+            "BioSample": "SAMN16522956",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16522956",
+            "SRR": {},
+            "Sample_description": "main.h5ad supplement.h5ad Sample_19",
+            "characteristics": {
+                "cell_type": "sorted macrophages and t cells",
+                "day_after_intubation": "0",
+                "disease_state": "covid-19 positive",
+                "individual": "patient_8",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "labels": {
+                "cell_type": "sorted macrophages and t cells",
+                "disease": "covid-19 infection",
+                "disease_state": "covid-19 positive",
+                "group": "patient",
+                "tissue": "sorted macrophages and t cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM4850120",
+            "sample_source": [
+                "Sorted macrophages and T cells"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient_8-2"
+        }
+    },
+    "summary": "Some patients infected with Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) develop severe pneumonia and the acute respiratory distress syndrome (ARDS). Distinct clinical features in these patients have led to speculation that the immune response to virus in the SARS-CoV-2-infected alveolus differs from other types of pneumonia. We collected bronchoalveolar lavage fluid samples from 88 patients with SARS-CoV-2-induced respiratory failure and 211 patients with known or suspected pneumonia from other pathogens and subjected them to flow cytometry and bulk transcriptomic profiling. We performed single-cell RNA-seq on 10 bronchoalveolar lavage fluid samples collected from patients with severe COVID-19 within 48 hours of intubation. In the majority of patients with SARS-CoV-2 infection, the alveolar space was persistently enriched in T cells and monocytes. Bulk and single-cell transcriptomic profiling suggested that SARS-CoV-2 infects alveolar macrophages, which in turn respond by producing T cell chemoattractants. These T cells produce interferon-gamma to induce inflammatory cytokine release from alveolar macrophages and further promote T cell activation. Collectively, our results suggest that SARS-CoV-2 causes a slowly-unfolding, spatially-limited alveolitis in which alveolar macrophages harboring SARS-CoV-2 and T cells form a positive feedback loop that drives persistent alveolar inflammation.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Circuits between infected macrophages and T cells in SARS-CoV-2 pneumonia"
+}

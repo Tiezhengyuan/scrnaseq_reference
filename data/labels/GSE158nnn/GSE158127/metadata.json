@@ -1,0 +1,599 @@
+{
+    "GEO": "GSE158127",
+    "PMID": [
+        "33257409"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158127",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE158nnn/GSE158127/soft/GSE158127_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4792459": {
+            "BioSample": "SAMN16193154",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193154",
+            "Sample_description": "Sequenced on Illumina HiSeq 4000 Donor1_1_filtered_feature_bc_matrix.h5 Donor1_1_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad",
+            "characteristics": {
+                "cell_type": "sorted myeloid population",
+                "covid-19": "negative",
+                "tissue": "sorted myeloid population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted myeloid population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted myeloid population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792459",
+            "sample_source": [
+                "Sorted Myeloid population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor1_1"
+        },
+        "GSM4792460": {
+            "BioSample": "SAMN16193153",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193153",
+            "Sample_description": "Sequenced on Illumina HiSeq 4000 Donor1_2_filtered_feature_bc_matrix.h5 Donor1_2_raw_feature_bc_matrix.h5 04all-lineages.h5ad 01epithelial.h5ad",
+            "characteristics": {
+                "cell_type": "sorted epithelial population",
+                "covid-19": "negative",
+                "tissue": "sorted epithelial population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted epithelial population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted epithelial population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792460",
+            "sample_source": [
+                "Sorted Epithelial population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor1_2"
+        },
+        "GSM4792461": {
+            "BioSample": "SAMN16193152",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193152",
+            "Sample_description": "Sequenced on Illumina HiSeq 4000 Donor1_3_filtered_feature_bc_matrix.h5 Donor1_3_raw_feature_bc_matrix.h5 04all-lineages.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal population",
+                "covid-19": "negative",
+                "tissue": "sorted stromal population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted stromal population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted stromal population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792461",
+            "sample_source": [
+                "Sorted Stromal population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor1_3"
+        },
+        "GSM4792462": {
+            "BioSample": "SAMN16193151",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193151",
+            "Sample_description": "Sequenced on Illumina HiSeq 4000 Donor1_4_filtered_feature_bc_matrix.h5 Donor1_4_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad",
+            "characteristics": {
+                "cell_type": "sorted myeloid population",
+                "covid-19": "negative",
+                "tissue": "sorted myeloid population",
+                "tissue_type": "bronchus"
+            },
+            "labels": {
+                "cell_type": "sorted myeloid population",
+                "group": "bronchus",
+                "tissue": "sorted myeloid population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792462",
+            "sample_source": [
+                "Sorted Myeloid population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor1_4"
+        },
+        "GSM4792463": {
+            "BioSample": "SAMN16193150",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193150",
+            "Sample_description": "Sequenced on Illumina HiSeq 4000 Donor1_5_filtered_feature_bc_matrix.h5 Donor1_5_raw_feature_bc_matrix.h5 04all-lineages.h5ad 01epithelial.h5ad",
+            "characteristics": {
+                "cell_type": "sorted epithelial population",
+                "covid-19": "negative",
+                "tissue": "sorted epithelial population",
+                "tissue_type": "bronchus"
+            },
+            "labels": {
+                "cell_type": "sorted epithelial population",
+                "group": "bronchus",
+                "tissue": "sorted epithelial population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792463",
+            "sample_source": [
+                "Sorted Epithelial population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor1_5"
+        },
+        "GSM4792464": {
+            "BioSample": "SAMN16193149",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193149",
+            "Sample_description": "Sequenced on Illumina HiSeq 4000 Donor1_6_filtered_feature_bc_matrix.h5 Donor1_6_raw_feature_bc_matrix.h5 04all-lineages.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal population",
+                "covid-19": "negative",
+                "tissue": "sorted stromal population",
+                "tissue_type": "bronchus"
+            },
+            "labels": {
+                "cell_type": "sorted stromal population",
+                "group": "bronchus",
+                "tissue": "sorted stromal population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792464",
+            "sample_source": [
+                "Sorted Stromal population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Donor1_6"
+        },
+        "GSM4792465": {
+            "BioSample": "SAMN16193178",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193178",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB1_1_filtered_feature_bc_matrix.h5 PB1_1_raw_feature_bc_matrix.h5 04all-lineages.h5ad 01epithelial.h5ad",
+            "characteristics": {
+                "cell_type": "sorted epithelial population",
+                "covid-19": "positive",
+                "tissue": "sorted epithelial population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted epithelial population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted epithelial population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792465",
+            "sample_source": [
+                "Sorted Epithelial population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB1_1"
+        },
+        "GSM4792466": {
+            "BioSample": "SAMN16193177",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193177",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB1_2_filtered_feature_bc_matrix.h5 PB1_2_raw_feature_bc_matrix.h5 04all-lineages.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal population",
+                "covid-19": "positive",
+                "tissue": "sorted stromal population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted stromal population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted stromal population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792466",
+            "sample_source": [
+                "Sorted Stromal population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB1_2"
+        },
+        "GSM4792467": {
+            "BioSample": "SAMN16193176",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193176",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB1_3_filtered_feature_bc_matrix.h5 PB1_3_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad",
+            "characteristics": {
+                "cell_type": "sorted myeloid population",
+                "covid-19": "positive",
+                "tissue": "sorted myeloid population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted myeloid population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted myeloid population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792467",
+            "sample_source": [
+                "Sorted Myeloid population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB1_3"
+        },
+        "GSM4792468": {
+            "BioSample": "SAMN16193175",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193175",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB1_4_filtered_feature_bc_matrix.h5 PB1_4_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal and myeloid populations",
+                "covid-19": "positive",
+                "tissue": "sorted stromal and myeloid populations",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted stromal and myeloid populations",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted stromal and myeloid populations"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792468",
+            "sample_source": [
+                "Sorted Stromal and Myeloid populations"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB1_4"
+        },
+        "GSM4792469": {
+            "BioSample": "SAMN16193174",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193174",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Donor_1_filtered_feature_bc_matrix.h5 TX_Donor_1_raw_feature_bc_matrix.h5 04all-lineages.h5ad 01epithelial.h5ad",
+            "characteristics": {
+                "cell_type": "sorted epithelial population",
+                "covid-19": "negative",
+                "tissue": "sorted epithelial population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted epithelial population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted epithelial population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792469",
+            "sample_source": [
+                "Sorted Epithelial population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Donor_1"
+        },
+        "GSM4792470": {
+            "BioSample": "SAMN16193173",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193173",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Donor_2_filtered_feature_bc_matrix.h5 TX_Donor_2_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad",
+            "characteristics": {
+                "cell_type": "sorted myeloid population",
+                "covid-19": "negative",
+                "tissue": "sorted myeloid population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted myeloid population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted myeloid population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792470",
+            "sample_source": [
+                "Sorted Myeloid population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Donor_2"
+        },
+        "GSM4792471": {
+            "BioSample": "SAMN16193172",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193172",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Donor_3_filtered_feature_bc_matrix.h5 TX_Donor_3_raw_feature_bc_matrix.h5 04all-lineages.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal population",
+                "covid-19": "negative",
+                "tissue": "sorted stromal population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted stromal population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted stromal population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792471",
+            "sample_source": [
+                "Sorted Stromal population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Donor_3"
+        },
+        "GSM4792472": {
+            "BioSample": "SAMN16193171",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193171",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Donor_4_filtered_feature_bc_matrix.h5 TX_Donor_4_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted cd31 population",
+                "covid-19": "negative",
+                "tissue": "sorted cd31 population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted cd31 population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted cd31 population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792472",
+            "sample_source": [
+                "Sorted CD31 population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Donor_4"
+        },
+        "GSM4792473": {
+            "BioSample": "SAMN16193170",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193170",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Recipient_1_filtered_feature_bc_matrix.h5 TX_Recipient_1_raw_feature_bc_matrix.h5 04all-lineages.h5ad 01epithelial.h5ad",
+            "characteristics": {
+                "cell_type": "sorted epithelial population",
+                "covid-19": "positive",
+                "tissue": "sorted epithelial population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted epithelial population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted epithelial population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792473",
+            "sample_source": [
+                "Sorted Epithelial population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Recipient_1"
+        },
+        "GSM4792474": {
+            "BioSample": "SAMN16193165",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193165",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Recipient_2_filtered_feature_bc_matrix.h5 TX_Recipient_2_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad",
+            "characteristics": {
+                "cell_type": "sorted myeloid population",
+                "covid-19": "positive",
+                "tissue": "sorted myeloid population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted myeloid population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted myeloid population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792474",
+            "sample_source": [
+                "Sorted Myeloid population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Recipient_2"
+        },
+        "GSM4792475": {
+            "BioSample": "SAMN16193164",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193164",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Recipient_3_filtered_feature_bc_matrix.h5 TX_Recipient_3_raw_feature_bc_matrix.h5 04all-lineages.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal population",
+                "covid-19": "positive",
+                "tissue": "sorted stromal population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted stromal population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted stromal population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792475",
+            "sample_source": [
+                "Sorted Stromal population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Recipient_3"
+        },
+        "GSM4792476": {
+            "BioSample": "SAMN16193163",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193163",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 TX_Recipient_4_filtered_feature_bc_matrix.h5 TX_Recipient_4_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted cd31 population",
+                "covid-19": "positive",
+                "tissue": "sorted cd31 population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted cd31 population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted cd31 population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792476",
+            "sample_source": [
+                "Sorted CD31 population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TX_Recipient_4"
+        },
+        "GSM4792477": {
+            "BioSample": "SAMN16193162",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193162",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB2_1_filtered_feature_bc_matrix.h5 PB2_1_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad",
+            "characteristics": {
+                "cell_type": "sorted myeloid population",
+                "covid-19": "positive",
+                "tissue": "sorted myeloid population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted myeloid population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted myeloid population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792477",
+            "sample_source": [
+                "Sorted Myeloid population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB2_1"
+        },
+        "GSM4792478": {
+            "BioSample": "SAMN16193161",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193161",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB2_2_filtered_feature_bc_matrix.h5 PB2_2_raw_feature_bc_matrix.h5 04all-lineages.h5ad 02immune.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted cd31 population",
+                "covid-19": "positive",
+                "tissue": "sorted cd31 population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted cd31 population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted cd31 population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792478",
+            "sample_source": [
+                "Sorted CD31 population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB2_2"
+        },
+        "GSM4792479": {
+            "BioSample": "SAMN16193159",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193159",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB2_3_filtered_feature_bc_matrix.h5 PB2_3_raw_feature_bc_matrix.h5 04all-lineages.h5ad 03stromal.h5ad",
+            "characteristics": {
+                "cell_type": "sorted stromal population",
+                "covid-19": "positive",
+                "tissue": "sorted stromal population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted stromal population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted stromal population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792479",
+            "sample_source": [
+                "Sorted Stromal population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB2_3"
+        },
+        "GSM4792480": {
+            "BioSample": "SAMN16193157",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16193157",
+            "Sample_description": "Sequenced on Illumina NovaSeq 6000 PB2_4_filtered_feature_bc_matrix.h5 PB2_4_raw_feature_bc_matrix.h5 04all-lineages.h5ad 01epithelial.h5ad",
+            "characteristics": {
+                "cell_type": "sorted epithelial population",
+                "covid-19": "positive",
+                "tissue": "sorted epithelial population",
+                "tissue_type": "distal lung parenchyma"
+            },
+            "labels": {
+                "cell_type": "sorted epithelial population",
+                "group": "distal lung parenchyma",
+                "tissue": "sorted epithelial population"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v3"
+            ],
+            "sample_id": "GSM4792480",
+            "sample_source": [
+                "Sorted Epithelial population"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PB2_4"
+        }
+    },
+    "summary": "Lung transplantation can potentially be a life-saving treatment for patients with non-resolving COVID-19-associated respiratory failure. Concerns limiting transplant include recurrence of SARS-CoV-2 infection in the allograft, technical challenges imposed by viral-mediated injury to the native lung, and potential risk for allograft infection by pathogens associated with ventilator-associated pneumonia in the native lung. Most importantly, the native lung might recover, resulting in long-term outcomes preferable to transplant. Here, we report results of the first successful lung transplantation procedures in patients with non-resolving COVID-19-associated respiratory failure in the United States. We performed sm-FISH to detect both positive and negative strands of SARS-CoV-2 RNA in the explanted lung tissue, extracellular matrix imaging using SHIELD tissue clearance, and single cell RNA-Seq on explant and warm post-mortem lung biopsies from patients who died from severe COVID-19 pneumonia. Lungs from patients with prolonged COVID-19 were free of virus but pathology showed extensive evidence of injury and fibrosis which resembled end-stage pulmonary fibrosis. We used a machine learning approach to project single cell RNA-Seq data from patients with late stage COVID-19 onto a single cell atlas of pulmonary fibrosis, revealing similarities across cell lineages. There was no recurrence of SARS-CoV-2 or pathogens associated with pre-transplant ventilator associated pneumonias following transplantation. Our findings suggest that some patients with severe COVID-19 develop fibrotic lung disease for which lung transplantation is the only option for survival.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Lung transplantation for patients with severe COVID-19"
+}

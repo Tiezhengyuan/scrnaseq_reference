@@ -1,0 +1,122 @@
+{
+    "GEO": "GSE137805",
+    "PMID": [
+        "32004478"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137805",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137805/soft/GSE137805_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4088789": {
+            "BioSample": "SAMN12802163",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802163",
+            "SRA": "SRX6882057",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882057",
+            "characteristics": {
+                "culture_media": "ckdci",
+                "developmental_stage": "day 27",
+                "isolation_method": "facs sorted + indrops",
+                "tissue": "differentiated ipsc"
+            },
+            "labels": {
+                "cell_type": "differentiated induced pluripotent stem cells",
+                "tissue": "differentiated ipsc"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM4088789",
+            "sample_source": [
+                "differentiated iPSC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "infected - library 3 (enriched for GFP+ cells)"
+        },
+        "GSM4088790": {
+            "BioSample": "SAMN12802162",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802162",
+            "SRA": "SRX6882058",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882058",
+            "characteristics": {
+                "culture_media": "ckdci",
+                "developmental_stage": "day 27",
+                "isolation_method": "facs sorted + indrops",
+                "tissue": "differentiated ipsc"
+            },
+            "labels": {
+                "cell_type": "differentiated induced pluripotent stem cells",
+                "tissue": "differentiated ipsc"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM4088790",
+            "sample_source": [
+                "differentiated iPSC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "control - not infected"
+        },
+        "GSM4088791": {
+            "BioSample": "SAMN12802161",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802161",
+            "SRA": "SRX6882059",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882059",
+            "characteristics": {
+                "culture_media": "ckdci",
+                "developmental_stage": "day 27",
+                "isolation_method": "facs sorted + indrops",
+                "tissue": "differentiated ipsc"
+            },
+            "labels": {
+                "cell_type": "differentiated induced pluripotent stem cells",
+                "tissue": "differentiated ipsc"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM4088791",
+            "sample_source": [
+                "differentiated iPSC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "infected - library 1"
+        },
+        "GSM4088792": {
+            "BioSample": "SAMN12802160",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12802160",
+            "SRA": "SRX6882060",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6882060",
+            "characteristics": {
+                "culture_media": "ckdci",
+                "developmental_stage": "day 27",
+                "isolation_method": "facs sorted + indrops",
+                "tissue": "differentiated ipsc"
+            },
+            "labels": {
+                "cell_type": "differentiated induced pluripotent stem cells",
+                "tissue": "differentiated ipsc"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM4088792",
+            "sample_source": [
+                "differentiated iPSC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "infected - library 2"
+        }
+    },
+    "summary": "Lineage tracing of individual cells during directed differentiation human iPSC into alveolospheres was performed using a lentiviral barcode labeling system (Weinreb et al., 2020) as described in Hurley et al., 2020.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Lineage Tracing of PSC-derived iAEC2 Differentiation Using Lentiviral Barcoding"
+}

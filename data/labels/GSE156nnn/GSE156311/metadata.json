@@ -1,0 +1,46 @@
+{
+    "GEO": "GSE156311",
+    "PMID": [
+        "34313733"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156311",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE156nnn/GSE156311/soft/GSE156311_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL24247",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM4728860": {
+            "BioSample": "SAMN15828889",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15828889",
+            "SRA": "SRX8953165",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8953165",
+            "Sample_description": "Recovered: 12,492 cells",
+            "characteristics": {
+                "facs_strategy": "cd45+",
+                "genotype/variation": "ly6gcre: tdtomato mice",
+                "library_preparation": "10x genomics single cell rnaseq v3",
+                "strain_background": "c57bl/6j",
+                "tissue": "rodent lung"
+            },
+            "labels": {
+                "tissue": "rodent lung"
+            },
+            "protocol": [],
+            "sample_id": "GSM4728860",
+            "sample_source": [
+                "Rodent Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Rodent Lung CD45+ Immune Cells"
+        }
+    },
+    "summary": "Pulmonary innate immunity is required for host defense; however, excessive neutrophil inflammation can cause life-threatening acute lung injury. B lymphocytes can be regulatory, yet little is known about peripheral transitional IgM+ B cells in terms of regulatory properties. Using single cell RNA sequencing, we discovered eight IgM+ B cell subsets with unique gene regulatory networks in the lung circulation dominated by transitional type 1 (T1B) and 2 (T2B) B cells. Lung intravital confocal microscopy revealed that T2B marginate in the pulmonary capillaries via CD49e and required CXCL13 and CXCR5. During lung inflammation, marginated T2B dampened excessive neutrophil vascular inflammation via the specialized proresolving molecule lipoxin A4 (LXA4). Exogenous CXCL13 dampened excessive neutrophilic inflammation by increasing marginated B cells and LXA4 recapitulated neutrophil regulation in B-cell deficient mice during inflammation and fungal pneumonia. Thus, the lung microvasculature is enriched in multiple IgM+ B cell subsets with marginating capillary T2B that dampen neutrophil responses.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "Marginating Transitional B cells Modulate Neutrophils in the Lung During Inflammation and Pneumonia"
+}

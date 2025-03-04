@@ -1,0 +1,130 @@
+{
+    "GEO": "GSE185043",
+    "PMID": [
+        "34707603"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185043",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE185nnn/GSE185043/soft/GSE185043_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL17021",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM5603823": {
+            "BioSample": "SAMN21904210",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904210",
+            "SRA": "SRX12405239",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405239",
+            "Sample_description": "GEX for three WT replicates: W3, W4, W5",
+            "characteristics": {
+                "condition": "wildtype",
+                "sex": "female",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5603823",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT_female_GEX"
+        },
+        "GSM5603824": {
+            "BioSample": "SAMN21904209",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904209",
+            "SRA": "SRX12405240",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405240",
+            "Sample_description": "HTO for three WT replicates: W3, W4, W5",
+            "characteristics": {
+                "condition": "wildtype",
+                "sex": "female",
+                "strain": "p38alphaf/f cre-",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5603824",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "WT_female_HTO"
+        },
+        "GSM5603825": {
+            "BioSample": "SAMN21904208",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904208",
+            "SRA": "SRX12405241",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405241",
+            "Sample_description": "GEX for three KO replicates: K6, K7, K8",
+            "characteristics": {
+                "condition": "conditional knock out",
+                "sex": "female",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5603825",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO_female_GEX"
+        },
+        "GSM5603826": {
+            "BioSample": "SAMN21904207",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN21904207",
+            "SRA": "SRX12405242",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX12405242",
+            "Sample_description": "HTO for three KO replicates: K6, K7, K8",
+            "characteristics": {
+                "condition": "conditional knock out",
+                "sex": "female",
+                "strain": "p38alphackocx3cr1-er",
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "labels": {
+                "tissue": "microglia",
+                "treatment": "eae induced with 2xmog/cfa"
+            },
+            "protocol": [
+                "mrna-seq"
+            ],
+            "sample_id": "GSM5603826",
+            "sample_source": [
+                "Microglia"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "CKO_female_HTO"
+        }
+    },
+    "summary": "Multiple sclerosis (MS) is an autoimmune demyelinating disease of the central nervous system, representing the leading cause of non-traumatic neurologic disease in young adults. This disease is three times more common in women, yet more severe in men, but the mechanisms underlying these sex differences remain largely unknown. MS is initiated by autoreactive T helper cells, but CNS-resident and CNS-infiltrating myeloid cells are the key proximal effector cells regulating disease pathology. We have previously shown that genetic ablation of p38\u03b1 MAP kinase broadly in the myeloid lineage is protective in the autoimmune model of MS, experimental autoimmune encephalomyelitis (EAE), but only in females, and not males. To precisely define the mechanisms responsible, we used multiple genetic approaches and bone marrow chimeras to ablate p38\u03b1 in microglial cells, peripheral myeloid cells, or both. Deletion of p38\u03b1 in both cell types recapitulated the previous sex difference, with reduced EAE severity in females. Unexpectedly, deletion of p38\u03b1 in the periphery was protective in both sexes. In contrast, deletion of p38\u03b1 in microglia exacerbated EAE in males only, revealing opposing roles of p38\u03b1 in microglia vs. periphery. Bulk transcriptional profiling revealed that p38\u03b1 regulated the expression of distinct gene modules in male vs. female microglia. Single-cell transcriptional analysis of WT and p38\u03b1-deficient microglia isolated from the inflamed CNS revealed a diversity of complex microglial states, connected by distinct convergent transcriptional trajectories. Microglial p38\u03b1 deficiency in males resulted in enhanced transition from homeostatic to disease-associated microglial states, with the downregulation of regulatory genes such as Atf3, Rgs1, Socs3, and Btg2, and increased expression of inflammatory genes such as Cd74, Trem2, and MHC class I and II genes. The effect of p38\u03b1 deficiency was divergent in female microglia, with an upregulation of a small subset of inflammatory genes that overlapped with males, but mostly a unique transcriptional profile that also included an upregulation of potentially tissue reparative genes. Taken together, these results reveal the presence of a p38\u03b1-dependent sex-specific molecular pathway in microglia that is protective in CNS autoimmunity in males, suggesting that autoimmunity in males and females is driven by distinct cellular and molecular pathways, thus informing the design of novel future sex-specific therapeutic approaches.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "p38 MAP kinase signaling in microglia plays a sex-specific protective role in CNS autoimmunity and regulates microglial transcriptional states [female]"
+}

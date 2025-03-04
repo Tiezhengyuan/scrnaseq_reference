@@ -1,0 +1,638 @@
+{
+    "GEO": "GSE133747",
+    "PMID": [
+        "31840053"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133747",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE133nnn/GSE133747/soft/GSE133747_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20301",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL21103",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Mus musculus)"
+        },
+        {
+            "platform_id": "GPL22396",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Rattus norvegicus)"
+        },
+        {
+            "platform_id": "GPL22475",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Sus scrofa)"
+        }
+    ],
+    "samples": {
+        "GSM3926539": {
+            "BioSample": "SAMN12204830",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204830",
+            "SRA": "SRX6399241",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399241",
+            "SRR": {
+                "SRR9637289": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/009/SRR9637289/SRR9637289.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399241_SRR9637289.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRR9637289.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "9 weeks",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926539",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "mMouse"
+        },
+        "GSM3926540": {
+            "BioSample": "SAMN12204829",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204829",
+            "SRA": "SRX6399242",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399242",
+            "SRR": {
+                "SRR9637290": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/000/SRR9637290/SRR9637290.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRR9637290.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399242_SRR9637290.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "9 weeks",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926540",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "fMouse"
+        },
+        "GSM3926541": {
+            "BioSample": "SAMN12204828",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204828",
+            "SRA": "SRX6399243",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399243",
+            "SRR": {
+                "SRR9637291": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/001/SRR9637291/SRR9637291.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRR9637291.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399243_SRR9637291.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "9 weeks",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926541",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10116",
+            "sample_title": "mRat"
+        },
+        "GSM3926542": {
+            "BioSample": "SAMN12204827",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204827",
+            "SRA": "SRX6399244",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399244",
+            "SRR": {
+                "SRR9637292": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/002/SRR9637292/SRR9637292.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRR9637292.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399244_SRR9637292.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "9 weeks",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926542",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10116",
+            "sample_title": "fRat"
+        },
+        "GSM3926543": {
+            "BioSample": "SAMN12204826",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204826",
+            "SRA": "SRX6399245",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399245",
+            "SRR": {
+                "SRR9637293": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/003/SRR9637293/SRR9637293.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399245_SRR9637293.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRR9637293.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "3.5 months",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926543",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9823",
+            "sample_title": "Pig1"
+        },
+        "GSM3926544": {
+            "BioSample": "SAMN12204825",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204825",
+            "SRA": "SRX6399246",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399246",
+            "SRR": {
+                "SRR9637294": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/004/SRR9637294/SRR9637294.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399246_SRR9637294.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "3.5 months",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926544",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9823",
+            "sample_title": "Pig2"
+        },
+        "GSM3926545": {
+            "BioSample": "SAMN12204824",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204824",
+            "SRA": "SRX6399247",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399247",
+            "SRR": {
+                "SRR9637295": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR963/005/SRR9637295/SRR9637295.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399247_SRR9637295.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "76 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926545",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HC1"
+        },
+        "GSM3926546": {
+            "BioSample": "SAMN12204823",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12204823",
+            "SRA": "SRX6399248",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6399248",
+            "SRR": {
+                "SRR9835575": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR983/005/SRR9835575/SRR9835575.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRR9835575.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE133747/fastq/SRX6399248_SRR9835575.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "88 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3926546",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "NDRI_1b"
+        },
+        "GSM4050097": {
+            "BioSample": "SAMN12643416",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643416",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "22 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050097",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "001C"
+        },
+        "GSM4050099": {
+            "BioSample": "SAMN12643415",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643415",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "35 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050099",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "048C"
+        },
+        "GSM4050101": {
+            "BioSample": "SAMN12643414",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643414",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "41 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050101",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "098C"
+        },
+        "GSM4050103": {
+            "BioSample": "SAMN12643412",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643412",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "32 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050103",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "133C"
+        },
+        "GSM4050105": {
+            "BioSample": "SAMN12643411",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643411",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "21 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050105",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "1372C"
+        },
+        "GSM4050107": {
+            "BioSample": "SAMN12643410",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643410",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "54 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050107",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "137C"
+        },
+        "GSM4050109": {
+            "BioSample": "SAMN12643409",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643409",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "64 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050109",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "160C"
+        },
+        "GSM4050111": {
+            "BioSample": "SAMN12643408",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643408",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "62 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050111",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "192C"
+        },
+        "GSM4050112": {
+            "BioSample": "SAMN12643404",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643404",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "65 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050112",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "222C"
+        },
+        "GSM4050113": {
+            "BioSample": "SAMN12643401",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643401",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "50 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050113",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "244C"
+        },
+        "GSM4050114": {
+            "BioSample": "SAMN12643417",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643417",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "61 years",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050114",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "388C"
+        },
+        "GSM4050115": {
+            "BioSample": "SAMN12643405",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12643405",
+            "SRR": {},
+            "Sample_description": "10x Genomics",
+            "characteristics": {
+                "age": "48 years",
+                "sex": "female",
+                "tissue": "lung"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lung"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4050115",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "454C"
+        }
+    },
+    "summary": "Single-cell RNA sequencing (scRNAseq) has made it possible to analyze complex organs such as the lung with unprecedented resolution. We have leveraged these techniques to identify conserved patterns of cell-cell cross-talk in adult mammalian lungs, analyzing mouse, rat, pig and human pulmonary tissues. Following clustering and histological registration, we mapped putative ligand-receptor interactions within and between cell types and assessed the significance of these interactions. Our findings demonstrate specific, stereotyped functional roles for each cell type in the distal lung which emerge as top candidates for the regulation of tissue phenotype.",
+    "taxid": [
+        "9606",
+        "9823",
+        "10090",
+        "10116"
+    ],
+    "title": "Single-cell connectomic analysis of adult mammalian lungs"
+}

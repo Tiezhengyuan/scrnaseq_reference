@@ -1,0 +1,68 @@
+{
+    "GEO": "GSE121611",
+    "PMID": [
+        "30554520"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121611",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE121nnn/GSE121611/soft/GSE121611_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL19057",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM3440071": {
+            "BioSample": "SAMN10267698",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10267698",
+            "SRA": "SRX4912881",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX4912881",
+            "characteristics": {
+                "age": "4 months",
+                "mouse_strain": "c57bl/6j (jax stock 000664)",
+                "replicate": "mouse #1",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [],
+            "sample_id": "GSM3440071",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "SC01"
+        },
+        "GSM3440072": {
+            "BioSample": "SAMN10267699",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10267699",
+            "SRA": "SRX5000543",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5000543",
+            "characteristics": {
+                "age": "4 months",
+                "mouse_strain": "c57bl/6j (jax stock 000664)",
+                "replicate": "mouse #2",
+                "sex": "male",
+                "tissue": "lung"
+            },
+            "labels": {
+                "tissue": "lung"
+            },
+            "protocol": [],
+            "sample_id": "GSM3440072",
+            "sample_source": [
+                "Lung"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "SC02"
+        }
+    },
+    "summary": "Pulmonary fibrosis is a heterogeneous syndrome in which fibrotic scar replaces normal lung tissue. We performed massively parallel single-cell RNA-Seq on lung tissue from eight lung transplant donors and eight patients with pulmonary fibrosis. Combined with in situ RNA hybridization, with amplification, these data provide a molecular atlas of disease pathobiology. We identified a distinct, novel population of profibrotic alveolar macrophages exclusively in patients with fibrosis. Within epithelial cells, the expression of genes involved in Wnt secretion and response was restricted to non-overlapping cells. We identified rare cell populations including airway stem cells and senescent cells emerging during pulmonary fibrosis. Analysis of a cryobiopsy specimen from a patient with early disease supports the clinical application of single-cell RNA-Seq to develop personalized approaches to therapy. This dataset contains single-cell RNA-seq data generated from the lungs of the two naive mice, human data for this study has been submitted to dbGap/SRA.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "Single-Cell Transcriptomic Analysis of Human Lung Reveals Complex Multicellular Changes During Pulmonary Fibrosis"
+}

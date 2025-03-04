@@ -1,0 +1,448 @@
+{
+    "GEO": "GSE128169",
+    "PMID": [
+        "31405848"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128169",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE128nnn/GSE128169/soft/GSE128169_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3666096": {
+            "BioSample": "SAMN11106021",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106021",
+            "Sample_description": "CONTROL 1",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "subject_status": "healthy control",
+                "tissue": "mix of upper + lower lobe lung_healthy donor"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "mix of upper + lower lobe lung_healthy donor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666096",
+            "sample_source": [
+                "mix of upper + lower lobe lung_healthy donor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC45NOR  [re-used]"
+        },
+        "GSM3666097": {
+            "BioSample": "SAMN11106020",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106020",
+            "Sample_description": "CONTROL 2",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "subject_status": "healthy control",
+                "tissue": "mix of upper + lower lobe lung_healthy donor"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "mix of upper + lower lobe lung_healthy donor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666097",
+            "sample_source": [
+                "mix of upper + lower lobe lung_healthy donor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC56NOR  [re-used]"
+        },
+        "GSM3666098": {
+            "BioSample": "SAMN11106019",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106019",
+            "Sample_description": "CONTROL 3",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "mix of upper + lower lobe lung",
+                "subject_status": "healthy control",
+                "tissue": "mix of upper + lower lobe lung_healthy donor"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "mix of upper + lower lobe lung_healthy donor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666098",
+            "sample_source": [
+                "mix of upper + lower lobe lung_healthy donor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC59NOR  [re-used]"
+        },
+        "GSM3666099": {
+            "BioSample": "SAMN11106018",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106018",
+            "Sample_description": "CONTROL 5",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "lower lobe lung",
+                "subject_status": "healthy control",
+                "tissue": "lower lobe lung_healthy donor"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "lower lobe lung_healthy donor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666099",
+            "sample_source": [
+                "lower lobe lung_healthy donor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC155NORLOW  [re-used]"
+        },
+        "GSM3666100": {
+            "BioSample": "SAMN11106017",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106017",
+            "Sample_description": "CONTROL 4",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "upper lobe lung",
+                "subject_status": "healthy control",
+                "tissue": "upper lobe lung_healthy donor"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "upper lobe lung_healthy donor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666100",
+            "sample_source": [
+                "upper lobe lung_healthy donor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC156NORUP  [re-used]"
+        },
+        "GSM3666101": {
+            "BioSample": "SAMN11106029",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106029",
+            "Sample_description": "SSC 2",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "lower lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666101",
+            "sample_source": [
+                "lower lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC51SSCLOW"
+        },
+        "GSM3666102": {
+            "BioSample": "SAMN11106024",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106024",
+            "Sample_description": "SSC 1",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "upper lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666102",
+            "sample_source": [
+                "upper lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC52SSCUP"
+        },
+        "GSM3666103": {
+            "BioSample": "SAMN11106023",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106023",
+            "Sample_description": "SSC 4",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "lower lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666103",
+            "sample_source": [
+                "lower lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC63SSCLOW"
+        },
+        "GSM3666104": {
+            "BioSample": "SAMN11106022",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106022",
+            "Sample_description": "SSC 3",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "upper lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666104",
+            "sample_source": [
+                "upper lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC64SSCUP"
+        },
+        "GSM3666105": {
+            "BioSample": "SAMN11106028",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106028",
+            "Sample_description": "SSC 6",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "lower lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666105",
+            "sample_source": [
+                "lower lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC108SSCLOW"
+        },
+        "GSM3666106": {
+            "BioSample": "SAMN11106027",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106027",
+            "Sample_description": "SSC 5",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "upper lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666106",
+            "sample_source": [
+                "upper lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC109SSCUP"
+        },
+        "GSM3666107": {
+            "BioSample": "SAMN11106026",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106026",
+            "Sample_description": "SSC 8",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "lower lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "lower lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666107",
+            "sample_source": [
+                "lower lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC135SSCLOW"
+        },
+        "GSM3666108": {
+            "BioSample": "SAMN11106025",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN11106025",
+            "Sample_description": "SSC 7",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v2 chemistry",
+                "lung_section/portion": "upper lobe lung",
+                "subject_status": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "systemic sclerosis-associated interstitial lung disease",
+                "disease_state": "systemic sclerosis-  associated interstitial lung disease (ssc-ild) patient",
+                "group": "patient",
+                "tissue": "upper lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3666108",
+            "sample_source": [
+                "upper lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC136SSCUP"
+        },
+        "GSM3909673": {
+            "BioSample": "SAMN12151588",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12151588",
+            "Sample_description": "poly-adenylated RNA, surface protein expression with TotalSeq-A antibodies CONTROL 6 This sample was sequenced twice-- once on the NextSeq 500 and once on the NovaSeq 6000. The output .h5 file contains the combined data from both of these instruments following alignment to the GRCh38 reference genome.",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v3 chemistry + cite-seq feature barcoding with biolegend total-seq a antibodies",
+                "lung_section/portion": "upper lobe lung",
+                "subject_status": "healthy donor",
+                "tissue": "upper lobe lung_healthy donor"
+            },
+            "labels": {
+                "disease": "healthy",
+                "group": "control",
+                "tissue": "upper lobe lung_healthy donor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3909673",
+            "sample_source": [
+                "upper lobe lung_healthy donor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC277"
+        },
+        "GSM3909674": {
+            "BioSample": "SAMN12151587",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12151587",
+            "Sample_description": "poly-adenylated RNA, surface protein expression with TotalSeq-A antibodies SSC 9/10 This sample was sequenced twice-- once on the NextSeq 500 and once on the NovaSeq 6000. The output .h5 file contains the combined data from both of these instruments following alignment to the GRCh38 reference genome.",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v3 chemistry + cell hashing hto + cite-seq feature barcoding with biolegend total-seq a antibodies",
+                "lung_section/portion": "mix of hashtagged upper  lobe + hashtagged lower lobe lung",
+                "subject_status": "scleroderma patient",
+                "tissue": "mix of hashtagged upper  lobe + hashtagged lower lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "scleroderma",
+                "disease_state": "scleroderma patient",
+                "group": "patient",
+                "tissue": "mix of hashtagged upper  lobe + hashtagged lower lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3909674",
+            "sample_source": [
+                "mix of hashtagged upper  lobe + hashtagged lower lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC281"
+        },
+        "GSM3909675": {
+            "BioSample": "SAMN12151586",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12151586",
+            "Sample_description": "poly-adenylated RNA, surface protein expression with TotalSeq-A antibodies SSC 11/12 This sample was sequenced twice-- once on the NextSeq 500 and once on the NovaSeq 6000. The output .h5 file contains the combined data from both of these instruments following alignment to the GRCh38 reference genome.",
+            "characteristics": {
+                "10x_genomics_chemistry": "10x genomics 3 prime v3 chemistry + cell hashing hto + cite-seq feature barcoding with biolegend total-seq a antibodies",
+                "lung_section/portion": "mix of hashtagged upper  lobe + hashtagged lower lobe lung",
+                "subject_status": "scleroderma patient",
+                "tissue": "mix of hashtagged upper  lobe + hashtagged lower lobe lung_scleroderma patient"
+            },
+            "labels": {
+                "disease": "scleroderma",
+                "disease_state": "scleroderma patient",
+                "group": "patient",
+                "tissue": "mix of hashtagged upper  lobe + hashtagged lower lobe lung_scleroderma patient"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM3909675",
+            "sample_source": [
+                "mix of hashtagged upper  lobe + hashtagged lower lobe lung_scleroderma patient"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "SC284"
+        }
+    },
+    "summary": "Myofibroblasts are key effector cells in the extracellular matrix remodeling of systemic sclerosis-associated interstitial lung disease (SSc-ILD), however the diversity of fibroblast populations present in the healthy and SSc-ILD lung is unknown, and has prevented the specific study of the myofibroblast transcriptome.   We sought to identify and define the transcriptomes of myofibroblasts and other mesenchymal cell populations in human healthy and SSc-ILD lungs to understand how alterations in fibroblast phenotypes lead to SSc-ILD fibrosis.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Single-cell analysis reveals fibroblast heterogeneity and myofibroblasts in systemic sclerosis-associated interstitial lung disease"
+}

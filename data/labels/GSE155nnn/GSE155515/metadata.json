@@ -1,0 +1,514 @@
+{
+    "GEO": "GSE155515",
+    "PMID": [
+        "34497273"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE155515",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE155nnn/GSE155515/soft/GSE155515_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL16791",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4705606": {
+            "BioSample": "SAMN15690496",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690496",
+            "Reanalysis of": "GSM3502715",
+            "SRA": "SRX8862323",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862323",
+            "SRR": {
+                "SRR12363062": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/062/SRR12363062/SRR12363062_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/062/SRR12363062/SRR12363062_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363062_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363062_2.fastq.gz"
+                    ]
+                },
+                "SRR12363063": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/063/SRR12363063/SRR12363063_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/063/SRR12363063/SRR12363063_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363063_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363063_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "36",
+                "cell_type": "small airway epithelium (sae)",
+                "ethnicity": "asian-pacificlslander",
+                "gender": "f",
+                "smoking_status": "nonsmoker",
+                "tissue": "small airway epithelium brushing"
+            },
+            "labels": {
+                "cell_type": "small airway epithelium (sae)",
+                "tissue": "lung, small airway epithelium brushing"
+            },
+            "protocol": [
+                "scrna-seq",
+                "dropseq",
+                "paired-end"
+            ],
+            "sample_id": "GSM4705606",
+            "sample_source": [
+                "small airway epithelium brushing"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DGM-13427_sm (Demographics_Drop-seq)"
+        },
+        "GSM4705607": {
+            "BioSample": "SAMN15690495",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690495",
+            "Reanalysis of": "GSM3502716",
+            "SRA": "SRX8862324",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862324",
+            "SRR": {
+                "SRR12363064": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/064/SRR12363064/SRR12363064_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/064/SRR12363064/SRR12363064_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363064_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363064_2.fastq.gz"
+                    ]
+                },
+                "SRR12363065": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/065/SRR12363065/SRR12363065_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/065/SRR12363065/SRR12363065_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363065_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363065_1.fastq.gz"
+                    ]
+                },
+                "SRR12363066": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/066/SRR12363066/SRR12363066_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/066/SRR12363066/SRR12363066_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363066_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363066_1.fastq.gz"
+                    ]
+                },
+                "SRR12363067": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/067/SRR12363067/SRR12363067_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/067/SRR12363067/SRR12363067_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363067_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363067_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "21",
+                "cell_type": "small airway epithelium (sae)",
+                "ethnicity": "caucasian",
+                "gender": "f",
+                "smoking_status": "nonsmoker",
+                "tissue": "small airway epithelium brushing"
+            },
+            "labels": {
+                "cell_type": "small airway epithelium (sae)",
+                "tissue": "lung, small airway epithelium brushing"
+            },
+            "protocol": [
+                "scrna-seq",
+                "dropseq",
+                "paired-end"
+            ],
+            "sample_id": "GSM4705607",
+            "sample_source": [
+                "small airway epithelium brushing"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DGM-13460_sm (Demographics_Drop-seq)"
+        },
+        "GSM4705608": {
+            "BioSample": "SAMN15690493",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690493",
+            "Reanalysis of": "GSM3502717",
+            "SRA": "SRX8862325",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862325",
+            "SRR": {
+                "SRR12363068": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/068/SRR12363068/SRR12363068_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/068/SRR12363068/SRR12363068_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363068_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363068_1.fastq.gz"
+                    ]
+                },
+                "SRR12363069": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/069/SRR12363069/SRR12363069_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/069/SRR12363069/SRR12363069_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363069_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363069_2.fastq.gz"
+                    ]
+                },
+                "SRR12363070": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/070/SRR12363070/SRR12363070_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/070/SRR12363070/SRR12363070_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363070_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363070_1.fastq.gz"
+                    ]
+                },
+                "SRR12363071": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/071/SRR12363071/SRR12363071_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/071/SRR12363071/SRR12363071_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363071_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363071_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "22",
+                "cell_type": "small airway epithelium (sae)",
+                "ethnicity": "african",
+                "gender": "f",
+                "smoking_status": "nonsmoker",
+                "tissue": "small airway epithelium brushing"
+            },
+            "labels": {
+                "cell_type": "small airway epithelium (sae)",
+                "tissue": "lung, small airway epithelium brushing"
+            },
+            "protocol": [
+                "scrna-seq",
+                "dropseq",
+                "paired-end"
+            ],
+            "sample_id": "GSM4705608",
+            "sample_source": [
+                "small airway epithelium brushing"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DGM-13451_sm (Demographics_Drop-seq)"
+        },
+        "GSM4705609": {
+            "BioSample": "SAMN15690491",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690491",
+            "Reanalysis of": "GSM3502718",
+            "SRA": "SRX8862326",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862326",
+            "SRR": {
+                "SRR12363072": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/072/SRR12363072/SRR12363072_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/072/SRR12363072/SRR12363072_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363072_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363072_2.fastq.gz"
+                    ]
+                },
+                "SRR12363073": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/073/SRR12363073/SRR12363073_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/073/SRR12363073/SRR12363073_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363073_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363073_2.fastq.gz"
+                    ]
+                },
+                "SRR12363074": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/074/SRR12363074/SRR12363074_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/074/SRR12363074/SRR12363074_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363074_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363074_2.fastq.gz"
+                    ]
+                },
+                "SRR12363075": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/075/SRR12363075/SRR12363075_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/075/SRR12363075/SRR12363075_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363075_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363075_1.fastq.gz"
+                    ]
+                },
+                "SRR12363076": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/076/SRR12363076/SRR12363076_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/076/SRR12363076/SRR12363076_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363076_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363076_2.fastq.gz"
+                    ]
+                },
+                "SRR12363077": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/077/SRR12363077/SRR12363077_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/077/SRR12363077/SRR12363077_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363077_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363077_1.fastq.gz"
+                    ]
+                },
+                "SRR12363078": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/078/SRR12363078/SRR12363078_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/078/SRR12363078/SRR12363078_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363078_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363078_2.fastq.gz"
+                    ]
+                },
+                "SRR12363079": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/079/SRR12363079/SRR12363079_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/079/SRR12363079/SRR12363079_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363079_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363079_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "57",
+                "cell_type": "small airway epithelium (sae)",
+                "ethnicity": "african",
+                "gender": "m",
+                "smoking_status": "smoker",
+                "tissue": "small airway epithelium brushing"
+            },
+            "labels": {
+                "cell_type": "small airway epithelium (sae)",
+                "tissue": "lung, small airway epithelium brushing"
+            },
+            "protocol": [
+                "scrna-seq",
+                "dropseq",
+                "paired-end"
+            ],
+            "sample_id": "GSM4705609",
+            "sample_source": [
+                "small airway epithelium brushing"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DGM-00384_sm (Demographics_Drop-seq)"
+        },
+        "GSM4705610": {
+            "BioSample": "SAMN15690489",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690489",
+            "Reanalysis of": "GSM3502719",
+            "SRA": "SRX8862327",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862327",
+            "SRR": {
+                "SRR12363080": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/080/SRR12363080/SRR12363080_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/080/SRR12363080/SRR12363080_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363080_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363080_1.fastq.gz"
+                    ]
+                },
+                "SRR12363081": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/081/SRR12363081/SRR12363081_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/081/SRR12363081/SRR12363081_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363081_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363081_1.fastq.gz"
+                    ]
+                },
+                "SRR12363082": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/082/SRR12363082/SRR12363082_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/082/SRR12363082/SRR12363082_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363082_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363082_1.fastq.gz"
+                    ]
+                },
+                "SRR12363083": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/083/SRR12363083/SRR12363083_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/083/SRR12363083/SRR12363083_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363083_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363083_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "39",
+                "cell_type": "small airway epithelium (sae)",
+                "ethnicity": "asian-pacificlslander",
+                "gender": "m",
+                "smoking_status": "smoker",
+                "tissue": "small airway epithelium brushing"
+            },
+            "labels": {
+                "cell_type": "small airway epithelium (sae)",
+                "tissue": "lung, small airway epithelium brushing"
+            },
+            "protocol": [
+                "scrna-seq",
+                "dropseq",
+                "paired-end"
+            ],
+            "sample_id": "GSM4705610",
+            "sample_source": [
+                "small airway epithelium brushing"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DGM-13434_sm (Demographics_Drop-seq)"
+        },
+        "GSM4705611": {
+            "BioSample": "SAMN15690486",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN15690486",
+            "Reanalysis of": "GSM3502720",
+            "SRA": "SRX8862328",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8862328",
+            "SRR": {
+                "SRR12363084": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/084/SRR12363084/SRR12363084_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/084/SRR12363084/SRR12363084_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363084_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363084_2.fastq.gz"
+                    ]
+                },
+                "SRR12363085": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/085/SRR12363085/SRR12363085_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/085/SRR12363085/SRR12363085_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363085_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363085_2.fastq.gz"
+                    ]
+                },
+                "SRR12363086": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/086/SRR12363086/SRR12363086_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/086/SRR12363086/SRR12363086_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363086_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363086_2.fastq.gz"
+                    ]
+                },
+                "SRR12363087": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/087/SRR12363087/SRR12363087_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/087/SRR12363087/SRR12363087_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363087_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363087_1.fastq.gz"
+                    ]
+                },
+                "SRR12363088": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/088/SRR12363088/SRR12363088_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/088/SRR12363088/SRR12363088_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363088_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363088_1.fastq.gz"
+                    ]
+                },
+                "SRR12363089": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/089/SRR12363089/SRR12363089_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/089/SRR12363089/SRR12363089_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363089_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363089_2.fastq.gz"
+                    ]
+                },
+                "SRR12363090": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/090/SRR12363090/SRR12363090_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/090/SRR12363090/SRR12363090_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363090_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363090_1.fastq.gz"
+                    ]
+                },
+                "SRR12363091": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/091/SRR12363091/SRR12363091_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/091/SRR12363091/SRR12363091_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363091_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE155515/fastq/SRR12363091_1.fastq.gz"
+                    ]
+                }
+            },
+            "characteristics": {
+                "age": "30",
+                "cell_type": "small airway epithelium (sae)",
+                "ethnicity": "hispanic",
+                "gender": "m",
+                "smoking_status": "smoker",
+                "tissue": "small airway epithelium brushing"
+            },
+            "labels": {
+                "cell_type": "small airway epithelium (sae)",
+                "tissue": "lung, small airway epithelium brushing"
+            },
+            "protocol": [
+                "scrna-seq",
+                "dropseq",
+                "paired-end"
+            ],
+            "sample_id": "GSM4705611",
+            "sample_source": [
+                "small airway epithelium brushing"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DGM-13471_sm (Demographics_Drop-seq)"
+        }
+    },
+    "summary": "The club cell, a small airway epithelial (SAE) secretory cell that uniquely expresses SCGB1A1, plays a central role in host defense in the human lung. Based on data demonstrating that ~50% of club cells express MUC5B, a secretory mucin critical for mucociliary clearance, we hypothesized that subpopulations of club cells with distinct functions may exist. To evaluate this, the SAE of normal nonsmokers and healthy cigarette smokers was sampled by bronchoscopy and brushing followed by single cell sequencing using Drop-seq technology. Subpopulations of SCGCB1A1+KRT5loMUC5AC- club cells were assessed by unsupervised clustering to evaluate club cell subpopulations. Immunostaining of SAE in lung sections, brushed SAE cells, and in vitro air-liquid interface culture was utilized to confirm the transcriptomic-based observations. Unsupervised clustering of SCGCB1A1+KRT5loMUC5AC\u203e club cells in the SAE identified 3 unique club cell populations that differed by differentiation state and function, including: (1) progenitor; (2) proliferating; and (3) effector subpopulations. The progenitor club cell population was energetically active with high expression of mitochondrial and ribosomal proteins and the highest KRT5 levels vs other club cell populations. The proliferating population, defined by high expression of cyclins and proliferation markers, was the smallest, representing 2% of club cells. The effector club cell cluster expressed transcripts for host defense genes, xenobiotic metabo-lism, and barrier functions commonly associated with club cell function. Comparison of the club cell subpopulations in smokers vs nonsmokers demonstrated that the proportion of the club cell effector population was significantly decreased in smokers with a concomitant significant in-crease in the proliferating cell population. These observations provide novel insights into both the makeup of human SAE club cell subpopulations and smoking-induced changes in club cell biology.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Smoking shifts Human Airway Epithelium Club Cells toward a Lesser Differentiated Population"
+}

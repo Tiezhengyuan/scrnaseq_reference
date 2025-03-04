@@ -44,7 +44,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "mild",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -88,7 +88,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "mild",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -132,7 +132,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -176,7 +176,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "mild",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -220,7 +220,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -264,7 +264,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -309,7 +309,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "mild",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -354,7 +354,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "mild",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -399,7 +399,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -444,7 +444,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "mild",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -489,7 +489,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -534,7 +534,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -576,7 +576,7 @@
                 "cell_type": "cd45+",
                 "disease": "healthy",
                 "group": "control",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -618,7 +618,7 @@
                 "cell_type": "cd45+",
                 "disease": "healthy",
                 "group": "control",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -660,7 +660,7 @@
                 "cell_type": "cd45+",
                 "disease": "healthy",
                 "group": "control",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -703,7 +703,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -746,7 +746,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -789,7 +789,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -832,7 +832,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -875,7 +875,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",
@@ -918,7 +918,7 @@
                 "disease": "covid-19 infection",
                 "disease_state": "severe",
                 "group": "patient",
-                "tissue": "balf"
+                "tissue": "lung, bronchoalveolar lavage fluid"
             },
             "protocol": [
                 "scrna-seq",

@@ -1,0 +1,390 @@
+{
+    "GEO": "GSE125188",
+    "PMID": [
+        "32351704"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE125188",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE125nnn/GSE125188/soft/GSE125188_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20795",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "HiSeq X Ten (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM3564834": {
+            "BioSample": "SAMN10755966",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755966",
+            "SRA": "SRX5255152",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255152",
+            "SRR": {
+                "SRR8448139": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/009/SRR8448139/SRR8448139_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/009/SRR8448139/SRR8448139_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448139_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448139_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "blood",
+                "tissue": "blood"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "blood"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564834",
+            "sample_source": [
+                "blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 1, blood"
+        },
+        "GSM3564835": {
+            "BioSample": "SAMN10755965",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755965",
+            "SRA": "SRX5255153",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255153",
+            "SRR": {
+                "SRR8448140": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/000/SRR8448140/SRR8448140_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/000/SRR8448140/SRR8448140_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448140_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448140_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "spleen",
+                "tissue": "spleen"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "spleen"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564835",
+            "sample_source": [
+                "spleen"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 1, spleen"
+        },
+        "GSM3564836": {
+            "BioSample": "SAMN10755964",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755964",
+            "SRA": "SRX5255154",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255154",
+            "SRR": {
+                "SRR8448141": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/001/SRR8448141/SRR8448141_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/001/SRR8448141/SRR8448141_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448141_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448141_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "liver",
+                "tissue": "liver"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "liver"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564836",
+            "sample_source": [
+                "liver"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 1, liver"
+        },
+        "GSM3564837": {
+            "BioSample": "SAMN10755963",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755963",
+            "SRA": "SRX5255155",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255155",
+            "SRR": {
+                "SRR8448142": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/002/SRR8448142/SRR8448142_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/002/SRR8448142/SRR8448142_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448142_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448142_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "blood",
+                "tissue": "blood"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "blood"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564837",
+            "sample_source": [
+                "blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 2, blood"
+        },
+        "GSM3564838": {
+            "BioSample": "SAMN10755962",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755962",
+            "SRA": "SRX5255156",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255156",
+            "SRR": {
+                "SRR8448143": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/003/SRR8448143/SRR8448143_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/003/SRR8448143/SRR8448143_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448143_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448143_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "spleen",
+                "tissue": "spleen"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "spleen"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564838",
+            "sample_source": [
+                "spleen"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 2, spleen"
+        },
+        "GSM3564839": {
+            "BioSample": "SAMN10755961",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755961",
+            "SRA": "SRX5255157",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255157",
+            "SRR": {
+                "SRR8448144": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/004/SRR8448144/SRR8448144_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/004/SRR8448144/SRR8448144_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448144_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448144_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "liver",
+                "tissue": "liver"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "liver"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564839",
+            "sample_source": [
+                "liver"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 2, liver"
+        },
+        "GSM3564840": {
+            "BioSample": "SAMN10755960",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755960",
+            "SRA": "SRX5255158",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255158",
+            "SRR": {
+                "SRR8448145": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/005/SRR8448145/SRR8448145_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/005/SRR8448145/SRR8448145_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448145_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "blood",
+                "tissue": "blood"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "blood"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564840",
+            "sample_source": [
+                "blood"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 3, blood"
+        },
+        "GSM3564841": {
+            "BioSample": "SAMN10755959",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755959",
+            "SRA": "SRX5255159",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255159",
+            "SRR": {
+                "SRR8448146": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/006/SRR8448146/SRR8448146_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/006/SRR8448146/SRR8448146_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448146_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448146_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "spleen",
+                "tissue": "spleen"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "spleen"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564841",
+            "sample_source": [
+                "spleen"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 3, spleen"
+        },
+        "GSM3564842": {
+            "BioSample": "SAMN10755958",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN10755958",
+            "SRA": "SRX5255160",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX5255160",
+            "SRR": {
+                "SRR8448147": {
+                    "ftp.sra.ebi.ac.uk": [
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/007/SRR8448147/SRR8448147_1.fastq.gz",
+                        "ftp.sra.ebi.ac.uk/vol1/fastq/SRR844/007/SRR8448147/SRR8448147_2.fastq.gz"
+                    ],
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448147_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE125188/fastq/SRR8448147_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Single-cell RNAseq data",
+            "characteristics": {
+                "cell_subsets": "cd45+",
+                "organ": "liver",
+                "tissue": "liver"
+            },
+            "labels": {
+                "cell_type": "cd45+",
+                "disease": "liver transplanation",
+                "group": "patient",
+                "tissue": "liver"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2",
+                "paired-end"
+            ],
+            "sample_id": "GSM3564842",
+            "sample_source": [
+                "liver"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "donor 4, liver"
+        }
+    },
+    "summary": "The liver plays a critical role in both immune defense and tolerance in the body. The liver-resident immune cells (LrICs) determine the immune properties, but the unique composition and heterogeneity of these cells are incompletely understood. Here, we dissect the diversity of LrICs by a comprehensive transcriptomic profiling using the unbiased single-cell RNA-sequencing (scRNA-seq). A total of 70, 706 of CD45+ immune cells from the paired liver perfusion, spleen and peripheral blood as references were profiled. We identified 33 discrete cell populations comprising 14 of T and NK cell, 7 of B cell, 4 of antibody-secreting cell (ASC) and 8 of myeloid cell subsets in human liver and donor-paired spleen and blood, and characterized their tissue distribution, gene expression and functional modules. Especially, four of CXCR6+ T and NK cell subsets were found to be present preferentially in the liver, where they manifested heterogeneity, distinct function and prominent homeostatic proliferation. We propose a universal category system of T and NK cells based on distinct chemokine receptors, confirmed subsequently by phenotype, transcriptional factors and functionality. We also identified adaptive changes by the spleen and liver-resident monocyte and macrophage populations. Finally, we give a global glimpse on B cell and ASC subsets in human spleen and liver. We, therefore, reveal the heterogeneity and functional diversity of LrICs in human. This study presents comprehensively the landscape of LrICs and will enable further study on their roles in various human diseases.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Single-cell RNA sequencing reveals the heterogeneity of liver-resident immune cells in human"
+}

@@ -1,0 +1,49 @@
+{
+    "GEO": "GSE137799",
+    "PMID": [
+        "32004478"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137799",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137799/soft/GSE137799_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4088735": {
+            "BioSample": "SAMN12799175",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN12799175",
+            "SRA": "SRX6881599",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX6881599",
+            "Sample_description": "iAEC2, SFTPC Tomato positive",
+            "characteristics": {
+                "culture_media": "3d conditions in ck+dci media",
+                "developmental_stage": "day 115",
+                "isolation_method": "chromium 10x",
+                "tissue": "ipsc derived"
+            },
+            "labels": {
+                "cell_type": "induced pluripotent stem cells",
+                "tissue": "ipsc derived"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4088735",
+            "sample_source": [
+                "iPSC derived"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "iAEC2 alveolospheres"
+        }
+    },
+    "summary": "iPSC derived AEC2 cells for independent validation of stable SFTPCtdTomato+ outgrowth by scRNA-seq using iPSCs",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Long-term culture of alveolospheres"
+}
