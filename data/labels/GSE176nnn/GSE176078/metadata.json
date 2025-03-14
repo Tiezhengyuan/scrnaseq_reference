@@ -1,0 +1,726 @@
+{
+    "GEO": "GSE176078",
+    "PMID": [
+        "34493872",
+        "35933466",
+        "39483921"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176078",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE176nnn/GSE176078/soft/GSE176078_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5354513": {
+            "BioSample": "SAMN19546317",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546317",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "her2+/er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "her2+/er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354513",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3586"
+        },
+        "GSM5354514": {
+            "BioSample": "SAMN19546316",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546316",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "her2+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "her2+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354514",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3838"
+        },
+        "GSM5354515": {
+            "BioSample": "SAMN19546315",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546315",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "her2+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "her2+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354515",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3921"
+        },
+        "GSM5354516": {
+            "BioSample": "SAMN19546314",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546314",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354516",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3941"
+        },
+        "GSM5354517": {
+            "BioSample": "SAMN19546312",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546312",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354517",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3946"
+        },
+        "GSM5354518": {
+            "BioSample": "SAMN19546311",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546311",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354518",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3948"
+        },
+        "GSM5354519": {
+            "BioSample": "SAMN19546310",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546310",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354519",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID3963"
+        },
+        "GSM5354520": {
+            "BioSample": "SAMN19546309",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546309",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354520",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4040"
+        },
+        "GSM5354521": {
+            "BioSample": "SAMN19546508",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546508",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "her2+/er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "her2+/er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354521",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4066"
+        },
+        "GSM5354522": {
+            "BioSample": "SAMN19546507",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546507",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354522",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4067"
+        },
+        "GSM5354523": {
+            "BioSample": "SAMN19546327",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546327",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354523",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4290A"
+        },
+        "GSM5354524": {
+            "BioSample": "SAMN19546326",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546326",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354524",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4398"
+        },
+        "GSM5354525": {
+            "BioSample": "SAMN19546325",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546325",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354525",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID44041"
+        },
+        "GSM5354526": {
+            "BioSample": "SAMN19546324",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546324",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354526",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4461"
+        },
+        "GSM5354527": {
+            "BioSample": "SAMN19546323",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546323",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354527",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4463"
+        },
+        "GSM5354528": {
+            "BioSample": "SAMN19546322",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546322",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354528",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4465"
+        },
+        "GSM5354529": {
+            "BioSample": "SAMN19546321",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546321",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354529",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4471"
+        },
+        "GSM5354530": {
+            "BioSample": "SAMN19546320",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546320",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354530",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4495"
+        },
+        "GSM5354531": {
+            "BioSample": "SAMN19546319",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546319",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354531",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID44971"
+        },
+        "GSM5354532": {
+            "BioSample": "SAMN19546318",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546318",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354532",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID44991"
+        },
+        "GSM5354533": {
+            "BioSample": "SAMN19546506",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546506",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354533",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4513"
+        },
+        "GSM5354534": {
+            "BioSample": "SAMN19546505",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546505",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354534",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4515"
+        },
+        "GSM5354535": {
+            "BioSample": "SAMN19546504",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546504",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "her2+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "her2+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354535",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID45171"
+        },
+        "GSM5354536": {
+            "BioSample": "SAMN19546503",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546503",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "tnbc",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "tnbc",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354536",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4523"
+        },
+        "GSM5354537": {
+            "BioSample": "SAMN19546502",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546502",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354537",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4530N"
+        },
+        "GSM5354538": {
+            "BioSample": "SAMN19546501",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN19546501",
+            "SRR": {},
+            "Sample_description": "***Raw Data Disclaimer: Raw human data files are deposited to the EGA (EGAS00001005173) to adhere to ethics.***",
+            "characteristics": {
+                "clinical_subtype": "er+",
+                "gender": "female",
+                "tissue": "mammary tumor"
+            },
+            "labels": {
+                "cell_type": "er+",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, mammary tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5354538",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "CID4535"
+        }
+    },
+    "summary": "This study presents a single cell and spatially resolved transcriptomics analysis of human breast cancers. We develop a single cell method of intrinsic subtype classification (scSubtype) to reveal recurrent neoplastic cell heterogeneity. Immunophenotyping using CITE-Seq provides high-resolution immune profiles, including novel PD-L1/PD-L2+ macrophage populations associated with clinical outcome. Mesenchymal cells displayed diverse functions and cell surface protein expression through differentiation within 3 major lineages. Stromal-immune niches were spatially organized in tumors, offering insights into anti-tumor immune regulation. Using single cell signatures, we deconvoluted large breast cancer cohorts to stratify them into nine clusters, termed \u2018ecotypes\u2019, with unique cellular compositions and clinical outcomes. This study provides a comprehensive transcriptional atlas of the cellular architecture of breast cancer.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "A single-cell and spatially resolved atlas of human breast cancers"
+}

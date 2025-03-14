@@ -1,0 +1,923 @@
+{
+    "GEO": "GSE190169",
+    "PMID": [
+        "35132960",
+        "38401418"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190169",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190169/soft/GSE190169_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL19965",
+            "platform_technology": "other",
+            "platform_title": "nCounter PanCancer Immune Profiling Panel"
+        }
+    ],
+    "samples": {
+        "GSM5717559": {
+            "Sample_description": "SAMPLE 1",
+            "characteristics": {
+                "age": "50",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "1.27",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717559",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "94"
+        },
+        "GSM5717560": {
+            "Sample_description": "SAMPLE 10",
+            "characteristics": {
+                "age": "47",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "4",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717560",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "258"
+        },
+        "GSM5717561": {
+            "Sample_description": "SAMPLE 11",
+            "characteristics": {
+                "age": "71",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "2.8",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717561",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "262"
+        },
+        "GSM5717562": {
+            "Sample_description": "SAMPLE 12",
+            "characteristics": {
+                "age": "58",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "15",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717562",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "291"
+        },
+        "GSM5717563": {
+            "Sample_description": "SAMPLE 13",
+            "characteristics": {
+                "age": "35",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "67",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717563",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "17086-12"
+        },
+        "GSM5717564": {
+            "Sample_description": "SAMPLE 14",
+            "characteristics": {
+                "age": "41",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "39.2",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717564",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "317"
+        },
+        "GSM5717565": {
+            "Sample_description": "SAMPLE 15",
+            "characteristics": {
+                "age": "61",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "2.1",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717565",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "318"
+        },
+        "GSM5717566": {
+            "Sample_description": "SAMPLE 16",
+            "characteristics": {
+                "age": "62",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717566",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "335"
+        },
+        "GSM5717567": {
+            "Sample_description": "SAMPLE 17",
+            "characteristics": {
+                "age": "60",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "22.9",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717567",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "338"
+        },
+        "GSM5717568": {
+            "Sample_description": "SAMPLE 18",
+            "characteristics": {
+                "age": "72",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "33",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717568",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "339"
+        },
+        "GSM5717569": {
+            "Sample_description": "SAMPLE 19",
+            "characteristics": {
+                "age": "43",
+                "grade": "3",
+                "group": "texlo",
+                "tex_facs": "4.3",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717569",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "341"
+        },
+        "GSM5717570": {
+            "Sample_description": "SAMPLE 2",
+            "characteristics": {
+                "age": "50",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "1.47",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717570",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "98"
+        },
+        "GSM5717571": {
+            "Sample_description": "SAMPLE 20",
+            "characteristics": {
+                "age": "42",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "21.3",
+                "tissue": "breast tumor",
+                "tumor_stage": "3"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717571",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "351"
+        },
+        "GSM5717572": {
+            "Sample_description": "SAMPLE 21",
+            "characteristics": {
+                "age": "46",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "1.3",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717572",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "367"
+        },
+        "GSM5717573": {
+            "Sample_description": "SAMPLE 22",
+            "characteristics": {
+                "age": "76",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "16.9",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717573",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "371"
+        },
+        "GSM5717574": {
+            "Sample_description": "SAMPLE 23",
+            "characteristics": {
+                "age": "51",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "0.9",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717574",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "378"
+        },
+        "GSM5717575": {
+            "Sample_description": "SAMPLE 24",
+            "characteristics": {
+                "age": "77",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "2",
+                "tissue": "breast tumor",
+                "tumor_stage": "3"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717575",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "380"
+        },
+        "GSM5717576": {
+            "Sample_description": "SAMPLE 25",
+            "characteristics": {
+                "age": "45",
+                "grade": "1",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717576",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "17086-15"
+        },
+        "GSM5717577": {
+            "Sample_description": "SAMPLE 26",
+            "characteristics": {
+                "age": "45",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "49.9",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717577",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "96"
+        },
+        "GSM5717578": {
+            "Sample_description": "SAMPLE 27",
+            "characteristics": {
+                "age": "46",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "27.5",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717578",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "214"
+        },
+        "GSM5717579": {
+            "Sample_description": "SAMPLE 28",
+            "characteristics": {
+                "age": "44",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "10",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717579",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "225"
+        },
+        "GSM5717580": {
+            "Sample_description": "SAMPLE 29",
+            "characteristics": {
+                "age": "42",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "25.5",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717580",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "242"
+        },
+        "GSM5717581": {
+            "Sample_description": "SAMPLE 3",
+            "characteristics": {
+                "age": "32",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "0.7",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717581",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "165"
+        },
+        "GSM5717582": {
+            "Sample_description": "SAMPLE 30",
+            "characteristics": {
+                "age": "90",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "34.9",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717582",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "287"
+        },
+        "GSM5717583": {
+            "Sample_description": "SAMPLE 31",
+            "characteristics": {
+                "age": "38",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "5.4",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717583",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "373"
+        },
+        "GSM5717584": {
+            "Sample_description": "SAMPLE 32",
+            "characteristics": {
+                "age": "41",
+                "grade": "3",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717584",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "374"
+        },
+        "GSM5717585": {
+            "Sample_description": "SAMPLE 33",
+            "characteristics": {
+                "age": "58",
+                "grade": "3",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "3"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717585",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "382"
+        },
+        "GSM5717586": {
+            "Sample_description": "SAMPLE 34",
+            "characteristics": {
+                "age": "42",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "2.8",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717586",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "384"
+        },
+        "GSM5717587": {
+            "Sample_description": "SAMPLE 35",
+            "characteristics": {
+                "age": "57",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717587",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "389"
+        },
+        "GSM5717588": {
+            "Sample_description": "SAMPLE 36",
+            "characteristics": {
+                "age": "49",
+                "grade": "2",
+                "group": "texhi",
+                "tex_facs": "15",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717588",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "390"
+        },
+        "GSM5717589": {
+            "Sample_description": "SAMPLE 4",
+            "characteristics": {
+                "age": "35",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "5",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717589",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "166"
+        },
+        "GSM5717590": {
+            "Sample_description": "SAMPLE 5",
+            "characteristics": {
+                "age": "55",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717590",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "186"
+        },
+        "GSM5717591": {
+            "Sample_description": "SAMPLE 6",
+            "characteristics": {
+                "age": "64",
+                "grade": "3",
+                "group": "texhi",
+                "tex_facs": "11.5",
+                "tissue": "breast tumor",
+                "tumor_stage": "2"
+            },
+            "labels": {
+                "group": "texhi",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717591",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "192"
+        },
+        "GSM5717592": {
+            "Sample_description": "SAMPLE 7",
+            "characteristics": {
+                "age": "93",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717592",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "193"
+        },
+        "GSM5717593": {
+            "Sample_description": "SAMPLE 8",
+            "characteristics": {
+                "age": "49",
+                "grade": "1",
+                "group": "texlo",
+                "tex_facs": "0",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717593",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "197"
+        },
+        "GSM5717594": {
+            "Sample_description": "SAMPLE 9",
+            "characteristics": {
+                "age": "47",
+                "grade": "2",
+                "group": "texlo",
+                "tex_facs": "1.07",
+                "tissue": "breast tumor",
+                "tumor_stage": "1"
+            },
+            "labels": {
+                "group": "texlo",
+                "tissue": "breast tumor"
+            },
+            "protocol": [
+                "mrna-seq",
+                "nanostring"
+            ],
+            "sample_id": "GSM5717594",
+            "sample_source": [
+                "breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "213"
+        }
+    },
+    "summary": "We identify subsets of BC tumors infiltrated by CD8+ T cells with characteristic features of exhausted T cells (TEX). Tumors with abundant CD8+ TEX exhibit a distinct tumor microenvironment marked by amplified interferon-\u03b3 signaling related pathways and higher PD-L1 expression.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Tumor infiltrating CD8+ Tex cells dictate divergent survival outcomes in pre- vs post-menopausal ER+ breast cancer"
+}

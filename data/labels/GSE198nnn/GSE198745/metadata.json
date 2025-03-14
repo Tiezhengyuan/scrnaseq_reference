@@ -1,0 +1,97 @@
+{
+    "GEO": "GSE198745",
+    "PMID": [
+        "35241110"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198745",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE198nnn/GSE198745/soft/GSE198745_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5956093": {
+            "Sample_description": "one sample from human primary breast cancer",
+            "characteristics": {
+                "gender": "female",
+                "tissue": "mammary tumor",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor tissue",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5956093",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC-A snRNAseq"
+        },
+        "GSM5956094": {
+            "Sample_description": "one sample from human primary breast cancer",
+            "characteristics": {
+                "gender": "female",
+                "tissue": "mammary tumor",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor tissue",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5956094",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC-B snRNAseq"
+        },
+        "GSM5956095": {
+            "Sample_description": "one sample from human primary breast cancer",
+            "characteristics": {
+                "gender": "female",
+                "tissue": "mammary tumor",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor tissue",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v3"
+            ],
+            "sample_id": "GSM5956095",
+            "sample_source": [
+                "Mammary Tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC-A ST"
+        }
+    },
+    "summary": "The heterogeneity and the complex cellular architecture have a crucial effect on breast cancer progression and response to treatment. However, deciphering the neoplastic subtypes and their spatial organization is still challenging. Here we combine single-nucleus RNA sequencing (snRNA-seq) with a microarray-based spatial transcriptomics (ST) to identify cell populations and their spatial distribution in breast cancer tissues. Malignant cells are clustered into distinct sub-populations. These cell clusters not only have diverse features, origins and functions, but also emerge to the crosstalk within subtypes. Furthermore, we find that these sub-clusters are mapped in distinct tissue regions, where discrepant enrichment of stromal cell types are observed. We also inferred the abundance of these tumorous subpopulations by deconvolution of large breast cancer RNA-seq cohorts, revealing differential association with patient survival and therapeutic response. Our study provides a novel insight for the cellular architecture of breast cancer and potential therapeutic strategies.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Single-cell and spatially resolved analysis uncovers cell heterogeneity of breast cancer"
+}

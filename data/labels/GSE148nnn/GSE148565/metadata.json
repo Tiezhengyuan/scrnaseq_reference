@@ -1,0 +1,510 @@
+{
+    "GEO": "GSE148565",
+    "PMID": [
+        "34815798"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148565",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE148nnn/GSE148565/soft/GSE148565_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL17021",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Mus musculus)"
+        },
+        {
+            "platform_id": "GPL21273",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "HiSeq X Ten (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM4473633": {
+            "BioSample": "SAMN14591423",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591423",
+            "SRA": "SRX8110400",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110400",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473633",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X1310T1"
+        },
+        "GSM4473634": {
+            "BioSample": "SAMN14591422",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591422",
+            "SRA": "SRX8110401",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110401",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473634",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X1310T2"
+        },
+        "GSM4473635": {
+            "BioSample": "SAMN14591421",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591421",
+            "SRA": "SRX8110402",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110402",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473635",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X1418T"
+        },
+        "GSM4473636": {
+            "BioSample": "SAMN14591420",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591420",
+            "SRA": "SRX8110403",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110403",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473636",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X1463T1"
+        },
+        "GSM4473637": {
+            "BioSample": "SAMN14591419",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591419",
+            "SRA": "SRX8110404",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110404",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473637",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X1463T2"
+        },
+        "GSM4473638": {
+            "BioSample": "SAMN14591418",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591418",
+            "SRA": "SRX8110405",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110405",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473638",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X147T"
+        },
+        "GSM4473639": {
+            "BioSample": "SAMN14591417",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591417",
+            "SRA": "SRX8110406",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110406",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473639",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X149T1"
+        },
+        "GSM4473640": {
+            "BioSample": "SAMN14591416",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591416",
+            "SRA": "SRX8110407",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110407",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473640",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X149T2"
+        },
+        "GSM4473641": {
+            "BioSample": "SAMN14591415",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591415",
+            "SRA": "SRX8110408",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110408",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473641",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X1515T"
+        },
+        "GSM4473642": {
+            "BioSample": "SAMN14591414",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591414",
+            "SRA": "SRX8110409",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110409",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473642",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X153T"
+        },
+        "GSM4473643": {
+            "BioSample": "SAMN14591413",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591413",
+            "SRA": "SRX8110410",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110410",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473643",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X154T"
+        },
+        "GSM4473644": {
+            "BioSample": "SAMN14591412",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591412",
+            "SRA": "SRX8110411",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110411",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473644",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X2265T"
+        },
+        "GSM4473645": {
+            "BioSample": "SAMN14591411",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591411",
+            "SRA": "SRX8110412",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110412",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473645",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X370T"
+        },
+        "GSM4473646": {
+            "BioSample": "SAMN14591410",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591410",
+            "SRA": "SRX8110413",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110413",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473646",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X4351T"
+        },
+        "GSM4473647": {
+            "BioSample": "SAMN14591409",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591409",
+            "SRA": "SRX8110414",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110414",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473647",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X437T"
+        },
+        "GSM4473648": {
+            "BioSample": "SAMN14591408",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591408",
+            "SRA": "SRX8110415",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110415",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473648",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X493T1"
+        },
+        "GSM4473649": {
+            "BioSample": "SAMN14591407",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591407",
+            "SRA": "SRX8110416",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110416",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473649",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X493T2"
+        },
+        "GSM4473650": {
+            "BioSample": "SAMN14591406",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591406",
+            "SRA": "SRX8110417",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110417",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473650",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X520T"
+        },
+        "GSM4473651": {
+            "BioSample": "SAMN14591405",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591405",
+            "SRA": "SRX8110418",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110418",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473651",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X606T"
+        },
+        "GSM4473652": {
+            "BioSample": "SAMN14591427",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591427",
+            "SRA": "SRX8110419",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110419",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473652",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X731T"
+        },
+        "GSM4473653": {
+            "BioSample": "SAMN14591426",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591426",
+            "SRA": "SRX8110420",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110420",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473653",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X738T"
+        },
+        "GSM4473654": {
+            "BioSample": "SAMN14591425",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591425",
+            "SRA": "SRX8110421",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110421",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473654",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X92T"
+        },
+        "GSM4473655": {
+            "BioSample": "SAMN14591424",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591424",
+            "SRA": "SRX8110422",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110422",
+            "characteristics": {
+                "genotype": "brca1-deficient",
+                "strain": "mixed",
+                "tissue": "mouse mammary tumor"
+            },
+            "labels": {
+                "tissue": "mouse mammary tumor"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473655",
+            "sample_source": [
+                "Mouse mammary tumor"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "X9387T"
+        }
+    },
+    "summary": "Brca1 mutation predisposes women to early onset of breast and ovarian cancers.Through its diverse functions in DNA damage repair, cell cycle control, transcription regulation, ubiquitination and so on, BRCA1 acts as a very significant tumor suppressor and genomic safeguard. Brca1 deficiency induces severe cellular stress, when occurring in the mammary glands, it impairs the regular developmental process and eventually causes tumorigenesis due to accumulation of genome instability and other mechanisms. The Brca1-defiencient mouse mammary tumor were characterized with great  tumoral heterogeneity, which is in line with the human breast cancers carrying BRCA1 mutations. Here we studied the molecular complexicity of Brca1-deficient mouse mammary tumors vie RNA sequencing.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "RNAseq of Brca1-deficient mouse mammary tumors"
+}

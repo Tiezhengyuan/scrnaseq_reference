@@ -1,0 +1,158 @@
+{
+    "GEO": "GSE117284",
+    "PMID": [
+        "32457396"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117284",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE117nnn/GSE117284/soft/GSE117284_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL10787",
+            "platform_technology": "in situ oligonucleotide",
+            "platform_title": "Agilent-028005 SurePrint G3 Mouse GE 8x60K Microarray (Probe Name version)"
+        }
+    ],
+    "samples": {
+        "GSM3290419": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290419",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "KA5646"
+        },
+        "GSM3290420": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290420",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "KA5649"
+        },
+        "GSM3290421": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290421",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "KA5651"
+        },
+        "GSM3290422": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290422",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "KA5652"
+        },
+        "GSM3290423": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290423",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "DTGA5643"
+        },
+        "GSM3290424": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290424",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "DTGA5645"
+        },
+        "GSM3290425": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290425",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "DTGA5648"
+        },
+        "GSM3290426": {
+            "Sample_description": "Gene expression",
+            "characteristics": {
+                "gender": "male",
+                "tissue": "whole skin"
+            },
+            "labels": {
+                "tissue": "whole skin"
+            },
+            "protocol": [],
+            "sample_id": "GSM3290426",
+            "sample_source": [
+                "whole skin"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "DTGA5650"
+        }
+    },
+    "summary": "To further understand expression patterns of musashi1 overexpression (DTG) in mouse skin,we have employed microarray expression profiling as a discovery platform to identify different genes expression with DTG mouse and Control mouse. Comparision with Control mouse,upgene is 3772 in DTG mouse, downgene is 5529. mTOR pathway, RAS pathway, PI3K-AKT pathway,IL6-JAK-Stat3 pathway and so on are activated, WNT Pathway is inhibited.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "Different gene expression of Musashi1 gene overexpression in mouse skin"
+}

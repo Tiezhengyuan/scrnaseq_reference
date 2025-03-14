@@ -1,0 +1,21 @@
+{
+    "GEO": "GSE117285",
+    "PMID": [
+        "32457396"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117285",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE117nnn/GSE117285/soft/GSE117285_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL17077",
+            "platform_technology": "in situ oligonucleotide",
+            "platform_title": "Agilent-039494 SurePrint G3 Human GE v2 8x60K Microarray 039381 (Probe Name version)"
+        }
+    ],
+    "samples": {},
+    "summary": "To further understand different gene expression of Extramammary Paget disease skin and normal skin, we have employed whole skin microarray expression profiling as a discovery platform to identify different genes with Extramammary Paget disease skin and normal skin.comparision with normal skin, upgene is 4572 in disease group, downgene is 6473. mTOR pathway, RAS pathway, PI3K-AKT pathway, IL6-JAK-Stat3 pathway and so on are activated, WNT Pathway is inhibited.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Pattern of Extramammary Paget disease gene expression"
+}

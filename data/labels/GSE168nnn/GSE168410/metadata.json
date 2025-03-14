@@ -1,0 +1,1782 @@
+{
+    "GEO": "GSE168410",
+    "PMID": [
+        "34965952"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168410",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE168nnn/GSE168410/soft/GSE168410_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5138670": {
+            "BioSample": "SAMN18200701",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200701",
+            "SRA": "SRX10254118",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254118",
+            "SRR": {
+                "SRR13873710": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873710_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873710_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138670",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P1L1"
+        },
+        "GSM5138671": {
+            "BioSample": "SAMN18200700",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200700",
+            "SRA": "SRX10254119",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254119",
+            "SRR": {
+                "SRR13873711": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138671",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P1L2"
+        },
+        "GSM5138672": {
+            "BioSample": "SAMN18200699",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200699",
+            "SRA": "SRX10254120",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254120",
+            "SRR": {
+                "SRR13873712": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138672",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P1L3"
+        },
+        "GSM5138673": {
+            "BioSample": "SAMN18200698",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200698",
+            "SRA": "SRX10254121",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254121",
+            "SRR": {
+                "SRR13873713": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873713_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873713_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138673",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P1L4"
+        },
+        "GSM5138674": {
+            "BioSample": "SAMN18200697",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200697",
+            "SRA": "SRX10254122",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254122",
+            "SRR": {
+                "SRR13873714": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138674",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P2L1"
+        },
+        "GSM5138675": {
+            "BioSample": "SAMN18200696",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200696",
+            "SRA": "SRX10254123",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254123",
+            "SRR": {
+                "SRR13873715": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138675",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P2L2"
+        },
+        "GSM5138676": {
+            "BioSample": "SAMN18200695",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200695",
+            "SRA": "SRX10254124",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254124",
+            "SRR": {
+                "SRR13873716": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138676",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P2L3"
+        },
+        "GSM5138677": {
+            "BioSample": "SAMN18200694",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200694",
+            "SRA": "SRX10254125",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254125",
+            "SRR": {
+                "SRR13873717": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873717_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "3",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138677",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient1P2L4"
+        },
+        "GSM5138678": {
+            "BioSample": "SAMN18200693",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200693",
+            "SRA": "SRX10254134",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254134",
+            "SRR": {
+                "SRR13873718": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138678",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2P2L1"
+        },
+        "GSM5138679": {
+            "BioSample": "SAMN18200692",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200692",
+            "SRA": "SRX10254135",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254135",
+            "SRR": {
+                "SRR13873719": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873719_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873719_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138679",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2P2L2"
+        },
+        "GSM5138680": {
+            "BioSample": "SAMN18200691",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200691",
+            "SRA": "SRX10254136",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254136",
+            "SRR": {
+                "SRR13873720": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138680",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2P2L3"
+        },
+        "GSM5138681": {
+            "BioSample": "SAMN18200690",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200690",
+            "SRA": "SRX10254137",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254137",
+            "SRR": {
+                "SRR13873721": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873721_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873721_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "96bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138681",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2P2L4"
+        },
+        "GSM5138682": {
+            "BioSample": "SAMN18200689",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200689",
+            "SRA": "SRX10254138",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254138",
+            "SRR": {
+                "SRR13873722": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138682",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2P3"
+        },
+        "GSM5138683": {
+            "BioSample": "SAMN18200688",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200688",
+            "SRA": "SRX10254139",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254139",
+            "SRR": {
+                "SRR13873723": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138683",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient2P4"
+        },
+        "GSM5138684": {
+            "BioSample": "SAMN18200687",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200687",
+            "SRA": "SRX10254140",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254140",
+            "SRR": {
+                "SRR13873724": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138684",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient3P1"
+        },
+        "GSM5138685": {
+            "BioSample": "SAMN18200686",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200686",
+            "SRA": "SRX10254141",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254141",
+            "SRR": {
+                "SRR13873725": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138685",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient3P2"
+        },
+        "GSM5138686": {
+            "BioSample": "SAMN18200685",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200685",
+            "SRA": "SRX10254149",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254149",
+            "SRR": {
+                "SRR13873726": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138686",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient3P3"
+        },
+        "GSM5138687": {
+            "BioSample": "SAMN18200684",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200684",
+            "SRA": "SRX10254150",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254150",
+            "SRR": {
+                "SRR13873727": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873727_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873727_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138687",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient4P1"
+        },
+        "GSM5138688": {
+            "BioSample": "SAMN18200718",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200718",
+            "SRA": "SRX10254151",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254151",
+            "SRR": {
+                "SRR13873728": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138688",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient4P2"
+        },
+        "GSM5138689": {
+            "BioSample": "SAMN18200717",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200717",
+            "SRA": "SRX10254152",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254152",
+            "SRR": {
+                "SRR13873729": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138689",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient4P3"
+        },
+        "GSM5138690": {
+            "BioSample": "SAMN18200716",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200716",
+            "SRA": "SRX10254153",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254153",
+            "SRR": {
+                "SRR13873730": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138690",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient5P1"
+        },
+        "GSM5138691": {
+            "BioSample": "SAMN18200715",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200715",
+            "SRA": "SRX10254154",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254154",
+            "SRR": {
+                "SRR13873731": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138691",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient5P2"
+        },
+        "GSM5138692": {
+            "BioSample": "SAMN18200714",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200714",
+            "SRA": "SRX10254155",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254155",
+            "SRR": {
+                "SRR13873732": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138692",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient5P3"
+        },
+        "GSM5138693": {
+            "BioSample": "SAMN18200713",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200713",
+            "SRA": "SRX10254156",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254156",
+            "SRR": {
+                "SRR13873733": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "na",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "in situ",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "na",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138693",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient6P1"
+        },
+        "GSM5138694": {
+            "BioSample": "SAMN18200712",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200712",
+            "SRA": "SRX10254157",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254157",
+            "SRR": {
+                "SRR13873734": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873734_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873734_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "na",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "in situ",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "na",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138694",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient6P2"
+        },
+        "GSM5138695": {
+            "BioSample": "SAMN18200711",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200711",
+            "SRA": "SRX10254158",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254158",
+            "SRR": {
+                "SRR13873735": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873735_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873735_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "na",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "in situ",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "na",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138695",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient6P3"
+        },
+        "GSM5138696": {
+            "BioSample": "SAMN18200710",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200710",
+            "SRA": "SRX10254159",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254159",
+            "SRR": {
+                "SRR13873736": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873736_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873736_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138696",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient7P1"
+        },
+        "GSM5138697": {
+            "BioSample": "SAMN18200709",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200709",
+            "SRA": "SRX10254160",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254160",
+            "SRR": {
+                "SRR13873737": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138697",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient7P2"
+        },
+        "GSM5138698": {
+            "BioSample": "SAMN18200708",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200708",
+            "SRA": "SRX10254161",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254161",
+            "SRR": {
+                "SRR13873738": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873738_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873738_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138698",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient7P3"
+        },
+        "GSM5138699": {
+            "BioSample": "SAMN18200707",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200707",
+            "SRA": "SRX10254162",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254162",
+            "SRR": {
+                "SRR13873739": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138699",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient7P4"
+        },
+        "GSM5138700": {
+            "BioSample": "SAMN18200706",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200706",
+            "SRA": "SRX10254163",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254163",
+            "SRR": {
+                "SRR13873740": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138700",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient8P1"
+        },
+        "GSM5138701": {
+            "BioSample": "SAMN18200705",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200705",
+            "SRA": "SRX10254164",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254164",
+            "SRR": {
+                "SRR13873741": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138701",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient8P2"
+        },
+        "GSM5138702": {
+            "BioSample": "SAMN18200704",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200704",
+            "SRA": "SRX10254126",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254126",
+            "SRR": {
+                "SRR13873742": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138702",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient8P3"
+        },
+        "GSM5138703": {
+            "BioSample": "SAMN18200703",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200703",
+            "SRA": "SRX10254127",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254127",
+            "SRR": {
+                "SRR13873743": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873743_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873743_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138703",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient8P4"
+        },
+        "GSM5138704": {
+            "BioSample": "SAMN18200702",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200702",
+            "SRA": "SRX10254128",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254128",
+            "SRR": {
+                "SRR13873744": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138704",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient9P1"
+        },
+        "GSM5138705": {
+            "BioSample": "SAMN18200731",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200731",
+            "SRA": "SRX10254129",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254129",
+            "SRR": {
+                "SRR13873745": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138705",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient9P2"
+        },
+        "GSM5138706": {
+            "BioSample": "SAMN18200729",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200729",
+            "SRA": "SRX10254130",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254130",
+            "SRR": {
+                "SRR13873746": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138706",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient9P3"
+        },
+        "GSM5138707": {
+            "BioSample": "SAMN18200728",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200728",
+            "SRA": "SRX10254131",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254131",
+            "SRR": {
+                "SRR13873747": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873747_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873747_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138707",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient9P4"
+        },
+        "GSM5138708": {
+            "BioSample": "SAMN18200727",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200727",
+            "SRA": "SRX10254132",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254132",
+            "SRR": {
+                "SRR13873748": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "no",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138708",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient9P5"
+        },
+        "GSM5138709": {
+            "BioSample": "SAMN18200726",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200726",
+            "SRA": "SRX10254133",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254133",
+            "SRR": {
+                "SRR13873749": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "er/pr positive",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "1",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "er/pr positive",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138709",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient10P4"
+        },
+        "GSM5138710": {
+            "BioSample": "SAMN18200725",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200725",
+            "SRA": "SRX10254142",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254142",
+            "SRR": {
+                "SRR13873750": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873750_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873750_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138710",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient11P1"
+        },
+        "GSM5138711": {
+            "BioSample": "SAMN18200724",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200724",
+            "SRA": "SRX10254143",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254143",
+            "SRR": {
+                "SRR13873751": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873751_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873751_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138711",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient11P2"
+        },
+        "GSM5138712": {
+            "BioSample": "SAMN18200723",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200723",
+            "SRA": "SRX10254144",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254144",
+            "SRR": {
+                "SRR13873752": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873752_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873752_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "0",
+                "molecular_subtype": "triple negative",
+                "n_stage": "0",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "2",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138712",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient11P3"
+        },
+        "GSM5138713": {
+            "BioSample": "SAMN18200722",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200722",
+            "SRA": "SRX10254145",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254145",
+            "SRR": {
+                "SRR13873753": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873753_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873753_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "1",
+                "molecular_subtype": "triple negative",
+                "n_stage": "1",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "3",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138713",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient12P1"
+        },
+        "GSM5138714": {
+            "BioSample": "SAMN18200721",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200721",
+            "SRA": "SRX10254146",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254146",
+            "SRR": {
+                "SRR13873754": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873754_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873754_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "1",
+                "molecular_subtype": "triple negative",
+                "n_stage": "1",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "3",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138714",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient12P2"
+        },
+        "GSM5138715": {
+            "BioSample": "SAMN18200720",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200720",
+            "SRA": "SRX10254147",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254147",
+            "SRR": {
+                "SRR13873755": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873755_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873755_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "1",
+                "molecular_subtype": "triple negative",
+                "n_stage": "1",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "3",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138715",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient12P3"
+        },
+        "GSM5138716": {
+            "BioSample": "SAMN18200719",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN18200719",
+            "SRA": "SRX10254148",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254148",
+            "SRR": {
+                "SRR13873756": {}
+            },
+            "Sample_description": "single cell RNA seq data",
+            "characteristics": {
+                "bc_set": "384bc.csv",
+                "m_stage": "1",
+                "molecular_subtype": "triple negative",
+                "n_stage": "1",
+                "neoadjuvant_treatment": "yes",
+                "t_stage": "3",
+                "tissue": "human breast tumor"
+            },
+            "labels": {
+                "cell_type": "triple negative",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "neoadjuvant"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5138716",
+            "sample_source": [
+                "Human breast tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Patient12P4"
+        }
+    },
+    "summary": "Extensive work in pre-clinical models has shown that microenvironmental cells influence many aspects of cancer cell behavior including metastatic potential and their sensitivity to therapeutics. In the human setting, this behavior is mainly correlated with the presence of immune cells, whilst the relevance of other cell types have been largely ignored. Here, in addition to T cells, B cells, macrophages and mast cells, we identified the relevance of non-immune cell types for breast cancer survival and therapy benefit, including fibroblast, myoepithelial cells, muscle cells, endothelial cells, and 7 distinct epithelial cell types. Using single-cell sequencing data, we generated reference profiles for all these cell types. We used these reference profiles in deconvolution algorithms to optimally detangle the cellular composition of over 3500 primary breast tumors of patients that were enrolled in the SCAN-B and MATADOR clinical trials, and for which bulk mRNA sequencing data was available. This large data set enables us to identify and subsequently validate the cellular composition of microenvironments that distinguish differential survival and treatment benefit for different treatment regiments in primary breast cancer patients.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Deconvolution of breast tumors for optimal chemotherapy selection"
+}

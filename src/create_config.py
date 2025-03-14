@@ -57,7 +57,6 @@ class CreateConfig:
             '  -profile docker -c ids_params.config',
         ]
         bash_file = self.to_text(cmd, 'fetch1.sh')
-        print(f"bash {bash_file}")
 
     def fetch_ebi_srr(self, sample_iter):
         '''
@@ -81,7 +80,6 @@ class CreateConfig:
             'nextflow ' + os.path.join(nf_dir, 'wget_urls.nf'),
         ]
         bash_file = self.to_text(cmd, 'fetch2.sh')
-        print(f"bash {bash_file}")
 
     def fetch_srr(self, sample_iter):
         '''
@@ -102,7 +100,6 @@ class CreateConfig:
             'nextflow ' + os.path.join(nf_dir, 'fastq_dump.nf'),
         ]
         bash_file = self.to_text(cmd, 'fetch3.sh')
-        print(f"bash {bash_file}")
 
     def to_text(self, cmd:list, file_name:str):
         '''
@@ -111,4 +108,6 @@ class CreateConfig:
         outfile = os.path.join(self.outdir, file_name)
         with open(outfile, 'w') as f:
             f.write('\n'.join(cmd))
+        if file_name.endswith('.sh'):
+            print(f"{cmd[0]} && bash {file_name}")
         return outfile

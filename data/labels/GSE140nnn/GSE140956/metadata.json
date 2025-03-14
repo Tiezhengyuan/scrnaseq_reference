@@ -1,0 +1,364 @@
+{
+    "GEO": "GSE140956",
+    "PMID": [
+        "32457396"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140956",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140956/soft/GSE140956_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL11154",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2000 (Homo sapiens)"
+        },
+        {
+            "platform_id": "GPL13112",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2000 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM4191329": {
+            "BioSample": "SAMN13383567",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383567",
+            "SRA": "SRX7213602",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213602",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191329",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-N-1-1"
+        },
+        "GSM4191330": {
+            "BioSample": "SAMN13383566",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383566",
+            "SRA": "SRX7213603",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213603",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191330",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-N-2-1"
+        },
+        "GSM4191331": {
+            "BioSample": "SAMN13383565",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383565",
+            "SRA": "SRX7213604",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213604",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191331",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-N-3-1"
+        },
+        "GSM4191332": {
+            "BioSample": "SAMN13383564",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383564",
+            "SRA": "SRX7213605",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213605",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191332",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-N-4-1"
+        },
+        "GSM4191333": {
+            "BioSample": "SAMN13383563",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383563",
+            "SRA": "SRX7213606",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213606",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191333",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-E-1-1"
+        },
+        "GSM4191334": {
+            "BioSample": "SAMN13383562",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383562",
+            "SRA": "SRX7213607",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213607",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191334",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-E-2-1"
+        },
+        "GSM4191335": {
+            "BioSample": "SAMN13383561",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383561",
+            "SRA": "SRX7213608",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213608",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191335",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-E-3-1"
+        },
+        "GSM4191336": {
+            "BioSample": "SAMN13383560",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383560",
+            "SRA": "SRX7213609",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213609",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "adult - 58 years old",
+                "tissue": "scrotal skin epidermis"
+            },
+            "labels": {
+                "tissue": "scrotal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191336",
+            "sample_source": [
+                "Scrotal skin epidermis"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "170118A-E-4-1"
+        },
+        "GSM4191337": {
+            "BioSample": "SAMN13383559",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383559",
+            "SRA": "SRX7213610",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213610",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191337",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_C-1"
+        },
+        "GSM4191338": {
+            "BioSample": "SAMN13383558",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383558",
+            "SRA": "SRX7213611",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213611",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191338",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_C-2"
+        },
+        "GSM4191339": {
+            "BioSample": "SAMN13383583",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383583",
+            "SRA": "SRX7213612",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213612",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191339",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_C-3"
+        },
+        "GSM4191340": {
+            "BioSample": "SAMN13383582",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383582",
+            "SRA": "SRX7213613",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213613",
+            "Sample_description": "mRNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191340",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_C-4"
+        },
+        "GSM4191341": {
+            "BioSample": "SAMN13383581",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383581",
+            "SRA": "SRX7213614",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213614",
+            "Sample_description": "RNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191341",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_D-1"
+        },
+        "GSM4191342": {
+            "BioSample": "SAMN13383580",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383580",
+            "SRA": "SRX7213615",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213615",
+            "Sample_description": "RNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191342",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_D-2"
+        },
+        "GSM4191343": {
+            "BioSample": "SAMN13383579",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383579",
+            "SRA": "SRX7213616",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213616",
+            "Sample_description": "RNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191343",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_D-3"
+        },
+        "GSM4191344": {
+            "BioSample": "SAMN13383578",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN13383578",
+            "SRA": "SRX7213617",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX7213617",
+            "Sample_description": "RNA from single cells",
+            "characteristics": {
+                "age": "newborn mouse",
+                "tissue": "dorsal skin epidermis"
+            },
+            "labels": {
+                "tissue": "dorsal skin epidermis"
+            },
+            "protocol": [],
+            "sample_id": "GSM4191344",
+            "sample_source": [
+                "Dorsal skin epidermis"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "161088C_D-4"
+        }
+    },
+    "summary": "We report the single cell transcriptomes of normal and Extramammary Paget Disease (EMPD) human scrotal skin epidermal cells; as well as the single cell transcriptomes of normal and Krt14-rtTA;TRE-Msi1 double transgenic (DTG) mouse dorsal skin epidermal cells.",
+    "taxid": [
+        "9606",
+        "10090"
+    ],
+    "title": "The Msi1-mTOR pathway drives the pathogenesis of Paget's disease"
+}

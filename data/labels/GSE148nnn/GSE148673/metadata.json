@@ -1,0 +1,399 @@
+{
+    "GEO": "GSE148673",
+    "PMID": [
+        "33462507"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148673",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE148nnn/GSE148673/soft/GSE148673_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL24676",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NovaSeq 6000 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4476485": {
+            "BioSample": "SAMN14598268",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598268",
+            "SRA": "SRX8116847",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116847",
+            "SRR": {
+                "SRR11546786": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "ecis05t"
+            },
+            "labels": {
+                "disease": "ductal carcinoma in situ, breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476485",
+            "sample_source": [
+                "ECIS05T"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "DCIS1"
+        },
+        "GSM4476486": {
+            "BioSample": "SAMN14598267",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598267",
+            "SRA": "SRX8116848",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116848",
+            "SRR": {
+                "SRR11546787": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "art13tpretx"
+            },
+            "labels": {
+                "disease": "triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476486",
+            "sample_source": [
+                "ART13TpreTX"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TNBC1"
+        },
+        "GSM4476487": {
+            "BioSample": "SAMN14598266",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598266",
+            "SRA": "SRX8116849",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116849",
+            "SRR": {
+                "SRR11546788": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "art17tpretx"
+            },
+            "labels": {
+                "disease": "triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476487",
+            "sample_source": [
+                "ART17TpreTX"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TNBC2"
+        },
+        "GSM4476488": {
+            "BioSample": "SAMN14598265",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598265",
+            "SRA": "SRX8116850",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116850",
+            "SRR": {
+                "SRR11546789": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "art46tpretx"
+            },
+            "labels": {
+                "disease": "triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476488",
+            "sample_source": [
+                "ART46TpreTX"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TNBC3"
+        },
+        "GSM4476489": {
+            "BioSample": "SAMN14598264",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598264",
+            "SRA": "SRX8116851",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116851",
+            "SRR": {
+                "SRR11546790": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "art51tpretx"
+            },
+            "labels": {
+                "disease": "triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476489",
+            "sample_source": [
+                "ART51TpreTX"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TNBC4"
+        },
+        "GSM4476490": {
+            "BioSample": "SAMN14598263",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598263",
+            "SRA": "SRX8116852",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116852",
+            "SRR": {
+                "SRR11546791": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "art89tpretx"
+            },
+            "labels": {
+                "disease": "triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476490",
+            "sample_source": [
+                "ART89TpreTX"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "TNBC5"
+        },
+        "GSM4476491": {
+            "BioSample": "SAMN14598262",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598262",
+            "SRA": "SRX8116853",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116853",
+            "SRR": {
+                "SRR11546792": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "surgical sample",
+                "tissue": "atc265t"
+            },
+            "labels": {
+                "disease": "anaplastic thyroid cancer",
+                "group": "patient",
+                "tissue": "thyroid"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476491",
+            "sample_source": [
+                "ATC265T"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ATC1"
+        },
+        "GSM4476492": {
+            "BioSample": "SAMN14598261",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598261",
+            "SRA": "SRX8116854",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116854",
+            "SRR": {
+                "SRR11546793": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "surgical sample",
+                "tissue": "atc267t"
+            },
+            "labels": {
+                "disease": "anaplastic thyroid cancer",
+                "group": "patient",
+                "tissue": "thyroid"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476492",
+            "sample_source": [
+                "ATC267T"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ATC2"
+        },
+        "GSM4476493": {
+            "BioSample": "SAMN14598260",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598260",
+            "SRA": "SRX8116855",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116855",
+            "SRR": {
+                "SRR11546794": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "surgical sample",
+                "tissue": "atc269t"
+            },
+            "labels": {
+                "disease": "anaplastic thyroid cancer",
+                "group": "patient",
+                "tissue": "thyroid"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476493",
+            "sample_source": [
+                "ATC269T"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ATC3"
+        },
+        "GSM4476494": {
+            "BioSample": "SAMN14598259",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598259",
+            "SRA": "SRX8116856",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116856",
+            "SRR": {
+                "SRR11546795": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "surgical sample",
+                "tissue": "atc273t"
+            },
+            "labels": {
+                "disease": "anaplastic thyroid cancer",
+                "group": "patient",
+                "tissue": "thyroid"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476494",
+            "sample_source": [
+                "ATC273T"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ATC4"
+        },
+        "GSM4476495": {
+            "BioSample": "SAMN14598258",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14598258",
+            "SRA": "SRX8116857",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8116857",
+            "SRR": {
+                "SRR11546796": {}
+            },
+            "Sample_description": "10X genomics 3'-scRNAseq",
+            "characteristics": {
+                "sample_type": "surgical sample",
+                "tissue": "atc275t"
+            },
+            "labels": {
+                "disease": "anaplastic thyroid cancer",
+                "group": "patient",
+                "tissue": "thyroid"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM4476495",
+            "sample_source": [
+                "ATC275T"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ATC5"
+        },
+        "GSM5074416": {
+            "BioSample": "SAMN17856286",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17856286",
+            "SRA": "SRX10067485",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10067485",
+            "SRR": {
+                "SRR13678080": {}
+            },
+            "Sample_description": "10X genomics 5'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "bcr06"
+            },
+            "labels": {
+                "disease": "invasive ductal carcinoma, breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5074416",
+            "sample_source": [
+                "BCR06"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IDC1"
+        },
+        "GSM5074417": {
+            "BioSample": "SAMN17856356",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN17856356",
+            "SRA": "SRX10067486",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10067486",
+            "SRR": {
+                "SRR13678081": {}
+            },
+            "Sample_description": "10X genomics 5'-scRNAseq",
+            "characteristics": {
+                "sample_type": "biopsy",
+                "tissue": "bcr09"
+            },
+            "labels": {
+                "disease": "invasive ductal carcinoma, breast cancer",
+                "group": "patient",
+                "tissue": "breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5074417",
+            "sample_source": [
+                "BCR09"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "IDC2"
+        }
+    },
+    "summary": "Single-cell transcriptomic analysis is widely used to study human tumors. However it remains challenging to distinguish normal cell types in the tumor microenvironment from malignant cells and to resolve clonal substructure within the tumor.  To address these challenges, we developed an integrative Bayesian segmentation approach called CopyKAT (Copynumber Karyotyping of Aneuploid Tumors) to estimate genomic copy number profiles at an average genomic resolution of 5Mb from read depth in high-throughput scRNA-seq data.  We applied CopyKAT to analyze 46,501 single cells from 21 tumors, including triple-negative breast cancer, pancreatic ductal adenocarcinomas, anaplastic thyroid cancer, invasive ductal carcinoma and glioblastoma to accurately (98%) distinguish cancer cells from normal cell types.  In three breast tumors, CopyKAT resolved clonal subpopulations that differed in the expression of cancer genes such as KRAS and signatures including EMT, DNA repair, apoptosis and hypoxia.  These data show that CopyKAT can aid the analysis of scRNA-seq data in a variety of solid human tumors.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Delineating copy number and clonal substructure in human tumors from single-cell transcriptomes"
+}

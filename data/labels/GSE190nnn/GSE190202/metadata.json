@@ -1,0 +1,603 @@
+{
+    "GEO": "GSE190202",
+    "PMID": [
+        "35132960"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190202",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190202/soft/GSE190202_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL16791",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5718013": {
+            "BioSample": "SAMN23667445",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667445",
+            "SRA": "SRX13318876",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318876",
+            "SRR": {
+                "SRR17134446": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc331",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718013",
+            "sample_source": [
+                "CD8+ T cells from PBMC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC331_PBMC"
+        },
+        "GSM5718014": {
+            "BioSample": "SAMN23667444",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667444",
+            "SRA": "SRX13318877",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318877",
+            "SRR": {
+                "SRR17134445": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc341",
+                "tissue": "cd8+ t cells from pbmc and tumor"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718014",
+            "sample_source": [
+                "CD8+ T cells from PBMC and tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC341_PBMC_Tumor"
+        },
+        "GSM5718015": {
+            "BioSample": "SAMN23667443",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667443",
+            "SRA": "SRX13318878",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318878",
+            "SRR": {
+                "SRR17134444": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc331",
+                "tissue": "cd8+ t cells from normal breast tissue"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718015",
+            "sample_source": [
+                "CD8+ T cells from normal breast tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC331_Normal"
+        },
+        "GSM5718016": {
+            "BioSample": "SAMN23667442",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667442",
+            "SRA": "SRX13318879",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318879",
+            "SRR": {
+                "SRR17134443": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "fna12",
+                "tissue": "cd8+ t cells from tumor"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718016",
+            "sample_source": [
+                "CD8+ T cells from tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "FNA12_Tumor_P10"
+        },
+        "GSM5718017": {
+            "BioSample": "SAMN23667441",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667441",
+            "SRA": "SRX13318880",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318880",
+            "SRR": {
+                "SRR17134442": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "fna12",
+                "tissue": "cd8+ t cells from tumor"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718017",
+            "sample_source": [
+                "CD8+ T cells from tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "FNA12_Tumor_P11"
+        },
+        "GSM5718018": {
+            "BioSample": "SAMN23667440",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667440",
+            "SRA": "SRX13318881",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318881",
+            "SRR": {
+                "SRR17134441": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc361",
+                "tissue": "cd8+ t cells from tumor"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718018",
+            "sample_source": [
+                "CD8+ T cells from tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC361_Tumor"
+        },
+        "GSM5718019": {
+            "BioSample": "SAMN23667439",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667439",
+            "SRA": "SRX13318882",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318882",
+            "SRR": {
+                "SRR17134440": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc361",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718019",
+            "sample_source": [
+                "CD8+ T cells from PBMC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC361_PBMC"
+        },
+        "GSM5718020": {
+            "BioSample": "SAMN23667438",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667438",
+            "SRA": "SRX13318883",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318883",
+            "SRR": {
+                "SRR17134439": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc365",
+                "tissue": "cd8+ t cells from tumor"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718020",
+            "sample_source": [
+                "CD8+ T cells from tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC365_Tumor"
+        },
+        "GSM5718021": {
+            "BioSample": "SAMN23667437",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667437",
+            "SRA": "SRX13318884",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318884",
+            "SRR": {
+                "SRR17134438": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "mbc35",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718021",
+            "sample_source": [
+                "CD8+ T cells from PBMC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "MBC35_PBMC"
+        },
+        "GSM5718022": {
+            "BioSample": "SAMN23667436",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667436",
+            "SRA": "SRX13318885",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318885",
+            "SRR": {
+                "SRR17134437": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "mbc35",
+                "tissue": "cd8+ t cells from ln"
+            },
+            "labels": {
+                "cell_type": "lymph nodes cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "cd8+ t cells from ln"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718022",
+            "sample_source": [
+                "CD8+ T cells from LN"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "MBC35_LN"
+        },
+        "GSM5718023": {
+            "BioSample": "SAMN23667435",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667435",
+            "SRA": "SRX13318886",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318886",
+            "SRR": {
+                "SRR17134436": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc379",
+                "tissue": "cd8+ t cells from pbmc and normal breast tissue"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718023",
+            "sample_source": [
+                "CD8+ T cells from PBMC and normal breast tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC379_PBMC_Normal"
+        },
+        "GSM5718024": {
+            "BioSample": "SAMN23667434",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667434",
+            "SRA": "SRX13318887",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318887",
+            "SRR": {
+                "SRR17134435": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc379",
+                "tissue": "cd8+ t cells from tumor"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718024",
+            "sample_source": [
+                "CD8+ T cells from tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC379_Tumor"
+        },
+        "GSM5718025": {
+            "BioSample": "SAMN23667433",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667433",
+            "SRA": "SRX13318888",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318888",
+            "SRR": {
+                "SRR17134434": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc308",
+                "tissue": "cd8+ t cells from tumor"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718025",
+            "sample_source": [
+                "CD8+ T cells from tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC308_Tumor"
+        },
+        "GSM5718026": {
+            "BioSample": "SAMN23667432",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667432",
+            "SRA": "SRX13318889",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318889",
+            "SRR": {
+                "SRR17134433": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc308",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718026",
+            "sample_source": [
+                "CD8+ T cells from PBMC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC308_PBMC"
+        },
+        "GSM5718027": {
+            "BioSample": "SAMN23667431",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667431",
+            "SRA": "SRX13318890",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318890",
+            "SRR": {
+                "SRR17134432": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc308",
+                "tissue": "cd8+ t cells from tumor positive lymph nodes and normal breast tissue"
+            },
+            "labels": {
+                "cell_type": "lymph nodes cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor positive lymph nodes, normal breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718027",
+            "sample_source": [
+                "CD8+ T cells from tumor positive lymph nodes and normal breast tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC308_T+LN_Normal_P3"
+        },
+        "GSM5718028": {
+            "BioSample": "SAMN23667430",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667430",
+            "SRA": "SRX13318891",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318891",
+            "SRR": {
+                "SRR17134431": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc308",
+                "tissue": "cd8+ t cells from tumor positive lymph nodes and normal breast tissue"
+            },
+            "labels": {
+                "cell_type": "lymph nodes cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor positive lymph nodes, normal breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718028",
+            "sample_source": [
+                "CD8+ T cells from tumor positive lymph nodes and normal breast tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC308_T+LN_Normal_p4"
+        },
+        "GSM5718029": {
+            "BioSample": "SAMN23667429",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667429",
+            "SRA": "SRX13318892",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318892",
+            "SRR": {
+                "SRR17134430": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc304",
+                "tissue": "cd8+ t cells from tumor and normal breast tissue"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718029",
+            "sample_source": [
+                "CD8+ T cells from tumor and normal breast tissue"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC304_Tumor_Normal"
+        },
+        "GSM5718030": {
+            "BioSample": "SAMN23667428",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667428",
+            "SRA": "SRX13318893",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318893",
+            "SRR": {
+                "SRR17134429": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc304",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "cd8+ t cells from pbmc"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718030",
+            "sample_source": [
+                "CD8+ T cells from PBMC"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC304_PBMC"
+        },
+        "GSM5718031": {
+            "BioSample": "SAMN23667427",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN23667427",
+            "SRA": "SRX13318894",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318894",
+            "SRR": {
+                "SRR17134428": {}
+            },
+            "Sample_description": "BD Precise Platform",
+            "characteristics": {
+                "patient": "bc376",
+                "tissue": "cd8+ t cells from pbmc and tumor"
+            },
+            "labels": {
+                "cell_type": "peripheral blood mononuclear cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor breast tissue"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "10x3v2"
+            ],
+            "sample_id": "GSM5718031",
+            "sample_source": [
+                "CD8+ T cells from PBMC and tumor"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BC376_PBMC_Tumor"
+        }
+    },
+    "summary": "CD8+ tumor infiltrating lymphocytes (TILs) are associated with improved survival in triple negative breast cancer (TNBC), yet have no association with survival in estrogen receptor-positive (ER+) BC. The basis for these contrasting findings remains elusive. We identify subsets of BC tumors infiltrated by CD8+ T cells with characteristic features of exhausted T cells (TEX). Tumors with abundant CD8+ TEX exhibit a distinct tumor microenvironment marked by amplified interferon-\u03b3 signaling related pathways and higher PD-L1 expression. Paradoxically, high levels of CD8+ TEX TILs associate with decreased overall survival ER+ BC patients, but not TNBC patients. Moreover, high tumor expression of a CD8+ TEX signature identifies dramatically reduced survival in pre-menopausal, but not post-menopausal, ER+ BC patients. Finally, we demonstrate the value of a tumor TEX signature score in identifying high-risk pre-menopausal ER+ BC patients amongst those with intermediate Oncotype Dx breast recurrence scores. Our data highlight the complex relationship between CD8+ TILs, interferon-\u03b3 signaling, and estrogen receptor status in BC patient survival. This work identifies pre-menopausal ER+ BC patients with high levels of tumor infiltrating CD8+ TEX as a high-risk subset that may benefit from immunotherapy strategies.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Tumor infiltrating exhausted CD8+ T cells dictate divergent survival outcomes in pre- versus post-menopausal estrogen receptor-positive breast cancer"
+}

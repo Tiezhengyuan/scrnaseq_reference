@@ -1,0 +1,286 @@
+{
+    "GEO": "GSE148566",
+    "PMID": [
+        "34815798"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148566",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE148nnn/GSE148566/soft/GSE148566_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL21273",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "HiSeq X Ten (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM4473656": {
+            "BioSample": "SAMN14591439",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591439",
+            "SRA": "SRX8110423",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110423",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt1"
+            },
+            "labels": {
+                "tissue": "mt1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473656",
+            "sample_source": [
+                "MT1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S2"
+        },
+        "GSM4473657": {
+            "BioSample": "SAMN14591438",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591438",
+            "SRA": "SRX8110424",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110424",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mg1"
+            },
+            "labels": {
+                "tissue": "mg1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473657",
+            "sample_source": [
+                "MG1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S6"
+        },
+        "GSM4473658": {
+            "BioSample": "SAMN14591433",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591433",
+            "SRA": "SRX8110425",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110425",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt1"
+            },
+            "labels": {
+                "tissue": "mt1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473658",
+            "sample_source": [
+                "MT1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S7"
+        },
+        "GSM4473659": {
+            "BioSample": "SAMN14591432",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591432",
+            "SRA": "SRX8110426",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110426",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mg1"
+            },
+            "labels": {
+                "tissue": "mg1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473659",
+            "sample_source": [
+                "MG1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S8"
+        },
+        "GSM4473660": {
+            "BioSample": "SAMN14591435",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591435",
+            "SRA": "SRX8110427",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110427",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt1"
+            },
+            "labels": {
+                "tissue": "mt1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473660",
+            "sample_source": [
+                "MT1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S9"
+        },
+        "GSM4473661": {
+            "BioSample": "SAMN14591434",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591434",
+            "SRA": "SRX8110428",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110428",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt1"
+            },
+            "labels": {
+                "tissue": "mt1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473661",
+            "sample_source": [
+                "MT1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S10"
+        },
+        "GSM4473662": {
+            "BioSample": "SAMN14591437",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591437",
+            "SRA": "SRX8110429",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110429",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x2265",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt1"
+            },
+            "labels": {
+                "tissue": "mt1"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473662",
+            "sample_source": [
+                "MT1"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "S11"
+        },
+        "GSM4473663": {
+            "BioSample": "SAMN14591436",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591436",
+            "SRA": "SRX8110430",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110430",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x738",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mg2"
+            },
+            "labels": {
+                "tissue": "mg2"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473663",
+            "sample_source": [
+                "MG2"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Xu738_MG2"
+        },
+        "GSM4473664": {
+            "BioSample": "SAMN14591431",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591431",
+            "SRA": "SRX8110431",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110431",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x738",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mg2"
+            },
+            "labels": {
+                "tissue": "mg2"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473664",
+            "sample_source": [
+                "MG2"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Xu738_MG3"
+        },
+        "GSM4473665": {
+            "BioSample": "SAMN14591430",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591430",
+            "SRA": "SRX8110432",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110432",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x738",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt2"
+            },
+            "labels": {
+                "tissue": "mt2"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473665",
+            "sample_source": [
+                "MT2"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Xu738_MT1"
+        },
+        "GSM4473666": {
+            "BioSample": "SAMN14591429",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591429",
+            "SRA": "SRX8110433",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110433",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x738",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt2"
+            },
+            "labels": {
+                "tissue": "mt2"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473666",
+            "sample_source": [
+                "MT2"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Xu738_MT2"
+        },
+        "GSM4473667": {
+            "BioSample": "SAMN14591428",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14591428",
+            "SRA": "SRX8110434",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8110434",
+            "Sample_description": "total RNA",
+            "characteristics": {
+                "mouse_id": "x738",
+                "strain": "c57bl/6 and 129/sv mixed",
+                "tissue": "mt2"
+            },
+            "labels": {
+                "tissue": "mt2"
+            },
+            "protocol": [],
+            "sample_id": "GSM4473667",
+            "sample_source": [
+                "MT2"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Xu738_MT3"
+        }
+    },
+    "summary": "Brca1 mutation predisposes women to early onset of breast and ovarian cancers.Through its diverse functions in DNA damage repair, cell cycle control, transcription regulation, ubiquitination and so on, BRCA1 acts as a very significant tumor suppressor and genomic safeguard. Brca1 deficiency induces severe cellular stress, when occurring in the mammary glands, it impairs the regular developmental process and eventually causes tumorigenesis due to accumulation of genome instability and other mechanisms. The Brca1-defiencient mouse mammary tumor were characterized with great  tumoral heterogeneity, which is in line with the human breast cancers carrying BRCA1 mutations. Here we studied the molecular complexicity of Brca1-deficient mouse mammary tumors vie Dropseq.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "Dropseq to study heterogeneity and tumorigenesis of Brca1-deficient mouse mammary tumors."
+}

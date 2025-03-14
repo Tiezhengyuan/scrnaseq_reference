@@ -1,0 +1,238 @@
+{
+    "GEO": "GSE192480",
+    "PMID": [
+        "35273595"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE192480",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE192nnn/GSE192480/soft/GSE192480_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL21103",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 4000 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM5957994": {
+            "BioSample": "SAMN26749996",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749996",
+            "SRA": "SRX14493450",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493450",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "e11.5",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5957994",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "E11"
+        },
+        "GSM5957995": {
+            "BioSample": "SAMN26749995",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749995",
+            "SRA": "SRX14493451",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493451",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "e12.5",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5957995",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "E12"
+        },
+        "GSM5957996": {
+            "BioSample": "SAMN26749994",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749994",
+            "SRA": "SRX14493454",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493454",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "e13.5",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5957996",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "E13"
+        },
+        "GSM5957997": {
+            "BioSample": "SAMN26749993",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749993",
+            "SRA": "SRX14493452",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493452",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "e14.5",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5957997",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "E14"
+        },
+        "GSM5957998": {
+            "BioSample": "SAMN26749992",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749992",
+            "SRA": "SRX14493455",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493455",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "e15.5",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5957998",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "E15"
+        },
+        "GSM5957999": {
+            "BioSample": "SAMN26749991",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749991",
+            "SRA": "SRX14493453",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493453",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "e16.5",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5957999",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "E16"
+        },
+        "GSM5958000": {
+            "BioSample": "SAMN26749990",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749990",
+            "SRA": "SRX14493456",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493456",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "newborn",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5958000",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Newborn"
+        },
+        "GSM5958001": {
+            "BioSample": "SAMN26749989",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN26749989",
+            "SRA": "SRX14493457",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX14493457",
+            "Sample_description": "Thymus",
+            "characteristics": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "developmental_stage": "5 weeks",
+                "strain": "c57bl/6",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "labels": {
+                "cell_type": "non-hematopoietic thymic cells",
+                "tissue": "non-hematopoietic thymic cells"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x5v2"
+            ],
+            "sample_id": "GSM5958001",
+            "sample_source": [
+                "non-hematopoietic thymic cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Thy5W"
+        }
+    },
+    "summary": "Here we constructed a single-cell transcriptional landscape of non-hematopoietic cells from mouse thymus spanning embryonic and adult stages, producing transcriptomes of 30,959 TECs. We resolved transcriptional heterogeneity of developing TECs, and highlighted the molecular nature of early TEC lineage determination and cortico-medullary thymic epithelial cell lineage divergency.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "Single-cell RNA sequencing of non-hematopoietic cells from mouse thymus spanning embryonic and adult stages"
+}

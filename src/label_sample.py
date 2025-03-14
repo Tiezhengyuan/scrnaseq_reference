@@ -91,6 +91,8 @@ class LabelSample:
                 return self.filter_scrnaseq_lung_tissue_healthy()
             case 'scrnaseq_lung_tissue_patient':
                 return self.filter_scrnaseq_lung_tissue_patient()
+            case 'scrnaseq_breast_tissue_patient':
+                return self.filter_scrnaseq_breast_tissue_patient()
 
 
     def filter_human(self):
@@ -120,6 +122,13 @@ class LabelSample:
     def filter_scrnaseq_lung_tissue_patient(self) -> bool:
         if self.filter_scrnaseq() and self.filter_human():
             if 'lung' in self.tissue and ('cell_line' not in self.lb) \
+                and self.disease != 'healthy':
+                return True
+        return False
+
+    def filter_scrnaseq_breast_tissue_patient(self) -> bool:
+        if self.filter_scrnaseq() and self.filter_human():
+            if 'breast' in self.tissue and ('cell_line' not in self.lb) \
                 and self.disease != 'healthy':
                 return True
         return False

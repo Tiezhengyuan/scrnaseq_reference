@@ -1,0 +1,127 @@
+{
+    "GEO": "GSE148613",
+    "PMID": [
+        "34815798"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148613",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE148nnn/GSE148613/soft/GSE148613_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL17021",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina HiSeq 2500 (Mus musculus)"
+        }
+    ],
+    "samples": {
+        "GSM4475139": {
+            "BioSample": "SAMN14595024",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14595024",
+            "SRA": "SRX8111476",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8111476",
+            "characteristics": {
+                "genotype": "wild type",
+                "strain": "mixed",
+                "tissue": "mouse mammary luminal cells"
+            },
+            "labels": {
+                "tissue": "mouse mammary luminal cells"
+            },
+            "protocol": [],
+            "sample_id": "GSM4475139",
+            "sample_source": [
+                "Mouse mammary luminal cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Lum1"
+        },
+        "GSM4475140": {
+            "BioSample": "SAMN14595023",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14595023",
+            "SRA": "SRX8111477",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8111477",
+            "characteristics": {
+                "genotype": "wild type",
+                "strain": "mixed",
+                "tissue": "mouse mammary luminal cells"
+            },
+            "labels": {
+                "tissue": "mouse mammary luminal cells"
+            },
+            "protocol": [],
+            "sample_id": "GSM4475140",
+            "sample_source": [
+                "Mouse mammary luminal cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Lum2"
+        },
+        "GSM4475141": {
+            "BioSample": "SAMN14595027",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14595027",
+            "SRA": "SRX8111478",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8111478",
+            "characteristics": {
+                "genotype": "wild type",
+                "strain": "mixed",
+                "tissue": "mouse mammary luminal cells"
+            },
+            "labels": {
+                "tissue": "mouse mammary luminal cells"
+            },
+            "protocol": [],
+            "sample_id": "GSM4475141",
+            "sample_source": [
+                "Mouse mammary luminal cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Lum3"
+        },
+        "GSM4475142": {
+            "BioSample": "SAMN14595026",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14595026",
+            "SRA": "SRX8111479",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8111479",
+            "characteristics": {
+                "genotype": "brca1 knockout",
+                "strain": "mixed",
+                "tissue": "mouse mammary luminal cells"
+            },
+            "labels": {
+                "tissue": "mouse mammary luminal cells"
+            },
+            "protocol": [],
+            "sample_id": "GSM4475142",
+            "sample_source": [
+                "Mouse mammary luminal cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Lum4"
+        },
+        "GSM4475143": {
+            "BioSample": "SAMN14595025",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN14595025",
+            "SRA": "SRX8111480",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX8111480",
+            "characteristics": {
+                "genotype": "brca1 knockout",
+                "strain": "mixed",
+                "tissue": "mouse mammary luminal cells"
+            },
+            "labels": {
+                "tissue": "mouse mammary luminal cells"
+            },
+            "protocol": [],
+            "sample_id": "GSM4475143",
+            "sample_source": [
+                "Mouse mammary luminal cells"
+            ],
+            "sample_taxid": "10090",
+            "sample_title": "Lum5"
+        }
+    },
+    "summary": "The mammary epithelia are mainly composed of two distinct lineages, the basal and luminal cells. In our MMTV-Cre; Brca1flox/flox mouse model, we found the Brca1 knockout mainly occurred in the luminal cells, which will lead the mammary tumorigenesis. To investigate the Brca1 deficiency mediated mammary tumorigenesis, we sorted the luminal cells from wild type mice and MMTV-Cre; Brca1flox/flox mice for RNAseq analysis.",
+    "taxid": [
+        "10090"
+    ],
+    "title": "RNAseq of mouse mammary luminal cells"
+}

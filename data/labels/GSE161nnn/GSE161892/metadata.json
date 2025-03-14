@@ -1,0 +1,1131 @@
+{
+    "GEO": "GSE161892",
+    "PMID": [
+        "33950524"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161892",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161892/soft/GSE161892_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4916467": {
+            "BioSample": "SAMN16846398",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846398",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0233",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916467",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0233"
+        },
+        "GSM4916468": {
+            "BioSample": "SAMN16846397",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846397",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0233",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916468",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0233"
+        },
+        "GSM4916469": {
+            "BioSample": "SAMN16846396",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846396",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0233",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916469",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0233"
+        },
+        "GSM4916470": {
+            "BioSample": "SAMN16846395",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846395",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "stroma",
+                "patient": "0233",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "stroma cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916470",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Stroma population from Patient 0233"
+        },
+        "GSM4916471": {
+            "BioSample": "SAMN16846394",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846394",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0232",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916471",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0232"
+        },
+        "GSM4916472": {
+            "BioSample": "SAMN16846393",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846393",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0232",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916472",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0232"
+        },
+        "GSM4916473": {
+            "BioSample": "SAMN16846392",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846392",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0232",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916473",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0232"
+        },
+        "GSM4916474": {
+            "BioSample": "SAMN16846391",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846391",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "stroma",
+                "patient": "0232",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "stroma cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916474",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Stroma population from Patient 0232"
+        },
+        "GSM4916475": {
+            "BioSample": "SAMN16846390",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846390",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "1105",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916475",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 1105"
+        },
+        "GSM4916476": {
+            "BioSample": "SAMN16846389",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846389",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "1105",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916476",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 1105"
+        },
+        "GSM4916477": {
+            "BioSample": "SAMN16846412",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846412",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "1105",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916477",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 1105 sample 1"
+        },
+        "GSM4916478": {
+            "BioSample": "SAMN16846411",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846411",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "1105",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916478",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 1105 sample 2"
+        },
+        "GSM4916479": {
+            "BioSample": "SAMN16846410",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846410",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916479",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0507 Right Breast"
+        },
+        "GSM4916480": {
+            "BioSample": "SAMN16846409",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846409",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "stroma",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "stroma cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916480",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Stroma population from Patient 0507 Right Breast"
+        },
+        "GSM4916481": {
+            "BioSample": "SAMN16846408",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846408",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916481",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0507 Right Breast"
+        },
+        "GSM4916482": {
+            "BioSample": "SAMN16846407",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846407",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916482",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0507 Right Breast"
+        },
+        "GSM4916483": {
+            "BioSample": "SAMN16846406",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846406",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916483",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0507 Left Breast"
+        },
+        "GSM4916484": {
+            "BioSample": "SAMN16846380",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846380",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "stroma",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "stroma cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916484",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Stroma population from Patient 0507 Left Breast"
+        },
+        "GSM4916485": {
+            "BioSample": "SAMN16846379",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846379",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916485",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0507 Left Breast"
+        },
+        "GSM4916486": {
+            "BioSample": "SAMN16846405",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846405",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0507",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916486",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0507 Left Breast"
+        },
+        "GSM4916487": {
+            "BioSample": "SAMN16846404",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846404",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0218",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916487",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0218"
+        },
+        "GSM4916488": {
+            "BioSample": "SAMN16846403",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846403",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0218",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916488",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0218"
+        },
+        "GSM4916489": {
+            "BioSample": "SAMN16846402",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846402",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0218",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916489",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0218"
+        },
+        "GSM4916490": {
+            "BioSample": "SAMN16846401",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846401",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0165",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916490",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0165"
+        },
+        "GSM4916491": {
+            "BioSample": "SAMN16846400",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846400",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0165",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916491",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0165"
+        },
+        "GSM4916492": {
+            "BioSample": "SAMN16846399",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846399",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0165",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916492",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0165"
+        },
+        "GSM4916493": {
+            "BioSample": "SAMN16846388",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846388",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0408",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916493",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0408"
+        },
+        "GSM4916494": {
+            "BioSample": "SAMN16846387",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846387",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0408",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916494",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0408"
+        },
+        "GSM4916495": {
+            "BioSample": "SAMN16846386",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846386",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "stroma",
+                "patient": "0408",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "stroma cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916495",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Stroma population from Patient 0408"
+        },
+        "GSM4916496": {
+            "BioSample": "SAMN16846385",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846385",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0408",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916496",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0408"
+        },
+        "GSM4916497": {
+            "BioSample": "SAMN16846384",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846384",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "basal",
+                "patient": "0030",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916497",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 0030"
+        },
+        "GSM4916498": {
+            "BioSample": "SAMN16846383",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846383",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "lp",
+                "patient": "0030",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916498",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 0030"
+        },
+        "GSM4916499": {
+            "BioSample": "SAMN16846382",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846382",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "ml",
+                "patient": "0030",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916499",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 0030"
+        },
+        "GSM4916500": {
+            "BioSample": "SAMN16846381",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16846381",
+            "SRR": {},
+            "characteristics": {
+                "cell_population": "stroma",
+                "patient": "0030",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "stroma cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4916500",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Stroma population from Patient 0030"
+        },
+        "GSM7350636": {
+            "Sample_description": "BRCA2-ML-14.002.158",
+            "characteristics": {
+                "cell_population": "ml",
+                "genotype": "brca2",
+                "patient": "14.002.158",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350636",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 14.002.158"
+        },
+        "GSM7350637": {
+            "Sample_description": "BRCA2-LP-14.002.158",
+            "characteristics": {
+                "cell_population": "lp",
+                "genotype": "brca2",
+                "patient": "14.002.158",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350637",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 14.002.158"
+        },
+        "GSM7350638": {
+            "Sample_description": "BRCA2-Basal-14.002.158",
+            "characteristics": {
+                "cell_population": "basal",
+                "genotype": "brca2",
+                "patient": "14.002.158",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350638",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 14.002.158"
+        },
+        "GSM7350639": {
+            "Sample_description": "BRCA2-Basal-153",
+            "characteristics": {
+                "cell_population": "basal",
+                "genotype": "brca2",
+                "patient": "153",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350639",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 153"
+        },
+        "GSM7350640": {
+            "Sample_description": "BRCA2-LP-153",
+            "characteristics": {
+                "cell_population": "lp",
+                "genotype": "brca2",
+                "patient": "153",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350640",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 153"
+        },
+        "GSM7350641": {
+            "Sample_description": "BRCA2-ML-153",
+            "characteristics": {
+                "cell_population": "ml",
+                "genotype": "brca2",
+                "patient": "153",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350641",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 153"
+        },
+        "GSM7350642": {
+            "Sample_description": "BRCA2-Basal-051",
+            "characteristics": {
+                "cell_population": "basal",
+                "genotype": "brca2",
+                "patient": "051",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "basal, myoepithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350642",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Basal population from Patient 051"
+        },
+        "GSM7350643": {
+            "Sample_description": "BRCA2-LP-051",
+            "characteristics": {
+                "cell_population": "lp",
+                "genotype": "brca2",
+                "patient": "051",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "luminal progenitor cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350643",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "LP population from Patient 051"
+        },
+        "GSM7350644": {
+            "Sample_description": "BRCA2-ML-051",
+            "characteristics": {
+                "cell_population": "ml",
+                "genotype": "brca2",
+                "patient": "051",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "mature luminal cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "mammary gland, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM7350644",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ML population from Patient 051"
+        }
+    },
+    "summary": "Human breast samples were obtained from eight women with pathologically normal breast tissue and from three women with BRCA2 mutations. Total RNA was extracted from sorted luminal progenitor (Lin?/CD29lo/CD24+), mature luminal (Lin?/CD29hi/CD24+), basal and stromal cell populations.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "RNA-seq expression profiling of stromal and epithelial cell subpopulations from human breast tissue"
+}

@@ -1,0 +1,2231 @@
+{
+    "GEO": "GSE161529",
+    "PMID": [
+        "33950524",
+        "35322042"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE161529",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161529/soft/GSE161529_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL18573",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "Illumina NextSeq 500 (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM4909253": {
+            "BioSample": "SAMN16809172",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809172",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "4966",
+                "parity": "nulliparous",
+                "patient": "0092",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909253",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0092"
+        },
+        "GSM4909254": {
+            "BioSample": "SAMN16809171",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809171",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "7130",
+                "parity": "nulliparous",
+                "patient": "0019",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909254",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0019"
+        },
+        "GSM4909255": {
+            "BioSample": "SAMN16809170",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809170",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "1198",
+                "parity": "nulliparous",
+                "patient": "0280",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909255",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0280"
+        },
+        "GSM4909256": {
+            "BioSample": "SAMN16809169",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809169",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "9879",
+                "parity": "nulliparous",
+                "patient": "0093",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909256",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0093"
+        },
+        "GSM4909257": {
+            "BioSample": "SAMN16809168",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809168",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "7412",
+                "parity": "nulliparous",
+                "patient": "0093",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909257",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0093"
+        },
+        "GSM4909258": {
+            "BioSample": "SAMN16809167",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809167",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "3015",
+                "parity": "nulliparous",
+                "patient": "1469",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909258",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 1469"
+        },
+        "GSM4909259": {
+            "BioSample": "SAMN16809166",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809166",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "3089",
+                "parity": "nulliparous",
+                "patient": "0408",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909259",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0408"
+        },
+        "GSM4909260": {
+            "BioSample": "SAMN16809165",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809165",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "5201",
+                "parity": "nulliparous",
+                "patient": "1105",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909260",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 1105"
+        },
+        "GSM4909261": {
+            "BioSample": "SAMN16809164",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809164",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "3443",
+                "parity": "nulliparous",
+                "patient": "0230.17",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909261",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0230.17"
+        },
+        "GSM4909262": {
+            "BioSample": "SAMN16809163",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809163",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "4785",
+                "parity": "nulliparous",
+                "patient": "0064",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909262",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0064"
+        },
+        "GSM4909263": {
+            "BioSample": "SAMN16809162",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809162",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "1678",
+                "parity": "nulliparous",
+                "patient": "0064",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909263",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0064"
+        },
+        "GSM4909264": {
+            "BioSample": "SAMN16809161",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809161",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "2157",
+                "parity": "parous",
+                "patient": "0230.16",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909264",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0230.16"
+        },
+        "GSM4909265": {
+            "BioSample": "SAMN16809158",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809158",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "5665",
+                "parity": "parous",
+                "patient": "0233",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909265",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0233"
+        },
+        "GSM4909266": {
+            "BioSample": "SAMN16809157",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809157",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "4605",
+                "parity": "parous",
+                "patient": "0169",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909266",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0169"
+        },
+        "GSM4909267": {
+            "BioSample": "SAMN16809156",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809156",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "3037",
+                "parity": "parous",
+                "patient": "0123",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909267",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0123"
+        },
+        "GSM4909268": {
+            "BioSample": "SAMN16809155",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809155",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "7371",
+                "parity": "parous",
+                "patient": "0123",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909268",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0123"
+        },
+        "GSM4909269": {
+            "BioSample": "SAMN16809154",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809154",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "post",
+                "number_of_cells": "7856",
+                "parity": "nulliparous",
+                "patient": "0342",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909269",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0342"
+        },
+        "GSM4909270": {
+            "BioSample": "SAMN16809153",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809153",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post",
+                "number_of_cells": "10178",
+                "parity": "nulliparous",
+                "patient": "0342",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909270",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0342"
+        },
+        "GSM4909271": {
+            "BioSample": "SAMN16809152",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809152",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post",
+                "number_of_cells": "2320",
+                "parity": "nulliparous",
+                "patient": "0288",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909271",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0288"
+        },
+        "GSM4909272": {
+            "BioSample": "SAMN16809151",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809151",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post (oophorectomy)",
+                "number_of_cells": "2463",
+                "parity": "parous",
+                "patient": "0021",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909272",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0021"
+        },
+        "GSM4909273": {
+            "BioSample": "SAMN16809150",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809150",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "post (hysterectomy)",
+                "number_of_cells": "6401",
+                "parity": "parous",
+                "patient": "0275",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909273",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0275"
+        },
+        "GSM4909274": {
+            "BioSample": "SAMN16809149",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809149",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post (hysterectomy)",
+                "number_of_cells": "1914",
+                "parity": "parous",
+                "patient": "0275",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909274",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0275"
+        },
+        "GSM4909275": {
+            "BioSample": "SAMN16809174",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809174",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "epithelial",
+                "gender": "female",
+                "menopause": "post",
+                "number_of_cells": "12212",
+                "parity": "parous",
+                "patient": "0372",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "epithelial cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909275",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Epithelial cells from Patient 0372"
+        },
+        "GSM4909276": {
+            "BioSample": "SAMN16809173",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809173",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "normal",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post",
+                "number_of_cells": "4825",
+                "parity": "parous",
+                "patient": "0372",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "normal total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "normal tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909276",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Normal Total cells from Patient 0372"
+        },
+        "GSM4909277": {
+            "BioSample": "SAMN16809160",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809160",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "brca1 pre-neoplastic",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "7850",
+                "parity": "nulliparous",
+                "patient": "0894",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "preneoplastic total cells",
+                "disease": "BRCA1 breast cancer",
+                "group": "patient",
+                "tissue": "preneoplastic tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909277",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BRCA1 pre-neoplastic Total cells from Patient 0894"
+        },
+        "GSM4909278": {
+            "BioSample": "SAMN16809159",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809159",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "brca1 pre-neoplastic",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "pre",
+                "number_of_cells": "6827",
+                "parity": "nulliparous",
+                "patient": "0033",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "preneoplastic total cells",
+                "disease": "BRCA1 breast cancer",
+                "group": "patient",
+                "tissue": "preneoplastic tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909278",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BRCA1 pre-neoplastic Total cells from Patient 0033"
+        },
+        "GSM4909279": {
+            "BioSample": "SAMN16809197",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809197",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "brca1 pre-neoplastic",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post (oophorectomy)",
+                "number_of_cells": "5932",
+                "parity": "parous",
+                "patient": "0023",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "preneoplastic total cells",
+                "disease": "BRCA1 breast cancer",
+                "group": "patient",
+                "tissue": "preneoplastic tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909279",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BRCA1 pre-neoplastic Total cells from Patient 0023"
+        },
+        "GSM4909280": {
+            "BioSample": "SAMN16809196",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809196",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "brca1 pre-neoplastic",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "post (oophorectomy)",
+                "number_of_cells": "5663",
+                "parity": "parous",
+                "patient": "0090",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "preneoplastic total cells",
+                "disease": "BRCA1 breast cancer",
+                "group": "patient",
+                "tissue": "preneoplastic tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909280",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "BRCA1 pre-neoplastic Total cells from Patient 0090"
+        },
+        "GSM4909281": {
+            "BioSample": "SAMN16809195",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809195",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "3666",
+                "parity": "na",
+                "patient": "0126",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909281",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative tumour Total cells from Patient 0126"
+        },
+        "GSM4909282": {
+            "BioSample": "SAMN16809194",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809194",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "15870",
+                "parity": "na",
+                "patient": "0135",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909282",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative tumour Total cells from Patient 0135"
+        },
+        "GSM4909283": {
+            "BioSample": "SAMN16809179",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809179",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "1065",
+                "parity": "na",
+                "patient": "0106",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909283",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative tumour Total cells from Patient 0106"
+        },
+        "GSM4909284": {
+            "BioSample": "SAMN16809178",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809178",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "2015",
+                "parity": "na",
+                "patient": "0114",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909284",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative tumour Total cells from Patient 0114"
+        },
+        "GSM4909285": {
+            "BioSample": "SAMN16809177",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809177",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative brca1 tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "5581",
+                "parity": "na",
+                "patient": "4031",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "BRCA1 and Triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909285",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative BRCA1 tumour Total cells from Patient 4031"
+        },
+        "GSM4909286": {
+            "BioSample": "SAMN16809176",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809176",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative brca1 tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "6456",
+                "parity": "na",
+                "patient": "0131",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "BRCA1 and Triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909286",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative BRCA1 tumour Total cells from Patient 0131"
+        },
+        "GSM4909287": {
+            "BioSample": "SAMN16809175",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809175",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative brca1 tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "9593",
+                "parity": "na",
+                "patient": "0554",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "BRCA1 and Triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909287",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative BRCA1 tumour Total cells from Patient 0554"
+        },
+        "GSM4909288": {
+            "BioSample": "SAMN16809218",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809218",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "triple negative brca1 tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "21130",
+                "parity": "na",
+                "patient": "0177",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "BRCA1 and Triple-negative breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909288",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "Triple negative BRCA1 tumour Total cells from Patient 0177"
+        },
+        "GSM4909289": {
+            "BioSample": "SAMN16809217",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809217",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "her2+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "4779",
+                "parity": "na",
+                "patient": "0308",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "HER2 breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909289",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HER2+ tumour Total cells from Patient 0308"
+        },
+        "GSM4909290": {
+            "BioSample": "SAMN16809216",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809216",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "her2+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "12288",
+                "parity": "na",
+                "patient": "0337",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "HER2 breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909290",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HER2+ tumour Total cells from Patient 0337"
+        },
+        "GSM4909291": {
+            "BioSample": "SAMN16809215",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809215",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "her2+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "4737",
+                "parity": "na",
+                "patient": "0031",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "HER2 breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909291",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HER2+ tumour Total cells from Patient 0031"
+        },
+        "GSM4909292": {
+            "BioSample": "SAMN16809214",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809214",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "her2+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "618",
+                "parity": "na",
+                "patient": "0069",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "HER2 breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909292",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HER2+ tumour Total cells from Patient 0069"
+        },
+        "GSM4909293": {
+            "BioSample": "SAMN16809213",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809213",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "her2+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "6561",
+                "parity": "na",
+                "patient": "0161",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "HER2 breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909293",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HER2+ tumour Total cells from Patient 0161"
+        },
+        "GSM4909294": {
+            "BioSample": "SAMN16809212",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809212",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "her2+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "19027",
+                "parity": "na",
+                "patient": "0176",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "HER2 breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909294",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "HER2+ tumour Total cells from Patient 0176"
+        },
+        "GSM4909295": {
+            "BioSample": "SAMN16809211",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809211",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "pr+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "3406",
+                "parity": "na",
+                "patient": "0319",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "PR breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909295",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "PR+ tumour Total cells from Patient 0319"
+        },
+        "GSM4909296": {
+            "BioSample": "SAMN16809210",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809210",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "7393",
+                "parity": "na",
+                "patient": "0001",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909296",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0001"
+        },
+        "GSM4909297": {
+            "BioSample": "SAMN16809193",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809193",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "7289",
+                "parity": "na",
+                "patient": "0125",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909297",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0125"
+        },
+        "GSM4909298": {
+            "BioSample": "SAMN16809192",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809192",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "6676",
+                "parity": "na",
+                "patient": "0360",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909298",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0360"
+        },
+        "GSM4909299": {
+            "BioSample": "SAMN16809191",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809191",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "8822",
+                "parity": "na",
+                "patient": "0114",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909299",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0114"
+        },
+        "GSM4909300": {
+            "BioSample": "SAMN16809190",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809190",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "1445",
+                "parity": "na",
+                "patient": "0032",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909300",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0032"
+        },
+        "GSM4909301": {
+            "BioSample": "SAMN16809189",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809189",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "5439",
+                "parity": "na",
+                "patient": "0042",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909301",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0042"
+        },
+        "GSM4909302": {
+            "BioSample": "SAMN16809188",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809188",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "10592",
+                "parity": "na",
+                "patient": "0025",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909302",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0025"
+        },
+        "GSM4909303": {
+            "BioSample": "SAMN16809187",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809187",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "3357",
+                "parity": "na",
+                "patient": "0151",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909303",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0151"
+        },
+        "GSM4909304": {
+            "BioSample": "SAMN16809186",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809186",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "7334",
+                "parity": "na",
+                "patient": "0163",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909304",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0163"
+        },
+        "GSM4909305": {
+            "BioSample": "SAMN16809185",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809185",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "3395",
+                "parity": "na",
+                "patient": "0029",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909305",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0029-7C"
+        },
+        "GSM4909306": {
+            "BioSample": "SAMN16809184",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809184",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "8012",
+                "parity": "na",
+                "patient": "0029",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909306",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0029-9C"
+        },
+        "GSM4909307": {
+            "BioSample": "SAMN16809183",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809183",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "6468",
+                "parity": "na",
+                "patient": "0040",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909307",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0040"
+        },
+        "GSM4909308": {
+            "BioSample": "SAMN16809182",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809182",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "6196",
+                "parity": "na",
+                "patient": "0040",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909308",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0040"
+        },
+        "GSM4909309": {
+            "BioSample": "SAMN16809181",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809181",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "5572",
+                "parity": "na",
+                "patient": "0043",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909309",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0043"
+        },
+        "GSM4909310": {
+            "BioSample": "SAMN16809180",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809180",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "912",
+                "parity": "na",
+                "patient": "0043",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909310",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0043"
+        },
+        "GSM4909311": {
+            "BioSample": "SAMN16809209",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809209",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "4140",
+                "parity": "na",
+                "patient": "0056",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909311",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0056"
+        },
+        "GSM4909312": {
+            "BioSample": "SAMN16809208",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809208",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "7241",
+                "parity": "na",
+                "patient": "0056",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909312",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0056"
+        },
+        "GSM4909313": {
+            "BioSample": "SAMN16809207",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809207",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "4037",
+                "parity": "na",
+                "patient": "0064",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909313",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0064"
+        },
+        "GSM4909314": {
+            "BioSample": "SAMN16809206",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809206",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "2411",
+                "parity": "na",
+                "patient": "0064",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909314",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0064"
+        },
+        "GSM4909315": {
+            "BioSample": "SAMN16809205",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809205",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "13848",
+                "parity": "na",
+                "patient": "0167",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909315",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0167"
+        },
+        "GSM4909316": {
+            "BioSample": "SAMN16809204",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809204",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "8422",
+                "parity": "na",
+                "patient": "0167",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909316",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0167"
+        },
+        "GSM4909317": {
+            "BioSample": "SAMN16809203",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809203",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "9872",
+                "parity": "na",
+                "patient": "0173",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909317",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0173"
+        },
+        "GSM4909318": {
+            "BioSample": "SAMN16809201",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809201",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "female",
+                "menopause": "na",
+                "number_of_cells": "3843",
+                "parity": "na",
+                "patient": "0173",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909318",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0173"
+        },
+        "GSM4909319": {
+            "BioSample": "SAMN16809200",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809200",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "male",
+                "menopause": "na",
+                "number_of_cells": "13510",
+                "parity": "na",
+                "patient": "0178",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909319",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0178"
+        },
+        "GSM4909320": {
+            "BioSample": "SAMN16809199",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809199",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "total",
+                "gender": "male",
+                "menopause": "na",
+                "number_of_cells": "1013",
+                "parity": "na",
+                "patient": "0068",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "tumor total cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909320",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Total cells from Patient 0068"
+        },
+        "GSM4909321": {
+            "BioSample": "SAMN16809198",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN16809198",
+            "Reanalyzed by": "GSE276609",
+            "SRR": {},
+            "characteristics": {
+                "cancer_type": "er+ tumour",
+                "cell_population": "involved lymph node",
+                "gender": "male",
+                "menopause": "na",
+                "number_of_cells": "4854",
+                "parity": "na",
+                "patient": "0068",
+                "tissue": "mammary gland"
+            },
+            "labels": {
+                "cell_type": "lymph-node cells",
+                "disease": "ER breast cancer",
+                "group": "patient",
+                "tissue": "tumor tissue, breast"
+            },
+            "protocol": [
+                "scrna-seq",
+                "10x3"
+            ],
+            "sample_id": "GSM4909321",
+            "sample_source": [
+                "Mammary gland"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "ER+ tumour Lymph-node cells from Patient 0068"
+        }
+    },
+    "summary": "This study presents a single cell transcriptome map of nearly 430,000 cells encompassing normal breast at different hormonal stages, preneoplastic BRCA1+/- tissue, the major clinical subtypes of breast cancer, and matching pairs of tumors and involved axillary lymph nodes. Comparison of normal tissue specimens according to menopausal status primarily revealed changes in the stroma. Although there were modest changes in the microenvironment of preneoplastic BRCA1+/- versus normal tissue, a profound increase in infiltrating immune cells and a concomitant decrease in fibroblasts accompanied the transition to neoplasia. Single cell profiling of 32 tumors representing treatment-naive ER+, HER2+, triple negative (TN) breast cancers revealed equivalent diversity between tumor cells across the subtypes, each comprising a broad cluster and a prominent subset of cycling cells. In the immune landscape of tumors, highly proliferative T cells characterize TN and HER2+ tumors, whereas cycling tumor-associated macrophages featured in ER+ tumors. Copy number variant and scRNA-seq analysis of paired ER+ tumors and lymph node (LN) samples revealed either collective migration of primary tumor cells into LNs or seeding by genetically distinct clones. This large-scale integration of patient samples provides a high resolution map of cell diversity for normal and cancerous human breast.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "scRNA-seq profiling of breast cancer tumors, BRCA1 mutant pre-neoplastic mammary gland cells and normal mammary gland cells"
+}

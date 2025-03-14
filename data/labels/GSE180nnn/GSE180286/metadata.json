@@ -1,0 +1,563 @@
+{
+    "GEO": "GSE180286",
+    "PMID": [
+        "34611125",
+        "36148946"
+    ],
+    "geo_http": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180286",
+    "local_soft_file": "/home/yuan/data/ftp.ncbi.nlm.nih.gov/geo/series/GSE180nnn/GSE180286/soft/GSE180286_family.soft.gz",
+    "platform": [
+        {
+            "platform_id": "GPL20795",
+            "platform_technology": "high-throughput sequencing",
+            "platform_title": "HiSeq X Ten (Homo sapiens)"
+        }
+    ],
+    "samples": {
+        "GSM5457199": {
+            "BioSample": "SAMN20292448",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292448",
+            "SRA": "SRX11487344",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487344",
+            "SRR": {
+                "SRR15180327": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180327_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180327_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Patient 1-Sample 1 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "tnbc",
+                "patient_id": "1",
+                "tissue": "primary breast cancer",
+                "tnm_stage": "t2n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457199",
+            "sample_source": [
+                "primary breast cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P1-primary breast cancer-scRNA"
+        },
+        "GSM5457200": {
+            "BioSample": "SAMN20292447",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292447",
+            "SRA": "SRX11487345",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487345",
+            "SRR": {
+                "SRR15180328": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180328_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180328_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Patient 1-Sample 2 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "tnbc",
+                "patient_id": "1",
+                "tissue": "lymph node",
+                "tnm_stage": "t2n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457200",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P1-lymph node 1-scRNA"
+        },
+        "GSM5457201": {
+            "BioSample": "SAMN20292446",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292446",
+            "SRA": "SRX11487346",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487346",
+            "SRR": {
+                "SRR15180329": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180329_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180329_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Patient 1-Sample 3 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "tnbc",
+                "patient_id": "1",
+                "tissue": "lymph node",
+                "tnm_stage": "t2n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457201",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P1-lymph node 2-scRNA"
+        },
+        "GSM5457202": {
+            "BioSample": "SAMN20292445",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292445",
+            "SRA": "SRX11487347",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487347",
+            "SRR": {
+                "SRR15180330": {}
+            },
+            "Sample_description": "Patient 2-Sample 4 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "luminal b",
+                "patient_id": "2",
+                "tissue": "primary breast cancer",
+                "tnm_stage": "t3n2m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457202",
+            "sample_source": [
+                "primary breast cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P2-primary breast cancer-scRNA"
+        },
+        "GSM5457203": {
+            "BioSample": "SAMN20292444",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292444",
+            "SRA": "SRX11487348",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487348",
+            "SRR": {
+                "SRR15180331": {}
+            },
+            "Sample_description": "Patient 2-Sample 5 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "luminal b",
+                "patient_id": "2",
+                "tissue": "lymph node",
+                "tnm_stage": "t3n2m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457203",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P2-lymph node 1-scRNA"
+        },
+        "GSM5457204": {
+            "BioSample": "SAMN20292443",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292443",
+            "SRA": "SRX11487349",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487349",
+            "SRR": {
+                "SRR15180332": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180332_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180332_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Patient 2-Sample 6 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "luminal b",
+                "patient_id": "2",
+                "tissue": "lymph node",
+                "tnm_stage": "t3n2m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457204",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P2-lymph node 2-scRNA"
+        },
+        "GSM5457205": {
+            "BioSample": "SAMN20292442",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292442",
+            "SRA": "SRX11487350",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487350",
+            "SRR": {
+                "SRR15180333": {}
+            },
+            "Sample_description": "Patient 3-Sample 7 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "her-2",
+                "patient_id": "3",
+                "tissue": "primary breast cancer",
+                "tnm_stage": "t1n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457205",
+            "sample_source": [
+                "primary breast cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P3-primary breast cancer-scRNA"
+        },
+        "GSM5457206": {
+            "BioSample": "SAMN20292441",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292441",
+            "SRA": "SRX11487351",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487351",
+            "SRR": {
+                "SRR15180334": {}
+            },
+            "Sample_description": "Patient 3-Sample 8 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "her-2",
+                "patient_id": "3",
+                "tissue": "lymph node",
+                "tnm_stage": "t1n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457206",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P3-lymph node 1-scRNA"
+        },
+        "GSM5457207": {
+            "BioSample": "SAMN20292440",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292440",
+            "SRA": "SRX11487352",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487352",
+            "SRR": {
+                "SRR15180335": {}
+            },
+            "Sample_description": "Patient 3-Sample 9 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "her-2",
+                "patient_id": "3",
+                "tissue": "lymph node",
+                "tnm_stage": "t1n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457207",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P3-lymph node 2-scRNA"
+        },
+        "GSM5457208": {
+            "BioSample": "SAMN20292439",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292439",
+            "SRA": "SRX11487353",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487353",
+            "SRR": {
+                "SRR15180336": {}
+            },
+            "Sample_description": "Patient 4-Sample 10 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "tnbc",
+                "patient_id": "4",
+                "tissue": "primary breast cancer",
+                "tnm_stage": "t2n2m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457208",
+            "sample_source": [
+                "primary breast cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P4-primary breast cancer-scRNA"
+        },
+        "GSM5457209": {
+            "BioSample": "SAMN20292438",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292438",
+            "SRA": "SRX11487354",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487354",
+            "SRR": {
+                "SRR15180322": {}
+            },
+            "Sample_description": "Patient 4-Sample 11 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "tnbc",
+                "patient_id": "4",
+                "tissue": "lymph node",
+                "tnm_stage": "t2n2m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457209",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P4-lymph node 1-scRNA"
+        },
+        "GSM5457210": {
+            "BioSample": "SAMN20292437",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292437",
+            "SRA": "SRX11487355",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487355",
+            "SRR": {
+                "SRR15180323": {}
+            },
+            "Sample_description": "Patient 4-Sample 12 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "tnbc",
+                "patient_id": "4",
+                "tissue": "lymph node",
+                "tnm_stage": "t2n2m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457210",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P4-lymph node 2-scRNA"
+        },
+        "GSM5457211": {
+            "BioSample": "SAMN20292436",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292436",
+            "SRA": "SRX11487356",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487356",
+            "SRR": {
+                "SRR15180324": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180324_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180324_1.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Patient 5-Sample 13 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "her-2",
+                "patient_id": "5",
+                "tissue": "primary breast cancer",
+                "tnm_stage": "t2n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "breast, tumor",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457211",
+            "sample_source": [
+                "primary breast cancer"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P5-primary breast cancer-scRNA"
+        },
+        "GSM5457212": {
+            "BioSample": "SAMN20292435",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292435",
+            "SRA": "SRX11487357",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487357",
+            "SRR": {
+                "SRR15180325": {}
+            },
+            "Sample_description": "Patient 5-Sample 14 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "her-2",
+                "patient_id": "5",
+                "tissue": "lymph node",
+                "tnm_stage": "t2n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457212",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P5-lymph node 1-scRNA"
+        },
+        "GSM5457213": {
+            "BioSample": "SAMN20292434",
+            "BioSample_url": "https://www.ncbi.nlm.nih.gov/biosample/SAMN20292434",
+            "SRA": "SRX11487358",
+            "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487358",
+            "SRR": {
+                "SRR15180326": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180326_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180326_2.fastq.gz"
+                    ]
+                }
+            },
+            "Sample_description": "Patient 5-Sample 15 scRNA-seq",
+            "characteristics": {
+                "molecular_typing": "her-2",
+                "patient_id": "5",
+                "tissue": "lymph node",
+                "tnm_stage": "t2n1m0",
+                "treatment": "untreated"
+            },
+            "labels": {
+                "disease": "breast cancer",
+                "group": "patient",
+                "tissue": "lymph node, breast",
+                "treatment": "untreated"
+            },
+            "protocol": [
+                "scrna-seq",
+                "paired-end",
+                "gexscope single cell rna library kit"
+            ],
+            "sample_id": "GSM5457213",
+            "sample_source": [
+                "lymph node"
+            ],
+            "sample_taxid": "9606",
+            "sample_title": "P5-lymph node 2-scRNA"
+        }
+    },
+    "summary": "To obtain more information about the lymph node metastasis of breast cancer cells, we selected the matched primary breast cancer (PC) and 2 lymph nodes (LN) of 5 patients to perform integrated analysis. The PC, LN samples were analysed with single-cell RNA sequencing.",
+    "taxid": [
+        "9606"
+    ],
+    "title": "Single-cell RNA sequencing reveals the mechanism of human breast cancer metastasis"
+}

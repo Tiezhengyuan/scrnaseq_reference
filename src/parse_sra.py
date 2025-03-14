@@ -85,7 +85,7 @@ class ParseSra:
                 for srr_acc in values:
                     if srr_acc not in sample['SRR']:
                         sample['SRR'][srr_acc] = {}
-            n += len(sample['SRR'])
+            n += len(sample.get('SRR', []))
             m += 1
         print(f"biosamples = {m}, SRR accessions = {n}.")
         return enriched_data
@@ -184,7 +184,7 @@ class ParseSra:
             stat['srr'] += 1
             for srr_acc in sample.get('SRR', {}):
                 if key not in sample['SRR'][srr_acc]:
-                    if srr_acc in urls[geo]:
+                    if srr_acc in urls.get(geo, ''):
                         sample['SRR'][srr_acc][key] = urls[geo][srr_acc]
                         stat['updated'] += 1
                 if key in sample['SRR'][srr_acc]:
