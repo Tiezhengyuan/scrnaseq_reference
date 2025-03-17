@@ -81,6 +81,23 @@ class CreateConfig:
         ]
         bash_file = self.to_text(cmd, 'fetch2.sh')
 
+    def fetch_ebi_srr_verify(self, sample_iter):
+        '''
+        run wget directly instead of nextflow script for verification
+        '''
+        cmd_pool = []
+        outdir = os.path.join(self.outdir, 'fastq')
+        for sample in sample_iter:
+            for srr_acc in sample.get('SRR', {}):
+                keys = Slicer.SRR(srr_acc)
+                url = 'ftp://ftp.sra.ebi.ac.uk/vol1/fastq/' + '/'.join(keys)
+                cmd = f"wget -c -r -v -np -nd {url} -P {outdir} || true"
+                cmd_pool.append(cmd)
+        print('Number of SRR: ', len(cmd_pool))
+        # bash file
+        bash_file = self.to_text(cmd_pool, 'fetch2_wget.sh')
+
+
     def fetch_srr(self, sample_iter):
         '''
         srr_ids.csv for nextflow download using fastq-dump
@@ -109,5 +126,5 @@ class CreateConfig:
         with open(outfile, 'w') as f:
             f.write('\n'.join(cmd))
         if file_name.endswith('.sh'):
-            print(f"{cmd[0]} && bash {file_name}")
+            print(f"cd {self.outdir} && bash {file_name}")
         return outfile

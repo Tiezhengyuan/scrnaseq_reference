@@ -1,6 +1,6 @@
 # scrnaseq_reference
 This study builds reference data sets based on GEO public ssRNA-seq data, and create a model for cell type annotations from normal tissue, tumor tissue, biopsy or cell lines of
-lung or breast disease.
+lung disease, or breast cancer.
 
 
 ## introduction
@@ -54,8 +54,7 @@ params {
 	genome = "GRCh38"
 	fasta = "~/results/references/Homo_sapiens/NCBI/GRCh38/Sequence/WholeGenomeFasta/genome.fa"
 	gtf = "~/results/references/Homo_sapiens/NCBI/GRCh38/Annotation/Genes/genes.gtf"
-	skip_multiqc = true
-	skip_fastqc = true
+	skip_emptydrops = true
 }
 
 
@@ -82,10 +81,17 @@ executor {
 - cell lines of lung cancer; "GSE121309", "GSE286399"
 - healthy lung tissue: "GSE135893", "GSE136831", "GSE164829"
 - lung disease: "GSE135893", "GSE136831", "GSE145926", "GSE166037"
-- breast cancer: GSE168410, GSE180286, GSE190202
+- breast cancer: xxx
 
 Note:
- - the number of 28 datasets related to lung disease are found, of which
-	their raw data are not released, or raw data are incomplete.
- - the number of 6 datasets related to breast cancer are found, of which
-	their raw data are not released.
+- the number of 28 datasets related to lung disease are unavailable.
+- the number of 9 datasets related to breast cancer are unavailable.
+
+
+Reasons of failure of scRNA-seq data analysis:
+- Raw data are not released by the authors till now.
+- Technical reads are missing. there are only biological reads.
+- There are no index codes for spatial transcriptomics seq data. there are only biological reads.
+- Can't label data because Annotations in some fields in GEO are confusing.
+- Some records in fastq.gz files are incorrect. Such samples have to be deprecated.
+ 

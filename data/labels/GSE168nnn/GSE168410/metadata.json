@@ -60,7 +60,12 @@
             "SRA": "SRX10254119",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254119",
             "SRR": {
-                "SRR13873711": {}
+                "SRR13873711": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873711_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873711_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -96,7 +101,12 @@
             "SRA": "SRX10254120",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254120",
             "SRR": {
-                "SRR13873712": {}
+                "SRR13873712": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873712_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873712_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -173,7 +183,12 @@
             "SRA": "SRX10254122",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254122",
             "SRR": {
-                "SRR13873714": {}
+                "SRR13873714": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873714_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873714_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -209,7 +224,12 @@
             "SRA": "SRX10254123",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254123",
             "SRR": {
-                "SRR13873715": {}
+                "SRR13873715": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873715_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873715_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -245,7 +265,12 @@
             "SRA": "SRX10254124",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254124",
             "SRR": {
-                "SRR13873716": {}
+                "SRR13873716": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873716_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873716_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -321,7 +346,12 @@
             "SRA": "SRX10254134",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254134",
             "SRR": {
-                "SRR13873718": {}
+                "SRR13873718": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873718_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873718_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -396,7 +426,12 @@
             "SRA": "SRX10254136",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254136",
             "SRR": {
-                "SRR13873720": {}
+                "SRR13873720": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873720_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873720_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -471,7 +506,12 @@
             "SRA": "SRX10254138",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254138",
             "SRR": {
-                "SRR13873722": {}
+                "SRR13873722": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873722_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873722_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -506,7 +546,12 @@
             "SRA": "SRX10254139",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254139",
             "SRR": {
-                "SRR13873723": {}
+                "SRR13873723": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873723_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873723_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -541,7 +586,12 @@
             "SRA": "SRX10254140",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254140",
             "SRR": {
-                "SRR13873724": {}
+                "SRR13873724": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873724_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873724_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -577,7 +627,12 @@
             "SRA": "SRX10254141",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254141",
             "SRR": {
-                "SRR13873725": {}
+                "SRR13873725": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873725_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873725_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -613,7 +668,12 @@
             "SRA": "SRX10254149",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254149",
             "SRR": {
-                "SRR13873726": {}
+                "SRR13873726": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873726_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873726_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -689,7 +749,12 @@
             "SRA": "SRX10254151",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254151",
             "SRR": {
-                "SRR13873728": {}
+                "SRR13873728": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873728_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873728_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -724,7 +789,12 @@
             "SRA": "SRX10254152",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254152",
             "SRR": {
-                "SRR13873729": {}
+                "SRR13873729": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873729_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873729_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -759,7 +829,12 @@
             "SRA": "SRX10254153",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254153",
             "SRR": {
-                "SRR13873730": {}
+                "SRR13873730": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873730_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873730_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -795,7 +870,12 @@
             "SRA": "SRX10254154",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254154",
             "SRR": {
-                "SRR13873731": {}
+                "SRR13873731": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873731_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873731_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -831,7 +911,12 @@
             "SRA": "SRX10254155",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254155",
             "SRR": {
-                "SRR13873732": {}
+                "SRR13873732": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873732_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873732_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -867,7 +952,12 @@
             "SRA": "SRX10254156",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254156",
             "SRR": {
-                "SRR13873733": {}
+                "SRR13873733": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873733_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873733_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1022,7 +1112,12 @@
             "SRA": "SRX10254160",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254160",
             "SRR": {
-                "SRR13873737": {}
+                "SRR13873737": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873737_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873737_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1097,7 +1192,12 @@
             "SRA": "SRX10254162",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254162",
             "SRR": {
-                "SRR13873739": {}
+                "SRR13873739": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873739_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873739_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1132,7 +1232,12 @@
             "SRA": "SRX10254163",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254163",
             "SRR": {
-                "SRR13873740": {}
+                "SRR13873740": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873740_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873740_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1168,7 +1273,12 @@
             "SRA": "SRX10254164",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254164",
             "SRR": {
-                "SRR13873741": {}
+                "SRR13873741": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873741_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873741_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1204,7 +1314,12 @@
             "SRA": "SRX10254126",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254126",
             "SRR": {
-                "SRR13873742": {}
+                "SRR13873742": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873742_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873742_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1281,7 +1396,12 @@
             "SRA": "SRX10254128",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254128",
             "SRR": {
-                "SRR13873744": {}
+                "SRR13873744": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873744_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873744_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1316,7 +1436,12 @@
             "SRA": "SRX10254129",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254129",
             "SRR": {
-                "SRR13873745": {}
+                "SRR13873745": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873745_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873745_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1351,7 +1476,12 @@
             "SRA": "SRX10254130",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254130",
             "SRR": {
-                "SRR13873746": {}
+                "SRR13873746": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873746_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873746_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1426,7 +1556,12 @@
             "SRA": "SRX10254132",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254132",
             "SRR": {
-                "SRR13873748": {}
+                "SRR13873748": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873748_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873748_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1461,7 +1596,12 @@
             "SRA": "SRX10254133",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254133",
             "SRR": {
-                "SRR13873749": {}
+                "SRR13873749": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873749_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873749_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {
@@ -1743,7 +1883,12 @@
             "SRA": "SRX10254148",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX10254148",
             "SRR": {
-                "SRR13873756": {}
+                "SRR13873756": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873756_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE168410/fastq/SRR13873756_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "single cell RNA seq data",
             "characteristics": {

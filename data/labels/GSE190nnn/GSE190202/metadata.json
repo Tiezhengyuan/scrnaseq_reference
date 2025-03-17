@@ -19,7 +19,12 @@
             "SRA": "SRX13318876",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318876",
             "SRR": {
-                "SRR17134446": {}
+                "SRR17134446": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318876_SRR17134446_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318876_SRR17134446_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -50,7 +55,12 @@
             "SRA": "SRX13318877",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318877",
             "SRR": {
-                "SRR17134445": {}
+                "SRR17134445": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318877_SRR17134445_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318877_SRR17134445_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -81,7 +91,12 @@
             "SRA": "SRX13318878",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318878",
             "SRR": {
-                "SRR17134444": {}
+                "SRR17134444": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318878_SRR17134444_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318878_SRR17134444_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -111,7 +126,12 @@
             "SRA": "SRX13318879",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318879",
             "SRR": {
-                "SRR17134443": {}
+                "SRR17134443": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318879_SRR17134443_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318879_SRR17134443_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -141,7 +161,12 @@
             "SRA": "SRX13318880",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318880",
             "SRR": {
-                "SRR17134442": {}
+                "SRR17134442": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318880_SRR17134442_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318880_SRR17134442_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -171,7 +196,12 @@
             "SRA": "SRX13318881",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318881",
             "SRR": {
-                "SRR17134441": {}
+                "SRR17134441": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318881_SRR17134441_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318881_SRR17134441_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -201,7 +231,12 @@
             "SRA": "SRX13318882",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318882",
             "SRR": {
-                "SRR17134440": {}
+                "SRR17134440": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318882_SRR17134440_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318882_SRR17134440_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -232,7 +267,12 @@
             "SRA": "SRX13318883",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318883",
             "SRR": {
-                "SRR17134439": {}
+                "SRR17134439": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318883_SRR17134439_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318883_SRR17134439_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -262,7 +302,12 @@
             "SRA": "SRX13318884",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318884",
             "SRR": {
-                "SRR17134438": {}
+                "SRR17134438": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318884_SRR17134438_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318884_SRR17134438_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -293,7 +338,12 @@
             "SRA": "SRX13318885",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318885",
             "SRR": {
-                "SRR17134437": {}
+                "SRR17134437": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318885_SRR17134437_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318885_SRR17134437_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -324,7 +374,12 @@
             "SRA": "SRX13318886",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318886",
             "SRR": {
-                "SRR17134436": {}
+                "SRR17134436": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318886_SRR17134436_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318886_SRR17134436_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -355,7 +410,12 @@
             "SRA": "SRX13318887",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318887",
             "SRR": {
-                "SRR17134435": {}
+                "SRR17134435": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318887_SRR17134435_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318887_SRR17134435_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -385,7 +445,12 @@
             "SRA": "SRX13318888",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318888",
             "SRR": {
-                "SRR17134434": {}
+                "SRR17134434": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318888_SRR17134434_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318888_SRR17134434_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -415,7 +480,12 @@
             "SRA": "SRX13318889",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318889",
             "SRR": {
-                "SRR17134433": {}
+                "SRR17134433": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318889_SRR17134433_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318889_SRR17134433_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -446,7 +516,12 @@
             "SRA": "SRX13318890",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318890",
             "SRR": {
-                "SRR17134432": {}
+                "SRR17134432": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318890_SRR17134432_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318890_SRR17134432_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -477,7 +552,12 @@
             "SRA": "SRX13318891",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318891",
             "SRR": {
-                "SRR17134431": {}
+                "SRR17134431": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318891_SRR17134431_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318891_SRR17134431_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -508,7 +588,12 @@
             "SRA": "SRX13318892",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318892",
             "SRR": {
-                "SRR17134430": {}
+                "SRR17134430": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318892_SRR17134430_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318892_SRR17134430_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -538,7 +623,12 @@
             "SRA": "SRX13318893",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318893",
             "SRR": {
-                "SRR17134429": {}
+                "SRR17134429": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318893_SRR17134429_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318893_SRR17134429_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {
@@ -569,7 +659,12 @@
             "SRA": "SRX13318894",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX13318894",
             "SRR": {
-                "SRR17134428": {}
+                "SRR17134428": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318894_SRR17134428_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE190202/fastq/SRX13318894_SRR17134428_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "BD Precise Platform",
             "characteristics": {

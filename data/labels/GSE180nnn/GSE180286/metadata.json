@@ -244,7 +244,12 @@
             "SRA": "SRX11487350",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487350",
             "SRR": {
-                "SRR15180333": {}
+                "SRR15180333": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180333_2.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180333_1.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "Patient 3-Sample 7 scRNA-seq",
             "characteristics": {
@@ -278,7 +283,12 @@
             "SRA": "SRX11487351",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487351",
             "SRR": {
-                "SRR15180334": {}
+                "SRR15180334": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180334_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180334_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "Patient 3-Sample 8 scRNA-seq",
             "characteristics": {
@@ -380,7 +390,12 @@
             "SRA": "SRX11487354",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487354",
             "SRR": {
-                "SRR15180322": {}
+                "SRR15180322": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180322_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180322_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "Patient 4-Sample 11 scRNA-seq",
             "characteristics": {
@@ -487,7 +502,12 @@
             "SRA": "SRX11487357",
             "SRA_url": "https://www.ncbi.nlm.nih.gov/sra?term=SRX11487357",
             "SRR": {
-                "SRR15180325": {}
+                "SRR15180325": {
+                    "local_fastq": [
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180325_1.fastq.gz",
+                        "/home/yuan/rawdata/SRR/GSE180286/fastq/SRR15180325_2.fastq.gz"
+                    ]
+                }
             },
             "Sample_description": "Patient 5-Sample 14 scRNA-seq",
             "characteristics": {
